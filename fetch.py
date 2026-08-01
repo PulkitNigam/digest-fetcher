@@ -107,6 +107,24 @@ os.makedirs("data", exist_ok=True)
 for name in ("latest.json", f"{datetime.date.today().isoformat()}.json"):
     with open(f"data/{name}", "w", encoding="utf-8") as fh:
         json.dump(OUT, fh, indent=1, ensure_ascii=False)
+
+# summary.json — tiny manifest the consumer fetches FIRST (staleness check +
+# full error list + headline index), immune to size-limit truncation
+SUM = {"generated_utc": OUT["generated_utc"],
+  "counts": {"youtube": len(OUT["youtube"]), "rss": len(OUT["rss"]),
+             "reddit": len(OUT["reddit"]), "hackernews": len(OUT["hackernews"]),
+             "github": len(OUT["github"]), "quotes": len(OUT["quotes"])},
+  "fx": OUT["fx"].get("rates", {}),
+  "alive_rss": sorted(OUT["rss"].keys()),
+  "alive_reddit": sorted(OUT["reddit"].keys()),
+  "headlines": {k: [i["title"] for i in v["items"][:6]] for k, v in OUT["rss"].items()},
+  "youtube_latest": {k: (v[0]["title"] if v else None) for k, v in OUT["youtube"].items()},
+  "hn_top": [{"t": h["title"], "s": h["score"], "c": h["controversy"]} for h in OUT["hackernews"][:15]],
+  "github_top": [{"n": g["name"], "s": g["stars"]} for g in OUT["github"][:10]],
+  "quotes": OUT["quotes"],
+  "errors": OUT["errors"]}
+with open("data/summary.json", "w", encoding="utf-8") as fh:
+    json.dump(SUM, fh, indent=1, ensure_ascii=False)
 open("data/.keepalive","w").write(OUT["generated_utc"])   # prevents 60-day workflow auto-disable
 
 ok = sum(len(v) if isinstance(v,(list,dict)) else 0 for k,v in OUT.items() if k not in("errors","generated_utc"))
