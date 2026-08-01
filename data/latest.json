@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-01T20:26:47.192103Z",
+ "generated_utc": "2026-08-01T20:31:51.529197Z",
  "youtube": {
   "Veritasium": [
    {
@@ -139,7 +139,7 @@
  },
  "rss": {
   "BBC World": {
-   "updated": "Sat, 01 Aug 2026 20:26:41 GMT",
+   "updated": "Sat, 01 Aug 2026 20:31:36 GMT",
    "items": [
     {
      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -190,6 +190,12 @@
      "published": "Sat, 01 Aug 2026 20:20:44 GMT"
     },
     {
+     "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+     "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+     "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 01 Aug 2026 13:35:39 GMT"
+    },
+    {
      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
@@ -206,17 +212,11 @@
      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
      "published": "Sat, 01 Aug 2026 17:16:51 GMT"
-    },
-    {
-     "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-     "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-     "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-     "published": "Fri, 31 Jul 2026 05:21:18 GMT"
     }
    ]
   },
   "BBC Business": {
-   "updated": "Sat, 01 Aug 2026 20:26:45 GMT",
+   "updated": "Sat, 01 Aug 2026 20:31:43 GMT",
    "items": [
     {
      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
@@ -293,7 +293,7 @@
    ]
   },
   "BBC Technology": {
-   "updated": "Sat, 01 Aug 2026 20:26:41 GMT",
+   "updated": "Sat, 01 Aug 2026 20:31:48 GMT",
    "items": [
     {
      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
@@ -370,8 +370,14 @@
    ]
   },
   "Al Jazeera": {
-   "updated": "Sat, 01 Aug 2026 20:02:17 +0000",
+   "updated": "Sat, 01 Aug 2026 20:24:19 +0000",
    "items": [
+    {
+     "title": "Greece battles raging wildfires as flames appear to ease in France",
+     "summary": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+     "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+     "published": "Sat, 01 Aug 2026 20:24:19 +0000"
+    },
     {
      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
      "summary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
@@ -437,17 +443,11 @@
      "summary": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.",
      "url": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
      "published": "Sat, 01 Aug 2026 16:15:24 +0000"
-    },
-    {
-     "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-     "summary": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
-     "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
-     "published": "Sat, 01 Aug 2026 16:07:10 +0000"
     }
    ]
   },
   "The Guardian": {
-   "updated": "2026-08-01T20:16:02Z",
+   "updated": "2026-08-01T20:31:02Z",
    "items": [
     {
      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
@@ -524,7 +524,7 @@
    ]
   },
   "NPR": {
-   "updated": "Sat, 01 Aug 2026 16:21:06 -0400",
+   "updated": "Sat, 01 Aug 2026 16:25:39 -0400",
    "items": [
     {
      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
@@ -575,15 +575,15 @@
      "published": "Sat, 01 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-     "summary": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.",
-     "url": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
-     "published": "Sat, 01 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
      "summary": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
      "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+     "published": "Sat, 01 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+     "summary": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military.",
+     "url": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
      "published": "Sat, 01 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -743,7 +743,7 @@
    ]
   },
   "Deutsche Welle": {
-   "updated": "2026-08-01T20:26:03Z",
+   "updated": "2026-08-01T20:31:06Z",
    "items": [
     {
      "title": "How does eastern Europe commemorate the Roma Holocaust?",
@@ -1039,7 +1039,7 @@
    ]
   },
   "TechCrunch": {
-   "updated": "Sat, 01 Aug 2026 20:26:10 +0000",
+   "updated": "Sat, 01 Aug 2026 20:29:57 +0000",
    "items": [
     {
      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -1477,7 +1477,7 @@
    ]
   },
   "Latent Space": {
-   "updated": "Sat, 01 Aug 2026 20:10:03 GMT",
+   "updated": "Sat, 01 Aug 2026 20:22:02 GMT",
    "items": [
     {
      "title": "[AINews] not much happened today",
@@ -1631,7 +1631,7 @@
    ]
   },
   "AI Snake Oil": {
-   "updated": "Sat, 01 Aug 2026 19:28:59 GMT",
+   "updated": "Sat, 01 Aug 2026 20:29:01 GMT",
    "items": [
     {
      "title": "What will be left for us to work on?",
@@ -2317,39 +2317,39 @@
   {
    "title": "Google News is just Forrest Gump's shrimp boat now",
    "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-   "score": 79,
-   "comments": 45,
+   "score": 101,
+   "comments": 57,
    "hn_url": "https://news.ycombinator.com/item?id=49137681",
-   "controversy": 0.57
-  },
-  {
-   "title": "Postmortem for Kernel Soundness Bug #14576",
-   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-   "score": 63,
-   "comments": 25,
-   "hn_url": "https://news.ycombinator.com/item?id=49137060",
-   "controversy": 0.4
+   "controversy": 0.56
   },
   {
    "title": "How Google helped destroy adoption of RSS feeds (2023)",
    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-   "score": 33,
-   "comments": 7,
+   "score": 44,
+   "comments": 9,
    "hn_url": "https://news.ycombinator.com/item?id=49136821",
-   "controversy": 0.21
+   "controversy": 0.2
+  },
+  {
+   "title": "Postmortem for Kernel Soundness Bug #14576",
+   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+   "score": 65,
+   "comments": 27,
+   "hn_url": "https://news.ycombinator.com/item?id=49137060",
+   "controversy": 0.42
   },
   {
    "title": "The Art of 64-bit Assembly",
    "url": "https://nostarch.com/art-64-bit-assembly-v2",
-   "score": 133,
+   "score": 137,
    "comments": 66,
    "hn_url": "https://news.ycombinator.com/item?id=49134599",
-   "controversy": 0.5
+   "controversy": 0.48
   },
   {
    "title": "But can your calculator run Linux?",
    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-   "score": 9,
+   "score": 10,
    "comments": 0,
    "hn_url": "https://news.ycombinator.com/item?id=49137713",
    "controversy": 0.0
@@ -2358,14 +2358,14 @@
    "title": "NetBSD 11.0",
    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
    "score": 119,
-   "comments": 30,
+   "comments": 32,
    "hn_url": "https://news.ycombinator.com/item?id=49136736",
-   "controversy": 0.25
+   "controversy": 0.27
   },
   {
    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
    "url": "https://kaisel.dev/",
-   "score": 36,
+   "score": 38,
    "comments": 4,
    "hn_url": "https://news.ycombinator.com/item?id=49135985",
    "controversy": 0.11
@@ -2373,8 +2373,8 @@
   {
    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-   "score": 217,
-   "comments": 148,
+   "score": 219,
+   "comments": 149,
    "hn_url": "https://news.ycombinator.com/item?id=49133889",
    "controversy": 0.68
   },
@@ -2405,10 +2405,10 @@
   {
    "title": "Cursor removed cost information from the usage page and CSV export",
    "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-   "score": 234,
+   "score": 236,
    "comments": 102,
    "hn_url": "https://news.ycombinator.com/item?id=49135257",
-   "controversy": 0.44
+   "controversy": 0.43
   },
   {
    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
@@ -2419,9 +2419,17 @@
    "controversy": 0.58
   },
   {
+   "title": "Just because a game is on disc doesn't mean it will work in the future",
+   "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+   "score": 10,
+   "comments": 1,
+   "hn_url": "https://news.ycombinator.com/item?id=49120230",
+   "controversy": 0.1
+  },
+  {
    "title": "CISA Alert: Water Sector PLC Targeting",
    "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-   "score": 5,
+   "score": 6,
    "comments": 0,
    "hn_url": "https://news.ycombinator.com/item?id=49137228",
    "controversy": 0.0
@@ -2438,9 +2446,9 @@
    "title": "Linux on ESP32",
    "url": "https://github.com/GrieferPig/esp32-s31-linux",
    "score": 71,
-   "comments": 26,
+   "comments": 27,
    "hn_url": "https://news.ycombinator.com/item?id=49087499",
-   "controversy": 0.37
+   "controversy": 0.38
   },
   {
    "title": "Register deprivation: spills and runtime under forced register scarcity",
@@ -2453,18 +2461,10 @@
   {
    "title": "Flint: A Visualization Language for the AI Era",
    "url": "https://microsoft.github.io/flint-chart/",
-   "score": 234,
+   "score": 235,
    "comments": 65,
    "hn_url": "https://news.ycombinator.com/item?id=49130604",
    "controversy": 0.28
-  },
-  {
-   "title": "A directory of people who love RSS",
-   "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-   "score": 135,
-   "comments": 76,
-   "hn_url": "https://news.ycombinator.com/item?id=49136063",
-   "controversy": 0.56
   },
   {
    "title": "Kontigo (YC S24) Is Hiring",
@@ -2473,6 +2473,22 @@
    "comments": 0,
    "hn_url": "https://news.ycombinator.com/item?id=49133655",
    "controversy": 0.0
+  },
+  {
+   "title": "Manual: •.,:;…!?·",
+   "url": "https://type.today/en/journal/dots",
+   "score": 100,
+   "comments": 19,
+   "hn_url": "https://news.ycombinator.com/item?id=49105013",
+   "controversy": 0.19
+  },
+  {
+   "title": "A directory of people who love RSS",
+   "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+   "score": 135,
+   "comments": 77,
+   "hn_url": "https://news.ycombinator.com/item?id=49136063",
+   "controversy": 0.57
   },
   {
    "title": "Glyphs 4 – the leading Mac font editor",
@@ -2486,17 +2502,9 @@
    "title": "RamenHaus",
    "url": "https://ramen.haus/",
    "score": 192,
-   "comments": 93,
+   "comments": 94,
    "hn_url": "https://news.ycombinator.com/item?id=49132460",
-   "controversy": 0.48
-  },
-  {
-   "title": "Manual: •.,:;…!?·",
-   "url": "https://type.today/en/journal/dots",
-   "score": 99,
-   "comments": 19,
-   "hn_url": "https://news.ycombinator.com/item?id=49105013",
-   "controversy": 0.19
+   "controversy": 0.49
   },
   {
    "title": "qm – Multiplayer agent harness for work",
@@ -2505,17 +2513,170 @@
    "comments": 151,
    "hn_url": "https://news.ycombinator.com/item?id=49126604",
    "controversy": 0.23
-  },
-  {
-   "title": "Solid Queue 1.6.0 now supports fiber workers",
-   "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-   "score": 86,
-   "comments": 34,
-   "hn_url": "https://news.ycombinator.com/item?id=49132083",
-   "controversy": 0.4
   }
  ],
- "github": [],
+ "github": [
+  {
+   "name": "xai-org/grok-build",
+   "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+   "stars": 23788,
+   "created": "2026-07-14T20:04:23Z",
+   "lang": "Rust",
+   "url": "https://github.com/xai-org/grok-build"
+  },
+  {
+   "name": "Fei-Away/Codex-Dream-Skin",
+   "desc": "Codex Dream Skin",
+   "stars": 12942,
+   "created": "2026-07-15T12:34:51Z",
+   "lang": "JavaScript",
+   "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+  },
+  {
+   "name": "andrewyng/openworker",
+   "desc": null,
+   "stars": 11560,
+   "created": "2026-07-20T01:52:32Z",
+   "lang": "Python",
+   "url": "https://github.com/andrewyng/openworker"
+  },
+  {
+   "name": "img2threejs/img2threejs",
+   "desc": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+   "stars": 8922,
+   "created": "2026-07-15T02:58:39Z",
+   "lang": "Python",
+   "url": "https://github.com/img2threejs/img2threejs"
+  },
+  {
+   "name": "unicity-aos/aos-ce",
+   "desc": "AOS Community Edition: the open agent operating system.",
+   "stars": 8577,
+   "created": "2026-07-12T23:39:52Z",
+   "lang": "Rust",
+   "url": "https://github.com/unicity-aos/aos-ce"
+  },
+  {
+   "name": "openai/codex-security",
+   "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "stars": 7977,
+   "created": "2026-07-13T22:00:13Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/openai/codex-security"
+  },
+  {
+   "name": "MoonshotAI/Kimi-K3",
+   "desc": "Open Frontier Intelligence",
+   "stars": 7810,
+   "created": "2026-07-27T08:01:37Z",
+   "lang": null,
+   "url": "https://github.com/MoonshotAI/Kimi-K3"
+  },
+  {
+   "name": "yc-software/qm",
+   "desc": "Multiplayer agent harness for work",
+   "stars": 4675,
+   "created": "2026-07-29T20:03:08Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/yc-software/qm"
+  },
+  {
+   "name": "drumih/turbo-fieldfare",
+   "desc": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
+   "stars": 3573,
+   "created": "2026-07-17T15:57:54Z",
+   "lang": "Swift",
+   "url": "https://github.com/drumih/turbo-fieldfare"
+  },
+  {
+   "name": "digimata/quill",
+   "desc": "Ultra-minimalist macOS recording + transcription.",
+   "stars": 3554,
+   "created": "2026-07-24T23:31:27Z",
+   "lang": "Swift",
+   "url": "https://github.com/digimata/quill"
+  },
+  {
+   "name": "nyblnet/bento",
+   "desc": "Bento, the office suite that fits in a file",
+   "stars": 3432,
+   "created": "2026-07-17T16:55:09Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/nyblnet/bento"
+  },
+  {
+   "name": "Vincentwei1021/video-shotcraft",
+   "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+   "stars": 3140,
+   "created": "2026-07-19T11:44:41Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+   "name": "bashalarmistalt/decimen-optical-transfer",
+   "desc": null,
+   "stars": 3004,
+   "created": "2026-07-30T18:17:54Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+  },
+  {
+   "name": "DavidHDev/canvas-ui",
+   "desc": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+   "stars": 2881,
+   "created": "2026-07-16T13:38:20Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/DavidHDev/canvas-ui"
+  },
+  {
+   "name": "kvcache-ai/AgentENV",
+   "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+   "stars": 2730,
+   "created": "2026-07-23T02:48:07Z",
+   "lang": "Rust",
+   "url": "https://github.com/kvcache-ai/AgentENV"
+  },
+  {
+   "name": "slvDev/esp32-ai",
+   "desc": null,
+   "stars": 2690,
+   "created": "2026-07-23T14:53:51Z",
+   "lang": "Python",
+   "url": "https://github.com/slvDev/esp32-ai"
+  },
+  {
+   "name": "vercel-labs/scriptc",
+   "desc": "TypeScript-to-Native Compiler",
+   "stars": 2675,
+   "created": "2026-07-22T23:04:54Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/vercel-labs/scriptc"
+  },
+  {
+   "name": "mshumer/Claude-of-Duty",
+   "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+   "stars": 2569,
+   "created": "2026-07-25T19:32:36Z",
+   "lang": "JavaScript",
+   "url": "https://github.com/mshumer/Claude-of-Duty"
+  },
+  {
+   "name": "lopopolo/harness-engineering",
+   "desc": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+   "stars": 2424,
+   "created": "2026-07-18T21:42:28Z",
+   "lang": "Python",
+   "url": "https://github.com/lopopolo/harness-engineering"
+  },
+  {
+   "name": "penecho/penecho",
+   "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+   "stars": 1840,
+   "created": "2026-07-14T14:45:23Z",
+   "lang": "JavaScript",
+   "url": "https://github.com/penecho/penecho"
+  }
+ ],
  "quotes": {},
  "fx": {
   "amount": 1.0,
@@ -2621,10 +2782,6 @@
   {
    "source": "reddit:ValueInvesting",
    "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ValueInvesting/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
-  },
-  {
-   "source": "github",
-   "error": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=created%3A%3E2026-07-11+stars%3A%3E300&sort=stars&order=desc&per_page=20"
   },
   {
    "source": "quotes",
