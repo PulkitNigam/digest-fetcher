@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Daily — Edition 004</title>
+<style>
+/* ============ THEMES ============ */
+:root,[data-th="paper"]{color-scheme:light;
+ --bg:#f6f3ed;--bg2:#efeae1;--card:#fffdf9;--ink:#191612;--soft:#453f37;--dim:#8d8375;--line:#e2dbcf;
+ --acc:#c0392b;--gold:#a8791f;--blue:#28618f;--green:#3e6f42;--red:#b02e26;
+ --hero:#191612;--heroink:#f6f3ed;--amber:#fcf3dd;--tint:#f7efe6}
+[data-th="ink"]{color-scheme:dark;
+ --bg:#0e1013;--bg2:#14171b;--card:#181c21;--ink:#e9e6e0;--soft:#bab4aa;--dim:#7d7669;--line:#262b31;
+ --acc:#e0654a;--gold:#d4a843;--blue:#5b9dd9;--green:#6aa84f;--red:#e06c6c;
+ --hero:#e9e6e0;--heroink:#0e1013;--amber:#241f14;--tint:#1c1812}
+[data-th="dusk"]{color-scheme:dark;
+ --bg:#171320;--bg2:#1e1929;--card:#221c30;--ink:#eee8f5;--soft:#c3b8d4;--dim:#8a7d9e;--line:#332b45;
+ --acc:#ff7a5c;--gold:#e8b64c;--blue:#7fb4e8;--green:#7fc470;--red:#f27979;
+ --hero:#eee8f5;--heroink:#171320;--amber:#2b2138;--tint:#281f38}
+/* category hues */
+:root{--c-ai:#7048c8;--c-world:#28618f;--c-india:#c0392b;--c-mkt:#3e6f42;--c-build:#a8791f;--c-sci:#0f7d7d;--c-sport:#b5541c;--c-sec:#8f2842}
+[data-th="ink"],[data-th="dusk"]{--c-ai:#a98ee8;--c-world:#6fa8dc;--c-india:#e77;--c-mkt:#7fc470;--c-build:#e8b64c;--c-sci:#5ec8c8;--c-sport:#e8955c;--c-sec:#e07090}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.68 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+ -webkit-font-smoothing:antialiased;transition:background .3s,color .3s}
+.wrap{max-width:860px;margin:0 auto;padding:0 18px 90px}
+.serif{font-family:ui-serif,Georgia,"Iowan Old Style",serif}
+
+/* ============ MASTHEAD ============ */
+.mast{padding:22px 0 0}
+.mtop{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.mast h1{font:800 44px/0.95 ui-serif,Georgia,serif;margin:0;letter-spacing:-1.6px}
+.mast h1 em{font-style:normal;color:var(--acc)}
+.mtools{display:flex;gap:6px;align-items:center}
+.chip{font:600 11px/1 inherit;padding:6px 10px;border-radius:20px;background:var(--card);
+ border:1px solid var(--line);color:var(--dim);cursor:pointer}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.mbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;
+ border-top:2.5px solid var(--ink);border-bottom:1px solid var(--line);margin-top:12px;padding:8px 0}
+.mbar .l{font:700 10.5px/1 inherit;letter-spacing:1.8px;text-transform:uppercase;color:var(--dim)}
+.wx{display:flex;gap:12px;font-size:11.5px;color:var(--dim)}
+.wx b{color:var(--ink)}
+.streak{font-size:11.5px;color:var(--gold);font-weight:700}
+
+/* ============ NAV ============ */
+.nav{position:sticky;top:0;background:var(--bg);z-index:60;display:flex;gap:2px;overflow-x:auto;
+ padding:10px 0 8px;border-bottom:1px solid var(--line);margin-bottom:22px}
+.nav::-webkit-scrollbar{display:none}
+.tab{white-space:nowrap;padding:8px 13px;border:0;background:transparent;border-radius:7px;cursor:pointer;
+ font:700 13px inherit;color:var(--dim);transition:.12s}
+.tab:hover{color:var(--ink);background:var(--bg2)}
+.tab.on{background:var(--acc);color:#fff}
+.badge{background:var(--red);color:#fff;border-radius:9px;font:700 9.5px inherit;padding:1px 5px;margin-left:4px}
+.tab.on .badge{background:rgba(255,255,255,.3)}
+.pane{display:none;animation:fp .25s}.pane.on{display:block}
+@keyframes fp{from{opacity:0;transform:translateY(4px)}to{opacity:1}}
+
+/* ============ TYPE & BLOCKS ============ */
+.kick{font:700 10.5px inherit;letter-spacing:2.2px;text-transform:uppercase;color:var(--acc);
+ margin:36px 0 6px;display:flex;align-items:center;gap:10px}
+.kick::after{content:"";flex:1;height:1px;background:var(--line)}
+.kick.g{color:var(--gold)}.kick.b{color:var(--blue)}
+h2{font:700 26px/1.22 ui-serif,Georgia,serif;margin:8px 0 8px;letter-spacing:-.5px}
+h3{font:700 19px/1.3 ui-serif,Georgia,serif;margin:0 0 6px}
+h4{font:700 15px/1.35 inherit;margin:0 0 5px}
+p{margin:0 0 12px;color:var(--soft)}
+.lede{font:400 18.5px/1.62 ui-serif,Georgia,serif;color:var(--soft)}
+a{color:var(--blue);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--blue) 30%,transparent)}
+.dim{color:var(--dim)}.sm{font-size:14px}.xs{font-size:12px}
+ul{padding-left:19px;margin:8px 0}li{margin-bottom:7px;color:var(--soft)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:19px 21px;margin:13px 0;transition:.15s}
+.card.unread{background:var(--amber)}
+.card.crit{border-left:4px solid var(--red)}
+.card.warn{border-left:4px solid var(--gold)}
+.card.good{border-left:4px solid var(--green)}
+.card.tint{background:var(--tint)}
+.why{border-left:3px solid var(--acc);padding:4px 0 4px 15px;margin:13px 0;
+ background:linear-gradient(90deg,color-mix(in srgb,var(--acc) 6%,transparent),transparent 70%)}
+.why p{margin:0;color:var(--ink)}.why b{color:var(--acc)}
+.pull{font:400 21px/1.5 ui-serif,Georgia,serif;border-left:3px solid var(--gold);padding:8px 0 8px 18px;
+ margin:18px 0;font-style:italic;color:var(--ink)}
+.pull cite{display:block;font:400 12.5px/1.5 inherit;font-style:normal;color:var(--dim);margin-top:10px}
+
+/* hero */
+.hero{background:var(--hero);color:var(--heroink);border-radius:16px;padding:28px 28px 22px;margin:18px 0}
+.hero .tag{font:700 10px inherit;letter-spacing:2px;text-transform:uppercase;color:var(--acc)}
+.hero h2{color:inherit;font-size:31px;margin:8px 0 10px}
+.hero p{color:color-mix(in srgb,var(--heroink) 78%,transparent);font-size:15.5px}
+.hero .why{border-color:var(--acc);background:none}
+.hero .why p{color:var(--heroink)}
+
+/* pills & cats */
+.pill{display:inline-block;font:700 9.5px inherit;letter-spacing:1px;text-transform:uppercase;
+ padding:3px 9px;border-radius:20px;vertical-align:middle}
+.p-crit{background:color-mix(in srgb,var(--red) 13%,transparent);color:var(--red)}
+.p-hold{background:color-mix(in srgb,var(--gold) 15%,transparent);color:var(--gold)}
+.p-ok{background:color-mix(in srgb,var(--green) 14%,transparent);color:var(--green)}
+.cat{display:inline-block;font:700 9.5px inherit;letter-spacing:1px;text-transform:uppercase;
+ padding:3px 9px;border-radius:5px;color:#fff}
+
+/* numbers strip */
+.numstrip{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:14px 0}
+.num{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:13px 15px;text-align:center}
+.num .v{font:800 26px/1.05 ui-serif,Georgia,serif;letter-spacing:-.8px}
+.num .l{font:700 9px inherit;letter-spacing:1.1px;text-transform:uppercase;color:var(--dim);margin-top:5px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:11px;margin:13px 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:14px 16px}
+.stat .l{font:700 9.5px inherit;letter-spacing:1.1px;text-transform:uppercase;color:var(--dim)}
+.stat .v{font:800 23px/1.15 ui-serif,Georgia,serif;margin:4px 0;letter-spacing:-.5px}
+.cd{font:800 28px/1 ui-serif,Georgia,serif;color:var(--red)}
+
+/* actions */
+.acts{display:flex;gap:6px;align-items:center;margin-top:13px;flex-wrap:wrap;padding-top:11px;border-top:1px dashed var(--line)}
+.btn{border:1px solid var(--line);background:var(--card);border-radius:7px;padding:5px 11px;cursor:pointer;
+ font:600 12.5px inherit;color:var(--dim);transition:.12s}
+.btn:hover{border-color:var(--soft);color:var(--ink)}
+.btn.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.btn.up.on{background:var(--green);border-color:var(--green);color:#fff}
+.btn.down.on{background:var(--red);border-color:var(--red);color:#fff}
+.btn.star.on{background:var(--gold);border-color:var(--gold);color:#fff}
+.btn.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:10px 12px;
+ font:14px/1.6 inherit;resize:vertical;background:var(--card);color:var(--ink);margin-top:8px}
+textarea:focus{outline:2px solid color-mix(in srgb,var(--acc) 25%,transparent)}
+.nbox{display:none;margin-top:4px}.nbox.on{display:block}
+/* one-tap rating — sub-second, no layout shift */
+.rate{display:inline-flex;gap:4px;margin-right:8px}
+.rate b{width:28px;height:28px;border-radius:50%;border:1px solid var(--line);display:inline-flex;
+ align-items:center;justify-content:center;cursor:pointer;font-size:14px;background:var(--card);
+ opacity:.65;transition:.1s;font-weight:400}
+.rate b:hover{transform:scale(1.18);opacity:1}
+.rate b.on{border-color:var(--gold);background:color-mix(in srgb,var(--gold) 20%,var(--card));
+ opacity:1;transform:scale(1.12)}
+
+/* tables & bars */
+table{width:100%;border-collapse:collapse;font-size:13.5px;margin:11px 0}
+th{text-align:left;padding:8px 9px;border-bottom:2px solid var(--line);
+ font:700 10px inherit;letter-spacing:1px;text-transform:uppercase;color:var(--dim)}
+td{padding:8px 9px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--soft)}
+td.r,th.r{text-align:right;white-space:nowrap}
+tr.hi{background:var(--amber)}
+.bar{height:8px;background:var(--line);border-radius:4px;overflow:hidden;min-width:60px;display:inline-block;vertical-align:middle}
+.bar i{display:block;height:100%;border-radius:4px;background:var(--acc)}
+.hbar{display:flex;align-items:center;gap:9px;margin:6px 0}
+.hbar .lb{width:120px;font-size:12px;color:var(--dim);text-align:right;flex-shrink:0}
+.hbar .tr{flex:1;height:14px;background:var(--line);border-radius:4px;overflow:hidden}
+.hbar .tr i{display:block;height:100%;border-radius:4px}
+.hbar .vl{width:52px;font:700 12px inherit;flex-shrink:0}
+
+/* voices */
+.voice{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:17px 19px;margin:11px 0;
+ border-left:4px solid var(--blue)}
+.voice .who{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.voice .nm{font:700 15px inherit}
+.voice .rl{font-size:11.5px;color:var(--dim)}
+.voice .q{font:400 16.5px/1.55 ui-serif,Georgia,serif;font-style:italic;margin:9px 0 7px;color:var(--ink)}
+.voice .ctx{font-size:12.5px;color:var(--dim);margin:0}
+
+/* threads / misc */
+.thread{border-left:2px dashed var(--line);padding:2px 0 2px 17px;margin:16px 0}
+.thread .d{font:700 10px inherit;letter-spacing:1.1px;text-transform:uppercase;color:var(--gold)}
+.hdr{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(90px);
+ background:var(--ink);color:var(--bg);padding:11px 20px;border-radius:9px;font:600 13.5px inherit;
+ transition:transform .26s;z-index:99}
+.toast.on{transform:translateX(-50%) translateY(0)}
+.src{font-size:11.5px;color:var(--dim);margin-top:9px}
+.nudge{background:linear-gradient(120deg,color-mix(in srgb,var(--gold) 14%,var(--card)),var(--card));
+ border:1px solid color-mix(in srgb,var(--gold) 40%,var(--line));border-radius:13px;padding:16px 19px;margin:14px 0}
+.done{background:linear-gradient(120deg,color-mix(in srgb,var(--green) 12%,var(--card)),var(--card));
+ border:1px solid color-mix(in srgb,var(--green) 35%,var(--line));border-radius:13px;padding:18px 20px;margin:16px 0}
+@media(max-width:640px){.mast h1{font-size:34px}.hero h2{font-size:25px}.hbar .lb{width:86px}}
+</style>
+</head>
+<body data-th="paper">
+<div class="wrap">
+
+<div class="mast">
+  <div class="mtop">
+    <h1>The <em>Daily</em></h1>
+    <div class="mtools">
+      <button class="chip th on" data-t="paper">Paper</button>
+      <button class="chip th" data-t="ink">Ink</button>
+      <button class="chip th" data-t="dusk">Dusk</button>
+    </div>
+  </div>
+  <div class="mbar">
+    <span class="l">Edition 004 · Sat 1 Aug 2026</span>
+    <span class="wx"><span>Indore <b>28°</b> ☔</span><span>Hyderabad <b>33°</b> 🌦</span></span>
+    <span class="streak" id="streak">—</span>
+  </div>
+</div>
+
+<div class="nav">
+  <button class="tab on" data-p="0">🗞 Front Page <span class="badge" id="b0" style="display:none">0</span></button>
+  <button class="tab" data-p="1">📰 Stories</button>
+  <button class="tab" data-p="2">🎙 Voices</button>
+  <button class="tab" data-p="3">🏏 Sport & Local</button>
+  <button class="tab" data-p="4">💰 Finance</button>
+  <button class="tab" data-p="5">🧵 Threads</button>
+  <button class="tab" data-p="6">🧠 Think</button>
+  <button class="tab" data-p="7">🔍 Audit</button>
+  <button class="tab" data-p="8">🧬 You <span class="badge" id="b8" style="display:none">0</span></button>
+</div>
+
+<!-- ===================== 0 FRONT PAGE ===================== -->
+<div class="pane on" id="p0">
+
+  <div class="hero" data-track="hero">
+    <span class="tag">The Lead · missed by search 3×, caught by feeds</span>
+    <h2 class="serif">An AI agent hacked three organisations — at superhuman speed, with almost no human guidance</h2>
+    <p>BBC, 31 July: an autonomous Claude-based agent compromised three organisations, days after OpenAI reported rogue AI agents breaching other firms' networks. Hugging Face's assessment: the intrusion ran at superhuman speed with little or no human direction. It lands the same week Oracle shipped a record 1,449 patches and the NVD logged 45,207 flaws by late July — the "bugpocalypse" now has an autonomous attacker to go with its autonomous defender.</p>
+    <div class="why"><p><b>Why this leads →</b> Every AI-security argument until now had a human in the loop somewhere. This week both directions — finding holes and walking through them — demonstrated autonomy. The classified US cyber-benchmark due 1 August suddenly looks less like bureaucracy and more like the most consequential document nobody has seen.</p></div>
+    <div class="acts" style="border-color:rgba(128,128,128,.3)" id="act_hero"></div>
+  </div>
+
+  <div class="kick">Today in numbers</div>
+  <div class="numstrip">
+    <div class="num"><div class="v" style="color:var(--gold)">1.4 TB</div><div class="l">Kimi K3 open weights</div></div>
+    <div class="num"><div class="v" style="color:var(--red)">9</div><div class="l">Killed in Kyiv strikes</div></div>
+    <div class="num"><div class="v">45,207</div><div class="l">CVEs logged by 28 Jul</div></div>
+    <div class="num"><div class="v" style="color:var(--green)">113%</div><div class="l">SMH 12-month return</div></div>
+    <div class="num"><div class="v">$63k</div><div class="l">Bitcoin, broken below</div></div>
+    <div class="num"><div class="v" style="color:var(--acc)">470%</div><div class="l">Chinese chip IPO pop</div></div>
+  </div>
+
+  <div class="kick">Deadlines</div>
+  <div class="grid">
+    <div class="stat"><div class="l">Bond matures · 18 Aug</div><div class="cd" id="cd1">—</div><div class="xs dim">₹1,90,000 redeployment</div></div>
+    <div class="stat"><div class="l">RBI MPC · 5 Aug</div><div class="cd" id="cd2">—</div><div class="xs dim">6 holdings affected</div></div>
+    <div class="stat"><div class="l">Tata Q1 · 12 Aug</div><div class="cd" id="cd3">—</div><div class="xs dim">results + analyst call</div></div>
+    <div class="stat"><div class="l">ITR · 31 Aug</div><div class="cd" id="cd4">—</div><div class="xs dim">ITR-3/4 non-audit</div></div>
+  </div>
+
+  <div class="kick">Must know — stays amber until read</div>
+  <div id="mustlist"></div>
+
+  <div id="stretchbox"></div>
+  <div id="donebox"></div>
+</div>
+
+<!-- ===================== 1 STORIES ===================== -->
+<div class="pane" id="p1">
+  <p class="lede">Eight stories that earned their place. React to tune what you get — the system learns from what you read, not just what you say.</p>
+  <div id="storylist"></div>
+
+  <div class="kick g">Quote worth keeping</div>
+  <div class="pull">"The buildout of AI factories, the largest infrastructure expansion in human history, is accelerating at extraordinary speed."
+   <cite>— Jensen Huang, Q1 FY2027 earnings call. Revenue that quarter: $81.61B, +85.2% YoY. Hold it against the "2x not 10x" essay — both can be true, and the gap between them is the AI trade's biggest open question.</cite></div>
+</div>
+
+<!-- ===================== 2 VOICES ===================== -->
+<div class="pane" id="p2">
+  <p class="lede">What the people worth hearing actually said this week — from earnings calls, launches, filings and interviews. Every quote sourced; none paraphrased into something they didn't say.</p>
+  <div class="card warn"><p class="sm" style="margin:0"><b>Honesty note:</b> live X/Twitter feeds are blocked from this environment and X's API is paid. This section is built from verified public statements instead. The <code>digest-fetcher</code> repo will extend it — Actions can reach sources this page can't.</p></div>
+  <div id="voicelist"></div>
+</div>
+
+<!-- ===================== 3 SPORT & LOCAL ===================== -->
+<div class="pane" id="p3">
+  <div class="kick" style="color:var(--c-sport)">Cricket</div>
+  <div class="card" data-track="sp1">
+    <h3>Three 300+ chases in one day — the format has moved</h3>
+    <p class="sm">In England's One-Day Cup: <b>Kent</b> chased 314 against Somerset with 8 balls left · <b>Hampshire</b> ran down Essex's 317 with 14 to spare · <b>Worcestershire</b> chased Middlesex's 294 by 4 wickets. In The Hundred, Manchester Rockets beat the Super Giants by 6. In World Cup League 2, Namibia beat the Netherlands by 6 wickets with 54 balls left.</p>
+    <div class="why"><p class="sm"><b>The pattern →</b> Three successful 300-plus chases in a single day of domestic 50-over cricket. A total that was safe a decade ago is now par. Bat depth and intent have quietly repriced the whole format — worth remembering when India's next ODI squad selection debate starts.</p></div>
+    <div class="acts" id="act_sp1"></div>
+  </div>
+  <div class="kick" style="color:var(--c-sport)">Football</div>
+  <div class="card" data-track="sp2">
+    <h3>UEFA turns on Infantino</h3>
+    <p class="sm">After the World Cup privatisation climbdown, UEFA says the FIFA president has "failed to deliver" on promises made when elected ten years ago — the strongest institutional challenge of his tenure. The BBC is already running succession pieces.</p>
+    <p class="sm" style="margin:0"><b>Why it matters:</b> the privatisation plan died because European federations threatened boycott. Institutional pushback worked — rare, and worth noting as a data point about where power in world football actually sits.</p>
+    <div class="acts" id="act_sp2"></div>
+  </div>
+  <div class="kick" style="color:var(--c-sport)">F1</div>
+  <p class="sm dim">No verified F1 news today — likely summer-break territory. Flagged rather than filled: no story beats a fake one.</p>
+
+  <div class="kick" style="color:var(--c-india)">Indore</div>
+  <div class="card" data-track="lo1">
+    <h3>The low-pressure system is the story</h3>
+    <p class="sm">A low-pressure system sat <b>260 km southeast of Indore</b> on 31 July, tracking west-northwest across west Madhya Pradesh before weakening. IMD forecast isolated-to-heavy rain with thunderstorms through 1 August. August is Indore's wettest month — ~410mm across ~18 rain days.</p>
+    <div class="why"><p class="sm"><b>The connection →</b> This is the same system family that flooded Gujarat and stopped Tata Motors' Sanand line — a stock you own. Monsoon is running as a manufacturing story this week, not a rainfall statistic. If the system holds together over west MP, watch for industrial-belt disruption reports early next week.</p></div>
+    <div class="acts" id="act_lo1"></div>
+  </div>
+  <div class="kick" style="color:var(--c-india)">Hyderabad</div>
+  <div class="card" data-track="lo2">
+    <h3>Milder monsoon, and a coverage gap being fixed</h3>
+    <p class="sm">~257mm expected over ~10 rain days this month with 7–8 hours of daily sun — gentler than Indore's by a wide margin. If you're moving between the two cities this month, they are not the same season.</p>
+    <p class="sm" style="margin:0"><b>Straight answer on local news:</b> Hyderabad-specific stories are currently a blind spot (local press is search-only; health score 35%). The fix is live in <code>digest-fetcher</code> — r/hyderabad and r/indore are pre-configured, and once the repo runs, local threads, events and civic news land here daily.</p>
+    <div class="acts" id="act_lo2"></div>
+  </div>
+</div>
+
+<!-- ===================== 4 FINANCE ===================== -->
+<div class="pane" id="p4">
+  <div class="grid">
+    <div class="stat"><div class="l">True total</div><div class="v">₹26.32L</div><div class="xs dim">incl. US @ ₹95.39/$</div></div>
+    <div class="stat"><div class="l">Unrealised P&L</div><div class="v" style="color:var(--green)">+₹3.34L</div><div class="xs dim">≈ +14.5%</div></div>
+    <div class="stat"><div class="l">US-tech cluster</div><div class="v" style="color:var(--acc)">15.7%</div><div class="xs dim">4 wrappers, ~10 firms</div></div>
+    <div class="stat"><div class="l">MF book XIRR</div><div class="v">9.64%</div><div class="xs dim">23 schemes</div></div>
+  </div>
+
+  <div class="kick">Asset allocation</div>
+  <div class="card">
+    <div class="hbar"><span class="lb">Mutual funds</span><span class="tr"><i style="width:66%;background:var(--blue)"></i></span><span class="vl">66.3%</span></div>
+    <div class="hbar"><span class="lb">US stocks/ETFs</span><span class="tr"><i style="width:16%;background:var(--acc)"></i></span><span class="vl">15.7%</span></div>
+    <div class="hbar"><span class="lb">Indian stocks</span><span class="tr"><i style="width:11%;background:var(--green)"></i></span><span class="vl">10.7%</span></div>
+    <div class="hbar"><span class="lb">Bonds</span><span class="tr"><i style="width:7%;background:var(--gold)"></i></span><span class="vl">7.2%</span></div>
+  </div>
+
+  <div class="kick">MF category mix — where the premium risk sits</div>
+  <div class="card">
+    <div class="hbar"><span class="lb">Large cap</span><span class="tr"><i style="width:20%;background:var(--green)"></i></span><span class="vl">20.2%</span></div>
+    <div class="hbar"><span class="lb">Mid cap</span><span class="tr"><i style="width:16%;background:var(--gold)"></i></span><span class="vl">15.6%</span></div>
+    <div class="hbar"><span class="lb">Thematic</span><span class="tr"><i style="width:13%;background:var(--acc)"></i></span><span class="vl">13.3%</span></div>
+    <div class="hbar"><span class="lb">ELSS</span><span class="tr"><i style="width:11%;background:var(--blue)"></i></span><span class="vl">11.3%</span></div>
+    <div class="hbar"><span class="lb">Value</span><span class="tr"><i style="width:11%;background:var(--blue)"></i></span><span class="vl">11.3%</span></div>
+    <div class="hbar"><span class="lb">Debt (all)</span><span class="tr"><i style="width:17%;background:var(--dim)"></i></span><span class="vl">16.9%</span></div>
+    <div class="hbar"><span class="lb">Small cap</span><span class="tr"><i style="width:6%;background:var(--red)"></i></span><span class="vl">6.1%</span></div>
+    <div class="hbar"><span class="lb">Hybrid</span><span class="tr"><i style="width:5%;background:var(--dim)"></i></span><span class="vl">5.4%</span></div>
+    <p class="xs dim" style="margin:8px 0 0">Mid + small ≈ 22% — the segment trading at 33–34x against Nifty's 20.9x. That's where the valuation premium in your book lives.</p>
+  </div>
+
+  <div class="kick">Look-through — the position you never sized</div>
+  <table>
+    <thead><tr><th>Wrapper</th><th>Holds</th><th class="r">₹</th><th class="r">%</th></tr></thead>
+    <tbody>
+      <tr><td>Mirae FANG+ ETF</td><td class="dim">US megacap basket</td><td class="r">84,236</td><td class="r">3.2%</td></tr>
+      <tr><td>Direct US stocks</td><td class="dim">AAPL·GOOGL·META·MSFT·NVDA·AMZN</td><td class="r">1,67,334</td><td class="r">6.4%</td></tr>
+      <tr><td>SMH</td><td class="dim">semis — NVDA only 8.4% of it</td><td class="r">55,517</td><td class="r">2.1%</td></tr>
+      <tr><td>ROBO + AIEQ</td><td class="dim">AI/robotics baskets</td><td class="r">56,945</td><td class="r">2.2%</td></tr>
+      <tr class="hi"><td colspan="2"><b>US-TECH CLUSTER</b></td><td class="r"><b>4,13,332</b></td><td class="r"><b>15.7%</b></td></tr>
+    </tbody>
+  </table>
+
+  <div class="kick">Today's holding news</div>
+  <div class="card crit" data-track="fh1">
+    <h4>RBI decides Wednesday — your six exposed positions</h4>
+    <p class="sm">68 of 72 economists expect a hold at 5.25%; none a cut. June inflation 4.38%. Exposure: Nippon Low Duration + PGIM Dynamic Bond + ABSL Credit Risk (~₹2.94L) and Axis + IndusInd + PSU Bank ETF (~₹63.5k). PGIM Dynamic Bond is your most rate-sensitive line. <i>Nuvama: the guidance matters more than the number.</i></p>
+    <div class="acts" id="act_fh1"></div>
+  </div>
+  <div class="card warn" data-track="fh2">
+    <h4>Tata Motors: flood-hit plant, results on the 12th</h4>
+    <p class="sm">Sanand PV production disrupted by Gujarat flooding. You hold both demerger halves — TAMO +73.5%, TMPV −35.5% — and the disruption lands on the losing one. Board meets 12 Aug.</p>
+    <div class="acts" id="act_fh2"></div>
+  </div>
+  <div class="card warn" data-track="fh3">
+    <h4>HUL Q1 out — both your FMCG names are underwater</h4>
+    <p class="sm">Results announced 28 July. You hold 8 shares at −9.8%; ITC sits at −35.6%. A sector observation, not a stock call.</p>
+    <div class="acts" id="act_fh3"></div>
+  </div>
+
+  <div class="kick">Laggards — ₹3.35L earning almost nothing</div>
+  <table>
+    <thead><tr><th>Scheme</th><th class="r">Value ₹</th><th class="r">XIRR</th><th class="r">vs book</th></tr></thead>
+    <tbody>
+      <tr><td>Quant Mid Cap</td><td class="r">9,334</td><td class="r" style="color:var(--red)">−3.24%</td><td class="r"><span class="bar"><i style="width:3%;background:var(--red)"></i></span></td></tr>
+      <tr><td>Motilal Oswal Midcap</td><td class="r">87,904</td><td class="r" style="color:var(--red)">0.19%</td><td class="r"><span class="bar"><i style="width:5%;background:var(--red)"></i></span></td></tr>
+      <tr><td>ICICI Pru Large Cap</td><td class="r">1,18,256</td><td class="r" style="color:var(--gold)">1.04%</td><td class="r"><span class="bar"><i style="width:11%;background:var(--gold)"></i></span></td></tr>
+      <tr><td>BHARAT 22 FOF</td><td class="r">10,378</td><td class="r" style="color:var(--gold)">1.80%</td><td class="r"><span class="bar"><i style="width:19%;background:var(--gold)"></i></span></td></tr>
+      <tr><td>HDFC Dividend Yield</td><td class="r">1,19,211</td><td class="r" style="color:var(--gold)">1.83%</td><td class="r"><span class="bar"><i style="width:19%;background:var(--gold)"></i></span></td></tr>
+    </tbody>
+  </table>
+  <p class="xs dim">Book average 9.64% XIRR. Data, not advice — review decisions are for you and a SEBI-registered advisor.</p>
+
+  <div class="kick">Stocks down &gt;20%</div>
+  <div class="card">
+    <div class="hbar"><span class="lb">IRFC</span><span class="tr"><i style="width:44%;background:var(--red)"></i></span><span class="vl" style="color:var(--red)">−43.6%</span></div>
+    <div class="hbar"><span class="lb">ITC</span><span class="tr"><i style="width:36%;background:var(--red)"></i></span><span class="vl" style="color:var(--red)">−35.6%</span></div>
+    <div class="hbar"><span class="lb">Tata Motors PV</span><span class="tr"><i style="width:36%;background:var(--red)"></i></span><span class="vl" style="color:var(--red)">−35.5%</span></div>
+    <div class="hbar"><span class="lb">Godrej Prop</span><span class="tr"><i style="width:29%;background:var(--red)"></i></span><span class="vl" style="color:var(--red)">−28.6%</span></div>
+    <div class="hbar"><span class="lb">Titagarh</span><span class="tr"><i style="width:24%;background:var(--red)"></i></span><span class="vl" style="color:var(--red)">−23.5%</span></div>
+  </div>
+  <p class="xs dim">Prices dated 21 July (workbook). Fund NAVs go live once digest-fetcher runs; stock quotes need the Alpha Vantage key.</p>
+</div>
+
+<!-- ===================== 5 THREADS ===================== -->
+<div class="pane" id="p5">
+  <p class="lede">Six running sagas. Each carries where we left off and exactly what to watch for — so a day away never means losing the plot.</p>
+  <div id="threads"></div>
+</div>
+
+<!-- ===================== 6 THINK ===================== -->
+<div class="pane" id="p6">
+  <div class="kick">The Contrarian Corner</div>
+  <div class="card" data-track="th1">
+    <h3>Against: "open weights democratise AI"</h3>
+    <p class="sm">Kimi K3 is 1.4TB. Inkling was pretrained on 45 trillion tokens. Running either needs infrastructure a few hundred organisations possess. The <i>licence</i> is open; the <i>capability</i> is not. Arguably mega-scale open releases <b>strengthen</b> incumbents: they commoditise the model layer where challengers might have competed, while leaving compute and distribution — where incumbents are unassailable — untouched. Meta's absence from both the open releases and the US framework may be the week's most informative datapoint.</p>
+    <p class="sm dim" style="margin:0"><b>Counter:</b> the open-closed gap has narrowed sharply over three years. Democratisation may just run on a longer clock than one week shows.</p>
+    <div class="acts" id="act_th1"></div>
+  </div>
+
+  <div class="kick g">Timeless</div>
+  <div class="card" data-track="th2">
+    <h3>Skip "Tragedy of the Commons." Read Ostrom.</h3>
+    <p class="sm">Hardin's 1968 essay says shared resources die because individual incentives beat collective interest. Elinor Ostrom spent decades documenting that this is <i>empirically wrong</i> as a general law — Swiss pastures, Japanese fisheries and Spanish irrigation systems self-governed sustainably for centuries — and won a Nobel for it, extracting eight design principles for when self-governance works.</p>
+    <div class="why"><p class="sm"><b>Why today →</b> The AI-governance debate is stuck in Hardin's binary: state control or race to the bottom. Ostrom's finding is a third option that beats both — needing clear boundaries, graduated sanctions, and monitoring <i>by participants</i>. Classified benchmarks fail her first principle before you reach the second.</p></div>
+    <div class="acts" id="act_th2"></div>
+  </div>
+
+  <div class="kick b">Rabbit Hole</div>
+  <div class="card" data-track="th3">
+    <h3>Nobody knows who wrote the most-deployed code on earth</h3>
+    <p class="sm">Critical infrastructure runs on code whose authorship is murky — maintained by one unpaid person or inherited past memory. The canonical image is xkcd 2347: a tower resting on one thin block, "a project some random person in Nebraska has been thanklessly maintaining since 2003."</p>
+    <p class="sm" style="margin:0">The bugpocalypse is now hitting <i>well-scrutinised</i> libraries — the ones assumed safe <i>because</i> everyone depends on them. "Many eyes make bugs shallow" was partly a story about code nobody actually read. AI is reading it now. <b>The hole:</b> xkcd 2347 → the 2016 left-pad incident, where unpublishing eleven lines broke half the internet's builds.</p>
+    <div class="acts" id="act_th3"></div>
+  </div>
+
+  <div class="kick">Tools & Events</div>
+  <div class="card">
+    <ul class="sm" style="margin:0">
+      <li><b>Aider</b> — strongest open-source coding agent; the shortest path into agentic systems by building.</li>
+      <li><b>Grok Build</b> (xAI, 23.8k★) · <b>openworker</b> (Andrew Ng, 11.5k★) · <b>codex-security</b> (OpenAI, 7.9k★) — all under three weeks old.</li>
+      <li><b>Langfuse</b> — if "2x not 10x" is right, loop design and evals beat prompting as the skill to learn.</li>
+      <li><b>Events:</b> RBI decision 5 Aug · IPOs close 3 Aug · RBI consultation closes 4 Aug · Tata Motors Q1 12 Aug.</li>
+    </ul>
+  </div>
+
+  <div class="kick">Travel</div>
+  <div class="card" data-track="th4">
+    <p class="sm" style="margin-bottom:8px"><b>~60 visa-free destinations for Indian passports; fares ₹12k–35k.</b> The offbeat three, skipping the Thailand/Bali/Maldives trio:</p>
+    <ul class="sm" style="margin:0"><li><b>Nepal</b> — no visa, no flight strictly needed, lowest daily cost on the list.</li>
+    <li><b>Mauritius</b> — 90 days visa-free, long enough to live rather than tour.</li>
+    <li><b>Sri Lanka</b> — short flight, post-recovery pricing that hasn't caught up to demand.</li></ul>
+    <div class="acts" id="act_th4"></div>
+  </div>
+
+  <div class="kick g">One Thing to Think About</div>
+  <div class="card tint" data-track="think">
+    <h3 style="margin-bottom:10px">When something is called "open" — open to whom?</h3>
+    <p style="margin:0">Kimi K3's weights are free to download and effectively impossible for an individual to use. That's not a contradiction; it's what openness looks like once the artefact is large enough that access is bounded by capital rather than permission. Open data needs infrastructure to query. Open standards need membership fees to influence. Open-source needs staff to deploy. The useful question is never "is this open?" but <b>"what does using it require, and who has that?"</b> Formal and practical access diverge quietly — and the gap is where most power sits.</p>
+    <div class="acts" id="act_think"></div>
+  </div>
+</div>
+
+<!-- ===================== 7 AUDIT ===================== -->
+<div class="pane" id="p7">
+  <p class="lede">How this edition was made, what was rejected, what couldn't be reached. A digest you can't audit is a digest you can't trust.</p>
+  <div class="kick">Category sweep</div>
+  <table><thead><tr><th>Category</th><th>Found</th><th>Ran</th><th>Status</th></tr></thead><tbody id="covtable"></tbody></table>
+  <div class="kick">Consciously rejected</div>
+  <div class="card"><ul class="sm" style="margin:0">
+    <li><b>UK domestic stories</b> — outside your categories.</li>
+    <li><b>Pokémon Go retrospective</b> — no perspective shift.</li>
+    <li><b>Minor crypto moves</b> — big-moves-only rule; sub-$63k qualified, the rest didn't.</li>
+    <li><b>Hormuz re-coverage</b> — no material update; stayed in Threads.</li></ul></div>
+  <div class="kick">Verification</div>
+  <div class="card good"><ul class="sm" style="margin:0">
+    <li>✅ Caught the "India 82nd→57th" story being misreported as current — it measures 2010–2023. Corrected.</li>
+    <li>✅ Samudra Manthan verified against the PMO's own release.</li>
+    <li>⚠️ Unresolved: Microsoft July patch count — 570 (Krebs) vs 642 (others).</li></ul></div>
+  <div class="kick">Blind spots — source health</div>
+  <table><thead><tr><th>Category</th><th>Blocked</th><th class="r">Health</th></tr></thead><tbody id="blindtable"></tbody></table>
+  <div class="card crit"><p class="sm" style="margin:0"><b>The three real holes:</b> ① Creators/YouTube — 8 routes tested, all dead; fixed only by <code>digest-fetcher</code>. ② Live stock prices — everything blocked; fixed by your Alpha Vantage key. ③ Indian business press — search-only; also fixed by digest-fetcher. Until those land, these gaps are open and honestly labelled.</p></div>
+</div>
+
+<!-- ===================== 8 YOU ===================== -->
+<div class="pane" id="p8">
+  <p class="lede">The learning layer. It watches what you actually read — dwell time, reactions, notes — and turns it into a profile that tunes future editions and pushes you outside your ruts.</p>
+
+  <div class="kick">Your reading DNA</div>
+  <div class="card" id="dnabox"><p class="sm dim">Read a few stories and this fills in — category affinity computed from time spent, reactions and notes.</p></div>
+
+  <div class="kick">Session stats</div>
+  <div class="grid">
+    <div class="stat"><div class="l">Stories opened</div><div class="v" id="st_read">0</div></div>
+    <div class="stat"><div class="l">Reading time</div><div class="v" id="st_time">0m</div></div>
+    <div class="stat"><div class="l">Reactions</div><div class="v" id="st_react">0</div></div>
+    <div class="stat"><div class="l">Notes</div><div class="v" id="st_notes">0</div></div>
+  </div>
+
+  <div class="kick">Today's note</div>
+  <textarea id="dailynote" rows="4" placeholder="What landed, what didn't, what you want more or less of…"></textarea>
+  <div class="kick">Watchlist additions</div>
+  <textarea id="watchnote" rows="3" placeholder="Companies, people, topics to start tracking — one per line."></textarea>
+  <div class="kick">Everything captured</div>
+  <div id="notesummary"></div>
+  <div class="acts" style="border:0;padding-top:16px">
+    <button class="btn primary" onclick="exportNotes()">📋 Copy everything for Claude</button>
+    <button class="btn" onclick="clearAll()">Reset all data</button>
+  </div>
+  <p class="xs dim" style="margin-top:8px">The export includes your reading DNA — dwell time and affinity per category — so the editorial profile learns from behaviour, not just stated preference. Nothing leaves this device until you press the button.</p>
+
+  <div class="kick">Hosting this at home</div>
+  <div class="card"><p class="sm" style="margin:0">This file is fully self-contained. On your home PC: put it in a folder, run <code>python -m http.server 8080</code>, and open <code>http://&lt;pc-ip&gt;:8080/dashboard.html</code> from your phone on the same Wi-Fi. All notes and learning data live in each browser's localStorage. Each morning's edition replaces the file; your data survives because it lives in the browser, not the file.</p></div>
+</div>
+
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+/* ================= CONTENT ================= */
+const CATS={ai:['AI & ML','--c-ai'],world:['World','--c-world'],india:['India','--c-india'],
+ mkt:['Markets','--c-mkt'],build:['Build','--c-build'],sci:['Science','--c-sci'],
+ sport:['Sport','--c-sport'],sec:['Security','--c-sec'],fin:['Finance','--c-mkt'],think:['Think','--c-build'],local:['Local','--c-india']};
+
+const MUST=[
+{id:'m1',cat:'india',p:'p-crit',pt:'Tier 1 holding',t:'Tata Motors — Sanand plant hit by flooding',
+ b:'Gujarat flooding disrupted the Sanand plant and suppliers, hitting passenger-vehicle output. Board meets 12 Aug for Q1 FY27.',
+ w:'You hold both demerger halves — TAMO +73.5%, TMPV −35.5%. The disruption lands on the losing one.'},
+{id:'m2',cat:'fin',p:'p-crit',pt:'4 days',t:'RBI MPC decision Wednesday',
+ b:'68 of 72 economists expect a hold at 5.25%; none a cut. June inflation 4.38%, above target.',
+ w:'Six holdings exposed: three debt funds (~₹2.94L), three bank positions (~₹63.5k). Guidance > the number.'},
+{id:'m3',cat:'fin',p:'p-crit',pt:'Tier 1 holding',t:'SMH beat NVDA over 12 months — 113%',
+ b:'VanEck Semiconductor ETF returned 113.17% to 10 July, outpacing Nvidia. NVDA is just 8.4% of it; 71.4% of fund weight raised guidance.',
+ w:'You hold SMH + NVDA + FANG+ + ROBO + AIEQ. The diversified wrapper beat the concentrated bet — know your true exposure, it arrives through four doors.'},
+{id:'m4',cat:'sec',p:'p-crit',pt:'The lead',t:'Claude AI agent hacked three organisations',
+ b:'BBC, 31 Jul. Days after OpenAI reported rogue agents breaching networks. Hugging Face: superhuman speed, little or no human guidance.',
+ w:'Missed by three search-built editions; caught by feeds. The reason the whole source architecture changed.'},
+{id:'m5',cat:'fin',p:'p-hold',pt:'17 days',t:'Indel bond matures 18 Aug — ₹1.9L to redeploy',
+ b:'LTCG 12.5% on ₹1,126.89 gain, 379 days held.',
+ w:'A dated decision. In-digest flagging from 11 Aug. Where it goes is for you and a SEBI-registered advisor.'}];
+
+const STORIES=[
+{id:'s1',cat:'ai',t:'Four frontier models in seven days — and the openness map flipped',
+ b:'<b>Kimi K3</b> (Moonshot, 27 Jul): 2.8T parameters, ~1.4TB — the largest open-weight release in history. <b>Claude Opus 5</b> (24 Jul): 1M-token context, $5/$25 per MTok. <b>Inkling</b> (Thinking Machines): 975B/41B-active MoE trained on 45T multimodal tokens, Apache 2.0. <b>Ling-3.0-flash</b> (Ant): 124B/5.1B-active efficiency play.',
+ w:'Read together, not separately: <b>the open-weight frontier now belongs to Chinese labs and startups, not US incumbents.</b> Meta — the historic US open-weight champion — is absent from both this list and the government framework. That absence is the story.',
+ s:'Moonshot · Anthropic · Thinking Machines · Ant · ThursdAI'},
+{id:'s2',cat:'sec',t:'AI found so many bugs that patching became the bottleneck',
+ b:'Oracle: <b>1,449 patches</b> in July vs 309 last year. Microsoft: a record 570. Chrome: 429. NVD: <b>45,207 flaws by 28 July</b> — near 2025\'s full-year total. Disclosure-to-exploit time collapsed from ~72 to ~24 hours.',
+ w:'Compressed timelines → less patch testing → less stable patches → slower deployment → a <i>wider</i> exposure window than before. <b>The tooling improved and the outcome got worse.</b> Optimising one link in a chain with other links. Quarterly patching was standard for two decades; it became inadequate in eighteen months.',
+ s:'Oracle · Krebs · The Register · CyberScoop'},
+{id:'s3',cat:'build',t:'"2x, not 10x" — practitioners quietly moved the goalposts',
+ b:'HN\'s most-discussed essay argues 2026\'s unlock was <b>reliability</b>, not intelligence: models crossed the threshold where they run inside automated feedback loops against checkable criteria. After that, model gains yield diminishing returns; the payoff is in retooling around what exists.',
+ w:'A practitioner saying it, not a sceptic — that\'s the divergence. Corroborated by GitHub Trending going all-agents and 65% of a week\'s Indian AI funding landing in 27% of deals. If right: returns accrue to whoever builds the best <i>loops</i>, not the best model. Changes what to invest in and what to learn.',
+ s:'obryant.dev · HN · GitHub Trending'},
+{id:'s4',cat:'india',t:'₹84,084 crore into the seabed',
+ b:'Cabinet approved <b>Samudra Manthan</b>: ₹28,534 cr for offshore seismic data, ₹43,200 cr for 60 deepwater wells, to FY2031. Targets 600+ MMTOE reserve accretion, ~₹1L cr annual import substitution. Also: PM-KISAN extended (₹3.15L cr), Khelo India revamp, 5GW floating solar.',
+ w:'Two-thirds drilling, one-third surveying — the ratio implies either confidence about targets or acceptance that some wells are bets. And it\'s a hydrocarbon commitment through 2031 announced the same week Hormuz is squeezed. Those facts rhyme.',
+ s:'PMO · Deccan Herald · Tribune'},
+{id:'s5',cat:'world',t:'Kyiv: nine dead as strikes hit five districts',
+ b:'Overnight Russian strikes killed at least nine, wounded 27 including four children — hours after a ballistic-missile warning. The UN: June was the deadliest civilian month since April 2022. Separately, WSJ reports US strikes on Iran could run days, energy sites targeted; Ukraine sank a Russian container ship.',
+ w:'Eight days ago Rubio–Lavrov lasted 35 minutes and produced nothing. <b>This is what "produced nothing" looks like with the lag removed.</b> Diplomatic failure has a body count and a short interval.',
+ s:'BBC · Euronews · WSJ'},
+{id:'s6',cat:'mkt',t:'The index is cheap. The midcaps are not.',
+ b:'Nifty 50: ~20.9x trailing — <i>below</i> its 10-yr average of 23.43x. Nifty Midcap 150: <b>33–34x</b>, ~7% above its 7-yr median. Mcap/GDP 130% vs 100% average. FIIs bought $2.3B in July against $49B gone since Dec 2024 — 5% recovered.',
+ w:'"Expensive" and "cheap" are both true depending on the index, and the large-mid gap is the widest in years. Returns likely track 12–15% earnings growth unless flows re-rate. <b>Your book is ~22% mid+small — you own the premium segment.</b>',
+ s:'Business Today · Multibagg · Bloomberg'},
+{id:'s7',cat:'mkt',t:'Bitcoin under $63k as four jurisdictions fold crypto in',
+ b:'BTC broke $63,000 Friday on stalling US legislation and weak Coinbase earnings. Same fortnight: EU moves against sanctions-evasion platforms, UK/Canada tighten ID and stablecoin rules, <b>Japan reclassifies crypto as financial assets</b> — opening the ETF door.',
+ w:'Four jurisdictions, one direction: crypto folded into conventional oversight rather than treated as an exception. Japan\'s reclassification is the tell — "financial asset" brings ETFs, custody and tax as a package. The market is pricing that as cost, not legitimacy.',
+ s:'Bloomberg · The Block · Blockpass'},
+{id:'s8',cat:'sci',t:'A Mars flyby, a time crystal, and a metal that shouldn\'t bend',
+ b:'<b>Psyche</b> completed its Mars gravity assist toward a 2029 metal-asteroid rendezvous — possibly an exposed planetary core. First <b>all-optical photonic time crystal</b> built. A biological <b>obesity→Alzheimer\'s pathway</b> identified. Twisted lasers that read molecular handedness. And a brittle cobalt-aluminium compound made <b>both strong and ductile</b>.',
+ w:'The materials result is the sleeper. Strength vs ductility is the classic trade-off; getting both from a previously useless compound is the kind of quiet result that surfaces in aerospace a decade later.',
+ s:'ScienceDaily · NASA'}];
+
+const VOICES=[
+{who:'Jensen Huang',rl:'CEO, Nvidia — Q1 FY2027 earnings call, 20 May',
+ q:'The buildout of AI factories, the largest infrastructure expansion in human history, is accelerating at extraordinary speed.',
+ ctx:'Revenue that quarter: $81.61B, +85.2% YoY. The maximal bull case, from the man selling the shovels.'},
+{who:'Hugging Face (statement)',rl:'on the OpenAI network breach — BBC, 25 Jul',
+ q:'The hack was done at superhuman speed by an AI with little or no human guidance.',
+ ctx:'The sentence that turns the bugpocalypse from a defender story into a two-sided one.'},
+{who:'Yann LeCun',rl:'AI pioneer — BBC interview, 2 Jul',
+ q:'AI is "not smart" — his new startup is building a more flexible system.',
+ ctx:'The most decorated dissenter from the scaling consensus, now betting his own shop on it. Watch what he ships, not what he says.'},
+{who:'Sam Altman',rl:'CEO, OpenAI — GPT-oss launch',
+ q:'Launched gpt-oss-120b and gpt-oss-20b — OpenAI\'s first open-weight models since GPT-2 in 2019.',
+ ctx:'OpenAI rejoining open-weights after seven years is a competitive response, not a philosophy change. The question is what it says about where moats actually are.'},
+{who:'Charles Woodburn',rl:'CEO, BAE Systems — BBC, 23 Jul',
+ q:'The UK is complacent about the threat of war. The threat of attack has never been higher.',
+ ctx:'Europe\'s biggest defence contractor talking his book — but against the Kyiv and Iran backdrop, the book is selling itself.'},
+{who:'UEFA (statement)',rl:'on FIFA leadership — 1 Aug',
+ q:'Infantino has "failed to deliver" on the promises he made when elected ten years ago.',
+ ctx:'The strongest institutional challenge of his tenure, days after the World Cup privatisation climbdown.'}];
+
+const THREADS=[
+{id:'t1',d:'Thread 01 · day 3 · escalating',t:'Frontier AI pre-review framework',
+ l:'Voluntary US framework — 30-day agency review of frontier models, classified benchmarks, Meta outside. Due 1 Aug.',
+ wf:'Nothing published on deadline. Watch for any lab confirming participation, or a quiet reschedule. Kimi K3 and Inkling shipping the same week sharpens it: a framework covering three US labs, while the largest open releases come from China and startups, covers less than it appears to.'},
+{id:'t2',d:'Thread 02 · day 3 · escalating',t:'Hormuz & the Red Sea',
+ l:'Iran blockading the 21-mile strait carrying ~a fifth of world oil; Houthi assets repositioned on the Red Sea coast.',
+ wf:'WSJ: US strikes may run days, energy sites targeted. Watch tanker insurance and Indian fuel pricing — they move before headlines. Now linked to Samudra Manthan: India funding offshore extraction during a chokepoint squeeze is the same story from the demand side.'},
+{id:'t3',d:'Thread 03 · day 3 · resolves Wednesday',t:'India\'s foreign flow reversal',
+ l:'$2.3B July inflow vs $49B gone since Dec 2024.',
+ wf:'The RBI decision is the first real test of whether July was a turn or a bounce. Watch the guidance, not the rate.'},
+{id:'t4',d:'Thread 04 · day 2',t:'The bugpocalypse',
+ l:'Oracle 1,449 patches; NVD 45,207 flaws; exploit window ~24h; now an autonomous attacker too.',
+ wf:'Whether bug-bounty economics survive. If AI finds most bugs, the human bounty hunter\'s model breaks — an ecosystem being quietly repriced.'},
+{id:'t5',d:'Thread 05 · new',t:'Crypto\'s regulatory folding-in',
+ l:'EU, UK, Canada, Japan — one direction in one fortnight.',
+ wf:'Whether the US market-structure bill clears before August recess.'},
+{id:'t6',d:'Thread 06 · new · your portfolio',t:'The semiconductor overlap',
+ l:'SMH 113% beat NVDA while you hold both plus three more AI wrappers.',
+ wf:'Whether the AI trade keeps broadening beyond Nvidia. If yes, diversified wrappers keep winning and the direct position keeps adding risk without return.'}];
+
+const COV=[['AI & ML','4 releases + agent hack','2 stories','ok'],['Tech / Build','GitHub, HN, 2x-not-10x','1 story','ok'],
+['Markets','valuations, crypto, FII','2 stories','ok'],['Geopolitics','Kyiv, Iran, FIFA','1 story','ok'],
+['India','cabinet, RBI, weather','2 stories','ok'],['Your holdings','Tata, SMH, HUL, RBI','4 items','ok'],
+['Travel','visa-free picks','1 section','ok'],['Indore/Hyd','IMD system + monsoon','2 cards','ok'],
+['Science','5 results','1 story','ok'],['Sport','cricket + football','2 cards; F1 none found','warn'],
+['Creators/YouTube','UNREACHABLE — 8 routes','none','bad'],['Voices/X','API paid + blocked','6 sourced statements','warn']];
+const BLIND=[['AI & ML','arXiv · HuggingFace',88],['Tech','Ars · Verge feeds',75],['Markets','Yahoo · Finnhub · Stooq',65],
+['Geopolitics','Al Jazeera · GDELT',70],['India','Livemint · Hindu · ET · MC',45],['Finance','live quotes',60],
+['Holdings','live stock prices',55],['Travel','no feeds',30],['Local','Open-Meteo · local press',35],
+['Science','arXiv · Nature',60],['Psych/Health','podcasts · Substacks',25],['Creators','everything — 8 routes',5],['Reddit','JSON API',30]];
+
+/* ================= STATE ================= */
+const K='daily_v3';
+let ST=JSON.parse(localStorage.getItem(K)||'{}');
+ST.read=ST.read||{};ST.react=ST.react||{};ST.notes=ST.notes||{};ST.dwell=ST.dwell||{};
+ST.visits=ST.visits||[];ST.done=ST.done||{};ST.rate=ST.rate||{};
+/* EDITION GUARD — fixes confirmed cross-edition ID collision bug:
+   without this, tomorrow's s1/m1 inherit today's ratings & read-marks and the
+   learning export mislabels old ratings against new headlines. */
+const EDITION='004';
+if(ST.edition!==EDITION){
+ ST.archive=ST.archive||{};
+ if(ST.edition)ST.archive[ST.edition]={rate:ST.rate,notes:ST.notes,read:ST.read,dwell:ST.dwell,done:ST.done};
+ ST.read={};ST.rate={};ST.dwell={};ST.done={};ST.notes={};
+ ST.edition=EDITION;
+}
+const today='2026-08-01';
+if(!ST.visits.includes(today))ST.visits.push(today);
+const LBL={};MUST.forEach(x=>LBL[x.id]=x.t);STORIES.forEach(x=>LBL[x.id]=x.t);THREADS.forEach(x=>LBL[x.id]=x.t);
+Object.assign(LBL,{hero:'Lead: AI agent hack',sp1:'Cricket: 300+ chases',sp2:'UEFA vs Infantino',lo1:'Indore weather system',
+ lo2:'Hyderabad',fh1:'RBI exposure',fh2:'Tata Motors',fh3:'HUL/FMCG',th1:'Contrarian Corner',th2:'Timeless: Ostrom',
+ th3:'Rabbit hole: code authorship',th4:'Travel picks',think:'One Thing to Think About'});
+const IDCAT={hero:'sec',sp1:'sport',sp2:'sport',lo1:'local',lo2:'local',fh1:'fin',fh2:'fin',fh3:'fin',
+ th1:'think',th2:'think',th3:'think',th4:'think',think:'think'};
+MUST.forEach(m=>IDCAT[m.id]=m.cat);STORIES.forEach(s=>IDCAT[s.id]=s.cat);THREADS.forEach(t=>IDCAT[t.id]='world');
+
+/* server sync — fixes state fragmenting across localhost/LAN/Tailscale origins.
+   POSTs to serve.py; silently falls back to localStorage-only if no server. */
+let pushT;function push(){clearTimeout(pushT);pushT=setTimeout(()=>{
+ fetch('/state',{method:'POST',body:JSON.stringify(ST)}).catch(()=>{});},1200);}
+function save(){localStorage.setItem(K,JSON.stringify(ST));push();render();}
+(async()=>{try{const r=await fetch('/state.json',{cache:'no-store'});
+ if(r.ok){const s=await r.json();
+  if(s&&s.edition===EDITION&&(s.visits||[]).length>=ST.visits.length){ST=s;}
+  else if(s&&s.visits&&s.visits.length>ST.visits.length){ST.visits=s.visits;}
+  localStorage.setItem(K,JSON.stringify(ST));render();}}catch(e){}})();
+function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');
+ setTimeout(()=>t.classList.remove('on'),1600);}
+function days(d){return Math.ceil((new Date(d)-new Date(today+'T00:00:00'))/864e5);}
+['2026-08-18','2026-08-05','2026-08-12','2026-08-31'].forEach((d,i)=>
+ document.getElementById('cd'+(i+1)).textContent=days(d)+'d');
+document.getElementById('streak').textContent='🔥 '+ST.visits.length+'-day streak';
+
+/* theme */
+const savedTh=ST.theme||'paper';document.body.dataset.th=savedTh;
+document.querySelectorAll('.th').forEach(c=>{c.classList.toggle('on',c.dataset.t===savedTh);
+ c.addEventListener('click',()=>{document.body.dataset.th=c.dataset.t;ST.theme=c.dataset.t;
+  document.querySelectorAll('.th').forEach(x=>x.classList.toggle('on',x===c));save();});});
+
+/* ================= WIDGETS ================= */
+function catTag(c){const [n,v]=CATS[c]||['?','--dim'];
+ return `<span class="cat" style="background:var(${v})">${n}</span>`;}
+function nbox(id){const v=ST.notes[id]||'';
+ return `<div class="nbox ${v?'on':''}" id="n_${id}"><textarea rows="2" placeholder="Your note…"
+  oninput="ST.notes['${id}']=this.value;save()">${v.replace(/</g,'&lt;')}</textarea></div>`;}
+const RATES=['😴','🙂','👍','🔥','🤯'];        // -2 -1/skim +1 +2 +3
+const RWT  =[-50,   5,   35,  70, 110];        // affinity weights
+function rateHTML(id){const cur=ST.rate[id];
+ return `<span class="rate">${RATES.map((e,i)=>
+  `<b class="${cur===i?'on':''}" onclick="rt('${id}',${i})" title="${['skip this stuff','fine','good','great','mind-blown'][i]}">${e}</b>`).join('')}</span>`;}
+function rt(id,i){ST.rate[id]=ST.rate[id]===i?undefined:i;save();}
+function actsHTML(id,extra=''){const r=ST.react[id]||'';
+ const hasNote=ST.notes[id]&&ST.notes[id].trim();
+ return rateHTML(id)+`<button class="btn star ${r==='star'?'on':''}" onclick="rx('${id}','star')">★ Follow</button>
+  <button class="btn ${hasNote?'on':''}" onclick="document.getElementById('n_${id}').classList.toggle('on')">✎ ${hasNote?'Noted':'Note'}</button>${extra}`;}
+function fillActs(id,extra=''){const el=document.getElementById('act_'+id);
+ if(el)el.innerHTML=actsHTML(id,extra)+nbox(id);}
+function rx(id,v){ST.react[id]=ST.react[id]===v?'':v;save();toast(ST.react[id]?'Noted':'Cleared');}
+function mr(id){ST.read[id]=!ST.read[id];save();}
+
+/* ================= RENDER ================= */
+function render(){
+ let un=0;
+ document.getElementById('mustlist').innerHTML=MUST.map(m=>{const rd=ST.read[m.id];if(!rd)un++;
+  return `<div class="card ${rd?'':'unread'} ${m.p==='p-crit'?'crit':'warn'}" data-track="${m.id}">
+   <div class="hdr"><h3>${m.t}</h3><span>${catTag(m.cat)} <span class="pill ${m.p}">${m.pt}</span></span></div>
+   <p class="sm">${m.b}</p><div class="why"><p class="sm"><b>Why →</b> ${m.w}</p></div>
+   <div class="acts">${actsHTML(m.id,`<button class="btn ${rd?'on':''}" onclick="mr('${m.id}')">${rd?'✓ Read':'Mark read'}</button>`)}</div>${nbox(m.id)}</div>`;}).join('');
+ const b0=document.getElementById('b0');b0.textContent=un;b0.style.display=un?'':'none';
+
+ document.getElementById('storylist').innerHTML=STORIES.map(s=>
+  `<div class="card" data-track="${s.id}"><div class="hdr"><h2 style="margin-top:0">${s.t}</h2>${catTag(s.cat)}</div>
+   <p>${s.b}</p><div class="why"><p><b>Why it matters →</b> ${s.w}</p></div>
+   <div class="src">Sources: ${s.s}</div><div class="acts">${actsHTML(s.id)}</div>${nbox(s.id)}</div>`).join('');
+
+ document.getElementById('voicelist').innerHTML=VOICES.map((v,i)=>
+  `<div class="voice"><div class="who"><span class="nm">${v.who}</span><span class="rl">${v.rl}</span></div>
+   <p class="q">"${v.q}"</p><p class="ctx">${v.ctx}</p></div>`).join('');
+
+ document.getElementById('threads').innerHTML=THREADS.map(t=>
+  `<div class="thread" data-track="${t.id}"><div class="d">${t.d}</div><h4>${t.t}</h4>
+   <p class="sm"><i>Where we left off:</i> ${t.l}</p><p class="sm"><b>Watching for:</b> ${t.wf}</p>
+   <div class="acts">${actsHTML(t.id)}</div>${nbox(t.id)}</div>`).join('');
+
+ ['hero','sp1','sp2','lo1','lo2','fh1','fh2','fh3','th1','th2','th3','th4','think'].forEach(id=>fillActs(id));
+
+ document.getElementById('covtable').innerHTML=COV.map(c=>
+  `<tr><td><b>${c[0]}</b></td><td class="dim">${c[1]}</td><td>${c[2]}</td>
+   <td><span class="pill ${c[3]==='ok'?'p-ok':c[3]==='warn'?'p-hold':'p-crit'}">${c[3]==='ok'?'covered':c[3]==='warn'?'thin':'hole'}</span></td></tr>`).join('');
+ document.getElementById('blindtable').innerHTML=BLIND.map(b=>{
+  const col=b[2]>=70?'var(--green)':b[2]>=45?'var(--gold)':'var(--red)';
+  return `<tr><td><b>${b[0]}</b></td><td class="sm" style="color:var(--red)">${b[1]}</td>
+   <td class="r"><span class="bar"><i style="width:${b[2]}%;background:${col}"></i></span> <b style="color:${col}">${b[2]}%</b></td></tr>`;}).join('');
+
+ renderDNA();renderStretch();renderDone();renderNotes();
+}
+
+/* ================= LEARNING ================= */
+function scores(){const sc={};
+ for(const[id,secs]of Object.entries(ST.dwell)){const c=IDCAT[id];if(!c)continue;sc[c]=(sc[c]||0)+Math.min(secs,180)*0.5;}
+ for(const[id,i]of Object.entries(ST.rate)){if(i===undefined)continue;const c=IDCAT[id];if(!c)continue;
+  sc[c]=(sc[c]||0)+RWT[i];}                                   // explicit ratings dominate
+ for(const[id,v]of Object.entries(ST.react)){if(v==='star'){const c=IDCAT[id];if(c)sc[c]=(sc[c]||0)+60;}}
+ for(const[id,v]of Object.entries(ST.notes)){if(!v||!v.trim()||['dailynote','watchnote'].includes(id))continue;
+  const c=IDCAT[id];if(c)sc[c]=(sc[c]||0)+90;}                // notes are the strongest signal
+ for(const c in sc)sc[c]=Math.max(sc[c],0);
+ return sc;}
+function renderDNA(){const sc=scores();const tot=Object.values(sc).reduce((a,b)=>a+b,0);
+ const box=document.getElementById('dnabox');
+ if(!tot){box.innerHTML='<p class="sm dim">Read a few stories and this fills in — affinity computed from time spent, reactions and notes.</p>';return;}
+ const rows=Object.entries(sc).sort((a,b)=>b[1]-a[1]).map(([c,v])=>{
+  const [n,cv]=CATS[c]||[c,'--dim'];const pct=Math.round(v/tot*100);
+  return `<div class="hbar"><span class="lb">${n}</span><span class="tr"><i style="width:${pct}%;background:var(${cv})"></i></span><span class="vl">${pct}%</span></div>`;}).join('');
+ box.innerHTML=rows+`<p class="xs dim" style="margin:8px 0 0">Computed from dwell time (capped 3min/story) + reactions + notes. Exported with your feedback so editions tune to behaviour, not just stated preference.</p>`;
+ const t=Object.values(ST.dwell).reduce((a,b)=>a+b,0);
+ document.getElementById('st_read').textContent=Object.keys(ST.dwell).length;
+ document.getElementById('st_time').textContent=Math.round(t/60)+'m';
+ document.getElementById('st_react').textContent=Object.values(ST.react).filter(Boolean).length;
+ document.getElementById('st_notes').textContent=Object.entries(ST.notes).filter(([k,v])=>v&&v.trim()).length;}
+function renderStretch(){const sc=scores();const cats=['ai','world','india','mkt','build','sci','sport','think'];
+ const low=cats.sort((a,b)=>(sc[a]||0)-(sc[b]||0))[0];
+ const target=STORIES.find(s=>s.cat===low&&!ST.dwell[s.id])||STORIES.find(s=>!ST.dwell[s.id]);
+ document.getElementById('stretchbox').innerHTML=target?
+  `<div class="nudge"><h4>🧗 Stretch read — forced perspective</h4>
+   <p class="sm" style="margin:0 0 4px">You've spent least time in <b>${(CATS[low]||['that'])[0]}</b>. The system's job isn't just to feed your tastes — it's to keep you wide. Today's stretch: <b>${target.t}</b> (Stories tab).</p></div>`:'';}
+function renderDone(){const read=Object.keys(ST.dwell).length;const total=STORIES.length+MUST.length;
+ const un=MUST.filter(m=>!ST.read[m.id]).length;
+ document.getElementById('donebox').innerHTML=ST.done[today]
+  ?`<div class="done"><h4>✅ Edition closed</h4><p class="sm" style="margin:0">You engaged with ${read} items${un?` — but <b>${un} must-know item${un>1?'s':''} still unread</b>`:' and cleared every must-know item'}. See the You tab for your reading DNA.</p></div>`
+  :`<div class="done"><h4>Close the loop</h4><p class="sm">When you're finished, close the edition — you'll get a summary of what you covered and what you skipped, and the unread check runs one last time.</p>
+    <button class="btn primary" onclick="ST.done['${today}']=1;save();toast(${un}? '${un} must-know still unread!':'Edition closed — clean sweep')">I'm done for today</button></div>`;}
+function renderNotes(){const rs=Object.entries(ST.react).filter(([,v])=>v);
+ const ns=Object.entries(ST.notes).filter(([k,v])=>v&&v.trim()&&!['dailynote','watchnote'].includes(k));
+ const b8=document.getElementById('b8');b8.textContent=rs.length+ns.length;b8.style.display=(rs.length+ns.length)?'':'none';
+ document.getElementById('notesummary').innerHTML=(rs.length||ns.length)
+  ?`<table><thead><tr><th>Item</th><th>Reaction</th><th>Note</th></tr></thead><tbody>`+
+   [...new Set([...rs.map(r=>r[0]),...ns.map(n=>n[0])])].map(id=>
+    `<tr><td class="sm">${LBL[id]||id}</td><td>${ST.react[id]?`<span class="pill p-ok">${ST.react[id]}</span>`:'—'}</td>
+     <td class="sm dim">${(ST.notes[id]||'—').replace(/</g,'&lt;')}</td></tr>`).join('')+'</tbody></table>'
+  :'<p class="sm dim">Nothing yet — react or annotate anywhere and it collects here.</p>';}
+
+/* dwell tracking */
+let lastAct=Date.now();
+['scroll','touchstart','pointermove','keydown'].forEach(e=>
+ addEventListener(e,()=>lastAct=Date.now(),{passive:true}));
+setInterval(()=>{
+ if(document.hidden)return;                       // tab not visible: no credit
+ if(Date.now()-lastAct>30000)return;              // idle >30s: phone left open, no credit
+ let best=null,bd=1e9;                            // credit only the most-centered card
+ document.querySelectorAll('[data-track]').forEach(el=>{
+  const r=el.getBoundingClientRect();
+  if(r.top<window.innerHeight*0.8&&r.bottom>window.innerHeight*0.2){
+   const d=Math.abs((r.top+r.bottom)/2-window.innerHeight/2);
+   if(d<bd){bd=d;best=el.dataset.track;}}});
+ if(best){ST.dwell[best]=(ST.dwell[best]||0)+3;
+  localStorage.setItem(K,JSON.stringify(ST));push();}},3000);
+
+/* notes fields */
+['dailynote','watchnote'].forEach(id=>{const el=document.getElementById(id);
+ el.value=ST.notes[id]||'';el.addEventListener('input',()=>{ST.notes[id]=el.value;
+  localStorage.setItem(K,JSON.stringify(ST));renderNotes();renderDNA();});});
+
+/* export */
+function exportNotes(){const sc=scores();const tot=Object.values(sc).reduce((a,b)=>a+b,0)||1;
+ let o=['DIGEST FEEDBACK — Edition 004, 1 Aug 2026','='.repeat(46),''];
+ o.push('READING DNA (behavioural)');
+ Object.entries(sc).sort((a,b)=>b[1]-a[1]).forEach(([c,v])=>
+  o.push(`  ${(CATS[c]||[c])[0]}: ${Math.round(v/tot*100)}%`));
+ o.push(`  Total reading time: ${Math.round(Object.values(ST.dwell).reduce((a,b)=>a+b,0)/60)} min`,'');
+ const rts=Object.entries(ST.rate).filter(([,v])=>v!==undefined);
+ if(rts.length){o.push('RATINGS (😴skip ·🙂fine ·👍good ·🔥great ·🤯mind-blown)');
+  rts.forEach(([id,i])=>o.push(`  [${RATES[i]}] ${LBL[id]||id}`));o.push('');}
+ const rs=Object.entries(ST.react).filter(([,v])=>v);
+ if(rs.length){o.push('FOLLOWS');rs.forEach(([id,v])=>o.push(`  [${v.toUpperCase()}] ${LBL[id]||id}`));o.push('');}
+ const ns=Object.entries(ST.notes).filter(([k,v])=>v&&v.trim()&&!['dailynote','watchnote'].includes(k));
+ if(ns.length){o.push('PER-ITEM NOTES');ns.forEach(([id,v])=>o.push(`  • ${LBL[id]||id}\n    "${v.trim()}"`));o.push('');}
+ if((ST.notes.dailynote||'').trim())o.push('DAILY NOTE','  '+ST.notes.dailynote.trim(),'');
+ if((ST.notes.watchnote||'').trim())o.push('WATCHLIST ADDITIONS','  '+ST.notes.watchnote.trim(),'');
+ o.push(`UNREAD MUST-KNOW: ${MUST.filter(m=>!ST.read[m.id]).length} of ${MUST.length}`,
+  `STREAK: ${ST.visits.length} days`);
+ const txt=o.join('\n');
+ navigator.clipboard.writeText(txt).then(()=>toast('Copied — paste into chat')).catch(()=>{
+  const t=document.createElement('textarea');t.value=txt;document.body.appendChild(t);t.select();
+  document.execCommand('copy');t.remove();toast('Copied — paste into chat');});}
+function clearAll(){if(confirm('Reset ALL data — notes, reactions, reading history, streak?')){
+ ST={read:{},react:{},notes:{},dwell:{},visits:[today],done:{},theme:ST.theme};
+ localStorage.setItem(K,JSON.stringify(ST));
+ document.getElementById('dailynote').value='';document.getElementById('watchnote').value='';
+ render();toast('Reset');}}
+
+/* nav */
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{
+ document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+ document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
+ t.classList.add('on');document.getElementById('p'+t.dataset.p).classList.add('on');
+ window.scrollTo({top:0,behavior:'smooth'});}));
+render();
+</script>
+</body>
+</html>

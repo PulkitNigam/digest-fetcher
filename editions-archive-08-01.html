@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Daily — 1 August 2026</title><style>
+:root{--bg:#0f1113;--card:#16191c;--ink:#e8e6e3;--dim:#9aa0a6;--line:#262b30;
+--accent:#e0704a;--accent2:#5b9dd9;--gold:#d4a843;--green:#6aa84f;--red:#e06c6c;--lag:#3a3122}
+@media (prefers-color-scheme: light){:root{--bg:#faf9f7;--card:#fff;--ink:#1a1a1a;--dim:#5f5f5f;--line:#e5e2dd;--lag:#fdf5e0}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:880px;margin:0 auto;padding:28px 18px 80px}
+header{border-bottom:2px solid var(--ink);padding-bottom:14px}
+.masthead{font-size:32px;font-weight:800;letter-spacing:-1.2px;margin:0}
+.sub{color:var(--dim);font-size:13px;margin-top:5px;display:flex;flex-wrap:wrap;gap:14px}
+.tabs{display:flex;gap:6px;margin:20px 0 8px;position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:20;border-bottom:1px solid var(--line)}
+.tab{flex:1;padding:12px 16px;border:1px solid var(--line);border-radius:8px;cursor:pointer;
+ font-weight:700;font-size:14px;text-align:center;color:var(--dim);background:transparent;transition:.15s}
+.tab:hover{color:var(--ink)}
+.tab.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.pane{display:none}.pane.on{display:block}
+.kicker{font-size:11px;letter-spacing:1.6px;text-transform:uppercase;color:var(--accent);font-weight:700;
+ margin:34px 0 10px;border-top:1px solid var(--line);padding-top:18px}
+.kicker.g{color:var(--gold)}
+h2{font-size:22px;line-height:1.3;margin:20px 0 8px;letter-spacing:-0.4px}
+h3{font-size:17px;margin:26px 0 8px;letter-spacing:-0.2px;color:var(--ink)}
+p{margin:0 0 12px}
+a{color:var(--accent2);text-decoration:none;border-bottom:1px solid rgba(91,157,217,.35)}
+.why{border-left:3px solid var(--accent);padding:8px 0 8px 14px;background:linear-gradient(90deg,rgba(224,112,74,.07),transparent);margin:12px 0}
+.why b{color:var(--accent)}
+.warn{border-left:3px solid var(--gold);padding:10px 0 10px 14px;background:linear-gradient(90deg,rgba(212,168,67,.09),transparent);margin:14px 0;font-size:14.5px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:14px 0}
+.small,.sm{font-size:13.5px}.dim{color:var(--dim)}
+ul.scan{padding-left:20px}ul.scan li{margin-bottom:8px}
+table{width:100%;border-collapse:collapse;margin:12px 0;font-size:13.5px}
+table.sm{font-size:12.5px}
+th{text-align:left;padding:8px 8px;border-bottom:2px solid var(--line);font-size:11px;
+ text-transform:uppercase;letter-spacing:.8px;color:var(--dim);font-weight:700;white-space:nowrap}
+td{padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+td.r,th.r{text-align:right;white-space:nowrap}
+tr.tot td{border-top:2px solid var(--line);border-bottom:none;font-weight:700;background:rgba(128,128,128,.06)}
+tr.lag{background:var(--lag)}
+.pos{color:var(--green);font-weight:600}.neg{color:var(--red);font-weight:600}
+.fgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:16px 0}
+@media(max-width:700px){.fgrid{grid-template-columns:repeat(2,1fr)}.tabs{position:static}}
+.fbox{border:1px solid var(--line);border-radius:9px;padding:13px 14px;background:var(--card)}
+.fl{font-size:10.5px;text-transform:uppercase;letter-spacing:1px;color:var(--dim);font-weight:700}
+.fv{font-size:22px;font-weight:800;letter-spacing:-.6px;margin:3px 0}
+.fn{font-size:11.5px;color:var(--dim)}
+.bar{height:8px;background:var(--line);border-radius:4px;overflow:hidden;min-width:80px}
+.bar i{display:block;height:100%;background:var(--accent);border-radius:4px}
+.sides{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0}
+@media(max-width:700px){.sides{grid-template-columns:1fr}}
+.side{border:1px solid var(--line);border-radius:8px;padding:13px}
+.side h4{margin:0 0 7px;font-size:11px;letter-spacing:1.2px;text-transform:uppercase}
+.for h4{color:var(--accent2)}.against h4{color:var(--accent)}
+.side p{font-size:14px;margin:0;color:var(--dim)}
+.thread{border-left:2px dashed var(--line);padding-left:14px;margin:12px 0}
+.thread .day{font-size:10.5px;letter-spacing:1px;text-transform:uppercase;color:var(--gold);font-weight:700}
+.hold{border:1px solid var(--line);border-radius:9px;padding:14px 16px;margin:12px 0;background:var(--card)}
+.hold h4{margin:0 0 6px;font-size:15.5px}
+.tag{display:inline-block;font-size:9.5px;letter-spacing:1px;text-transform:uppercase;padding:2px 8px;
+ border-radius:20px;font-weight:700;vertical-align:middle;margin-left:8px}
+.t1{background:rgba(212,168,67,.18);color:var(--gold)}
+.tw{background:rgba(224,112,74,.15);color:var(--accent)}
+.quote{border-left:3px solid var(--gold);padding:12px 0 12px 18px;margin:14px 0;font-size:18px;line-height:1.5;font-style:italic}
+.quote cite{display:block;font-size:12.5px;font-style:normal;color:var(--dim);margin-top:9px}
+.meta{border:1px dashed var(--line);border-radius:8px;padding:13px 15px;margin:16px 0}
+.meta h4{margin:0 0 7px;font-size:10.5px;letter-spacing:1.4px;text-transform:uppercase;color:var(--dim)}
+.meta li{font-size:13px;color:var(--dim);margin-bottom:4px}
+.src{font-size:12px;color:var(--dim);margin-top:6px}
+footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);color:var(--dim);font-size:13px}
+</style></head><body><div class="wrap">
+<header><h1 class="masthead">The Daily</h1>
+<div class="sub"><span>Saturday, 1 August 2026</span><span>Edition 004</span><span>News ~22 min · Finance ~8 min</span></div></header>
+
+<div class="tabs">
+  <button class="tab on" onclick="sw(0)">📰 News Digest</button>
+  <button class="tab" onclick="sw(1)">💰 Finance</button>
+</div>
+
+<div class="pane on" id="p0">
+<p class="small dim">Biggest AI week of the year and almost nobody framed it properly: <b>four significant model releases in seven days</b>, including the largest open-weight model ever shipped. Russia struck Kyiv overnight. Bitcoin broke $63k. And the US framework that was due yesterday still hasn't appeared.</p>
+
+<div class="kicker">The Big One</div>
+<h2>Seven days, four major models — and the largest open-weight release in history</h2>
+<p>The week of 24 July to 1 August produced an unusual cluster of frontier releases:</p>
+<table><thead><tr><th>Model</th><th>Lab</th><th>Date</th><th>What matters</th></tr></thead><tbody>
+<tr><td><b>Kimi K3</b></td><td>Moonshot AI (China)</td><td>27 Jul</td><td><b>2.8 trillion parameters, ~1.4TB of weights</b> at MXFP4 quantisation. Largest open-weight release ever shipped.</td></tr>
+<tr><td><b>Claude Opus 5</b></td><td>Anthropic</td><td>24 Jul</td><td>1M-token context. $5/$25 per million tokens standard, $10/$50 fast mode. Scored 43.3% on FrontierBench v0.1.</td></tr>
+<tr><td><b>Inkling</b></td><td>Thinking Machines</td><td>Late Jul</td><td>975B total / 41B active MoE, pretrained on <b>45 trillion tokens</b> of text, images, audio and video. <b>Apache 2.0.</b></td></tr>
+<tr><td><b>Ling-3.0-flash</b></td><td>Ant Group (China)</td><td>Late Jul</td><td>124B total / 5.1B active — an efficiency play. Free until 3 August, weights promised after.</td></tr>
+</tbody></table>
+<div class="why"><p><b>Why the framing everyone used is wrong →</b> Coverage treated these as four separate product launches. Read together they show something else: <b>the open-weight frontier is now being set by Chinese labs and independent startups, not US incumbents.</b> Kimi K3 and Ling-3.0 are Chinese. Inkling is Apache 2.0 from a startup. The two largest genuinely open releases of the week came from outside the American majors entirely — and Meta, historically the US open-weight champion, is conspicuously absent from both this list and the government framework we've been tracking.</p></div>
+<p class="small">The parameter counts deserve a caveat: 2.8T total parameters at 1.4TB is not something you run at home, and "open weights" at that scale means open to well-resourced labs and clouds, not to individuals. Openness is becoming a spectrum defined by who can afford the hardware.</p>
+
+<div class="kicker">The World</div>
+<h2>Russia struck Kyiv overnight; at least nine dead</h2>
+<p>Russian strikes hit <b>five districts of Kyiv</b> overnight, killing at least nine and wounding 27, including four children, according to local officials — hours after the mayor had warned of an incoming ballistic missile attack. Seven were killed and 14 wounded in Darnytsky district alone; two killed and eight wounded in Solomiansky, where a five-storey residential building was hit.</p>
+<p>Context that matters: the UN found <b>June was the deadliest month for Ukrainian civilians since April 2022.</b> Both sides have escalated, with Moscow substantially increasing long-range strikes on cities.</p>
+<div class="why"><p><b>Connecting to yesterday →</b> We noted the Rubio–Lavrov meeting in Manila lasted 35 minutes and produced nothing. This is what "produced nothing" looks like eight days later. Diplomatic failure isn't an abstraction with a lag — it has a body count, and the interval between the two is short.</p></div>
+<h3>Iran: strikes may run for days</h3>
+<p>The Wall Street Journal reports, citing sources, that <b>new US strikes on Iran could last several days.</b> Iran has accused the US of "escalating tensions" amid reports of plans to hit energy sites. Against the standing Hormuz blockade we've tracked since edition 001, striking energy infrastructure while a chokepoint is already closed is the escalation path with the widest economic blast radius.</p>
+<h3>FIFA scraps the World Cup privatisation plan</h3>
+<p>Gianni Infantino has abandoned the "FIFA Forward Enterprise" project, which would have sold stakes in the World Cup to private investors including Joshua Kushner. It collapsed under a European boycott threat and internal FIFA opposition. <span class="dim">Rare and worth noting: institutional pushback actually working.</span></p>
+
+<div class="kicker">Money</div>
+<h2>Bitcoin under $63,000 as the US crypto bill stalls</h2>
+<p>Bitcoin fell below <b>$63,000</b> on Friday, with fading momentum behind US market-structure legislation and weak Coinbase earnings pushing speculative money out of risk. Senate Republicans released a fresh draft — self-custody protections retained, federal officials barred from issuing or sponsoring crypto — and senators get one last shot before the August recess.</p>
+<p class="small">Elsewhere in regulation: the <b>EU</b> moved to ban crypto platforms in third countries tied to Russian sanctions evasion. The <b>UK and Canada</b> are rolling out tighter identification, tax-reporting and stablecoin rules. <b>Japan</b> has enacted legislation classifying crypto as financial assets, opening the door to Bitcoin ETFs.</p>
+<div class="why"><p><b>The pattern →</b> Four jurisdictions moved the same direction in one fortnight: crypto folded into conventional financial oversight rather than regulated as a separate category. Japan's reclassification is the tell — "financial asset" is a legal status that brings ETFs, custody rules and tax treatment as a package. The era of crypto as regulatory exception is closing, and the price action suggests the market reads that as cost, not legitimacy.</p></div>
+
+<div class="kicker">India</div>
+<h2>RBI decides Wednesday — and nobody expects a cut</h2>
+<p>The MPC meets 3–5 August, decision on the 5th from Governor Sanjay Malhotra. Of 72 economists in a Reuters survey, <b>68 expect a hold at 5.25%</b>, four expect a 25bp hike, <b>zero expect a cut</b>. Retail inflation hit <b>4.38% in June</b>, above the 4% target — hence the hawkish tail.</p>
+<p>Nuvama's read: guidance matters more than the decision. With a hold near-universally priced, the tradeable information sits in the inflation and liquidity commentary.</p>
+<h3>Valuations: the index is cheap, the midcaps are not</h3>
+<p>Nifty 50 trades at roughly <b>20.9x trailing PE — below</b> its ten-year average of 23.43x. But <b>Nifty Midcap 150 sits at ~33–34x</b>, about 7% above its seven-year median of 31x. Market-cap-to-GDP is 130% against a ten-year average of 100%.</p>
+<div class="why"><p><b>The divergence →</b> "Indian equities are expensive" and "Indian equities are cheap" are both true depending on which index you mean, and the gap between large and mid is the widest it has been in years. Analysts frame 2026 returns as tracking earnings growth of 12–15%, with any re-rating dependent on FII flows — and FIIs pulled <b>$49B since December 2024</b> before July's $2.3B return. That's a 5% recovery of what left.</p></div>
+<h3>Also moving</h3>
+<ul class="scan">
+<li><b>Tata Motors</b> — Gujarat flooding disrupted the Sanand plant and supplier facilities, hitting passenger-vehicle production. Board meets <b>12 August</b> for Q1 FY27 results.</li>
+<li><b>Hindustan Unilever</b> — Q1 results announced 28 July.</li>
+<li><b>RBI proposal</b> — one-time approval for mutual funds, insurers and pension funds to raise bank stakes to 10%. Comments close <b>4 August</b>.</li>
+<li><b>Weather</b> — a low-pressure system sat 260km southeast of Indore on 31 July, tracking west-northwest across west MP. IMD forecast isolated-to-heavy rain. Same system family that flooded Gujarat and stopped the Tata line.</li>
+</ul>
+
+<div class="kicker">Build</div>
+<h2>The stack consolidated; now the argument is about how much it actually helps</h2>
+<p>Yesterday's top Hacker News post — <a href="https://obryant.dev/p/2x-not-10x/">"2x, not 10x: coding with LLMs in 2026"</a> — argued the 2026 unlock wasn't intelligence but <b>reliability</b>: models crossed the threshold where they can run inside automated feedback loops against objectively checkable criteria. Consequence: further model gains yield diminishing productivity returns, and the remaining upside comes from <b>retooling around what already exists.</b></p>
+<p>July's GitHub Trending corroborates it — dominated by <b>agents rather than models</b>. Coding agents, pentesting agents, trading agents, and the plumbing between them. Notably, narrow single-purpose agent skills climbed the weekly star rankings alongside large platforms, which is what a maturing ecosystem looks like: people assembling specific pieces rather than shopping for platforms.</p>
+<div class="why"><p><b>Three unrelated sources, one direction →</b> the essay, the trending data, and the funding pattern (AI took 65% of a week's Indian startup capital across 27% of deals). The centre of gravity has moved from the model to everything around it. If that holds, returns accrue to whoever builds the best loops on today's models — not to whoever has the best model.</p></div>
+<p class="small"><b>Worth your time, free:</b> if you want to understand agentic systems by building, the highest-leverage skill right now isn't prompting — it's <b>loop design</b>: verification criteria, eval harnesses, feedback structure. Langfuse for observability plus any solid eval harness teaches more than another model comparison. <b>Andrej Karpathy's</b> from-scratch LLM videos remain the best free explanation of the internals that exists.</p>
+
+<div class="kicker">Science</div>
+<ul class="scan">
+<li><b>NASA's Psyche completed its Mars flyby</b>, using the planet's gravity to accelerate toward a 2029 rendezvous with a metal-rich asteroid — a body that may be an exposed planetary core.</li>
+<li><b>First all-optical photonic time crystal</b> built, reshaping terahertz light behaviour at extraordinary speed.</li>
+<li><b>Obesity → Alzheimer's pathway</b> — researchers identified a possible biological mechanism, with obesity raising levels of certain fat molecules that travel to the brain.</li>
+<li><b>Twisted laser beams</b> that interact differently with right- and left-handed molecules, identifying chirality through fragmentation patterns.</li>
+<li><b>Brittle made bendable</b> — engineers turned a notoriously brittle cobalt-aluminium compound into a material both very strong and ductile.</li>
+</ul>
+
+<div class="kicker">One Number</div>
+<div class="card" style="text-align:center">
+<div style="font-size:42px;font-weight:800;letter-spacing:-2px;color:var(--gold);line-height:1.1">1.4 TB</div>
+<p style="margin-top:8px"><b>The size of Kimi K3's open weights.</b></p>
+<p class="small dim" style="margin:0">2.8 trillion parameters, released free. To put it in perspective: that is larger than the entire text of English Wikipedia by roughly two orders of magnitude, and it is a single downloadable artefact. "Open" now describes the licence, not the accessibility — nobody runs this on a laptop.</p>
+</div>
+
+<div class="kicker">Storylines</div>
+<div class="thread"><div class="day">Thread 01 · day 3 · escalating</div><p><b>Frontier AI pre-review.</b> Deadline passed 1 Aug, nothing published. <b>Watching for:</b> any lab confirming participation, or a quiet reschedule. Kimi K3 and Inkling shipping the same week sharpens the question — a US framework covering three American labs while the largest open releases come from China and startups covers less than it appears to.</p></div>
+<div class="thread"><div class="day">Thread 02 · day 3 · escalating</div><p><b>Hormuz &amp; Red Sea.</b> WSJ reports US strikes on Iran may run several days; energy sites reportedly targeted. <b>Watching for:</b> tanker insurance rates and Indian fuel pricing.</p></div>
+<div class="thread"><div class="day">Thread 03 · day 3 · resolves Wednesday</div><p><b>India's foreign flow reversal.</b> $2.3B July inflow against $49B that left since Dec 2024. <b>Watching for:</b> RBI guidance on the 5th.</p></div>
+<div class="thread"><div class="day">Thread 04 · day 2</div><p><b>The bugpocalypse.</b> Oracle 1,449 patches, exploit window down to ~24 hours. <b>Watching for:</b> whether bug bounty economics survive.</p></div>
+<div class="thread"><div class="day">Thread 05 · new</div><p><b>Crypto's regulatory folding-in.</b> EU, UK, Canada and Japan all moved in one fortnight. <b>Watching for:</b> whether the US market-structure bill clears before the August recess.</p></div>
+
+<div class="kicker">The Contrarian Corner</div>
+<p><b>Consensus:</b> open-weight models democratise AI and erode the frontier labs' advantage.</p>
+<p><b>The steelman against:</b> Kimi K3 is 1.4TB. Inkling was pretrained on 45 trillion tokens. Running or fine-tuning either requires infrastructure only a few hundred organisations on earth possess. The <b>licence</b> is open; the <b>capability</b> is not. Arguably open-weight releases at this scale <i>strengthen</i> incumbents — they commoditise the model layer, where challengers might have competed, while leaving compute and distribution, where incumbents are unassailable, untouched. Meta's absence from both the open releases and the US framework may be the most informative datapoint of the week. <span class="dim">The counter: three years ago the best open model was far behind the best closed one, and that gap has narrowed sharply. Democratisation may simply run on a longer clock than a single week can show.</span></p>
+
+<div class="kicker">One Thing to Think About</div>
+<div class="card">
+<p style="font-size:18px;margin-bottom:10px"><b>When something is described as "open," open to whom?</b></p>
+<p class="small dim" style="margin:0">Kimi K3's weights are free to download and effectively impossible for an individual to use. That isn't a contradiction — it's what openness looks like once the artefact gets large enough that access is bounded by capital rather than permission. The same structure shows up everywhere: open data needing infrastructure to query, open standards needing membership fees to influence, open-source software needing full-time staff to deploy. The useful question is never "is this open?" but "what does using it require, and who has that?" Formal access and practical access diverge quietly, and the gap between them is where most power sits.</p>
+</div>
+
+<div class="meta"><h4>Coverage check</h4><ul>
+<li><b>Pre-flight:</b> all daily categories searched. Travel and sports had nothing worth reporting today and were skipped deliberately, not by omission.</li>
+<li><b>Triggers hit:</b> RBI within 7 days ✓ · Tier-1 holding news (Tata Motors, SMH/NVDA) ✓ · frontier model releases ✓ · Indore weather ✓</li>
+<li><b>Post-build sweep:</b> Mint, Moneycontrol, Business Today, Euronews, Times of Israel. <b>Reuters returned nothing usable for today</b> — sweep ran one source short.</li>
+<li><b>Retrospective:</b> edition 002 held up. The India competitiveness correction was right; no outlet has reframed it since.</li>
+<li><b>Still unresolved:</b> Microsoft's July patch count — 570 (Krebs) vs 642 (other sources). Carried from yesterday.</li>
+<li><b>Unavailable:</b> Economic Times, blocked at tool level.</li>
+</ul></div>
+</div>
+<div class="pane" id="p1">
+<div class="kicker g">Portfolio snapshot</div>
+<div class="fgrid">
+<div class="fbox"><div class="fl">True total value</div><div class="fv">₹2,600,034</div><div class="fn">incl. US book @ ₹88.0/$</div></div>
+<div class="fbox"><div class="fl">Total invested</div><div class="fv">₹2,297,742</div><div class="fn">approx, US cost est.</div></div>
+<div class="fbox"><div class="fl">Unrealised P&amp;L</div><div class="fv pos">+₹302,292</div><div class="fn">+13.2% overall</div></div>
+<div class="fbox"><div class="fl">Holdings</div><div class="fv">61</div><div class="fn">23 funds · 19 IN · 19 US</div></div>
+</div>
+<p class="warn"><b>Two corrections to your sheet.</b> The original TOTAL row (₹22,18,723) <b>excluded the entire US portfolio</b> — MF + Indian stocks + bonds sums to exactly that. True total is ₹2,600,034. And all prices are dated <b>21 July 2026</b>, so treat every figure here as a snapshot, not a live quote.</p>
+<h3>Asset class split</h3><table><thead><tr><th>Asset class</th><th>Platform</th><th class="r">Invested (₹)</th><th class="r">Current (₹)</th><th class="r">P&amp;L (₹)</th><th class="r">P&amp;L %</th><th class="r">% of total</th></tr></thead><tbody>
+<tr><td><b>Indian Mutual Funds</b></td><td class="dim">Groww + External</td><td class="r">1,476,904</td><td class="r">1,745,922</td><td class="r">269,018</td><td class="r"><span class="pos">+18.2%</span></td><td class="r">67.1%</td></tr>
+<tr><td><b>Indian Stocks & ETFs</b></td><td class="dim">Groww</td><td class="r">251,462</td><td class="r">282,802</td><td class="r">31,340</td><td class="r"><span class="pos">+12.5%</span></td><td class="r">10.9%</td></tr>
+<tr><td><b>Indian Bonds</b></td><td class="dim">INDmoney</td><td class="r">188,072</td><td class="r">190,000</td><td class="r">1,928</td><td class="r"><span class="pos">+1.0%</span></td><td class="r">7.3%</td></tr>
+<tr><td><b>US Stocks & ETFs</b></td><td class="dim">INDmoney</td><td class="r">381,305</td><td class="r">381,310</td><td class="r">5</td><td class="r"><span class="pos">+0.0%</span></td><td class="r">14.7%</td></tr>
+<tr class="tot"><td colspan="2"><b>TOTAL</b></td><td class="r">2,297,742</td><td class="r">2,600,034</td><td class="r">302,292</td><td class="r"><span class="pos">+13.2%</span></td><td class="r">100%</td></tr></tbody></table>
+<h3>Look-through: your real US-tech exposure</h3>
+<table><thead><tr><th>Wrapper</th><th>What it holds</th><th class="r">Value (₹)</th><th class="r">% of total</th></tr></thead><tbody>
+<tr><td><b>Mirae FANG+ ETF (India-listed)</b></td><td class="dim">US megacap tech basket</td><td class="r">84,236</td><td class="r">3.2%</td></tr>
+<tr><td><b>Direct US stocks</b></td><td class="dim">AAPL · GOOGL · META · MSFT · NVDA · AMZN</td><td class="r">154,352</td><td class="r">5.9%</td></tr>
+<tr><td><b>SMH ETF</b></td><td class="dim">Semiconductors (NVDA is only 8.4% of it)</td><td class="r">51,216</td><td class="r">2.0%</td></tr>
+<tr><td><b>ROBO + AIEQ ETFs</b></td><td class="dim">AI &amp; robotics baskets</td><td class="r">52,557</td><td class="r">2.0%</td></tr>
+<tr class="tot"><td colspan="2"><b>TOTAL US-TECH CLUSTER</b></td><td class="r">342,361</td><td class="r">13.2%</td></tr></tbody></table>
+<p class="why"><b>The point →</b> No single line looks large. Aggregated this is <b>₹342,361, 13.2% of everything you own</b>, concentrated in roughly ten companies — and it is your biggest position by a distance. It is also the same bet the AI-trade coverage in the news tab keeps circling.</p>
+<h3>Mutual funds — all 23 holdings</h3><table class="sm"><thead><tr><th>Scheme</th><th>AMC</th><th>Sub-category</th><th class="r">Invested</th><th class="r">Current</th><th class="r">Return %</th><th class="r">XIRR</th></tr></thead><tbody>
+<tr><td>Aditya Birla SL Credit Risk Fund Direct Growth</td><td class="dim">ABSL</td><td class="dim">Credit Risk</td><td class="r">135,993</td><td class="r">150,677</td><td class="r"><span class="pos">+10.8%</span></td><td class="r"><span class="pos">+13.0%</span></td></tr>
+<tr><td>Mirae Asset Large Cap Fund Growth</td><td class="dim">Mirae Asset</td><td class="dim">Large Cap</td><td class="r">116,994</td><td class="r">119,803</td><td class="r"><span class="pos">+2.4%</span></td><td class="r"><span class="pos">+2.3%</span></td></tr>
+<tr class="lag"><td>HDFC Dividend Yield Fund Growth</td><td class="dim">HDFC</td><td class="dim">Thematic</td><td class="r">116,994</td><td class="r">119,211</td><td class="r"><span class="pos">+1.9%</span></td><td class="r"><span class="pos">+1.8%</span></td></tr>
+<tr class="lag"><td>ICICI Pru Large Cap Fund Growth</td><td class="dim">ICICI Pru</td><td class="dim">Large Cap</td><td class="r">116,994</td><td class="r">118,256</td><td class="r"><span class="pos">+1.1%</span></td><td class="r"><span class="pos">+1.0%</span></td></tr>
+<tr><td>ICICI Pru Nifty 50 Index Fund Growth</td><td class="dim">ICICI Pru</td><td class="dim">Large Cap</td><td class="r">96,595</td><td class="r">115,474</td><td class="r"><span class="pos">+19.5%</span></td><td class="r"><span class="pos">+7.0%</span></td></tr>
+<tr><td>Mirae Asset Midcap Fund Growth</td><td class="dim">Mirae Asset</td><td class="dim">Mid Cap</td><td class="r">72,446</td><td class="r">106,766</td><td class="r"><span class="pos">+47.4%</span></td><td class="r"><span class="pos">+15.8%</span></td></tr>
+<tr><td>Tata Small Cap Fund Growth</td><td class="dim">Tata</td><td class="dim">Small Cap</td><td class="r">84,521</td><td class="r">106,658</td><td class="r"><span class="pos">+26.2%</span></td><td class="r"><span class="pos">+9.2%</span></td></tr>
+<tr><td>Templeton India Value Fund Growth</td><td class="dim">Franklin Templeton</td><td class="dim">Value</td><td class="r">84,521</td><td class="r">104,293</td><td class="r"><span class="pos">+23.4%</span></td><td class="r"><span class="pos">+8.3%</span></td></tr>
+<tr><td>ICICI Pru Dividend Yield Equity Fund Growth</td><td class="dim">ICICI Pru</td><td class="dim">Thematic</td><td class="r">72,446</td><td class="r">101,873</td><td class="r"><span class="pos">+40.6%</span></td><td class="r"><span class="pos">+13.8%</span></td></tr>
+<tr><td>UTI Aggressive Hybrid Fund Plan Growth</td><td class="dim">UTI</td><td class="dim">Aggressive Hybrid</td><td class="r">72,447</td><td class="r">93,426</td><td class="r"><span class="pos">+29.0%</span></td><td class="r"><span class="pos">+10.1%</span></td></tr>
+<tr><td>Kotak Contra Fund Growth</td><td class="dim">Kotak</td><td class="dim">Value</td><td class="r">87,736</td><td class="r">92,176</td><td class="r"><span class="pos">+5.1%</span></td><td class="r"><span class="pos">+4.9%</span></td></tr>
+<tr class="lag"><td>Motilal Oswal Midcap Fund Growth</td><td class="dim">Motilal Oswal</td><td class="dim">Mid Cap</td><td class="r">87,736</td><td class="r">87,904</td><td class="r"><span class="pos">+0.2%</span></td><td class="r"><span class="pos">+0.2%</span></td></tr>
+<tr><td>PGIM India Dynamic Bond Fund Direct Growth</td><td class="dim">PGIM India</td><td class="dim">Dynamic Bond</td><td class="r">76,496</td><td class="r">80,519</td><td class="r"><span class="pos">+5.3%</span></td><td class="r"><span class="pos">+4.3%</span></td></tr>
+<tr><td>Quant ELSS Tax Saver Fund Direct Growth</td><td class="dim">Quant</td><td class="dim">ELSS</td><td class="r">38,998</td><td class="r">73,029</td><td class="r"><span class="pos">+87.3%</span></td><td class="r"><span class="pos">+20.3%</span></td></tr>
+<tr><td>Invesco India Mid Cap Fund Growth</td><td class="dim">Invesco</td><td class="dim">Mid Cap</td><td class="r">58,497</td><td class="r">68,159</td><td class="r"><span class="pos">+16.5%</span></td><td class="r"><span class="pos">+15.6%</span></td></tr>
+<tr><td>Parag Parikh ELSS Tax Saver Fund Direct Growth</td><td class="dim">PPFAS</td><td class="dim">ELSS</td><td class="r">39,998</td><td class="r">61,921</td><td class="r"><span class="pos">+54.8%</span></td><td class="r"><span class="pos">+13.7%</span></td></tr>
+<tr><td>Nippon India Low Duration Fund Direct Growth</td><td class="dim">Nippon India</td><td class="dim">Low Duration</td><td class="r">50,994</td><td class="r">53,141</td><td class="r"><span class="pos">+4.2%</span></td><td class="r"><span class="pos">+6.4%</span></td></tr>
+<tr><td>Kotak ELSS Tax Saver Fund Direct Growth</td><td class="dim">Kotak</td><td class="dim">ELSS</td><td class="r">22,999</td><td class="r">38,419</td><td class="r"><span class="pos">+67.0%</span></td><td class="r"><span class="pos">+16.5%</span></td></tr>
+<tr><td>Bandhan ELSS Tax Saver Fund Direct Plan Growth</td><td class="dim">Bandhan</td><td class="dim">ELSS</td><td class="r">14,999</td><td class="r">23,998</td><td class="r"><span class="pos">+60.0%</span></td><td class="r"><span class="pos">+14.5%</span></td></tr>
+<tr><td>Aditya Birla SL Credit Risk Fund Direct Growth (2)</td><td class="dim">ABSL</td><td class="dim">Credit Risk</td><td class="r">8,500</td><td class="r">10,507</td><td class="r"><span class="pos">+23.6%</span></td><td class="r"><span class="pos">+15.2%</span></td></tr>
+<tr class="lag"><td>ICICI Pru BHARAT 22 FOF Direct Growth</td><td class="dim">ICICI Pru</td><td class="dim">Thematic</td><td class="r">10,000</td><td class="r">10,378</td><td class="r"><span class="pos">+3.8%</span></td><td class="r"><span class="pos">+1.8%</span></td></tr>
+<tr class="lag"><td>Quant Mid Cap Fund Direct Growth</td><td class="dim">Quant</td><td class="dim">Mid Cap</td><td class="r">10,000</td><td class="r">9,334</td><td class="r"><span class="neg">-6.7%</span></td><td class="r"><span class="neg">-3.2%</span></td></tr>
+<tr class="lag"><td>Scheme Name</td><td class="dim">AMC</td><td class="dim">Sub-category</td><td class="r">0</td><td class="r">0</td><td class="r"><span class="pos">+0.0%</span></td><td class="r"><span class="pos">+0.0%</span></td></tr>
+<tr class="tot"><td colspan="3"><b>TOTAL — book XIRR 9.64%</b></td><td class="r">1,476,904</td><td class="r">1,745,922</td><td class="r"><span class="pos">+18.2%</span></td><td class="r">—</td></tr></tbody></table>
+<p class="dim sm">Rows shaded amber have XIRR under 2%.</p>
+<h3>Indian stocks &amp; ETFs — all 19 holdings</h3><table class="sm"><thead><tr><th>Stock</th><th class="r">Qty</th><th class="r">Avg buy</th><th class="r">CMP</th><th class="r">Invested</th><th class="r">Current</th><th class="r">P&amp;L</th><th class="r">P&amp;L %</th></tr></thead><tbody>
+<tr><td>Mirae Asset FANG+ ETF</td><td class="r">424</td><td class="r">129.02</td><td class="r">198.67</td><td class="r">54,704</td><td class="r">84,236</td><td class="r">29,532</td><td class="r"><span class="pos">+54.0%</span></td></tr>
+<tr><td>SBI ETF PSU Bank</td><td class="r">133</td><td class="r">260.50</td><td class="r">284.72</td><td class="r">34,646</td><td class="r">37,868</td><td class="r">3,221</td><td class="r"><span class="pos">+9.3%</span></td></tr>
+<tr><td>Adani Ports &amp; SEZ</td><td class="r">10</td><td class="r">1,337.31</td><td class="r">1,844.00</td><td class="r">13,373</td><td class="r">18,440</td><td class="r">5,067</td><td class="r"><span class="pos">+37.9%</span></td></tr>
+<tr><td>Hindustan Unilever</td><td class="r">8</td><td class="r">2,371.31</td><td class="r">2,139.70</td><td class="r">18,970</td><td class="r">17,118</td><td class="r">-1,853</td><td class="r"><span class="neg">-9.8%</span></td></tr>
+<tr><td>Axis Bank</td><td class="r">13</td><td class="r">1,032.07</td><td class="r">1,256.00</td><td class="r">13,417</td><td class="r">16,328</td><td class="r">2,911</td><td class="r"><span class="pos">+21.7%</span></td></tr>
+<tr><td>Welspun Living</td><td class="r">96</td><td class="r">151.98</td><td class="r">163.38</td><td class="r">14,590</td><td class="r">15,684</td><td class="r">1,094</td><td class="r"><span class="pos">+7.5%</span></td></tr>
+<tr><td>Affle (India)</td><td class="r">9</td><td class="r">1,684.81</td><td class="r">1,518.30</td><td class="r">15,163</td><td class="r">13,665</td><td class="r">-1,499</td><td class="r"><span class="neg">-9.9%</span></td></tr>
+<tr><td>NTPC Green Energy</td><td class="r">138</td><td class="r">108.00</td><td class="r">91.98</td><td class="r">14,904</td><td class="r">12,693</td><td class="r">-2,211</td><td class="r"><span class="neg">-14.8%</span></td></tr>
+<tr><td>InterGlobe Aviation (IndiGo)</td><td class="r">2</td><td class="r">4,999.50</td><td class="r">5,229.00</td><td class="r">9,999</td><td class="r">10,458</td><td class="r">459</td><td class="r"><span class="pos">+4.6%</span></td></tr>
+<tr><td>Tata Motors</td><td class="r">24</td><td class="r">235.87</td><td class="r">409.35</td><td class="r">5,661</td><td class="r">9,824</td><td class="r">4,164</td><td class="r"><span class="pos">+73.5%</span></td></tr>
+<tr><td>IndusInd Bank</td><td class="r">9</td><td class="r">1,009.29</td><td class="r">1,032.85</td><td class="r">9,084</td><td class="r">9,296</td><td class="r">212</td><td class="r"><span class="pos">+2.3%</span></td></tr>
+<tr class="lag"><td>Tata Motors Pass Veh (demerged)</td><td class="r">24</td><td class="r">521.34</td><td class="r">336.45</td><td class="r">12,512</td><td class="r">8,075</td><td class="r">-4,437</td><td class="r"><span class="neg">-35.5%</span></td></tr>
+<tr class="lag"><td>ITC</td><td class="r">25</td><td class="r">439.00</td><td class="r">282.70</td><td class="r">10,975</td><td class="r">7,068</td><td class="r">-3,908</td><td class="r"><span class="neg">-35.6%</span></td></tr>
+<tr class="lag"><td>Godrej Properties</td><td class="r">3</td><td class="r">2,967.02</td><td class="r">2,118.70</td><td class="r">8,901</td><td class="r">6,356</td><td class="r">-2,545</td><td class="r"><span class="neg">-28.6%</span></td></tr>
+<tr><td>GE Shipping</td><td class="r">4</td><td class="r">1,141.50</td><td class="r">1,387.10</td><td class="r">4,566</td><td class="r">5,548</td><td class="r">982</td><td class="r"><span class="pos">+21.5%</span></td></tr>
+<tr class="lag"><td>Titagarh Rail Systems</td><td class="r">4</td><td class="r">1,134.17</td><td class="r">867.20</td><td class="r">4,537</td><td class="r">3,469</td><td class="r">-1,068</td><td class="r"><span class="neg">-23.5%</span></td></tr>
+<tr><td>Eternal (Zomato)</td><td class="r">12</td><td class="r">258.20</td><td class="r">286.95</td><td class="r">3,098</td><td class="r">3,443</td><td class="r">345</td><td class="r"><span class="pos">+11.1%</span></td></tr>
+<tr><td>Indel Money (Bond/NCD)</td><td class="r">19</td><td class="r">0.00</td><td class="r">100.10</td><td class="r">0</td><td class="r">1,902</td><td class="r">1,902</td><td class="r"><span class="pos">+0.0%</span></td></tr>
+<tr class="lag"><td>IRFC</td><td class="r">15</td><td class="r">157.35</td><td class="r">88.72</td><td class="r">2,360</td><td class="r">1,331</td><td class="r">-1,029</td><td class="r"><span class="neg">-43.6%</span></td></tr>
+<tr class="tot"><td colspan="4"><b>TOTAL</b></td><td class="r">251,462</td><td class="r">282,802</td><td class="r">31,340</td><td class="r"><span class="pos">+12.5%</span></td></tr></tbody></table>
+<h3>US stocks &amp; ETFs — all 19 holdings</h3><table class="sm"><thead><tr><th>Symbol</th><th>Type</th><th>Held since</th><th class="r">Qty</th><th class="r">Avg price $</th><th class="r">Value $</th><th class="r">Value ₹</th></tr></thead><tbody>
+<tr><td><b>SMH</b></td><td class="dim">ETF (Semiconductors)</td><td class="dim">29 Sep 2025</td><td class="r">1.570</td><td class="r">370.69</td><td class="r">582.00</td><td class="r">51,216</td></tr>
+<tr><td><b>ROBO</b></td><td class="dim">ETF (AI/Robotics)</td><td class="dim">29 Sep 2025</td><td class="r">6.780</td><td class="r">71.24</td><td class="r">483.00</td><td class="r">42,504</td></tr>
+<tr><td><b>GOOGL</b></td><td class="dim">Stock (Big Tech)</td><td class="dim">04 Mar 2025</td><td class="r">1.474</td><td class="r">305.91</td><td class="r">451.00</td><td class="r">39,688</td></tr>
+<tr><td><b>META</b></td><td class="dim">Stock (Big Tech)</td><td class="dim">17 Nov 2025</td><td class="r">0.739</td><td class="r">608.64</td><td class="r">450.00</td><td class="r">39,600</td></tr>
+<tr><td><b>NOW</b></td><td class="dim">Stock (SaaS)</td><td class="dim">18 May 2026</td><td class="r">3.950</td><td class="r">106.33</td><td class="r">420.00</td><td class="r">36,960</td></tr>
+<tr><td><b>MSFT</b></td><td class="dim">Stock (Big Tech)</td><td class="dim">04 Mar 2025</td><td class="r">0.980</td><td class="r">420.26</td><td class="r">412.00</td><td class="r">36,256</td></tr>
+<tr><td><b>VTV</b></td><td class="dim">ETF (Value)</td><td class="dim">09 Jun 2026</td><td class="r">1.608</td><td class="r">214.53</td><td class="r">345.00</td><td class="r">30,360</td></tr>
+<tr><td><b>AMZN</b></td><td class="dim">Stock (Big Tech)</td><td class="dim">08 Mar 2025</td><td class="r">0.865</td><td class="r">229.94</td><td class="r">199.00</td><td class="r">17,512</td></tr>
+<tr><td><b>NVDA</b></td><td class="dim">Stock (Semiconductors)</td><td class="dim">04 Mar 2025</td><td class="r">1.066</td><td class="r">161.34</td><td class="r">172.00</td><td class="r">15,136</td></tr>
+<tr><td><b>PLTR</b></td><td class="dim">Stock (AI/Defense)</td><td class="dim">29 Sep 2025</td><td class="r">0.945</td><td class="r">171.32</td><td class="r">161.83</td><td class="r">14,241</td></tr>
+<tr><td><b>AIEQ</b></td><td class="dim">ETF (AI)</td><td class="dim">21 Jan 2025</td><td class="r">2.767</td><td class="r">41.29</td><td class="r">114.24</td><td class="r">10,053</td></tr>
+<tr><td><b>NVO</b></td><td class="dim">Stock (Pharma)</td><td class="dim">17 Nov 2025</td><td class="r">2.045</td><td class="r">48.90</td><td class="r">100.00</td><td class="r">8,800</td></tr>
+<tr><td><b>UNH</b></td><td class="dim">Stock (Healthcare)</td><td class="dim">17 Nov 2025</td><td class="r">0.304</td><td class="r">328.65</td><td class="r">100.00</td><td class="r">8,800</td></tr>
+<tr><td><b>SNOW</b></td><td class="dim">Stock (Data/AI)</td><td class="dim">29 Sep 2025</td><td class="r">0.393</td><td class="r">226.51</td><td class="r">89.00</td><td class="r">7,832</td></tr>
+<tr><td><b>AAPL</b></td><td class="dim">Stock (Big Tech)</td><td class="dim">04 Mar 2025</td><td class="r">0.273</td><td class="r">256.49</td><td class="r">70.00</td><td class="r">6,160</td></tr>
+<tr><td><b>DDOG</b></td><td class="dim">Stock (SaaS)</td><td class="dim">29 Sep 2025</td><td class="r">0.464</td><td class="r">144.42</td><td class="r">67.00</td><td class="r">5,896</td></tr>
+<tr><td><b>CRWD</b></td><td class="dim">Stock (Cybersecurity)</td><td class="dim">29 Sep 2025</td><td class="r">0.547</td><td class="r">122.47</td><td class="r">67.00</td><td class="r">5,896</td></tr>
+<tr><td><b>MELI</b></td><td class="dim">Stock (E-commerce)</td><td class="dim">12 Dec 2025</td><td class="r">0.025</td><td class="r">2,020.56</td><td class="r">50.00</td><td class="r">4,400</td></tr>
+<tr><td><b>Symbol</b></td><td class="dim">Type</td><td class="dim">Holding Since</td><td class="r">0.000</td><td class="r">0.00</td><td class="r">0.00</td><td class="r">0</td></tr>
+<tr class="tot"><td colspan="5"><b>TOTAL</b></td><td class="r">4,333.07</td><td class="r">381,310</td></tr></tbody></table>
+<h3>MF allocation by category</h3><table class="sm"><thead><tr><th>Category</th><th class="r">Invested</th><th class="r">Current</th><th class="r">Weight of MF book</th><th>Share</th></tr></thead><tbody>
+<tr><td>Equity — Large Cap</td><td class="r">330,583</td><td class="r">353,533</td><td class="r">20.2%</td><td><div class="bar"><i style="width:96.4%"></i></div></td></tr>
+<tr><td>Equity — Mid Cap</td><td class="r">228,679</td><td class="r">272,164</td><td class="r">15.6%</td><td><div class="bar"><i style="width:74.2%"></i></div></td></tr>
+<tr><td>Equity — Thematic</td><td class="r">199,440</td><td class="r">231,462</td><td class="r">13.3%</td><td><div class="bar"><i style="width:63.1%"></i></div></td></tr>
+<tr><td>Equity — ELSS</td><td class="r">116,994</td><td class="r">197,366</td><td class="r">11.3%</td><td><div class="bar"><i style="width:53.8%"></i></div></td></tr>
+<tr><td>Equity — Value</td><td class="r">172,257</td><td class="r">196,469</td><td class="r">11.3%</td><td><div class="bar"><i style="width:53.6%"></i></div></td></tr>
+<tr><td>Debt — Credit Risk</td><td class="r">144,493</td><td class="r">161,183</td><td class="r">9.2%</td><td><div class="bar"><i style="width:44.0%"></i></div></td></tr>
+<tr><td>Equity — Small Cap</td><td class="r">84,521</td><td class="r">106,658</td><td class="r">6.1%</td><td><div class="bar"><i style="width:29.1%"></i></div></td></tr>
+<tr><td>Hybrid — Aggressive Hybrid</td><td class="r">72,447</td><td class="r">93,426</td><td class="r">5.4%</td><td><div class="bar"><i style="width:25.5%"></i></div></td></tr>
+<tr><td>Debt — Dynamic Bond</td><td class="r">76,496</td><td class="r">80,519</td><td class="r">4.6%</td><td><div class="bar"><i style="width:22.0%"></i></div></td></tr>
+<tr><td>Debt — Low Duration</td><td class="r">50,994</td><td class="r">53,141</td><td class="r">3.0%</td><td><div class="bar"><i style="width:14.5%"></i></div></td></tr>
+<tr><td>Category</td><td class="r">0</td><td class="r">0</td><td class="r">0.0%</td><td><div class="bar"><i style="width:0.0%"></i></div></td></tr>
+</tbody></table>
+
+<div class="kicker g">News on your holdings</div>
+<div class="hold"><h4>RBI decision Wednesday 5 August <span class="tag tw">4 days</span></h4>
+<p>68 of 72 economists expect a hold at 5.25%; none expect a cut. Inflation 4.38% in June, above target.</p>
+<p class="small dim" style="margin:0"><b>Your exposure:</b> three debt funds (Nippon Low Duration, PGIM Dynamic Bond, ABSL Credit Risk — ~₹2.94L) and three banking positions (Axis, IndusInd, SBI PSU Bank ETF — ~₹63.5k). PGIM Dynamic Bond is your most rate-sensitive line. <i>Nuvama: guidance matters more than the decision.</i></p></div>
+
+<div class="hold"><h4>Tata Motors — Sanand plant hit by flooding <span class="tag t1">Tier 1</span></h4>
+<p>Gujarat flooding disrupted the Sanand plant and supplier facilities, affecting passenger-vehicle production. Board meets <b>12 August</b> for Q1 FY27 results.</p>
+<p class="small dim" style="margin:0">You hold both sides of the demerger: TAMO +73.5%, Tata Motors PV −35.5%. The disruption lands on the PV half — the one already down.</p></div>
+
+<div class="hold"><h4>SMH beat NVDA over twelve months <span class="tag t1">Tier 1</span></h4>
+<p>VanEck Semiconductor ETF returned <b>113.17%</b> in the trailing year to 10 July, outpacing Nvidia itself. Composition: AMD 10.33%, Broadcom 9.57%, Micron 9.39%, TSMC 8.75%, <b>NVDA just 8.40%</b>. Holdings representing 71.4% of fund weight raised forward guidance; 5.3% cut.</p>
+<p class="small dim" style="margin:0"><i>What the market is saying:</i> NVDA ~32x forward earnings, consensus Strong Buy, average target ~$276 (~21% implied upside). Targets are opinion, not forecast.</p></div>
+
+<div class="hold"><h4>Hindustan Unilever — Q1 results out 28 July</h4>
+<p class="small dim" style="margin:0">You hold 8 shares, currently −9.8%. Alongside ITC (−35.6%), both your FMCG positions are underwater. That's a sector observation, not a stock call.</p></div>
+
+<div class="why"><p><b>Sector context for your clusters →</b> Indian midcaps at ~33–34x PE vs Nifty's 20.9x, while your MF book runs ~22% mid+small. FIIs returned $2.3B in July against $49B that left since Dec 2024 — about 5% recovered. US semis broadening beyond Nvidia, which is precisely why your diversified wrappers outperformed your direct position.</p></div>
+
+<div class="kicker g">Action calendar</div>
+<table><thead><tr><th>Date</th><th class="r">Days</th><th>Item</th><th class="r">Amount</th><th>What it means</th></tr></thead><tbody>
+<tr class="lag"><td><b>05 Aug</b></td><td class="r">4</td><td>RBI MPC decision</td><td class="r">—</td><td>Touches 3 debt funds + 3 banking positions</td></tr>
+<tr class="lag"><td><b>18 Aug</b></td><td class="r">17</td><td><b>Indel Aug'26 bond matures</b></td><td class="r">₹1,90,000</td><td>Cash returns. LTCG 12.5% on ₹1,126.89 gain (379 days). <b>Redeployment decision.</b></td></tr>
+<tr><td>12 Aug</td><td class="r">11</td><td>Tata Motors Q1 FY27 board meeting</td><td class="r">—</td><td>Results + analyst call</td></tr>
+<tr><td>31 Aug</td><td class="r">30</td><td>ITR deadline (ITR-3 / ITR-4, non-audit)</td><td class="r">—</td><td>FY25-26 realised P&amp;L ₹6,244.66; charges ₹828.07; bond LTCG reportable</td></tr>
+<tr><td>TBD</td><td class="r">—</td><td>ELSS lock-in unlocks</td><td class="r">₹1,97,366</td><td>4 ELSS funds. <b>Purchase dates missing from your sheet</b> — add them and this computes.</td></tr>
+</tbody></table>
+
+<div class="kicker g">Flagged for review</div>
+<p class="small dim">Data only. Not recommendations — those are for you and a SEBI-registered advisor.</p>
+<h3>Funds earning near-nothing</h3>
+<p>Four schemes holding <b>₹3,35,749 (19.2% of your MF book)</b> sit below 2% XIRR while the book averages 9.64%: Motilal Oswal Midcap (0.19%), ICICI Pru Large Cap (1.04%), BHARAT 22 FOF (1.80%), HDFC Dividend Yield (1.83%). Quant Mid Cap is outright negative at −3.24%.</p>
+<h3>Structural observations</h3>
+<ul class="scan">
+<li><b>23 funds averaging ~₹76k each.</b> Four ELSS, four mid-cap, three large-cap — overlap is near-certain.</li>
+<li><b>ICICI Pru is 19.8% of your MF book</b> across four schemes. Single-AMC concentration.</li>
+<li><b>US-tech cluster ≈ 13.2% of everything</b>, arriving through four separate wrappers. Your largest position, never explicitly sized as one.</li>
+<li><b>Five stocks down more than 20%</b>: IRFC −43.6%, ITC −35.6%, Tata Motors PV −35.5%, Godrej Properties −28.6%, Titagarh −23.5%.</li>
+</ul>
+
+<div class="kicker g">Data quality issues</div>
+<ul class="scan small">
+<li><b>Double-count risk:</b> Indel Money NCD appears in both the Stocks tab (₹1,901.86) and Bonds tab (₹1,90,000). Stocks prices it at ₹100.1/unit; bonds implies ~₹9,898/unit. One is wrong.</li>
+<li><b>Total excluded the US book</b> — original ₹22,18,723 vs true ₹26,00,034.</li>
+<li><b>Prices dated 21 July 2026.</b> Eleven days stale. Refresh before acting.</li>
+<li><b>US portfolio has no cost-basis column</b> — only avg price × qty, so true P&amp;L can't be independently verified.</li>
+<li><b>ELSS purchase dates missing</b> — blocks lock-in calculations.</li>
+</ul>
+
+<div class="card"><p class="small" style="margin:0"><b>Boundary.</b> Nothing here is investment advice. It's your data, news on your holdings, and clearly attributed third-party views. No buy, sell, hold or rebalance guidance — I'm not a licensed financial adviser, and decisions like the 18 August redeployment belong to you and a SEBI-registered advisor.</p></div>
+
+</div>
+
+<footer>
+<p><b>Sources.</b> News: Moonshot AI, Anthropic, Thinking Machines, Ant Group, ThursdAI, llm-stats, Euronews, Times of Israel, WSJ (via report), Bloomberg, The Block, Blockpass, Tribune India/Nuvama, Business Standard, Business Today, Zee Business, IIFL, Multibagg, Intellectia, Trefis, Yahoo Finance, ScienceDaily, NASA, IMD, obryant.dev, Hacker News, Analytics Vidhya, O'Reilly. Economic Times unavailable — blocked at tool level.</p>
+<p class="small">Portfolio figures generated directly from Pulkit_Portfolio_Master.xlsx (dated 21 July 2026) — not transcribed by hand. USD/INR assumed at 88.</p>
+</footer>
+</div>
+<script>
+function sw(i){
+  document.querySelectorAll('.tab').forEach((t,n)=>t.classList.toggle('on',n===i));
+  document.querySelectorAll('.pane').forEach((p,n)=>p.classList.toggle('on',n===i));
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+</script>
+</body></html>
