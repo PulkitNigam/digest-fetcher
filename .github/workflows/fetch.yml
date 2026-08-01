@@ -1,0 +1,36 @@
+name: Fetch digest sources
+
+on:
+  schedule:
+    - cron: '37 23 * * *'   # 05:07 IST — off-peak slot; 00:00 UTC is GitHub's most congested
+  workflow_dispatch:          # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install feedparser requests
+
+      - name: Fetch all sources
+        env:
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+          YOUTUBE_KEY: ${{ secrets.YOUTUBE_KEY }}
+        run: python fetch.py
+
+      - name: Commit results
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
