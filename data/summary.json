@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-08-21T23:54:55.025162Z",
+ "generated_utc": "2026-08-22T23:53:00.725157Z",
  "counts": {
   "youtube": 5,
-  "rss": 29,
+  "rss": 28,
   "reddit": 0,
   "hackernews": 25,
   "github": 20,
@@ -20,7 +20,6 @@
   "BBC World",
   "ChinaTalk",
   "Deutsche Welle",
-  "Hacker News best",
   "Huberman Lab",
   "Inc42",
   "Interconnects",
@@ -45,36 +44,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Israel re-establishes closed West Bank settlement, defying growing international protests",
-   "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-   "One killed in sword attack at Swedish school",
-   "Hong Kong's Tiananmen activists guilty in national security trial",
-   "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-   "Two injured in stabbing attack at Canada Sikh temple"
+   "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+   "Carney faces crucial test after walking away from Trump's deal",
+   "TikTok to pay $400m to US in one of largest child privacy settlements",
+   "Fourteen killed in strike on Myanmar monastery",
+   "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+   "US military newspaper editor voices censorship fears after being fired"
   ],
   "BBC Business": [
    "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-   "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+   "'We have more work to do', says Canada negotiator as US trade deadline looms",
    "US borrowing costs rise as attempts to ease rates prove short-lived",
    "Millennials have found it hard to buy homes – but things may be turning a corner",
    "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
    "How landscape gardening is being electrified"
   ],
   "BBC Technology": [
+   "Robot horse and rider steal the spotlight at Chinese conference",
    "TikTok to pay $400m to US in one of largest child privacy settlements",
    "How landscape gardening is being electrified",
    "Is Vine back? Short-form video-sharing app Divine opens to public",
    "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-   "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-   "Monzo says issue with card payments and transfers now resolved"
+   "81,000 warning letters sent to crypto holders in HMRC tax crackdown"
   ],
   "Al Jazeera": [
-   "US debt tops $40 trillion, Americans left with the bill",
-   "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-   "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-   "TikTok settles with US Justice Department for $400m over child privacy laws",
-   "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-   "One killed, three wounded in sword attack at Swedish high school"
+   "Iran warns nearby nations against joining US ‘economic war’ efforts",
+   "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+   "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+   "Open-air cinema brings movie nights back to Khartoum",
+   "Israeli army and settlers injure several Palestinians across West Bank",
+   "US Postal Service shares mail-in ballot restrictions despite court ruling"
   ],
   "The Guardian": [
    "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -82,87 +81,87 @@
    "Five Americans among seven killed in safari helicopter crash in Kenya",
    "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
    "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-   "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade"
+   "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods"
   ],
   "NPR": [
-   "Supreme Court allows Trump's ballroom construction to continue for now",
-   "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-   "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-   "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-   "What to know about this weekend's IndyCar race on the National Mall",
-   "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined"
+   "Trump administration's 75-country visa ban was illegal, judge rules",
+   "Opinion: Mr. Rogers keeps finding a new neighborhood",
+   "As Flock battles public scrutiny, other police surveillance companies see an opening",
+   "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+   "A battle over 'Italian brainrot' could shape who owns AI art",
+   "Supreme Court allows Trump's ballroom construction to continue for now"
   ],
   "SCMP China": [
-   "TikTok, ByteDance agree to US$400 million settlement with US over children’s privacy suit",
-   "China and US push Southeast Asia over their AI blocs. Will it test region’s non-alignment?",
-   "China’s trade grip tightens in Europe as clock ticks towards October deadline",
-   "Why China’s reusable rocket breakthrough matters for the PLA’s ‘kill chain’",
-   "China is using Jiang Zemin centenary to signal political continuity",
-   "Will other Southeast Asian countries follow Indonesia’s example with joint China drill?"
+   "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
+   "How Pacific nations walk a tightrope between Western security and Chinese trade",
+   "Why China may have little to lose as ‘weakened’ Trump seeks North Korea talks",
+   "Chinese J-16 fighters arrive in Egypt ahead of Eagles of Civilisation 2026 joint drill",
+   "Why China’s EV boom is seen as an ‘unparalleled opportunity’ in Africa",
+   "Mainland Chinese research ship spotted near Taiwan’s largest naval base"
   ],
   "Nikkei Asia": [
-   "China automakers' EV rush culminates in 'Crazy Thursday'",
-   "World-first virus therapy for esophageal cancer debuts in Japan",
-   "Japan's Tokuyama to make key chip material in Vietnam, Malaysia",
-   "Singapore breeds mosquito 'studs' by the millions for war on dengue",
-   "Japan to crack down on deceptive 'dark pattern' websites",
-   "Japan faces $63bn fiscal shortfall for food tax cut, defense buildup"
+   "Japan release of new breast cancer, diabetes drugs delayed over pricing",
+   "Japan to offer loan insurance to Latin America development lender",
+   "Anime and manga pass on Japan's wartime memories to Gen Z",
+   "Global oil inventories on the decline again amid Hormuz stalemate",
+   "Refurbished Ueno Station paints itself as Tokyo art hub",
+   "Thailand, Asia's gun ownership leader, cracks down after deadly shootings"
   ],
   "Deutsche Welle": [
+   "Kazakhstan's future after the elections: Russia, EU or China",
+   "Spain battles forest fire a short drive from flash flood",
+   "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
+   "Small German airplane crashes in Croatia, killing 2",
    "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-   "German army helps Poland construct a defensive barrier against Russia",
-   "France issues warning over thousands of substandard condoms",
-   "Iran's president: Time to end war in 'position of strength'",
-   "40 years after the Lake Nyos disaster in Cameroon",
-   "Ukraine's farmers struggle to sell harvest amid war, drought"
+   "German army helps Poland protect itself against Russia"
   ],
   "Livemint": [
-   "Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years",
-   "Dollar falls to three-month low on Treasury buyback worries",
-   "Week of Whiplash in Treasuries Is Closing With Muddied Outlook",
-   "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
-   "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
-   "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details"
+   "SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore",
+   "Gold shines, braving odds, rises 17% from June lows — What’s behind the jump? Will it impact Fed rate cut decision?",
+   "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
+   "Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers",
+   "Gaja Alternative IPO: Focus shifts to allotment date; latest GMP, 6 steps to check status",
+   "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 24 August 2026"
   ],
   "The Hindu Biz": [
-   "Govt. working on additional subsidy scheme for polysilicon manufacturing: Official",
-   "IndiGo aircraft’s belly scrapes runway again; plane grounded",
-   "India calls for stronger global tech collaboration at BRICS meet",
-   "Indian payments firms raised $5.8 bn in last five years",
-   "Govt notifies mobile phone manufacturing scheme; extra incentives for Indian brands",
-   "IRDAI bars life insurers Pramerica, Edelweiss from opening new branches for 6 months"
+   "What are the U.S.’s latest allegations against India? | Explained",
+   "Feedstock sourcing: The next critical lever for scaling CBG ecosystem",
+   "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
+   "Hexaware eyes slice of $900 billion SaaS market with AI-enabled software, even as AI-infused revenue tops 50%",
+   "Indian Bank sanctions ₹1,125 Cr in Chennai Retail, Agri & MSME Push; mobilises ₹2,080 cr in proposals",
+   "RBI sees forex inflows of $72.85 billion via FCNR (B), OFCB, ECB Swap facility"
   ],
   "Inc42": [
-   "Accel, AVP Sell Over 1 Cr Amagi Shares In ₹587 Cr Block Deals",
-   "Zomato Experiments Rapid Food Delivery With Vending Machines",
-   "Physics Wallah’s Full-Stack Bet: Looking Into The Revenue Engine",
-   "Zetwerk’s IPO Test: Can Revenue Growth Outrun Cash Flow Pressure?",
-   "India Can Build A Commercially Viable Space Sector For The World: PM Modi",
-   "Exclusive: Greenjoules Raises ₹62 Cr From Amazon, Singularity To Scale Green Energy Operations"
+   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+   "Wakefit Surges 17% To Lead New-Age Tech Stocks This Week; Lenskart, Turtlemint Hit New Highs",
+   "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
+   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "From Loan Diversion To Forged Letters: CBI Books BluSmart Founders In ₹672 Cr IREDA Case",
+   "D2C Brand Be Clinical Bags ₹21 Cr To Expand Beauty & Personal Care Portfolio"
   ],
   "TechCrunch": [
-   "Anthropic’s Opus 4.6 is a smut-machine",
-   "Nvidia partners with data center developer Cloverleaf",
-   "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-   "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-   "TikTok reaches $400M settlement over children’s privacy lawsuit",
-   "The $225 Pebble Time 2 is a refreshingly fun smartwatch"
+   "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+   "Will the DOJ’s investigation into a16z spook other VCs?",
+   "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "OpenAI says California should strengthen its AI safety bill",
+   "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "US battery startups have found a lifeline in defense"
   ],
   "Ars Technica": [
+   "Putting mice into hibernation causes a major loss of synapses",
+   "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+   "Trump's space transportation policy calls for new spaceport on federal land",
    "Thunder + fiber-optic cabling used for seismic imaging",
    "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-   "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-   "Lawsuit demands Logitech hand tariff refunds over to customers",
-   "Chinese regulators tell Tesla to fix nearly 3 million cars",
-   "Fighter jets help destroy Russian drone boat near European offshore gas platform"
+   "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels"
   ],
   "The Verge": [
-   "HoverAir’s transforming modular drone has already been halted in the US",
-   "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-   "Over 1 million people have clicked LinkedIn’s AI slop button",
-   "Apple is laying off staffers working on the Vision Pro and Siri",
-   "$100 Best Buy gift cards will be $60 at stores Saturday",
-   "Walmart is finally adding Apple Pay and Google Pay"
+   "Doodle generative compositions in your browser with Musical Spirograph",
+   "W. Kamau Bell has the most practical ‘most indispensable tool’",
+   "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+   "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+   "Two great new repairable gadgets",
+   "HoverAir’s transforming modular drone has already been halted in the US"
   ],
   "MIT Tech Review": [
    "The Download: threats from space mirrors and credit for AI drugs",
@@ -172,29 +171,21 @@
    "Debates over AI consciousness are a trap",
    "The Download: polycrisis support networks and a hydrogen gold rush"
   ],
-  "Hacker News best": [
-   "Kobo can run apps now",
-   "Felony Bench",
-   "Kagi added a setting for removing paywalled links from search results",
-   "I accidentally logged hundreds of thousands of phone calls to military bases",
-   "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-   "Felony charges for citizen deleting phone data at US Border"
-  ],
   "Simon Willison": [
+   "Quoting Linus Torvalds",
+   "llm 0.33",
+   "More than just code review",
    "llm 0.32.1",
    "llm-openrouter 0.7",
-   "Stop Making TUIs",
-   "Quoting Matt Webb",
-   "ChatGPT search now uses the site:operator at scale",
-   "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView"
+   "Stop Making TUIs"
   ],
   "Latent Space": [
+   "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+   "The Evolution of the Agent Harness",
    "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
    "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
    "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
-   "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
-   "[AINews] Memory prices up 500% in 12 months",
-   "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing"
+   "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law"
   ],
   "Interconnects": [
    "Teaching Everyone to Fish for Tokens",
@@ -221,12 +212,12 @@
    "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems"
   ],
   "Noahpinion": [
+   "Are we watching the U.S. go bankrupt?",
    "Economists should be worried about birth rates",
    "Where to eat in San Francisco",
    "The end of an era for China's economy",
    "23 low-regret recommendations for AI policy",
-   "Roundup #86: Unintended consequences",
-   "The poverty of anti-tech thought"
+   "Roundup #86: Unintended consequences"
   ],
   "Net Interest": [
    "Great Scott",
@@ -261,12 +252,12 @@
    "The DeepSeek Thesis"
   ],
   "ScienceDaily": [
+   "JWST finds early galaxies may be 4 times more massive than thought",
+   "This yeast supplement may boost cancer-fighting immunity",
+   "Multilingual people may have brains up to 13 years younger",
+   "Queen bees have a disturbing way to survive pesticides",
    "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-   "This weight-loss hormone may protect the liver even without weight loss",
-   "Hidden magnetism inside atoms may explain mysterious gamma rays",
-   "A strange new quantum droplet can hold itself together",
-   "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
-   "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years"
+   "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida"
   ],
   "Nature": [
    "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -282,125 +273,125 @@
   "Two Minute Papers": "DeepSeek Just Made Closed AI Look Ridiculous",
   "Andrej Karpathy": "How I use LLMs",
   "Fireship": "DeepSeek is back... and Silicon Valley is terrified",
-  "CNN": "Trump scrambles to save SC Senate pick after debate gaffe"
+  "CNN": "How ‘Beast Runner’ finds missing hikers in Taiwan's mountains"
  },
  "hn_top": [
   {
-   "t": "Kobo can run apps now",
-   "s": 382,
-   "c": 0.35
+   "t": "Scrap",
+   "s": 259,
+   "c": 0.39
   },
   {
-   "t": "Felony Bench",
-   "s": 466,
-   "c": 0.46
+   "t": "NanoGPT Speedrun Frontier",
+   "s": 15,
+   "c": 0.0
   },
   {
-   "t": "Felony charges for citizen deleting phone data at US Border",
-   "s": 482,
-   "c": 1.37
-  },
-  {
-   "t": "Scientists release biggest 2D map of the universe",
-   "s": 129,
-   "c": 0.29
-  },
-  {
-   "t": "AI boosted homework scores, then exam scores dropped: study",
-   "s": 215,
-   "c": 1.28
-  },
-  {
-   "t": "Kagi added a setting for removing paywalled links from search results",
-   "s": 971,
-   "c": 0.34
-  },
-  {
-   "t": "I accidentally logged hundreds of thousands of phone calls to military bases",
-   "s": 409,
-   "c": 0.11
-  },
-  {
-   "t": "DeepSeek-v4-flash-vision-exp",
-   "s": 448,
-   "c": 0.31
-  },
-  {
-   "t": "How we made a text-to-speech model respond in sub-50 ms",
-   "s": 95,
+   "t": "Why your local LLM feels dumber than it is",
+   "s": 151,
    "c": 0.25
   },
   {
-   "t": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-   "s": 9,
-   "c": 0.22
+   "t": "NetBSD and my life (2005)",
+   "s": 85,
+   "c": 0.26
   },
   {
-   "t": "I ran Photoshop on a £0.60 computer chip",
-   "s": 110,
-   "c": 0.24
+   "t": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "s": 286,
+   "c": 0.33
   },
   {
-   "t": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-   "s": 1,
-   "c": 0.0
+   "t": "Hister – A private, full content search index that you control",
+   "s": 204,
+   "c": 0.3
   },
   {
-   "t": "A look under our trunk: what's in our compute",
-   "s": 86,
-   "c": 0.38
+   "t": "RF Cafe",
+   "s": 132,
+   "c": 0.12
   },
   {
-   "t": "Paul Atkins Misreads Adam Smith and the American Founding",
-   "s": 3,
-   "c": 0.0
+   "t": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+   "s": 93,
+   "c": 0.31
   },
   {
-   "t": "People of ACM – Russ Cox",
-   "s": 78,
-   "c": 0.13
+   "t": "typ.ing",
+   "s": 159,
+   "c": 0.3
+  },
+  {
+   "t": "A Friendly Introduction to Racket",
+   "s": 178,
+   "c": 0.47
+  },
+  {
+   "t": "hdiutil is deprecated in macOS 27 Golden Gate",
+   "s": 150,
+   "c": 0.37
+  },
+  {
+   "t": "ATProto spaces: A new extension to ATProto that enables non-public data",
+   "s": 98,
+   "c": 0.12
+  },
+  {
+   "t": "One night in Uzbekistan: Why was this one data point so influential?",
+   "s": 67,
+   "c": 0.16
+  },
+  {
+   "t": "Munder Difflin – Agent harness to run an office of your clones",
+   "s": 242,
+   "c": 0.47
+  },
+  {
+   "t": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+   "s": 440,
+   "c": 2.65
   }
  ],
  "github_top": [
   {
    "n": "deepseek-ai/deepseek-harness",
-   "s": 181186
-  },
-  {
-   "n": "firecrawl/anydoc",
-   "s": 17759
+   "s": 185010
   },
   {
    "n": "anywhere-labs/deepseek-harness-desktop",
-   "s": 17549
+   "s": 18300
+  },
+  {
+   "n": "firecrawl/anydoc",
+   "s": 17928
   },
   {
    "n": "guillaumemeyer/watermarks-remover",
-   "s": 16621
+   "s": 17045
   },
   {
    "n": "awesome-dsh-plugin/awesome-dsh-plugin",
-   "s": 11151
+   "s": 11527
   },
   {
    "n": "yjh051108/dsh-routing-suite",
-   "s": 6560
-  },
-  {
-   "n": "FareedKhan-dev/kimi-k3-in-c",
-   "s": 6225
+   "s": 6638
   },
   {
    "n": "zhu1090093659/dsh-web-ui",
-   "s": 5421
+   "s": 5595
   },
   {
    "n": "ZzzLc0405/photo-abstract-editorial",
-   "s": 4552
+   "s": 4594
   },
   {
-   "n": "Zeejay0/gathered-scenes-zine-skill",
-   "s": 4198
+   "n": "pathwaycom/arc-task-gen",
+   "s": 4546
+  },
+  {
+   "n": "LaoFeng-mouse/flyingmouse-format",
+   "s": 4205
   }
  ],
  "quotes": {},
@@ -432,6 +423,10 @@
   {
    "source": "rss:Moneycontrol",
    "error": "403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/business.xml"
+  },
+  {
+   "source": "rss:Hacker News best",
+   "error": "feed parsed but zero entries"
   },
   {
    "source": "rss:Import AI",
