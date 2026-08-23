@@ -1,10 +1,10 @@
 {
- "generated_utc": "2026-08-22T23:53:00.725157Z",
+ "generated_utc": "2026-08-23T23:53:02.542747Z",
  "counts": {
   "youtube": 5,
   "rss": 28,
   "reddit": 0,
-  "hackernews": 25,
+  "hackernews": 8,
   "github": 20,
   "quotes": 0
  },
@@ -44,124 +44,124 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-   "Carney faces crucial test after walking away from Trump's deal",
-   "TikTok to pay $400m to US in one of largest child privacy settlements",
-   "Fourteen killed in strike on Myanmar monastery",
-   "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-   "US military newspaper editor voices censorship fears after being fired"
+   "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+   "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+   "Guinea rubbish landfill collapse kills 30",
+   "DR Congo and M23 rebels agree roadmap for peace talks",
+   "France links sharp rise in drownings to heatwaves",
+   "Dozens of co-ordinated arson attacks hit southern Thailand"
   ],
   "BBC Business": [
-   "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-   "'We have more work to do', says Canada negotiator as US trade deadline looms",
-   "US borrowing costs rise as attempts to ease rates prove short-lived",
-   "Millennials have found it hard to buy homes – but things may be turning a corner",
-   "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-   "How landscape gardening is being electrified"
+   "Review launched into how pub and hotel business rates calculated",
+   "Why students are being paid £2,000 to play computer games",
+   "'I didn't speak the Queen's English': Why people worry about their accents",
+   "Struggling households need more help with bills, energy industry says",
+   "CrossCountry cancels 'almost all' UK services after power cut",
+   "Trump says Canada wants 'benefits' of being US state after trade talks collapse"
   ],
   "BBC Technology": [
+   "Why students are being paid £2,000 to play computer games",
    "Robot horse and rider steal the spotlight at Chinese conference",
    "TikTok to pay $400m to US in one of largest child privacy settlements",
    "How landscape gardening is being electrified",
    "Is Vine back? Short-form video-sharing app Divine opens to public",
-   "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-   "81,000 warning letters sent to crypto holders in HMRC tax crackdown"
+   "UK business hit by 'daylight robbery' 1500% price hike for invoicing software"
   ],
   "Al Jazeera": [
-   "Iran warns nearby nations against joining US ‘economic war’ efforts",
-   "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-   "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-   "Open-air cinema brings movie nights back to Khartoum",
-   "Israeli army and settlers injure several Palestinians across West Bank",
-   "US Postal Service shares mail-in ballot restrictions despite court ruling"
+   "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
+   "Will Donald Trump’s new sanctions against Iran work?",
+   "Serbia requests international assistance to battle wildfires",
+   "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+   "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
+   "Is Israel about to split the occupied West Bank in half?"
   ],
   "The Guardian": [
+   "Landslide at waste mound in Guinea capital kills 30, government says",
    "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
    "More than 100 dead after goldmine collapses in Central African Republic",
    "Five Americans among seven killed in safari helicopter crash in Kenya",
    "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-   "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-   "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods"
+   "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war"
   ],
   "NPR": [
-   "Trump administration's 75-country visa ban was illegal, judge rules",
-   "Opinion: Mr. Rogers keeps finding a new neighborhood",
-   "As Flock battles public scrutiny, other police surveillance companies see an opening",
-   "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
-   "A battle over 'Italian brainrot' could shape who owns AI art",
-   "Supreme Court allows Trump's ballroom construction to continue for now"
+   "Thousands in northwest Indiana still without power nearly two weeks after storm",
+   "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+   "Becerra, running for governor of California, faces a health insurance problem",
+   "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+   "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+   "Trump administration's 75-country visa ban was illegal, judge rules"
   ],
   "SCMP China": [
-   "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
-   "How Pacific nations walk a tightrope between Western security and Chinese trade",
-   "Why China may have little to lose as ‘weakened’ Trump seeks North Korea talks",
-   "Chinese J-16 fighters arrive in Egypt ahead of Eagles of Civilisation 2026 joint drill",
-   "Why China’s EV boom is seen as an ‘unparalleled opportunity’ in Africa",
-   "Mainland Chinese research ship spotted near Taiwan’s largest naval base"
+   "Chinese archaeologists heading to Peru for first joint project to explore ancient sites",
+   "Your backyard could hold a rare earth fortune – and this orange lichen is the clue",
+   "China delays Chang’e-7 mission to drill for ice near lunar south pole",
+   "The African firms adopting Chinese AI as US-China rivalry intensifies",
+   "US efforts to secure AI supply chains are doomed to fail: Chinese academic",
+   "Why Chinese media says US historians are giving ‘ammunition’ to separatists"
   ],
   "Nikkei Asia": [
-   "Japan release of new breast cancer, diabetes drugs delayed over pricing",
-   "Japan to offer loan insurance to Latin America development lender",
-   "Anime and manga pass on Japan's wartime memories to Gen Z",
-   "Global oil inventories on the decline again amid Hormuz stalemate",
-   "Refurbished Ueno Station paints itself as Tokyo art hub",
-   "Thailand, Asia's gun ownership leader, cracks down after deadly shootings"
+   "Thailand, Singapore exchanges seek tech listings as AI booms",
+   "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
+   "It's time for Vietnam to fend off China over its new oil discovery",
+   "Japan backs fusion, recycling startups in $125m public-private funding",
+   "Alibaba to raise $10bn via new Hong Kong shares to fund AI investments",
+   "Vietnam assembly ends, China oil and gas earnings, BOJ deputy speech"
   ],
   "Deutsche Welle": [
-   "Kazakhstan's future after the elections: Russia, EU or China",
-   "Spain battles forest fire a short drive from flash flood",
-   "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-   "Small German airplane crashes in Croatia, killing 2",
-   "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-   "German army helps Poland protect itself against Russia"
+   "Could Russia's growing fuel crisis help end the Ukraine war?",
+   "Ukraine: Zelenskyy rejects wartime elections",
+   "Is the US seeing a turning point in obesity rates?",
+   "Ukraine: Could ex-defense minister challenge Zelenskyy?",
+   "Mexican governor facing US drug charges says leaving office",
+   "Kazakhstan's future after the elections: Russia, EU or China"
   ],
   "Livemint": [
-   "SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore",
-   "Gold shines, braving odds, rises 17% from June lows — What’s behind the jump? Will it impact Fed rate cut decision?",
-   "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
-   "Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers",
-   "Gaja Alternative IPO: Focus shifts to allotment date; latest GMP, 6 steps to check status",
-   "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 24 August 2026"
+   "Skyways Air Services IPO Day 1 LIVE: GMP, subscription status, price, review, other details. Apply or not?",
+   "Lalithaa Jewellery IPO listing date today. GMP, experts hint up to 36% listing gain",
+   "Wall Street Week Ahead: Warsh’s Jackson speech, PCE inflation and Nvidia earnings in focus",
+   "Alphabet out, Netflix in: Bill Ackman exits major stocks, reworks Pershing Square's portfolio — Here's what has changed",
+   "Best Coffee Will Be Harder to Get as Downpours Hit Brazil’s Trees",
+   "What stocks did Trump buy and sell in June? Meta, Berkshire, Palantir among disclosures worth up to $263.1 million"
   ],
   "The Hindu Biz": [
-   "What are the U.S.’s latest allegations against India? | Explained",
-   "Feedstock sourcing: The next critical lever for scaling CBG ecosystem",
-   "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
-   "Hexaware eyes slice of $900 billion SaaS market with AI-enabled software, even as AI-infused revenue tops 50%",
-   "Indian Bank sanctions ₹1,125 Cr in Chennai Retail, Agri & MSME Push; mobilises ₹2,080 cr in proposals",
-   "RBI sees forex inflows of $72.85 billion via FCNR (B), OFCB, ECB Swap facility"
+   "Core concerns: On the Indian economy, the road ahead",
+   "Triple test, adrift: On the ruling on definition of ‘industry’",
+   "AI reshapes India's IT services sector contracts as clients demand more for less",
+   "Indian, U.S. businesses keen to invest in Bangladesh: Commerce Minister Khandakar Abdul Muktadir",
+   "Centre pushes States to speed up PNG adoption, seeks district-level officers to drive LPG-to-gas transition",
+   "Government sets LPG production targets for refiners; Reliance gets largest quota"
   ],
   "Inc42": [
+   "Navi’s Solo Run Ends",
    "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
    "Wakefit Surges 17% To Lead New-Age Tech Stocks This Week; Lenskart, Turtlemint Hit New Highs",
    "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
    "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-   "From Loan Diversion To Forged Letters: CBI Books BluSmart Founders In ₹672 Cr IREDA Case",
-   "D2C Brand Be Clinical Bags ₹21 Cr To Expand Beauty & Personal Care Portfolio"
+   "From Loan Diversion To Forged Letters: CBI Books BluSmart Founders In ₹672 Cr IREDA Case"
   ],
   "TechCrunch": [
-   "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-   "Will the DOJ’s investigation into a16z spook other VCs?",
-   "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-   "OpenAI says California should strengthen its AI safety bill",
-   "Frontier AI labs still won’t say how they’d contain a rogue model",
-   "US battery startups have found a lifeline in defense"
+   "Who’s behind the new ‘stealth model’ Ox Alpha?",
+   "Uber faces fine of nearly $1B over automated driver suspensions",
+   "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+   "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+   "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+   "Is it legal to train AI models on copyrighted books? It’s complicated"
   ],
   "Ars Technica": [
+   "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+   "Volcanoes that made history",
    "Putting mice into hibernation causes a major loss of synapses",
    "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
    "Trump's space transportation policy calls for new spaceport on federal land",
-   "Thunder + fiber-optic cabling used for seismic imaging",
-   "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-   "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels"
+   "Thunder + fiber-optic cabling used for seismic imaging"
   ],
   "The Verge": [
+   "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+   "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+   "Grand Theft Auto VI exists in its own universe",
    "Doodle generative compositions in your browser with Musical Spirograph",
    "W. Kamau Bell has the most practical ‘most indispensable tool’",
-   "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-   "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-   "Two great new repairable gadgets",
-   "HoverAir’s transforming modular drone has already been halted in the US"
+   "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent"
   ],
   "MIT Tech Review": [
    "The Download: threats from space mirrors and credit for AI drugs",
@@ -172,12 +172,12 @@
    "The Download: polycrisis support networks and a hydrogen gold rush"
   ],
   "Simon Willison": [
+   "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+   "Quoting Drew Breunig",
    "Quoting Linus Torvalds",
    "llm 0.33",
    "More than just code review",
-   "llm 0.32.1",
-   "llm-openrouter 0.7",
-   "Stop Making TUIs"
+   "llm 0.32.1"
   ],
   "Latent Space": [
    "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
@@ -252,12 +252,12 @@
    "The DeepSeek Thesis"
   ],
   "ScienceDaily": [
+   "Experimental compound helps burn fat without muscle loss",
+   "A hidden “on switch” in human DNA has finally been decoded",
+   "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
    "JWST finds early galaxies may be 4 times more massive than thought",
-   "This yeast supplement may boost cancer-fighting immunity",
-   "Multilingual people may have brains up to 13 years younger",
-   "Queen bees have a disturbing way to survive pesticides",
-   "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-   "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida"
+   "This common vitamin was linked to 13% better cognitive scores",
+   "Black holes keep tearing these stars apart, but they survive"
   ],
   "Nature": [
    "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
@@ -273,125 +273,90 @@
   "Two Minute Papers": "DeepSeek Just Made Closed AI Look Ridiculous",
   "Andrej Karpathy": "How I use LLMs",
   "Fireship": "DeepSeek is back... and Silicon Valley is terrified",
-  "CNN": "How ‘Beast Runner’ finds missing hikers in Taiwan's mountains"
+  "CNN": "President and first lady mingle with high-profile guests at IndyCar race"
  },
  "hn_top": [
   {
-   "t": "Scrap",
-   "s": 259,
-   "c": 0.39
+   "t": "Everything I own, owned",
+   "s": 97,
+   "c": 0.24
   },
   {
-   "t": "NanoGPT Speedrun Frontier",
-   "s": 15,
-   "c": 0.0
-  },
-  {
-   "t": "Why your local LLM feels dumber than it is",
-   "s": 151,
-   "c": 0.25
-  },
-  {
-   "t": "NetBSD and my life (2005)",
-   "s": 85,
-   "c": 0.26
-  },
-  {
-   "t": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "s": 286,
-   "c": 0.33
-  },
-  {
-   "t": "Hister – A private, full content search index that you control",
-   "s": 204,
-   "c": 0.3
-  },
-  {
-   "t": "RF Cafe",
-   "s": 132,
-   "c": 0.12
-  },
-  {
-   "t": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "s": 93,
-   "c": 0.31
-  },
-  {
-   "t": "typ.ing",
-   "s": 159,
-   "c": 0.3
-  },
-  {
-   "t": "A Friendly Introduction to Racket",
-   "s": 178,
-   "c": 0.47
-  },
-  {
-   "t": "hdiutil is deprecated in macOS 27 Golden Gate",
-   "s": 150,
+   "t": "How I find problems to solve as a staff engineer",
+   "s": 227,
    "c": 0.37
   },
   {
-   "t": "ATProto spaces: A new extension to ATProto that enables non-public data",
-   "s": 98,
-   "c": 0.12
+   "t": "Google Workspace thinks my domain is an email provider (2025)",
+   "s": 133,
+   "c": 0.24
   },
   {
-   "t": "One night in Uzbekistan: Why was this one data point so influential?",
-   "s": 67,
-   "c": 0.16
+   "t": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+   "s": 113,
+   "c": 0.89
   },
   {
-   "t": "Munder Difflin – Agent harness to run an office of your clones",
-   "s": 242,
-   "c": 0.47
+   "t": "My agent.md to improve LLM-assisted code quality",
+   "s": 117,
+   "c": 0.5
   },
   {
-   "t": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-   "s": 440,
-   "c": 2.65
+   "t": "What Is a Harness?",
+   "s": 260,
+   "c": 0.49
+  },
+  {
+   "t": "AI Chip Architectures",
+   "s": 11,
+   "c": 0.0
+  },
+  {
+   "t": "How Complex Systems Fail (1998)",
+   "s": 221,
+   "c": 0.27
   }
  ],
  "github_top": [
   {
    "n": "deepseek-ai/deepseek-harness",
-   "s": 185010
+   "s": 187922
   },
   {
    "n": "anywhere-labs/deepseek-harness-desktop",
-   "s": 18300
+   "s": 18919
   },
   {
    "n": "firecrawl/anydoc",
-   "s": 17928
+   "s": 18068
   },
   {
    "n": "guillaumemeyer/watermarks-remover",
-   "s": 17045
+   "s": 17434
   },
   {
    "n": "awesome-dsh-plugin/awesome-dsh-plugin",
-   "s": 11527
+   "s": 11868
   },
   {
    "n": "yjh051108/dsh-routing-suite",
-   "s": 6638
+   "s": 6705
   },
   {
    "n": "zhu1090093659/dsh-web-ui",
-   "s": 5595
-  },
-  {
-   "n": "ZzzLc0405/photo-abstract-editorial",
-   "s": 4594
+   "s": 5742
   },
   {
    "n": "pathwaycom/arc-task-gen",
-   "s": 4546
+   "s": 4966
+  },
+  {
+   "n": "ZzzLc0405/photo-abstract-editorial",
+   "s": 4651
   },
   {
    "n": "LaoFeng-mouse/flyingmouse-format",
-   "s": 4205
+   "s": 4294
   }
  ],
  "quotes": {},
@@ -426,7 +391,7 @@
   },
   {
    "source": "rss:Hacker News best",
-   "error": "feed parsed but zero entries"
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "source": "rss:Import AI",
@@ -495,6 +460,10 @@
   {
    "source": "reddit:ValueInvesting",
    "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ValueInvesting/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "hackernews",
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "source": "quotes",
