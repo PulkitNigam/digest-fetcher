@@ -1,15 +1,15 @@
 {
- "generated_utc": "2026-08-24T23:53:47.930909Z",
+ "generated_utc": "2026-08-25T23:54:46.652001Z",
  "counts": {
   "youtube": 5,
-  "rss": 28,
+  "rss": 29,
   "reddit": 0,
   "hackernews": 25,
   "github": 20,
   "quotes": 0
  },
  "fx": {
-  "INR": 95.76
+  "INR": 95.42
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -20,6 +20,7 @@
   "BBC World",
   "ChinaTalk",
   "Deutsche Welle",
+  "Hacker News best",
   "Huberman Lab",
   "Inc42",
   "Interconnects",
@@ -44,148 +45,156 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-   "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-   "Israel warns of 'forceful' response to kites flown from Gaza",
-   "King of Norway's health has worsened, palace says",
-   "Outrage in Nepal over rape and murder of three-year-old girl"
+   "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+   "CIA chief travels to Moscow for unannounced talks, US media reports",
+   "Mass arrests in global crackdown on West African cyber-crime networks",
+   "Brain disease in dead NFL players 'higher than previously shown'",
+   "Tornado tears through French village, leaving dozens hurt and homes ravaged"
   ],
   "BBC Business": [
-   "New 10p coin enters circulation - will you spot one?",
-   "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "'What you see is what you pay' - why some US restaurants are banning tips",
-   "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
-   "70,000 social and affordable homes to be built across England as part of £39bn plan",
-   "Graduate job vacancies drop by almost 50% in a year, survey suggests"
+   "Winter energy prices expected to rise to three-year high",
+   "Back to school: How to save on uniform costs",
+   "AI gold rush draws crypto firms away from Bitcoin",
+   "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+   "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+   "Firms scramble for battery power in Spain and Portugal"
   ],
   "BBC Technology": [
+   "Firms scramble for battery power in Spain and Portugal",
+   "Songs created by AI banned from Australia's music charts",
    "Sharing dangerous driving videos is 'truly reprehensible', PM says",
    "Twitch and Amazon face legal action over using livestreams to train AI",
    "Robot horse and rider steal the spotlight at Chinese conference",
-   "TikTok to pay $400m to US in one of largest child privacy settlements",
-   "How landscape gardening is being electrified",
-   "Is Vine back? Short-form video-sharing app Divine opens to public"
+   "TikTok to pay $400m to US in one of largest child privacy settlements"
   ],
   "Al Jazeera": [
-   "How US sanctions on Iran ripple through global markets and consumers",
-   "US Supreme Court sides with Trump administration on mail voting",
-   "US removes Syria from ‘state sponsor of terrorism’ list",
-   "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
-   "US public support for Iran war falls as Trump approval at record low: Poll",
-   "Iconic Palestinian artist Sliman Mansour passes away at age 79"
+   "Brazil fines TikTok $30m for child data privacy violations",
+   "Why can’t America agree on what time it is?",
+   "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+   "Who was the ‘Queen of Country’ Dolly Parton?",
+   "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+   "US soldier who called for Trump impeachment facing military charges"
   ],
   "The Guardian": [
    "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
    "Video shows hundreds held captive after Nigeria mosque kidnapping",
-   "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+   "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
    "Landslide at waste mound in Guinea capital kills 30, government says",
    "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-   "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months"
+   "Wife of US soldier deported after Trump rollback on military family protections"
   ],
   "NPR": [
-   "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-   "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-   "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-   "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-   "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-   "Washington, D.C.'s first IndyCar race packed the National Mall"
+   "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+   "South Carolina U.S. Senate runoff election will test Trump's endorsement",
+   "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+   "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
+   "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase"
   ],
   "SCMP China": [
-   "How China’s anti-corruption fight became Xi Jinping’s most important policy",
-   "Forcing women to drink at business dinners has no place in modern China",
-   "US targets China’s telecoms grip in Venezuela with new sanctions carve-out",
-   "US sanctions Chinese entities, issues global warning on ‘Economic D-Day’ against Iran",
-   "Shein’s acquisition of Everlane faces US national security review",
-   "Mainland China’s ship activity near Taiwan hits record for third month in a row"
+   "No immunity: how Xi’s anti-corruption fighters are zeroing in on fresh targets",
+   "Africa knows who its true friends are – and they’re not in Washington",
+   "Trump says China is driving anger at US data centres. These residents disagree",
+   "Industrial fire kills 3, including 2 Chinese citizens, in Russia’s far east",
+   "China seeks public tips on procurement violations as PLA Rocket Force probe continues",
+   "Brazil fines TikTok record US$30 million for profiting from children’s data"
   ],
   "Nikkei Asia": [
-   "Kazakhstan's Tokayev tightens grip on power after snap election",
-   "Australian venture capital firm Blackbird raises $752m from Asian investors",
-   "Suzuki's new e-Sky mini EV tops BYD's Racco in energy efficiency",
-   "Japan eyes $630m to help buy undersea cable ships as risks grow",
-   "Philippine conglomerate bolsters industrial park with college campus",
-   "Indonesia's $28bn bet on Jakarta and Bali International Financial Centers"
+   "Asia's rising wealth to propel finance industry past US: report",
+   "From ramen to anime: Japan's trading houses extend reach to fan merchandise",
+   "40% of Japan department stores expect tourist spending to rise",
+   "Japan to weigh condo sale tax change to curb speculation",
+   "Kazakhstan, the world's most important hedger, bets on stability",
+   "BYD's Fangchengbao offroad EV brand triples China sales"
   ],
   "Deutsche Welle": [
-   "DR Congo peace roadmap: Will the fighting finally end?",
-   "Iran protest victim: 'They were shooting to kill'",
-   "Myanmar: Why Rohingya refugees can't return",
-   "Scientists discover new 'immune hubs' in skull bone marrow",
-   "Spiraling health costs force Iranians to delay care",
-   "Could Russia's growing fuel crisis help end the Ukraine war?"
+   "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+   "Houthi strikes threaten to pull Yemen back into full-scale war",
+   "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
+   "Will Iran withdraw from nuclear non-proliferation treaty?",
+   "Why Starlink won't open Vietnam's heavily censored internet",
+   "Can new US sanctions cripple Iran's shadow economy?"
   ],
   "Livemint": [
-   "Shares dip with pressure from technology, yields and oil fall",
-   "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
-   "Sebi drops fraud, disclosure charges in Max-Axis Bank case",
-   "Shein IPO: Fast fashion retailer eyes $27 billion price tag in long-awaited Hong Kong listing — What we know",
-   "IHCL-Oriental Hotels merger details: ‘Long-term value…’ | Explained - How it will benefit shareholders",
-   "Paluck Technologies IPO: BSE SME declares IPO opening date, fixes price band at  ₹46 to  ₹48"
+   "Gold Edges Up After Four-Day Gain as Traders Eye Treasury Moves",
+   "Oil Falls on Fresh Iran War Diplomacy, Talks on Hormuz",
+   "Short Squeeze in US Swaps, Options Shows ‘Bessent Put’ at Work",
+   "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+   "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
+   "Stock market open or closed tomorrow on Eid Milad-un-Nabi 2026? Check NSE, BSE trading offs calendar"
   ],
   "The Hindu Biz": [
-   "Government lifts ban on wheat exports, cites farmers’ interests amid depressed local prices",
-   "‘Of 25 wealthiest family-run Indian businesses, five held over 60% revenues in two decades’",
-   "Sugar prices fall in the domestic market; concerns remain on price volatility",
-   "Bank unions threaten nationwide strike on September 11 to press for 5-day banking",
-   "Third Wave Coffee raises ₹408 crore in funding led by WestBridge Capital",
-   "SEBI introduces IT Resilience Index for market infrastructure institutions"
+   "Madras built the engine, Chennai is shifting gears",
+   "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
+   "Tata Steel gets interim relief in ₹1,755 crore demand notice issued by Jharkhand government",
+   "AMI orders 9,000 NVIDIA Rubin GPUs for Hyderabad facility",
+   "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
+   "West Asia conflict weighing on business confidence: RBI Bulletin"
   ],
   "Inc42": [
-   "SoftBank Sells Lenskart Stake Worth ₹2,888 Cr",
-   "Y Combinator Offloads Meesho Shares Worth ₹970 Cr",
-   "Qualcomm Offloads Shadowfax Shares Worth ₹184 Cr In Bulk Deal",
-   "Khosla Ventures-Backed Healthify Merges With US-Based Berry Street",
-   "slice Adds Former SBI, ICICI Bank Executives To Its Board",
-   "NVIDIA’s AI Server Price Hike Threatens To Inflate India’s Compute Costs"
+   "Zerodha Fund House FY26: Revenue Up 79% YoY To ₹17 Cr, Loss Narrows",
+   "IPO-Bound Pernia Pop Up Shop’s FY26 Net Loss Widens 52% YoY To ₹285.4 Cr",
+   "Supertails Has Built The Pet-Care Ecosystem, But Can It Make The Economics Work?",
+   "Atomberg DRHP: A Look At Shareholding Pattern & Key Personnel",
+   "[Update] Now, Cult.fit’s Rishabh Telang Moves Karnataka High Court To Quash FIR",
+   "Zoomcar Q1 Net Loss Rises 28% YoY To $5.4 Mn; Revenue Flat At $2.4 Mn"
   ],
   "TechCrunch": [
-   "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-   "Trump bought SpaceX shares two weeks after blockbuster IPO",
-   "Zillow and Redfin settle FTC antitrust case",
-   "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-   "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-   "Amazon hikes hardware prices by 60%, blaming memory shortage"
+   "X sends cease-and-desist to open source project Nitter over alleged scraping",
+   "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+   "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+   "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+   "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+   "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass"
   ],
   "Ars Technica": [
-   "AI is hitting entry-level jobs hardest, Stanford study finds",
-   "Data centers become \"killer application\" for new power transformer tech",
-   "RFK Jr. may upend how vaccine recommendations are categorized",
-   "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-   "GM vehicles under federal scrutiny after hundreds of reports",
-   "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed"
+   "The world's busiest spaceport is about to get a lot quieter, at least for now",
+   "World humanoid robot games show runners breaking records, bursting into flames",
+   "Preserving glow-in-the-dark art and fashion for future generations",
+   "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+   "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+   "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport"
   ],
   "The Verge": [
-   "Lenovo confirms Legion Go issues after gamers report bricked devices",
-   "The cat-and-mouse game over 3D-printed guns has begun",
-   "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-   "Robotaxis are real now — so is the pushback",
-   "The Witcher 4 developers target a 2028 release",
-   "ESPN streaming plans are getting more expensive"
+   "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+   "Trump is upping the price of Big Tech’s favorite visa",
+   "At just $8, you owe it to yourself to grab Inscryption",
+   "The Witcher 3 is getting a remaster",
+   "Dreame’s dream of a rocket-powered car is dead",
+   "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories"
   ],
   "MIT Tech Review": [
-   "How to encourage smarter AI use in the classroom",
-   "The Download: kids outlearning AI, and space travel agents",
-   "Kids outlearn AI—and we still don’t know why",
-   "The Download: threats from space mirrors and credit for AI drugs",
-   "Mother tongue",
-   "When AI designs a drug, who gets the credit?"
+   "Addressing a sticking point in sustainable adhesives",
+   "YouTuber finds niche as college admissions mentor",
+   "Launching youth entrepreneurship",
+   "A new stamp on cyberfraud prevention",
+   "AgeLab research inspires an A I startup",
+   "Amping up T cells to target cancer"
+  ],
+  "Hacker News best": [
+   "Dolly Parton has died",
+   "Nitter project received cease and desist",
+   "My Friend Aaron",
+   "How much of HN is AI?",
+   "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "OpenAI Jalapeño: Better than Nvidia Blackwell"
   ],
   "Simon Willison": [
+   "EVE Online: The Move to Python 3 Begins!",
    "llm-anthropic 0.27",
    "Your executable is a SQLite database",
    "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
    "Quoting Drew Breunig",
-   "Quoting Linus Torvalds",
-   "llm 0.33"
+   "Quoting Linus Torvalds"
   ],
   "Latent Space": [
+   "[AINews] Andrew Ng gets into AI Engineering",
    "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
    "The Evolution of the Agent Harness",
    "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
    "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-   "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
-   "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law"
+   "The /wayfinder Skill: Navigating the “Fog of War” of Planning"
   ],
   "Interconnects": [
    "Teaching Everyone to Fish for Tokens",
@@ -204,12 +213,12 @@
    "Do AI Risks Require Extraordinary Government Intervention?"
   ],
   "Stratechery": [
+   "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
    "Autonomy and Innovation",
    "2026.34: App Snore",
    "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
    "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-   "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-   "2026.33: The CapEx Train Keeps Rolling"
+   "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model"
   ],
   "Noahpinion": [
    "What if our biggest problems aren’t economic?",
@@ -245,27 +254,27 @@
   ],
   "ChinaTalk": [
    "How AI Becomes a Political Crisis",
+   "How AI Becomes a Political Crisis",
    "Overcaffeinated in Indonesia",
+   "Lessons from the American Civil War",
    "North Korean Messiah",
-   "Why China’s AI Bubble Is Also Industrial Policy",
-   "The Rise of China’s Electric Vehicle Industry",
-   "China's Best Music in 2026 (So Far)"
+   "North Korea's Messiah"
   ],
   "ScienceDaily": [
    "Common medications may change your gut for years",
+   "Atomic catalyst unlocks the hidden value of plant waste",
    "Bird flu is spreading. Your backyard feeder could make it worse",
+   "Scientists find hidden “highways” guiding animal evolution",
    "Too much or too little sleep may make your body age faster",
-   "Screen time at ages 1 and 6 may matter more than parents realize",
-   "NASA is about to launch a powerful new eye on the universe",
-   "Trump to award Congressional Space Medal of Honor to Artemis II astronauts"
+   "Screen time at ages 1 and 6 may matter more than parents realize"
   ],
   "Nature": [
-   "The exoskeletons are coming (to a store near you)",
-   "Frontier-technology markets are too narrow — here’s how to widen them",
-   "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-   "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-   "Can AI ever be conscious? The question stems from a misconception",
-   "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies"
+   "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+   "Amend copyright licences to halt AI misuse and reassert human control",
+   "The future of peer review requires AI support, not AI bans",
+   "Protecting education in the middle of war zones",
+   "Ancient surveying instrument found in Egypt",
+   "Assessing students in the AI era"
   ]
  },
  "youtube_latest": {
@@ -273,125 +282,125 @@
   "Two Minute Papers": "This Small AI Will Change Everything",
   "Andrej Karpathy": "How I use LLMs",
   "Fireship": "DeepSeek is back... and Silicon Valley is terrified",
-  "CNN": "Natalie Harp’s Twitter feed shows history of devotion to Trump"
+  "CNN": "Can Democrats flip Iowa with a rural revival? | All Over the Map"
  },
  "hn_top": [
   {
-   "t": "iCloud+ Hide My Email addresses will remain on icloud.com",
-   "s": 134,
-   "c": 0.21
+   "t": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+   "s": 218,
+   "c": 0.59
   },
   {
-   "t": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-   "s": 690,
+   "t": "Python's pre-declared constants are kinda weird",
+   "s": 96,
+   "c": 0.47
+  },
+  {
+   "t": "Apple introduces M6 and M5 Ultra",
+   "s": 913,
+   "c": 0.95
+  },
+  {
+   "t": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "s": 279,
    "c": 0.68
   },
   {
-   "t": "Moon (2024)",
-   "s": 65,
-   "c": 0.14
+   "t": "New Mac Studio with M5 Max and M5 Ultra",
+   "s": 686,
+   "c": 0.61
   },
   {
-   "t": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-   "s": 518,
-   "c": 0.41
+   "t": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+   "s": 29,
+   "c": 0.21
   },
   {
-   "t": "The entire city of San Francisco as a video game",
-   "s": 306,
-   "c": 0.35
+   "t": "Black hole singularity is a surface not a point",
+   "s": 165,
+   "c": 0.74
   },
   {
-   "t": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-   "s": 97,
-   "c": 0.81
-  },
-  {
-   "t": "How Europe is killing makers and micro-entrepreneurs",
-   "s": 1016,
-   "c": 0.62
-  },
-  {
-   "t": "Oceans hit highest temperature on record",
-   "s": 359,
-   "c": 0.64
-  },
-  {
-   "t": "Vintage Artificial Intelligence: Before It Got Awkward",
-   "s": 40,
-   "c": 0.12
-  },
-  {
-   "t": "IPFS Maintainers Winding Down",
-   "s": 311,
-   "c": 0.51
-  },
-  {
-   "t": "Where did all the public bathrooms go?",
-   "s": 126,
-   "c": 1.87
-  },
-  {
-   "t": "Jabber/XMPP: 25 Years of Digital Independence",
-   "s": 153,
+   "t": "C2PA Cameras Do Not Survive Contact with Reality",
+   "s": 60,
    "c": 0.4
   },
   {
-   "t": "LLMs could control their host machines by exploiting inference engines",
-   "s": 80,
-   "c": 0.53
+   "t": "When str.lower() is a security vulnerability in Python – Seth Larson",
+   "s": 38,
+   "c": 0.61
   },
   {
-   "t": "Octopus intelligence may be related to never-before-seen mutation",
-   "s": 61,
+   "t": "New Mac mini, featuring M6 and M5 Pro",
+   "s": 410,
+   "c": 0.59
+  },
+  {
+   "t": "XCancel also down, at least for time being",
+   "s": 158,
+   "c": 0.37
+  },
+  {
+   "t": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "s": 81,
+   "c": 0.19
+  },
+  {
+   "t": "Nitter project received cease and desist",
+   "s": 558,
+   "c": 0.71
+  },
+  {
+   "t": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "s": 246,
+   "c": 0.55
+  },
+  {
+   "t": "Run OpenBSD on DigitalOcean for $4/month",
+   "s": 109,
    "c": 0.46
-  },
-  {
-   "t": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-   "s": 68,
-   "c": 0.12
   }
  ],
  "github_top": [
   {
    "n": "deepseek-ai/deepseek-harness",
-   "s": 191910
+   "s": 195209
   },
   {
    "n": "anywhere-labs/dsh-desktop",
-   "s": 19656
+   "s": 20181
   },
   {
    "n": "guillaumemeyer/watermarks-remover",
-   "s": 17902
+   "s": 18267
   },
   {
    "n": "awesome-dsh-plugin/awesome-dsh-plugin",
-   "s": 12258
+   "s": 12647
   },
   {
    "n": "yjh051108/dsh-routing-suite",
-   "s": 6760
+   "s": 6812
   },
   {
    "n": "zhu1090093659/dsh-web",
-   "s": 5914
-  },
-  {
-   "n": "pathwaycom/arc-task-gen",
-   "s": 5484
-  },
-  {
-   "n": "ZzzLc0405/photo-abstract-editorial",
-   "s": 4710
+   "s": 6051
   },
   {
    "n": "LaoFeng-mouse/flyingmouse-format",
-   "s": 4419
+   "s": 4534
   },
   {
    "n": "s1dashu/ip-as-logo-skill",
-   "s": 4120
+   "s": 4280
+  },
+  {
+   "n": "MengTo/threeui",
+   "s": 3902
+  },
+  {
+   "n": "xiaobright/dsh-anchored-standard",
+   "s": 3754
   }
  ],
  "quotes": {},
@@ -423,10 +432,6 @@
   {
    "source": "rss:Moneycontrol",
    "error": "403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/business.xml"
-  },
-  {
-   "source": "rss:Hacker News best",
-   "error": "feed parsed but zero entries"
   },
   {
    "source": "rss:Import AI",
