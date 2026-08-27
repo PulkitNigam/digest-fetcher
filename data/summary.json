@@ -1,11 +1,11 @@
 {
- "generated_utc": "2026-08-25T23:54:46.652001Z",
+ "generated_utc": "2026-08-27T04:59:32.407140Z",
  "counts": {
-  "youtube": 5,
+  "youtube": 0,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
-  "github": 20,
+  "github": 0,
   "quotes": 0
  },
  "fx": {
@@ -45,156 +45,156 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-   "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-   "CIA chief travels to Moscow for unannounced talks, US media reports",
-   "Mass arrests in global crackdown on West African cyber-crime networks",
-   "Brain disease in dead NFL players 'higher than previously shown'",
-   "Tornado tears through French village, leaving dozens hurt and homes ravaged"
+   "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+   "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+   "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+   "At least 12 dead as wildfires sweep through northern Algeria",
+   "US drug agency approves breakthrough treatment for pancreatic cancer",
+   "At least one dead after car crashes into crowd in northern France"
   ],
   "BBC Business": [
-   "Winter energy prices expected to rise to three-year high",
-   "Back to school: How to save on uniform costs",
-   "AI gold rush draws crypto firms away from Bitcoin",
-   "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-   "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-   "Firms scramble for battery power in Spain and Portugal"
+   "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+   "Plug-in solar panels are coming to a shop near you - here's what to know",
+   "Experts' five tips to make a rented property feel like home",
+   "Unexpected chat between OpenAI agents led to Hugging Face hack",
+   "Nvidia revenue doubles on continued AI demand",
+   "How Dolly Parton's business savvy helped her succeed far beyond the charts"
   ],
   "BBC Technology": [
-   "Firms scramble for battery power in Spain and Portugal",
-   "Songs created by AI banned from Australia's music charts",
-   "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-   "Twitch and Amazon face legal action over using livestreams to train AI",
-   "Robot horse and rider steal the spotlight at Chinese conference",
-   "TikTok to pay $400m to US in one of largest child privacy settlements"
+   "Unexpected chat between OpenAI agents led to Hugging Face hack",
+   "Nvidia revenue doubles on continued AI demand",
+   "Meta to pay up to $18bn to settle claims its platforms harm children",
+   "Xbox boss 'thinking about affordability' of next-gen console",
+   "AI gold rush draws crypto firms away from Bitcoin",
+   "Songs created by AI banned from Australia's music charts"
   ],
   "Al Jazeera": [
-   "Brazil fines TikTok $30m for child data privacy violations",
-   "Why can’t America agree on what time it is?",
-   "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-   "Who was the ‘Queen of Country’ Dolly Parton?",
-   "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-   "US soldier who called for Trump impeachment facing military charges"
+   "Twelve dead as over 150 wildfires rage across northeastern Algeria",
+   "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+   "Fury and grief as parents of Pakistan infant fire victims demand answers",
+   "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+   "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+   "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims"
   ],
   "The Guardian": [
+   "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+   "Mpox is back – and in new countries. How can this outbreak be contained?",
+   "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
    "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
    "Video shows hundreds held captive after Nigeria mosque kidnapping",
-   "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-   "Landslide at waste mound in Guinea capital kills 30, government says",
-   "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-   "Wife of US soldier deported after Trump rollback on military family protections"
+   "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks"
   ],
   "NPR": [
-   "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-   "South Carolina U.S. Senate runoff election will test Trump's endorsement",
-   "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-   "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-   "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase"
+   "Yayoi Kusama, high priestess of polka dots, has died",
+   "Drugstores say Medicare's $50 obesity drug program is catching on",
+   "Immigration arrests soar, hitting 50,000 in July",
+   "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+   "States try new tactics to bring down high hospital prices",
+   "Judge clears the way for Postal Service work on Trump's mail-in voting order for now"
   ],
   "SCMP China": [
-   "No immunity: how Xi’s anti-corruption fighters are zeroing in on fresh targets",
-   "Africa knows who its true friends are – and they’re not in Washington",
-   "Trump says China is driving anger at US data centres. These residents disagree",
-   "Industrial fire kills 3, including 2 Chinese citizens, in Russia’s far east",
-   "China seeks public tips on procurement violations as PLA Rocket Force probe continues",
-   "Brazil fines TikTok record US$30 million for profiting from children’s data"
+   "Japan fast-tracks anti-drone system amid China’s military build-up",
+   "Global US immigrant visa pause: the fallout across China, Asia and Hong Kong",
+   "China-Nepal border disaster: 1,000-plus missing as Beijing sends rescue teams",
+   "China launches world’s first 100kW bamboo-built floating solar farm off Shandong coast",
+   "Bill Gates warns of AI’s impact, urges the US and China to cooperate",
+   "Is ‘resource curse’ to blame in regions hit harder by Xi’s anti-corruption campaign?"
   ],
   "Nikkei Asia": [
-   "Asia's rising wealth to propel finance industry past US: report",
-   "From ramen to anime: Japan's trading houses extend reach to fan merchandise",
-   "40% of Japan department stores expect tourist spending to rise",
-   "Japan to weigh condo sale tax change to curb speculation",
-   "Kazakhstan, the world's most important hedger, bets on stability",
-   "BYD's Fangchengbao offroad EV brand triples China sales"
+   "Malaysian ex-PM Ismail Sabri charged with failing to declare assets",
+   "Asian nations scramble to find tourists missing in Himalayan floods",
+   "Bank of Korea delivers back-to-back rate hikes to cope with inflation",
+   "Powertech eyes world's first panel-level packaging for AI chips in 2027",
+   "India's Varroc developing rare earth-free EV motor to cut China reliance",
+   "Thailand's southern insurgency erupts with renewed fury"
   ],
   "Deutsche Welle": [
+   "Meta settles in US states lawsuit on teen user addiction",
+   "Could Syria become the focus of an Israeli-Turkish conflict?",
+   "Zambia after the polls: A test for democracy in Africa",
+   "India: Assam tea industry faces climate-driven labor crisis",
    "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-   "Houthi strikes threaten to pull Yemen back into full-scale war",
-   "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
-   "Will Iran withdraw from nuclear non-proliferation treaty?",
-   "Why Starlink won't open Vietnam's heavily censored internet",
-   "Can new US sanctions cripple Iran's shadow economy?"
+   "Houthi strikes threaten to pull Yemen back into full-scale war"
   ],
   "Livemint": [
-   "Gold Edges Up After Four-Day Gain as Traders Eye Treasury Moves",
-   "Oil Falls on Fresh Iran War Diplomacy, Talks on Hormuz",
-   "Short Squeeze in US Swaps, Options Shows ‘Bessent Put’ at Work",
-   "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
-   "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
-   "Stock market open or closed tomorrow on Eid Milad-un-Nabi 2026? Check NSE, BSE trading offs calendar"
+   "Symbiotec Pharmalab IPO Day 4: Issue booked 5.31 times so far. Here's GMP, review, &amp; other key details",
+   "Augmont Enterprises IPO allotment date in focus | GMP, how to check allotment status",
+   "Lumino Industries IPO Day 1: Issue booked 10% so far. GMP signals 61% listing pop. Should you apply or skip?",
+   "Wheat Hits Three-Year High as Russia Prepares to Escalate War",
+   "Gold and silver prices rise on MCX amid a weaker dollar; experts highlight key levels to watch",
+   "Rupee opens 3 paise lower at 95.44 against US dollar"
   ],
   "The Hindu Biz": [
-   "Madras built the engine, Chennai is shifting gears",
-   "Infrastructure projects see cost overrun of ₹3.4 lakh cr: MoSPI",
-   "Tata Steel gets interim relief in ₹1,755 crore demand notice issued by Jharkhand government",
-   "AMI orders 9,000 NVIDIA Rubin GPUs for Hyderabad facility",
-   "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
-   "West Asia conflict weighing on business confidence: RBI Bulletin"
+   "Bajaj General Insurance unveils health cover for families with pets",
+   "JSW Group puts Odisha battery plant on hold over LFP technology constraints",
+   "Wipro Consumer Care forays into pet food; to invest ₹150 cr",
+   "JSW Group in talks with SAIC of China to increase stake in JV",
+   "Luxury apparel store Pernia to raise ₹680 crore through IPO",
+   "Gradiant expects India business to double next year as semiconductor, solar demand rises"
   ],
   "Inc42": [
-   "Zerodha Fund House FY26: Revenue Up 79% YoY To ₹17 Cr, Loss Narrows",
-   "IPO-Bound Pernia Pop Up Shop’s FY26 Net Loss Widens 52% YoY To ₹285.4 Cr",
-   "Supertails Has Built The Pet-Care Ecosystem, But Can It Make The Economics Work?",
-   "Atomberg DRHP: A Look At Shareholding Pattern & Key Personnel",
-   "[Update] Now, Cult.fit’s Rishabh Telang Moves Karnataka High Court To Quash FIR",
-   "Zoomcar Q1 Net Loss Rises 28% YoY To $5.4 Mn; Revenue Flat At $2.4 Mn"
+   "Building Pharma Labs In Space, Zerodha’s Bland FY26 & More",
+   "InspeCity Raises ₹100 Cr To Fund Four Space Missions",
+   "Micromax Floats Family Office, Earmarks ₹250 Cr To Back Deeptech Startups",
+   "Lightspeed Exits PhysicsWallah Post ₹550 Cr Stake Sale",
+   "Ribbit Capital Sells Groww Shares Worth ₹2,217 Cr",
+   "Hala Mobility’s FY26 Revenue Jumps 4.4X To ₹97 Cr, Posts ₹3.6 Cr Profit"
   ],
   "TechCrunch": [
-   "X sends cease-and-desist to open source project Nitter over alleged scraping",
-   "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-   "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-   "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-   "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-   "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass"
+   "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+   "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+   "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+   "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+   "Google’s Gemini has a branding problem, and so does the rest of AI",
+   "How do we explain OpenAI’s executive exodus?"
   ],
   "Ars Technica": [
-   "The world's busiest spaceport is about to get a lot quieter, at least for now",
-   "World humanoid robot games show runners breaking records, bursting into flames",
-   "Preserving glow-in-the-dark art and fashion for future generations",
-   "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-   "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-   "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport"
+   "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+   "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+   "New Twitter launches, says Musk's X gave up the name",
+   "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+   "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+   "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text"
   ],
   "The Verge": [
-   "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-   "Trump is upping the price of Big Tech’s favorite visa",
-   "At just $8, you owe it to yourself to grab Inscryption",
-   "The Witcher 3 is getting a remaster",
-   "Dreame’s dream of a rocket-powered car is dead",
-   "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories"
+   "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+   "OpenAI’s rogue AI model incident was worse than we thought",
+   "All the ways Instagram and Facebook are changing for teens",
+   "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+   "Being a mom is hard — the heat is making it harder",
+   "The Switch 2’s $50 price increase is happening next week"
   ],
   "MIT Tech Review": [
-   "Addressing a sticking point in sustainable adhesives",
-   "YouTuber finds niche as college admissions mentor",
-   "Launching youth entrepreneurship",
-   "A new stamp on cyberfraud prevention",
-   "AgeLab research inspires an A I startup",
-   "Amping up T cells to target cancer"
+   "The inside story on why OpenAI agents hacked Hugging Face",
+   "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+   "Raised on AI",
+   "AI models flub these intelligence tests. Can you fare any better?",
+   "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+   "Addressing a sticking point in sustainable adhesives"
   ],
   "Hacker News best": [
-   "Dolly Parton has died",
-   "Nitter project received cease and desist",
-   "My Friend Aaron",
-   "How much of HN is AI?",
-   "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "OpenAI Jalapeño: Better than Nvidia Blackwell"
+   "Nvidia agrees to acquire Hugging Face for $13B",
+   "Tailcat – Like netcat, but over Tailscale’s data plane",
+   "An ongoing 3D-printer AGPL violation",
+   "U.S. State Department pauses immigrant visa applications",
+   "Tim Curry has died",
+   "Nebula Sans"
   ],
   "Simon Willison": [
+   "Qwen3.8-Flash-Next",
+   "Quoting Paul Dix",
    "EVE Online: The Move to Python 3 Begins!",
    "llm-anthropic 0.27",
    "Your executable is a SQLite database",
-   "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-   "Quoting Drew Breunig",
-   "Quoting Linus Torvalds"
+   "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
   ],
   "Latent Space": [
+   "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+   "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+   "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+   "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
    "[AINews] Andrew Ng gets into AI Engineering",
-   "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-   "The Evolution of the Agent Harness",
-   "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-   "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-   "The /wayfinder Skill: Navigating the “Fog of War” of Planning"
+   "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over"
   ],
   "Interconnects": [
    "Teaching Everyone to Fish for Tokens",
@@ -213,20 +213,20 @@
    "Do AI Risks Require Extraordinary Government Intervention?"
   ],
   "Stratechery": [
+   "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
    "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
    "Autonomy and Innovation",
    "2026.34: App Snore",
    "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
-   "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-   "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model"
+   "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data"
   ],
   "Noahpinion": [
+   "The death of Market Street",
    "What if our biggest problems aren’t economic?",
    "Are we watching the U.S. go bankrupt?",
    "Economists should be worried about birth rates",
    "Where to eat in San Francisco",
-   "The end of an era for China's economy",
-   "23 low-regret recommendations for AI policy"
+   "The end of an era for China's economy"
   ],
   "Net Interest": [
    "Great Scott",
@@ -261,150 +261,123 @@
    "North Korea's Messiah"
   ],
   "ScienceDaily": [
+   "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+   "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+   "190-year-old DNA reveals a hidden pangolin species",
+   "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
    "Common medications may change your gut for years",
-   "Atomic catalyst unlocks the hidden value of plant waste",
-   "Bird flu is spreading. Your backyard feeder could make it worse",
-   "Scientists find hidden “highways” guiding animal evolution",
-   "Too much or too little sleep may make your body age faster",
-   "Screen time at ages 1 and 6 may matter more than parents realize"
+   "Atomic catalyst unlocks the hidden value of plant waste"
   ],
   "Nature": [
-   "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
-   "Amend copyright licences to halt AI misuse and reassert human control",
-   "The future of peer review requires AI support, not AI bans",
-   "Protecting education in the middle of war zones",
-   "Ancient surveying instrument found in Egypt",
-   "Assessing students in the AI era"
+   "Highest-ever ocean temperatures recorded as El Niño intensifies",
+   "Using nuclear waste to power space missions",
+   "Automated prototyping of genetic codes",
+   "Insights into longevity and virus-driven adaptation from <i>Myotis</i> bat genomes",
+   "Systems vaccinology and the architecture of human immunity",
+   "Ultrafast and reference-free sequence discovery in single-cell data"
   ]
  },
- "youtube_latest": {
-  "Veritasium": "It's impossible to choose a number at random",
-  "Two Minute Papers": "This Small AI Will Change Everything",
-  "Andrej Karpathy": "How I use LLMs",
-  "Fireship": "DeepSeek is back... and Silicon Valley is terrified",
-  "CNN": "Can Democrats flip Iowa with a rural revival? | All Over the Map"
- },
+ "youtube_latest": {},
  "hn_top": [
   {
-   "t": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-   "s": 218,
-   "c": 0.59
+   "t": "Nvidia agrees to acquire Hugging Face for $13B",
+   "s": 582,
+   "c": 0.43
   },
   {
-   "t": "Python's pre-declared constants are kinda weird",
-   "s": 96,
-   "c": 0.47
+   "t": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+   "s": 235,
+   "c": 0.65
   },
   {
-   "t": "Apple introduces M6 and M5 Ultra",
-   "s": 913,
-   "c": 0.95
+   "t": "Mechanical Turk shutting down September 30",
+   "s": 221,
+   "c": 0.32
   },
   {
-   "t": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "s": 279,
-   "c": 0.68
+   "t": "GLM-5.3-Flash",
+   "s": 939,
+   "c": 0.5
   },
   {
-   "t": "New Mac Studio with M5 Max and M5 Ultra",
-   "s": 686,
-   "c": 0.61
+   "t": "Kusama Yayoi Dies at 97",
+   "s": 92,
+   "c": 0.07
   },
   {
-   "t": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-   "s": 29,
-   "c": 0.21
+   "t": "Asahi Linux Progress Report: Linux 7.2",
+   "s": 153,
+   "c": 0.24
   },
   {
-   "t": "Black hole singularity is a surface not a point",
-   "s": 165,
-   "c": 0.74
-  },
-  {
-   "t": "C2PA Cameras Do Not Survive Contact with Reality",
-   "s": 60,
-   "c": 0.4
-  },
-  {
-   "t": "When str.lower() is a security vulnerability in Python – Seth Larson",
-   "s": 38,
-   "c": 0.61
-  },
-  {
-   "t": "New Mac mini, featuring M6 and M5 Pro",
-   "s": 410,
-   "c": 0.59
-  },
-  {
-   "t": "XCancel also down, at least for time being",
-   "s": 158,
-   "c": 0.37
-  },
-  {
-   "t": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "s": 81,
+   "t": "Tailcat – Like netcat, but over Tailscale’s data plane",
+   "s": 513,
    "c": 0.19
   },
   {
-   "t": "Nitter project received cease and desist",
-   "s": 558,
-   "c": 0.71
+   "t": "Laion Big Video Dataset",
+   "s": 28,
+   "c": 0.07
   },
   {
-   "t": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "s": 246,
-   "c": 0.55
+   "t": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+   "s": 107,
+   "c": 0.43
   },
   {
-   "t": "Run OpenBSD on DigitalOcean for $4/month",
-   "s": 109,
-   "c": 0.46
+   "t": "An ongoing 3D-printer AGPL violation",
+   "s": 348,
+   "c": 0.45
+  },
+  {
+   "t": "Zohran and the Short Link",
+   "s": 148,
+   "c": 0.31
+  },
+  {
+   "t": "U.S. State Department pauses immigrant visa applications",
+   "s": 378,
+   "c": 1.5
+  },
+  {
+   "t": "Stripe acquires Clerky",
+   "s": 113,
+   "c": 0.19
+  },
+  {
+   "t": "Twitter Viewer – View Twitter Without Account",
+   "s": 364,
+   "c": 0.52
+  },
+  {
+   "t": "The Hugging Face incident and the road ahead",
+   "s": 216,
+   "c": 1.2
   }
  ],
- "github_top": [
-  {
-   "n": "deepseek-ai/deepseek-harness",
-   "s": 195209
-  },
-  {
-   "n": "anywhere-labs/dsh-desktop",
-   "s": 20181
-  },
-  {
-   "n": "guillaumemeyer/watermarks-remover",
-   "s": 18267
-  },
-  {
-   "n": "awesome-dsh-plugin/awesome-dsh-plugin",
-   "s": 12647
-  },
-  {
-   "n": "yjh051108/dsh-routing-suite",
-   "s": 6812
-  },
-  {
-   "n": "zhu1090093659/dsh-web",
-   "s": 6051
-  },
-  {
-   "n": "LaoFeng-mouse/flyingmouse-format",
-   "s": 4534
-  },
-  {
-   "n": "s1dashu/ip-as-logo-skill",
-   "s": 4280
-  },
-  {
-   "n": "MengTo/threeui",
-   "s": 3902
-  },
-  {
-   "n": "xiaobright/dsh-anchored-standard",
-   "s": 3754
-  }
- ],
+ "github_top": [],
  "quotes": {},
  "errors": [
+  {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "source": "youtube:Two Minute Papers",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  {
+   "source": "youtube:Andrej Karpathy",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
+  },
+  {
+   "source": "youtube:Fireship",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
+  },
+  {
+   "source": "youtube:CNN",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
+  },
   {
    "source": "rss:AP Top",
    "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
@@ -500,6 +473,10 @@
   {
    "source": "reddit:ValueInvesting",
    "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ValueInvesting/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "github",
+   "error": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=created%3A%3E2026-08-06+stars%3A%3E300&sort=stars&order=desc&per_page=20"
   },
   {
    "source": "quotes",
