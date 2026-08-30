@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-08-29T04:18:02.719501Z",
+ "generated_utc": "2026-08-30T01:36:32.378822Z",
  "counts": {
-  "youtube": 3,
-  "rss": 29,
+  "youtube": 5,
+  "rss": 28,
   "reddit": 0,
   "hackernews": 25,
   "github": 20,
@@ -20,7 +20,6 @@
   "BBC World",
   "ChinaTalk",
   "Deutsche Welle",
-  "Hacker News best",
   "Huberman Lab",
   "Inc42",
   "Interconnects",
@@ -46,11 +45,11 @@
  "headlines": {
   "BBC World": [
    "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-   "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-   "Norway mourns King Harald as Haakon VIII ascends throne",
-   "Right-wing commentator Milo Yiannopoulos detained by ICE",
-   "Close race as Iceland votes on whether to restart talks on joining EU"
+   "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+   "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+   "Canada installs large Lake Ontario sign in latest jab at US",
+   "Norway's new king remembers 'my dear father' in first speech",
+   "Former Ecuadorian president imprisoned for corruption"
   ],
   "BBC Business": [
    "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
@@ -61,20 +60,20 @@
    "Overcooked? Why robotic pizza makers are failing"
   ],
   "BBC Technology": [
+   "I've been to Gamescom six times - here's what excited me this year",
    "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
    "Time is running out for cyber security, warn top tech firms",
    "Reform of all social media should come with Meta changes, UN says",
    "What the Meta settlement means for the UK, and other questions after the deal",
-   "Unexpected chat between OpenAI agents led to Hugging Face hack",
-   "Nvidia revenue doubles on continued AI demand"
+   "Unexpected chat between OpenAI agents led to Hugging Face hack"
   ],
   "Al Jazeera": [
-   "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
-   "Nepal and China resume flood rescue as death toll nears 600",
-   "Guinea-Bissau votes on a stronger presidency: What’s at stake?",
-   "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-   "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
-   "Gunfire, blasts heard in several areas of Niger capital Niamey"
+   "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
+   "Online anti-Muslim backlash collides with different reality in South Africa",
+   "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra",
+   "Israeli settlers attack international news team in occupied West Bank",
+   "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+   "Voting closes in Iceland’s knife-edge EU referendum"
   ],
   "The Guardian": [
    "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
@@ -82,87 +81,87 @@
    "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
    "South African police arrest two Thai men for allegedly smuggling parrot eggs",
    "Mpox is back – and in new countries. How can this outbreak be contained?",
-   "Trump announces new US oil agreement with Venezuela"
+   "Was it a mistake for 99 Colombian guerrillas to lay down their arms?"
   ],
   "NPR": [
-   "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-   "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-   "After 6 months of war, Iran's battered regime remains entrenched",
-   "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-   "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-   "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address"
+   "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+   "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+   "Photos: See the aftermath of deadly flash floods in Nepal",
+   "Opinion: Remembering Dolly Parton",
+   "The bridges of Rwanda open up new worlds",
+   "Lights out, Instagram off? The changes to Meta for teens could be a big deal"
   ],
   "SCMP China": [
-   "China tests GJ-21 stealth drone as Sichuan Type 076 warship carries out sea trials",
-   "Taipei’s debt hardball carries a clear warning for its remaining allies",
-   "US Treasury sanctions Hong Kong-based firm over Iran money laundering ties",
-   "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?",
-   "US-China AI rivalry needn’t preclude cooperation",
-   "The ‘Asian water tower’ is starting to wobble, computer simulations show"
+   "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+   "Chinese coastguard has 0.3% chance of using weapons in disputed waters, war game suggests",
+   "Xi, Putin to meet in Bishkek for Power of Siberia 2 pipeline talks: Kremlin",
+   "What Japan’s coming fighter jet deployment to India means for China",
+   "China’s Middle East policy at a crossroads 6 months into US-Israeli war on Iran",
+   "China-Nepal floods: police officer filmed guiding people away from stricken border post"
   ],
   "Nikkei Asia": [
-   "Hong Kong bitcoin event sparks 'ego' check after bearish run",
-   "Casio targets India's growing watch market with affordable models",
-   "Brewing inequality: the unseen cost of Sri Lanka's Ceylon Tea",
-   "Young hawkers bring new life to Singapore food tradition",
-   "China's hypercompetition goes global as Beijing frets over backlash",
-   "'Dairyland' Wisconsin hopes to ride protein boom into Asia"
+   "Tokyo brewer challenges sake's fixation on famous water",
+   "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+   "Southeast Asia should work as one to help content flourish overseas",
+   "Japan defense forces to use NTT's optical network tech for communications",
+   "TSE's startup IPOs grow bigger in market cap, hitting record",
+   "BMW motorcycle unit pursues collaboration with India, China rivals: CEO"
   ],
   "Deutsche Welle": [
+   "Russian-American heads Trump's planned Caucasus trade route",
+   "South Korea leans toward military conscription for women",
+   "Serbia keeps EU, Russia in play ahead of key election",
    "What next? Kurds say yes, Druze still say no to united Syria",
    "Uganda: World's 'youngest monarch' dies aged 34",
-   "Africa's aging autocrats fight to stay in power",
-   "Serbia: Keeping EU, Russia in play ahead of key election",
-   "South Korea leans toward military conscription for women",
-   "India's citizen-led school audits test limits of activism"
+   "Africa's aging autocrats fight to stay in power"
   ],
   "Livemint": [
-   "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
-   "Indian bank stocks show widest exchange price gap in decades",
-   "Three small cap stocks to watch for the long term",
-   "Wall Street Piles On Rate-Hike Bets as Warsh Renews Hawkish Tone",
-   "Ivory Coast to maintain reduced cocoa farmgate price for 2026/27, sources say",
-   "Dollar jumps after Warsh comments, set for weekly gain"
+   "Stocks to watch on August 31: M&amp;M, Cupid, Aurobindo Pharma, OLA, KP Green Engineering among shares in focus",
+   "A roadmap beyond 1% RoA is key to IndusInd Bank’s turnaround",
+   "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
+   "This AI stock surges over 600% YTD; delivers bigger returns than Nvidia, SanDisk, Micron and Intel",
+   "Kevin Warsh's speech to India Q1 GDP data: Top five triggers that may dictate the Indian stock market this week",
+   "Mukesh Ambani's RIL-backed textile stock crash 21% in just 5 days - What's behind the plunge? Explained"
   ],
   "The Hindu Biz": [
-   "Sandhya Devanathan exits Meta after a decade; to join OpenAI as VP South East Asia, Australia",
-   "IGL hikes CNG prices by ₹3.89 per kg as LNG prices stay elevated",
-   "Fiscal federalism, efficiency versus equity concerns",
-   "Union Bank of India raises $600 mn via bonds",
-   "Ola Electric brings indigenous Bharat Cell LFP tech to mass market with all-new S1Z",
-   "Bernstein flags reading too much into India Inc’s Q1 FY27 performance; maintains Nifty target at 26,000 points"
+   "No material price impact on CBG with revised offtake framework, ensures plants operate sustainably: Govt.",
+   "Ather unveils new bike Konarc, new battery platform, charging solution for apartments",
+   "Nepal seeks to import power earlier from India after flood devastation, asks for approvals",
+   "IRDAI panel calls for simpler, transparent, easier-to-use health covers",
+   "Apparel exporters express concern over hike in cotton, yarn prices",
+   "HDFC Bank CEO Jagdishan to step down, decides not to seek reappointment"
   ],
   "Inc42": [
-   "From Third Wave Coffee To MATTER — Indian Startups Raised Over $210 Mn This Week",
-   "Raise Financial Hires Ex-Upstox Exec Abhishek Singh To Helm New Insurtech Bet",
-   "[Update] Sandhya Devanathan Leaves Meta For New Role At OpenAI",
-   "Alpha Wave Ventures Sells ₹1,857 Cr Stake In Lenskart Via Block Deals",
-   "Gnani.ai Unveils Sovereign AI Stack Artha For Enterprises",
-   "IPO-Bound Purple Style Labs Nets ₹306 Cr From Anchor Investors"
+   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+   "Ola Electric Secures Centre’s ₹95.81 Cr Incentive Under PLI-Auto Scheme",
+   "New-Age Tech Stocks See Mixed Week; Ather Rallies 10%, Shiprocket Falls 9%",
+   "Meta’s $18 Bn Settlement: Why Should Teen Safety Stop At The US Border?",
+   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "Ather Launches Konarc Escooter At ₹99,999, Offers Up To 200 Km Range"
   ],
   "TechCrunch": [
-   "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-   "Is the best way to watch a movie on a pair of sunglasses?",
-   "Neocloud Lambda secures $1B in debt to buy more chips",
-   "An Anthropic researcher just gave us a peek at self-improving AI",
-   "Brave’s browser one-ups Chrome with its new support for email aliases",
-   "Open-weight AI companies are the Valley’s hottest acquisition targets"
+   "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+   "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+   "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+   "Hollywood celebs are getting into microdrama apps",
+   "The Theragun Sense makes everyday recovery surprisingly easy",
+   "Nvidia’s AI advantage is moving beyond the GPU"
   ],
   "Ars Technica": [
+   "I asked 100 companies for my data. Some deleted it instead.",
    "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
    "Cities terminate Flock contracts at record pace in August",
    "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
    "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-   "Here's what we know about the \"space academy\" Trump just announced",
-   "Apple One and Apple TV subscription prices increase by up to 20 percent"
+   "Here's what we know about the \"space academy\" Trump just announced"
   ],
   "The Verge": [
-   "Google further buries search results under AI mode",
-   "Xbox CEO calls Project Helix a ‘family of devices’",
-   "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-   "Trump’s EPA wants to let data centers hide their air pollution",
-   "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-   "The iPhone Fold could make concerts even worse"
+   "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+   "Alt-right troll Milo Yiannopoulos has been deported",
+   "Sony Music and Warner Chappell are suing Anthropic",
+   "Distraction-free writing gadget BYOK is adding custom extensions",
+   "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+   "The Galaxy Z Flip 8 is at its best when there’s friction"
   ],
   "MIT Tech Review": [
    "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -172,29 +171,21 @@
    "Is Slate Auto’s new electric truck the EV Americans need?",
    "The inside story on why OpenAI agents hacked Hugging Face"
   ],
-  "Hacker News best": [
-   "Just the rumour of a bug is enough to find an exploit these days",
-   "GLM-5.3 is now open-weight",
-   "GUIs should be fully keyboard-driven",
-   "Get your Windows license refund",
-   "Htmx 4.0",
-   "EPA says power for data centers can sidestep pollution laws"
-  ],
   "Simon Willison": [
+   "Introducing Hy4 Preview",
    "Just a rumour of a bug is enough to find a security exploit these days",
    "Breaking Claude Code Opus 5 Auto Mode",
    "Qwen3.8-Flash-Next",
    "Quoting Paul Dix",
-   "EVE Online: The Move to Python 3 Begins!",
-   "llm-anthropic 0.27"
+   "EVE Online: The Move to Python 3 Begins!"
   ],
   "Latent Space": [
+   "[AINews] OpenAI shuts off Cursor",
    "[AINews] OpenAI to reach AGI bar by end-2026",
    "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
    "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
    "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-   "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-   "[AINews] Andrew Ng gets into AI Engineering"
+   "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing"
   ],
   "Interconnects": [
    "Teaching Everyone to Fish for Tokens",
@@ -221,12 +212,12 @@
    "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany"
   ],
   "Noahpinion": [
+   "In defense of Asian American art",
    "Here’s how we’re all going to die",
    "The death of Market Street",
    "What if our biggest problems aren’t economic?",
    "Are we watching the U.S. go bankrupt?",
-   "Economists should be worried about birth rates",
-   "Where to eat in San Francisco"
+   "Economists should be worried about birth rates"
   ],
   "Net Interest": [
    "Untangling Guggenheim",
@@ -261,12 +252,12 @@
    "North Korean Messiah"
   ],
   "ScienceDaily": [
+   "Long-term melatonin use linked to 90% higher heart failure risk",
+   "Australia’s red soil may be hiding a massive clean energy source",
+   "Dogs may hold surprising clues to human longevity",
    "NASA’s Roman telescope will see 100 times more sky than Hubble",
-   "Experimental eye drops help blind mice see again",
-   "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-   "Scientists tracked 4,500 animals and found a surprising human effect",
-   "Your dislike of eating bugs may be 9,000 years old",
-   "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion"
+   "The universe is still speeding up, but nobody knows why",
+   "Scientists discover why damaged nerves struggle to heal"
   ],
   "Nature": [
    "Briefing Chat: How Dolly Parton left her mark on science",
@@ -279,138 +270,132 @@
  },
  "youtube_latest": {
   "Veritasium": "We Took $10,000 From @mkbhd's Locked iPhone",
+  "Two Minute Papers": "The Billion Dollar AI Gap Is Collapsing",
+  "Andrej Karpathy": "How I use LLMs",
   "Fireship": "The most expensive software bug in history...",
-  "CNN": "Son of US couple who narrowly escaped Nepal flood: 'Grateful for the miracle'"
+  "CNN": "‘Hannibal Lecter’ is composing music"
  },
  "hn_top": [
   {
-   "t": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "s": 159,
-   "c": 0.31
+   "t": "Bug Blindness",
+   "s": 31,
+   "c": 0.26
   },
   {
-   "t": "GUIs should be fully keyboard-driven",
-   "s": 674,
-   "c": 0.48
+   "t": "Hy4 preview",
+   "s": 194,
+   "c": 0.62
   },
   {
-   "t": "9th Circuit sides with states in Kalshi gambling fight",
-   "s": 87,
-   "c": 0.7
+   "t": "Tether: iMessage, SMS, etc. on Linux",
+   "s": 352,
+   "c": 0.41
   },
   {
-   "t": "Does the Sumerian King List Align with Paleoclimate Events?",
-   "s": 72,
-   "c": 0.31
+   "t": "Highest-ever ocean temperature measured as powerful El Niño forms",
+   "s": 86,
+   "c": 0.66
   },
   {
-   "t": "TurboKV: Insanely fast Rust key-value store",
-   "s": 27,
-   "c": 0.22
+   "t": "Nancy Grace Roman Space Telescope",
+   "s": 124,
+   "c": 0.49
   },
   {
-   "t": "Htmx 4.0",
-   "s": 569,
-   "c": 0.24
-  },
-  {
-   "t": "I accidentally turned LLM memory into program analysis",
-   "s": 66,
-   "c": 0.15
-  },
-  {
-   "t": "Our decision on Cursor following its acquisition by SpaceX",
-   "s": 201,
+   "t": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+   "s": 71,
    "c": 0.39
   },
   {
-   "t": "StemDeck, a free, open-source and local AI stem separator",
-   "s": 43,
-   "c": 0.23
-  },
-  {
-   "t": "U.S. sanctions against the A/I Collective",
-   "s": 519,
-   "c": 0.95
-  },
-  {
-   "t": "Just the rumour of a bug is enough to find an exploit these days",
-   "s": 279,
-   "c": 0.36
-  },
-  {
-   "t": "Monzo Stand-In",
-   "s": 30,
+   "t": "RISC-V is now officially supported by CPython",
+   "s": 10,
    "c": 0.0
   },
   {
-   "t": "Inception-style curved map for turn-by-turn directions",
-   "s": 447,
-   "c": 0.33
+   "t": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+   "s": 107,
+   "c": 0.41
   },
   {
-   "t": "PPWR lands another blow to an precarious tabletop industry",
-   "s": 38,
-   "c": 0.61
+   "t": "SQLite as a Document Database (2020)",
+   "s": 171,
+   "c": 0.27
   },
   {
-   "t": "Experiments with Plotter Art",
-   "s": 23,
-   "c": 0.04
+   "t": "Domain-Driven Agents",
+   "s": 52,
+   "c": 0.12
+  },
+  {
+   "t": "Is it safe to call print in a Python signal handler?",
+   "s": 13,
+   "c": 0.08
+  },
+  {
+   "t": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+   "s": 47,
+   "c": 0.15
+  },
+  {
+   "t": "Good Culture Is the Biggest Productivity Hack, Not AI",
+   "s": 248,
+   "c": 0.23
+  },
+  {
+   "t": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+   "s": 300,
+   "c": 0.15
+  },
+  {
+   "t": "Glacier Mice",
+   "s": 258,
+   "c": 0.19
   }
  ],
  "github_top": [
   {
    "n": "deepseek-ai/deepseek-harness",
-   "s": 202258
+   "s": 203454
   },
   {
    "n": "anywhere-labs/dsh-desktop",
-   "s": 21611
+   "s": 21853
   },
   {
    "n": "guillaumemeyer/watermarks-remover",
-   "s": 19090
+   "s": 19254
   },
   {
    "n": "awesome-dsh-plugin/awesome-dsh-plugin",
-   "s": 13415
+   "s": 13546
   },
   {
    "n": "yjh051108/dsh-routing-suite",
-   "s": 6933
+   "s": 6950
   },
   {
    "n": "zhu1090093659/dsh-web",
-   "s": 6395
-  },
-  {
-   "n": "s1dashu/ip-as-logo-skill",
-   "s": 4518
+   "s": 6455
   },
   {
    "n": "MengTo/threeui",
-   "s": 4455
+   "s": 4555
+  },
+  {
+   "n": "s1dashu/ip-as-logo-skill",
+   "s": 4552
+  },
+  {
+   "n": "HEJustinSun/my-girlfriend-jingtian-latex",
+   "s": 3929
   },
   {
    "n": "dmmulroy/anti-slop",
-   "s": 3855
-  },
-  {
-   "n": "xiaobright/dsh-anchored-standard",
-   "s": 3791
+   "s": 3884
   }
  ],
  "quotes": {},
  "errors": [
-  {
-   "source": "youtube:Two Minute Papers",
-   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
-  },
-  {
-   "source": "youtube:Andrej Karpathy",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
   {
    "source": "rss:AP Top",
    "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
@@ -438,6 +423,10 @@
   {
    "source": "rss:Moneycontrol",
    "error": "403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/business.xml"
+  },
+  {
+   "source": "rss:Hacker News best",
+   "error": "feed parsed but zero entries"
   },
   {
    "source": "rss:Import AI",
