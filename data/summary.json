@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-09-15T01:52:34.504674Z",
+ "generated_utc": "2026-09-16T01:36:52.669963Z",
  "counts": {
-  "youtube": 1,
+  "youtube": 5,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
@@ -9,7 +9,7 @@
   "quotes": 0
  },
  "fx": {
-  "INR": 95.56
+  "INR": 95.96
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -45,156 +45,156 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "China criticises idea it is in 'malicious competition' over AI",
-   "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-   "Swedish left-wing bloc narrowly ahead with election too close to call",
-   "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-   "Thousands demand end to violence in Mexican cartel hotspot",
-   "Legendary costume designer Bob Mackie dies aged 87"
+   "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+   "Denmark says Russian warship fired flares at military helicopter",
+   "What weapon could the US have put into space?",
+   "South African president vows justice as more women's bodies found near Johannesburg",
+   "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+   "Iran war has led to US munitions shortfalls, Pentagon inspector confirms"
   ],
   "BBC Business": [
-   "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-   "I got paid $5,000 to move to a place I'd never heard of",
-   "Pubs in England and Wales to allow digital ID apps to prove age",
-   "Government set to nationalise troubled steel firm",
-   "Petrol and diesel prices hit highest since 2022",
-   "Pubs, hotels and gyms in Wales to get 30% business rates cut"
+   "Complaints to watchdog about water firms jump 84%",
+   "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+   "Why doomsday warnings are not the only threat to the AI juggernaut",
+   "UK in talks about joining global defence bank led by Canada",
+   "We are all new job starters - here's how we got through the first few days",
+   "The extreme engineering of aircraft windows"
   ],
   "BBC Technology": [
+   "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+   "AI app ads promoting 'objectification of women' banned by watchdog",
    "Pubs in England and Wales to allow digital ID apps to prove age",
    "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
    "What is AI, how does it work and why are some people concerned about it?",
-   "Why are there concerns AI could threaten humanity, and how real are they?",
-   "Trump downplays warnings of AI risks, citing rivalry with China",
-   "Questions mount over what an AI 'slowdown' would look like"
+   "Why are there concerns AI could threaten humanity, and how real are they?"
   ],
   "Al Jazeera": [
-   "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-   "Russia resupplies military bases in Syria for first time under new deal",
-   "Geneva talks put Rwanda-DRC peace deal to the test",
-   "Sweden election is too close to call as far right loses ground",
-   "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
-   "Landowners in Texas ask court to stop Trump border wall"
+   "Saudi-led coalition intercepts drone headed for Mecca",
+   "Israeli soldiers rappel from helicopter in occupied West Bank",
+   "Iran war increasing inflation, straining US munitions: congressional report",
+   "Former Maduro ally pleads guilty to money laundering and fraud",
+   "Iran war live: Iran’s top diplomat heads to China as war drags on",
+   "Panic on board Iranian plane as violent shaking rips cabin apart"
   ],
   "The Guardian": [
+   "‘I believed the hype’: the white South Africans denied refugee status in the US",
+   "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
    "The London hospital funded by donors who invested in the slave trade",
    "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
    "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-   "Six Nigerians extradited to US over $6m online romance scam",
-   "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-   "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power"
+   "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election"
   ],
   "NPR": [
-   "See who's won an Emmy Award so far",
-   "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-   "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
-   "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
-   "Trump's EPA repeals pollution limits on fossil fuel power plants",
-   "Israel is 'dismantling Palestinian life' says Israeli human rights group"
+   "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+   "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
+   "State of U.S. democracy reaches new low, report finds",
+   "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
+   "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
+   "Prosecutors won't seek the death penalty for Nick Reiner"
   ],
   "SCMP China": [
-   "Japanese delegations flock to China, but thaw hinges on Takaichi mending ties",
-   "Huawei’s US trial puts jury to the test amid China, Iran links",
-   "Beijing threatens ‘serious consequences’ after Panama lawmakers support Taiwan",
-   "German intelligence report warns of rising Chinese, Russian spy threat",
-   "Trump condemns ‘sick conspiracy’ against AI, says he is only guardrail needed",
-   "Brics leaders act to hedge – not revolt – against US dollar dominance"
+   "Neither tariffs nor export controls will stop China’s industrial engine",
+   "Defence chief Dong Jun at Xiangshan Forum: China willing to share military experience",
+   "Will ‘transactional’ America assist India in a future border crisis with China?",
+   "Why I am grateful for Asean’s endless meetings",
+   "Scott Bessent confirms weekend meeting with He Lifeng days before Xi’s US visit",
+   "How Okinawa’s political shift could make Japan more prepared for a Taiwan contingency"
   ],
   "Nikkei Asia": [
-   "Australia's One Nation party seeks to slash immigrant population by 750,000",
-   "Japanese DOGE's cost-cutting push finds meager $110m in savings",
-   "Toyota sees Europe commercial vehicles as way out of hydrogen cost quagmire",
-   "Malaysia’s Solarvest goes beyond panels to batteries and power trading",
-   "SWIFT's blockchain ledger enters tests with Citi, MUFG for 24-hour cross-border payments",
-   "FamilyMart hopes to quickly tap into trends with AI-developed sweets"
+   "Japan logged 4th straight monthly trade deficit in August",
+   "US weighs buying warships from Japan, South Korea to counter China",
+   "In labor-starved Japan, companies boost hiring perks for high school grads",
+   "Japan's Inpex sees strong interest in Indonesia LNG amid Hormuz closure",
+   "The reshaping of global trade as EU, China and US shift to enforcement",
+   "Japan consumers boost in-game purchases despite inflation squeeze"
   ],
   "Deutsche Welle": [
-   "Arctic power plays: EU searches for a new strategy",
-   "Ukraine, Russia set for new round of US-mediated talks",
-   "Trump seeks halt to energy attacks by both Russia, Ukraine",
-   "IPO 'for the people' is out of reach for many in Nigeria",
-   "Nepal: thousands still missing as flood recovery begins",
-   "EU leaders urge unity after Russian strike on train"
+   "Criticism of LGBTQ+ raids in Turkey is growing",
+   "Why do authoritarian regimes target the LGBTQ+ community?",
+   "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+   "Why the era of cheap government debt is over",
+   "US allies in Asia alarmed as think tank calls for pullback",
+   "'Woman, Life, Freedom' spirit lives on as Iran war drags on"
   ],
   "Livemint": [
-   "Bourses and Brokers May Win From India’s Proposed Auction Revamp",
-   "Pranav Constructions IPO listing today: GMP at  ₹52; Share price prediction ahead of NSE, BSE debut",
-   "Breakout stocks to buy: Sumeet Bagadia recommends five shares to buy today —15 September 2026",
-   "Nifty stretched on the downside: Key reasons why a bounce back may be due",
-   "NSE IPO's steep valuation discount to BSE based on FY26 earnings is misleading",
-   "Stock recommendations for 15 September from MarketSmith India"
+   "Stocks to buy today: Colgate to Rossell Techsys -Sumeet Bagadia gives five breakout shares for Wednesday | 16 Sep",
+   "Kanohar Electricals IPO listing today: GMP at  ₹192; Share price prediction ahead of NSE, BSE debut",
+   "Nifty faces risk of retesting June lows as rising US yields and crude oil prices remain key headwinds",
+   "Never say never: Jefferies keeps wealth, asset management entry open",
+   "Raja Venkatraman recommends two stocks for 16 September",
+   "NSE IPO looks cheap at  ₹1,785. Here’s the catch"
   ],
   "The Hindu Biz": [
-   "Govt. bars bank charges on payments up to ₹2,000 via UPI, RuPay-powered debit cards",
-   "Maharashtra govt. orders probe into land transfer to Premier Automobiles over six decades ago",
-   "Maruti Suzuki achieves one lakh units of Jimmy, FRONX, e VITARA exports to Japan",
-   "India approves expedited export of electricity to flood-hit Nepal",
-   "Essar firm to acquire U.K. fuel retailer for £400 million",
-   "Retail inflation rises to 4.82% in August"
+   "Decoding India’s GDP base revision",
+   "Lessons from India’s smallholder farmers",
+   "Introduction of MDR on large value transactions to strengthen UPI's long-term sustainability: RBI",
+   "RBI files caveat after rejecting Tata Sons bid to avoid listing: report",
+   "MDL signs MoU as Anchor Shipyard for Greenfield Shipbuilding Industrial Cluster at Dighi",
+   "Merchants to be charged 0.4% for UPI transactions over ₹2,000; small vendors exempt"
   ],
   "Inc42": [
-   "Govt Notifies New Rules, No MDR For UPI Transactions Under ₹2,000",
-   "RBI Floats Draft Rules To Standardise Account Blocking In Cyber Fraud Cases",
-   "Can Apple’s iOS 27, Siri AI Fuel Its Next Subscription Push?",
-   "Moneyview Cuts IPO Size After SEBI Nod, Halves Fresh Issue Component To ₹750 Cr",
-   "IPO-Bound InsuranceDekho’s Cofounders Mull Move To Promoter Roles, Company Denies",
-   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups"
+   "UPI MDR Regime Explained: Here’s What Will Be Charged After Oct 15",
+   "CCPA Orders Detailed Probe Into Apple Over iOS 18 Software Issues",
+   "AI Startups To Watch: 5 Startups That Caught Our Eye In September",
+   "CCPA Penalises Rapido Over ‘Advanced Tipping’ Prompts",
+   "Rebel Foods Cuts FY26 Loss By 16% To ₹282 Cr, Revenue Jumps 21%",
+   "Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC"
   ],
   "TechCrunch": [
-   "Jensen Huang took a call from Trump, and showed off something else, too",
-   "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-   "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-   "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-   "Amazon Prime Video takes on TikTok with short-form news clips",
-   "ClickFix attacks are tricking Mac and Windows users into hacking themselves"
+   "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "The AI data center boom is colliding with cities scarred by big industry",
+   "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+   "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+   "SpaceX will try to put Starship in orbit for the first time on September 22"
   ],
   "Ars Technica": [
-   "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-   "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-   "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-   "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-   "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements"
+   "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+   "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+   "18-year-old dies of measles in PA from severe neurological complication",
+   "SpaceX declares Starship ready for orbit, sets launch date next week",
+   "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+   "Boston dumps Flock, says it shared data nationwide in violation of contract"
   ],
   "The Verge": [
-   "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-   "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-   "Apple Home’s new security camera features cost as much as $60 a month",
-   "What execs and politicians are saying about slowing down AI development",
-   "Trump throws out power plant climate pollution rules",
-   "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world"
+   "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+   "AI and data centers are incredibly unpopular in every poll",
+   "Microsoft announces Windows and Surface event for October 7th",
+   "What if social media isn’t hurting kids?",
+   "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+   "One of the best 3D printers for beginners is almost $100 off"
   ],
   "MIT Tech Review": [
-   "The AI industry has taken a doomer turn. What now?",
-   "Donated livers can be made biologically younger",
-   "AI agents blew the whistle on their cheating colleagues",
-   "The Download: AI’s real extinction threat and age-reversal tech for eyes",
    "Roundtables: Could AI really kill us all?",
-   "The Download: biotech’s future and cheaper, cleaner steel"
+   "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+   "AI models need more data about biology, and OpenAI is paying to create it",
+   "What’s at stake in AI’s trillion-dollar gamble",
+   "The AI industry has taken a doomer turn. What now?",
+   "Donated livers can be made biologically younger"
   ],
   "Hacker News best": [
-   "iOS 27, iPadOS 27, and macOS 27",
-   "Steam Frame starts at $1059",
-   "Pion, an agent designed to run any company autonomously",
-   "Distributed Systems Classics (2017)",
-   "Dario, Please",
-   "How to write an effective software design document"
+   "Introducing System One Models and Jev",
+   "An Update on Wayback Machine Access",
+   "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "America's Driver's License Breach Is a National Security Disaster",
+   "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
+   "Show HN: Capsule – Single-file web apps that save their data into SQLite"
   ],
   "Simon Willison": [
+   "Gemini Live audio",
    "The contagion of fear",
    "What blog posts influenced your thinking the most?",
    "Quoting Laurie Voss",
    "commit-rewriter 0.1",
-   "shot-scraper 1.12",
-   "Generating running routes with GPT-6 Astra and ChatGPT Work"
+   "shot-scraper 1.12"
   ],
   "Latent Space": [
+   "Can Skills Learned in Games Transfer to Real-World Work?",
+   "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
    "Humanity’s Last Invention — Richard Socher of Recursive",
    "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
    "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-   "[AINews] not much happened today",
-   "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-   "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)"
+   "[AINews] not much happened today"
   ],
   "Interconnects": [
    "Open-Source AI & Open Models Reading List",
@@ -213,12 +213,12 @@
    "Did Google’s AI agents really build an operating system for $916?"
   ],
   "Stratechery": [
+   "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
    "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
    "2026.37: Duo Threats",
    "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
    "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-   "Write Things Down",
-   "2026.36: Friction and Feedback"
+   "Write Things Down"
   ],
   "Noahpinion": [
    "Two missing pieces in the AI safety discussion",
@@ -253,177 +253,165 @@
    "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer"
   ],
   "ChinaTalk": [
+   "ModelTalk: Pacing the Frontier",
    "GWOT at 25 with Wesley Morgan",
    "The King of Unitree",
    "Can Taiwan Build Drones?",
    "US-China Biorisk Cooperation: Yes, It’s Possible",
-   "Open Models are the United Front of AI",
-   "How Trump and Xi Can Do AI Safety"
+   "Open Models are the United Front of AI"
   ],
   "ScienceDaily": [
-   "Cancer is rising in younger adults. Faster biological aging may help explain why",
-   "Chemistry textbooks have been getting this wrong for nearly 100 years",
-   "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
-   "This German submarine sank in 1917. It’s still leaking TNT",
-   "Crocodiles are famous for finding their way home. These ones didn’t",
-   "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts"
+   "Smelling chocolate helped men complete more reps without feeling more tired",
+   "This Australian cave hid 25,000 years of ritual secrets",
+   "Scientists discover a major brain shift between ages 50 and 75",
+   "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+   "The shape behind the Einstein problem just revealed strange new physics",
+   "Supermassive black hole winds are 100 times more powerful than scientists thought"
   ],
   "Nature": [
-   "Encoded and non-genetic protein variants expand human functional proteome",
-   "The roots of astrology, the mysterious nature of time and more: Books in brief",
-   "How is climate change affecting conifers and their ability to sequester carbon?",
-   "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-   "Donor-funded science is rising in Brazil ― upending a long tradition",
-   "‘Multifunctional’ brain implant translates speech and gestures in real time"
+   "Quality control of glycogen through direct ubiquitylation by RNF213",
+   "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+   "A wake-up call: diversify global research funding",
+   "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+   "The geometric genius of René Descartes",
+   "Make AI traceable before it shapes global climate assessments"
   ]
  },
  "youtube_latest": {
-  "Two Minute Papers": "I Never Thought I’d See This Happen"
+  "Veritasium": "The Scariest Chart In Engineering",
+  "Two Minute Papers": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+  "Andrej Karpathy": "How I use LLMs",
+  "Fireship": "Anthropic researchers are quitting... and now we know why",
+  "CNN": "Iran war sparks global fuel riots; GOP rep pushes to impeach Hegseth"
  },
  "hn_top": [
   {
-   "t": "iOS 27, iPadOS 27, and macOS 27",
-   "s": 379,
-   "c": 1.14
+   "t": "Introducing System One Models and Jev",
+   "s": 755,
+   "c": 0.34
   },
   {
-   "t": "Pion, an agent designed to run any company autonomously",
-   "s": 286,
-   "c": 1.09
+   "t": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+   "s": 1303,
+   "c": 0.14
   },
   {
-   "t": "Charts built for Chat",
-   "s": 97,
-   "c": 0.29
-  },
-  {
-   "t": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-   "s": 34,
-   "c": 0.09
-  },
-  {
-   "t": "Compressing a Flag to 11 Bits",
-   "s": 67,
-   "c": 0.46
-  },
-  {
-   "t": "Distributed Systems Classics (2017)",
-   "s": 235,
-   "c": 0.22
-  },
-  {
-   "t": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "s": 376,
-   "c": 0.86
-  },
-  {
-   "t": "XCancel service is suspended until further notice",
-   "s": 459,
-   "c": 1.67
-  },
-  {
-   "t": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-   "s": 29,
-   "c": 0.24
-  },
-  {
-   "t": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-   "s": 12,
-   "c": 0.33
-  },
-  {
-   "t": "Principles for Fast Tokio Applications",
-   "s": 162,
-   "c": 0.25
-  },
-  {
-   "t": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-   "s": 174,
-   "c": 1.03
-  },
-  {
-   "t": "How my e-reader lost its stripes",
-   "s": 152,
-   "c": 0.16
-  },
-  {
-   "t": "Steam Frame starts at $1059",
-   "s": 504,
-   "c": 0.74
-  },
-  {
-   "t": "Why don't machine learning research agents overfit?",
-   "s": 107,
+   "t": "An Update on Wayback Machine Access",
+   "s": 382,
    "c": 0.55
+  },
+  {
+   "t": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+   "s": 125,
+   "c": 0.32
+  },
+  {
+   "t": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "s": 301,
+   "c": 0.63
+  },
+  {
+   "t": "Jean-Pierre Serre is 100 years old today",
+   "s": 86,
+   "c": 0.15
+  },
+  {
+   "t": "We got admin access to Baseten's production GitHub in 25 minutes",
+   "s": 216,
+   "c": 0.52
+  },
+  {
+   "t": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+   "s": 156,
+   "c": 0.62
+  },
+  {
+   "t": "Sierra digital cameras on the Apple II",
+   "s": 17,
+   "c": 0.0
+  },
+  {
+   "t": "Chopping up books when they're physically too big",
+   "s": 120,
+   "c": 0.97
+  },
+  {
+   "t": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+   "s": 16,
+   "c": 0.12
+  },
+  {
+   "t": "Learning to solve hard problems in RL for LLMs by never giving up",
+   "s": 36,
+   "c": 0.0
+  },
+  {
+   "t": "Saving Jet Fuel",
+   "s": 27,
+   "c": 0.48
+  },
+  {
+   "t": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+   "s": 106,
+   "c": 0.41
+  },
+  {
+   "t": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "s": 283,
+   "c": 0.42
   }
  ],
  "github_top": [
   {
    "n": "lnkiai/m3e-canvas",
-   "s": 6786
+   "s": 6947
   },
   {
    "n": "sapientinc/PRAXIST",
-   "s": 6756
+   "s": 6392
   },
   {
    "n": "rakanki911/DLSS5-Swapper",
-   "s": 4589
+   "s": 5034
   },
   {
    "n": "XiaoDuoYa/codex-with-chatgpt",
-   "s": 4301
+   "s": 4442
   },
   {
    "n": "crmne/spotifast",
-   "s": 4065
+   "s": 4184
   },
   {
    "n": "ashemag/human-atlas",
-   "s": 3444
-  },
-  {
-   "n": "anthropics/commerce-agents",
-   "s": 2851
+   "s": 3508
   },
   {
    "n": "sdli1995/dlssg_for_sm86",
-   "s": 2749
+   "s": 3013
+  },
+  {
+   "n": "anthropics/commerce-agents",
+   "s": 2888
   },
   {
    "n": "Nanako0129/sepia",
-   "s": 2607
+   "s": 2628
   },
   {
    "n": "Player-YN/PawWork_ZhuaZhua",
-   "s": 2596
+   "s": 2597
   }
  ],
  "quotes": {},
  "errors": [
-  {
-   "source": "youtube:Veritasium",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
-  },
-  {
-   "source": "youtube:Andrej Karpathy",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
-  {
-   "source": "youtube:Fireship",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
-  },
-  {
-   "source": "youtube:CNN",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
-  },
   {
    "source": "rss:AP Top",
    "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
   },
   {
    "source": "rss:The Print",
-   "error": "unparseable feed: <unknown>:18:10: mismatched tag"
+   "error": "unparseable feed: <unknown>:2:0: syntax error"
   },
   {
    "source": "rss:Indian Express",
