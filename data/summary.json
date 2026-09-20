@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-09-19T01:32:30.489024Z",
+ "generated_utc": "2026-09-20T01:33:59.956226Z",
  "counts": {
-  "youtube": 3,
+  "youtube": 0,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
@@ -45,12 +45,12 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "US and Denmark reach deal over Greenland after Trump annexation threats",
-   "Russian hybrid attacks against Europe intensifying, says Macron",
-   "Trump says he is banning CNN and Politico from White House",
-   "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-   "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-   "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children"
+   "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+   "Houthis say they targeted Saudi capital with ballistic missiles",
+   "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+   "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+   "Journalists denied White House access after Trump banned some media outlets",
+   "Cultural treasures are being destroyed by war, and people want justice"
   ],
   "BBC Business": [
    "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
@@ -61,20 +61,20 @@
    "The virtual worlds where robots are trained"
   ],
   "BBC Technology": [
+   "Not all AI workers think the tech could kill everyone",
+   "Google's Gemini AI hacked three companies in security test",
    "Would Australians support a smart glasses ban?",
    "The virtual worlds where robots are trained",
    "King Charles warns of 'existential danger' of AI falling into wrong hands",
-   "Why are there concerns AI could threaten humanity, and how real are they?",
-   "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-   "Snapchat open to putting time limits on teens, boss tells BBC"
+   "Why are there concerns AI could threaten humanity, and how real are they?"
   ],
   "Al Jazeera": [
-   "Trump signs sweeping Russia sanctions over Ukraine war",
-   "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-   "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-   "Trump says Denmark deal gives US security ‘control’ over Greenland",
-   "Super Macklemore 64: Video game mocks Sheeran concert controversy",
-   "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours"
+   "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+   "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+   "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+   "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+   "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+   "Israel’s president pardons soldier who killed wounded Palestinian in 2016"
   ],
   "The Guardian": [
    "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
@@ -85,84 +85,84 @@
    "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election"
   ],
   "NPR": [
-   "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-   "Trump says he is banning CNN, MS NOW and Politico from the White House",
-   "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
-   "Syrian regime planned American journalist's kidnapping for weeks",
-   "What expensive sulfur means for your dinner table",
-   "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?"
+   "The new lines of southern Lebanon",
+   "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+   "Opinion: Remembering Annie Dillard, nature writer",
+   "Life in Kabul 5 years after the Taliban's return",
+   "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+   "Archaeologists are racing to save precious artifacts in Alaska after last year's storm"
   ],
   "SCMP China": [
-   "Trump, Melania to host Xi and Peng for White House ‘double date’: full schedule",
-   "US weighs delaying Taiwan arms sales until after Apec and G20 summits",
-   "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit",
-   "Trump says Xi state dinner is ‘a very tough ticket’ as business guest list takes shape",
-   "Word to the wise on organising a Chinese leader’s US visit",
-   "Trump claims US Greenland security deal, China reportedly among adversaries being kept out"
+   "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
+   "What China really means when it says it’s being ‘strategic’",
+   "Is China’s fabled Empress Dowager Huayang buried near an airport? A study says yes",
+   "Somali piracy rise tests China’s long-running Gulf of Aden mission",
+   "US space weapons move has ‘broken taboo’, could spark new arms race, Beijing forum told",
+   "China-led study reveals ‘Greater Gondwana’ was 80% of Earth’s crust 500m years ago"
   ],
   "Nikkei Asia": [
-   "Port Fairy Folk Festival tunes up for its 50th anniversary",
-   "Trump signs Russia sanctions bill that opens China, India to tariffs",
-   "North Korean hackers disguise cyberattacks as job interviews with AI",
-   "Spike hazard: Thai farmers go all in to feed China's durian craving",
-   "Japan PM urges new cabinet to focus on markets, Mideast response",
-   "Japan's Prodrone gears up to mass produce 58,000 drones a year"
+   "China's young women embrace Japan's Lolita fashion with local twist",
+   "Saigon joe: A highly caffeinated tour of Ho Chi Minh City",
+   "China's Leapmotor overtakes Subaru, Mitsubishi Motors in global sales",
+   "Nippon Life plans $13bn for data center financing primarily in US",
+   "Toyota moves into extended-range EVs with model made in China",
+   "Japan supermarket begins training for 100-store Vietnam push"
   ],
   "Deutsche Welle": [
+   "Ukraine steps up measures to protect railways",
+   "Ever more Israelis moving to and investing in Cyprus",
    "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
    "Airport malaria in Germany remains infrequent",
-   "Ever more Israelis moving to and investing in Cyprus",
    "Canada and EU: A look at the bloc's special relationships",
-   "High-profile raids spotlight India's food-safety struggles",
-   "Aztec manuscript returns to Mexico after two centuries, on loan"
+   "High-profile raids spotlight India's food-safety struggles"
   ],
   "Livemint": [
-   "Hero Motors, NSE show two realities of India’s unlisted market",
-   "Kuku Technologies gets SEBI nod for IPO launch: Top things to know about the issue",
-   "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
-   "North Sea Oil Premiums Soar to Records After Saudis Cut Sales",
-   "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends",
-   "Gold rises to one-week high, heads for weekly gain on easing oil prices"
+   "ITC stock: 360 ONE maintains BUY, sees 68% upside; here’s why brokerage is bullish",
+   "IPO GMP compared: SS Retail, Hero Motors, Jindal Supreme - allotment soon, how to check status online, subscription",
+   "Top stocks to buy under  ₹200: Castrol, NHPC, Vikram Solar - 3 shares by Anand Rathi‘s Mehul Kothari; target, stop-loss",
+   "Salesforce stock falls over 8% in 4 sessions despite $63 bn revenue target, but UBS raised outlook price - Here’s why",
+   "Nestle India issues clarification: Why FMCG stock plunged? What's FSSAI baby formula row; why it matters to consumers?",
+   "Small-cap stock under  ₹50: Kellton Tech in focus next week due to fundraise meeting - Check date"
   ],
   "The Hindu Biz": [
-   "What does the latest revision to the EPFO wage ceiling entail? | Explained",
-   "No hard ceilings: On the revision to EPFO wage ceiling",
-   "CBI registers fresh case against Reliance Capital, Anil Ambani",
-   "Data show India yielded to U.S. curbs on oil imports",
-   "MDR apprehension unlikely to spur higher cash usage: RBI Deputy Governor",
-   "NSE’s ₹22,569-crore IPO fully subscribed on Day 2"
+   "Tiruppur yarn producers seek support from garment units to modify role of CCI",
+   "‘They called it a gift, then I sat with the gazette’: Prakash Raj on UPI fee",
+   "Battle lines in the boardroom | Tata Sons",
+   "How sanctioned ships are heading to Alang for recycling",
+   "CWC chief flags ‘malpractices’ in phytosanitary certification, pitches integrated logistics to boost agri-exports",
+   "Demand for next generation SME workspaces on the rise as promoters enter valuations game"
   ],
   "Inc42": [
-   "Pocket FM Eyes 15%-20% EBITDA Margin, Global Expansion With AI-Led Content Push",
-   "Swiggy’s Money Map: The Verticals Built Around Food Delivery Core",
-   "Odisha Plans To Set Up A ‘Silicon Valley’ To Woo Semiconductor Companies",
-   "OTPless Names Satyam Nathani CEO As Bhavik Koladiya Steps Away",
-   "Asiana Fund, JC Capital Launch ₹1,000 Cr Fund To Back Deeptech Startups",
-   "India Needs Hundreds Of Chip Companies To Build Global Ecosystem: L&T Semicon CEO"
+   "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
+   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "New-Age Tech Stocks: Kissht & MobiKwik Rally, Zappfresh Hits Record Low This Week",
+   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+   "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
+   "Pocket FM Eyes 15%-20% EBITDA Margin, Global Expansion With AI-Led Content Push"
   ],
   "TechCrunch": [
-   "India forces caller-ID apps to feed spam reports to telcos",
-   "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-   "A startup that builds other startups raised $100M, and is all-in on physical AI",
-   "Anthropic is operating a lab that conducts biology experiments",
-   "AI hallucination nearly triggers US military operation",
-   "Anthropic’s first embedded evaluator is … Accenture?"
+   "Flock reportedly tries to shrink workforce with employee buyouts",
+   "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+   "Google’s Gemini is the latest AI model to hack other companies",
+   "The US Navy just told us what’s on its tech wish list for the next several years",
+   "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+   "AI safety conversations have gotten unbelievable"
   ],
   "Ars Technica": [
+   "Learning another language may be one of the best ways to keep your brain healthy",
+   "Rings around a tiny body have changed over the past decade",
    "AI hallucination of Chinese nuclear components almost led to US military attack",
    "FAA tees up $875M AI tool to help manage air traffic congestion",
    "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-   "Finding the cells that put our brain to sleep",
-   "US government website used Chinese model the FBI called \"malicious\"",
-   "Meet the winner of Nikon's Small World in Motion video contest"
+   "Finding the cells that put our brain to sleep"
   ],
   "The Verge": [
-   "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "Virginia governor creates an AI task force and moves to restrain data centers",
-   "Disney’s first CTO is Character.AI’s former CEO",
-   "The real story of the iPhone 18 Pro&#8217;s camera",
-   "Gavin Newsom is pushing for an AI kill switch",
-   "What Hollywood thinks about existential AI warnings"
+   "Meta’s Muse is creepy, but maybe not for the reasons you think",
+   "Trump treads further on free speech with new journalist bans",
+   "Gemini went rogue, hacked three companies, and Google hid it",
+   "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+   "The colorful, unique Hyte X50 PC case is $50 off",
+   "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????"
   ],
   "MIT Tech Review": [
    "The Download: AI’s extinction risk and bioweapons threat",
@@ -173,36 +173,36 @@
    "Meet a mouse whose brain cortex is made up of human cells"
   ],
   "Hacker News best": [
-   "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "Korea raises data breach fines to 10% of revenue",
-   "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "US Military had close call after using AI for hallucinated intelligence report",
-   "Cloudflare Quick Tunnels",
-   "I don't like passkeys"
+   "I think you should almost never use AI to write",
+   "I built non-autoregressive decision models with RL a year ago",
+   "AI-generated posters don’t have to be horrible",
+   "GPT-6 Astra Solves a WWI German Radio Cipher",
+   "If math is more than proof, we need to better celebrate the rest of it",
+   "Two parallel neural ectoderm progenitors contribute to the developing brain"
   ],
   "Simon Willison": [
+   "datasette-auth-github 1.0",
+   "California Sea Lion, Brandt's Cormorant",
    "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
    "Note on 18th September 2026",
    "Quoting Thariq Shihipar",
-   "The Creative Spirit of Who Framed Roger Rabbit",
-   "Be alert: targeted attacks on prominent Rustaceans",
-   "How To Write With An LLM"
+   "The Creative Spirit of Who Framed Roger Rabbit"
   ],
   "Latent Space": [
+   "[AINews] Here are 6 Clones of Jev in 2 days",
    "[AINews] not much happened today",
    "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
    "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
    "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
-   "Can Skills Learned in Games Transfer to Real-World Work?",
-   "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign"
+   "Can Skills Learned in Games Transfer to Real-World Work?"
   ],
   "Interconnects": [
+   "Why I still haven’t bought into true RSI",
    "Open-Source AI & Open Models Reading List",
    "One resignation turned the embers of AI fear into a wildfire",
    "When will average people feel AI’s impact?",
    "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
-   "Teaching Everyone to Fish for Tokens",
-   "GLM-5.3: How Chinese labs keep stride with the frontier"
+   "Teaching Everyone to Fish for Tokens"
   ],
   "AI Snake Oil": [
    "The AI-as-Normal-Technology view of loss-of-control incidents",
@@ -229,12 +229,12 @@
    "AI keeps stubbornly refusing to take our jobs"
   ],
   "Net Interest": [
+   "Brookfield of Dreams",
    "The Five Deals That Made Apollo",
    "Hot European Summer",
    "Untangling Guggenheim",
    "Great Scott",
-   "Financing the AI Boom 3",
-   "Leopold’s Fall"
+   "Financing the AI Boom 3"
   ],
   "Money & Macro": [
    "Who will pay for a 100 million Boomer pensions?",
@@ -277,135 +277,143 @@
    "How to make a brain: new experiments challenge existing picture"
   ]
  },
- "youtube_latest": {
-  "Veritasium": "Heating A Ball Just By Squeezing It",
-  "Two Minute Papers": "DeepSeek’s Insane New Architecture",
-  "Fireship": "Did Google just kickstart the intelligence explosion?"
- },
+ "youtube_latest": {},
  "hn_top": [
   {
-   "t": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "s": 516,
-   "c": 0.49
+   "t": "Exfiltrate Your Weights",
+   "s": 114,
+   "c": 0.39
   },
   {
-   "t": "Cloudflare Quick Tunnels",
-   "s": 568,
-   "c": 0.43
+   "t": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+   "s": 142,
+   "c": 0.5
   },
   {
-   "t": "Saving another 100TB of RAM",
-   "s": 222,
-   "c": 0.19
+   "t": "I built non-autoregressive decision models with RL a year ago",
+   "s": 1082,
+   "c": 0.24
   },
   {
-   "t": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "t": "Measure internet censorship. Contribute to the largest open dataset",
+   "s": 93,
+   "c": 0.63
+  },
+  {
+   "t": "Brood War Bench",
+   "s": 150,
+   "c": 0.45
+  },
+  {
+   "t": "Show HN: I created an open source locally usable full fledged AI platform",
+   "s": 14,
+   "c": 0.64
+  },
+  {
+   "t": "Compiler-style optimization for drawing via Skia",
+   "s": 72,
+   "c": 0.28
+  },
+  {
+   "t": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+   "s": 43,
+   "c": 0.56
+  },
+  {
+   "t": "AI-generated posters don’t have to be horrible",
+   "s": 1375,
+   "c": 0.56
+  },
+  {
+   "t": "Mayday Mysteries",
+   "s": 30,
+   "c": 0.1
+  },
+  {
+   "t": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+   "s": 57,
+   "c": 0.14
+  },
+  {
+   "t": "Deodands put a price on objects that caused death",
+   "s": 41,
+   "c": 0.44
+  },
+  {
+   "t": "UFO Series Home Page: \"UFO\" TV Series from 1970",
    "s": 52,
-   "c": 0.92
+   "c": 0.58
   },
   {
-   "t": "The Farnese letter",
-   "s": 25,
-   "c": 0.16
+   "t": "Show HN: CUA-S1 – A System One Model for Computer Use",
+   "s": 63,
+   "c": 0.11
   },
   {
-   "t": "Xcode 27.1 Beta Release Notes",
-   "s": 111,
-   "c": 0.6
-  },
-  {
-   "t": "How to Write with an LLM",
-   "s": 386,
-   "c": 0.69
-  },
-  {
-   "t": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-   "s": 151,
-   "c": 0.35
-  },
-  {
-   "t": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-   "s": 66,
-   "c": 0.18
-  },
-  {
-   "t": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "s": 164,
-   "c": 0.47
-  },
-  {
-   "t": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "s": 503,
-   "c": 0.36
-  },
-  {
-   "t": "The first new cat species discovered in 100 years",
-   "s": 162,
-   "c": 0.35
-  },
-  {
-   "t": "OpenJev",
-   "s": 555,
-   "c": 0.44
-  },
-  {
-   "t": "Cyclomatic Complexity in C#",
-   "s": 32,
-   "c": 0.44
-  },
-  {
-   "t": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-   "s": 4,
-   "c": 0.0
+   "t": "Tin: full-text search for Postgres",
+   "s": 191,
+   "c": 0.38
   }
  ],
  "github_top": [
   {
-   "n": "lnkiai/m3e-canvas",
-   "s": 7421
+   "n": "browser-use/jev-ultrafast",
+   "s": 8556
   },
   {
-   "n": "browser-use/jev-ultrafast",
-   "s": 5596
+   "n": "lnkiai/m3e-canvas",
+   "s": 7559
   },
   {
    "n": "eternity4719/HowToLiveBetter",
-   "s": 5076
-  },
-  {
-   "n": "ashemag/human-atlas",
-   "s": 3643
-  },
-  {
-   "n": "Human-Agent-Society/reef",
-   "s": 3556
-  },
-  {
-   "n": "sdli1995/dlssg_for_sm86",
-   "s": 3423
+   "s": 5977
   },
   {
    "n": "tamaratran/fast-jev-compaction",
-   "s": 3278
+   "s": 4268
+  },
+  {
+   "n": "ashemag/human-atlas",
+   "s": 3669
+  },
+  {
+   "n": "Human-Agent-Society/reef",
+   "s": 3669
+  },
+  {
+   "n": "sdli1995/dlssg_for_sm86",
+   "s": 3551
   },
   {
    "n": "anthropics/commerce-agents",
-   "s": 2966
+   "s": 2976
   },
   {
    "n": "Albert-Weasker/niubigeo",
-   "s": 2518
+   "s": 2525
   },
   {
-   "n": "Rion-Wu-tech/wechat-intelligence-hub",
-   "s": 2423
+   "n": "yang0/handraw-style",
+   "s": 2508
   }
  ],
  "quotes": {},
  "errors": [
   {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "source": "youtube:Two Minute Papers",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  {
    "source": "youtube:Andrej Karpathy",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
+  },
+  {
+   "source": "youtube:Fireship",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
   },
   {
    "source": "youtube:CNN",
