@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-09-24T01:37:30.309411Z",
+ "generated_utc": "2026-09-25T01:51:51.393263Z",
  "counts": {
-  "youtube": 2,
+  "youtube": 1,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
@@ -9,7 +9,7 @@
   "quotes": 0
  },
  "fx": {
-  "INR": 95.74
+  "INR": 95.96
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -45,156 +45,156 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "AI superpower ambitions take centre stage as Trump and Xi meet",
-   "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "Iran's president tells Trump it will never 'bend the knee'",
-   "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-   "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-   "Dramatic eviction of woman aged 87 highlights Spain's housing shortage"
+   "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+   "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+   "Hundreds of thousands expected in Paris for Pope's visit",
+   "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+   "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+   "Priest killed and four injured in knife attack at Polish abbey"
   ],
   "BBC Business": [
-   "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+   "'We're all broke': Would you chase a friend for £5?",
+   "Reported assaults on Britain's rail services rise by more than a third",
+   "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
    "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-   "US rejects pleas from OpenAI, Anthropic for global AI standards",
-   "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-   "AI superpower ambitions take centre stage as Trump and Xi meet",
-   "How the oil capital of the US welcomed a solar power boom"
+   "X-planes: Are they needed in the new era of drones?",
+   "£170 a bag? Protein users squeezed as prices soar"
   ],
   "BBC Technology": [
-   "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "Indians are discovering the thrill of shopping without paying",
-   "US rejects pleas from OpenAI, Anthropic for global AI standards",
-   "Pornhub investigated over its age checks",
-   "OpenAI gives cyber defence tools to Ukraine",
-   "US criticises Australia's proposed algorithm opt-out laws as 'censorship'"
+   "X-planes: Are they needed in the new era of drones?",
+   "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+   "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+   "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+   "FBI investigating claim hackers have stolen details of all its agents",
+   "Are we back in big tech's 'move fast and break things' era?"
   ],
   "Al Jazeera": [
-   "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
-   "China’s Xi visits US as Trump bets on stabilising global relations",
-   "OpenAI, Anthropic CEOs call for global AI regulation at UN",
-   "Why is Kenya turning against Tata Chemicals in Magadi?",
-   "Iran war live: Tehran says it won’t be bullied, remains open for talks",
-   "China’s Xi arrives to Trump welcome on state visit"
+   "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+   "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+   "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+   "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+   "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
+   "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting"
   ],
   "The Guardian": [
+   "Rebel offensive against Ethiopian army stokes fears of return to civil war",
    "Indian billionaire’s payments firm plots biggest London flotation in years",
    "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
    "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
    "Banished to alien lands: Trump’s secret deportation deals",
-   "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-   "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands"
+   "Democratic lawmakers accuse Trump administration of interference in Brazilian elections"
   ],
   "NPR": [
-   "Judge considers restoring journalists' access to White House after Trump's ban",
-   "Trump and Xi meet at moment of global consequence",
-   "Iran's president gives a rare wartime speech at the U.N.",
-   "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
-   "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-   "It's getting harder to afford rent in the U.S., even for middle-income families"
+   "Long agenda, short meeting: Trump and Xi meet",
+   "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+   "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
+   "Mortgage rates have just surpassed 7% for the first time in well over a year",
+   "The economic squeeze is pushing up poverty rates for older adults",
+   "Trump and Xi strike cordial tone at summit amid underlying tensions"
   ],
   "SCMP China": [
-   "China’s top priority should be wages, not AI",
-   "China-Russia space camp in Malaysia opens to youth in Southeast Asia",
-   "Warm welcome, trade truce extended: the takeaways as Xi arrives in US",
-   "Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US",
-   "Can the US and China verify an AI deal? Start-ups are starting to build the tools",
-   "US restricts visas for birth tourism ahead of Xi Jinping’s summit with Trump"
+   "From ping-pong to pickleball: China’s unofficial approach to diplomatic messaging",
+   "How was dinner? Takeaways from Xi and Trump’s evening at the White House",
+   "Culinary diplomacy on the menu for Xi and Trump at the White House",
+   "China-US ‘new joint arrangement’, CEO arrivals: what you missed overnight from Xi-Trump summit",
+   "Pat on the back? Xi and Trump’s body language speaks volumes",
+   "Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room"
   ],
   "Nikkei Asia": [
-   "Australia reveals OpenAI agent breached government health website",
-   "Israeli foundry Tower Semiconductor to make Japan main hub for optical chips",
-   "Trump-Xi summit live: US welcomes Chinese president with pomp",
-   "US and China agree to extend trade truce until January: Bessent",
-   "Vietnam lowers barrier to retail investment, clearing way for more Japanese stores",
-   "Japan's EdgeCortix looks to work with SpaceX on space data center chips"
+   "Xi urges limits on US-China rivalry, human control of AI",
+   "Trump-Xi summit live: US president hosts state dinner with tech leaders",
+   "Chinese CEOs travel to Washington despite summit invite uncertainty",
+   "Iran war takes Southeast Asia's renewable plans to new heights",
+   "Xi draws crowds of Chinese welcomers to Washington's Waldorf Astoria",
+   "MUFG Bank to work with Japan's JAXA on human spaceflight R&D"
   ],
   "Deutsche Welle": [
-   "Who is skipping the UN General Assembly — and why",
-   "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
-   "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
-   "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
-   "China's new travel rules unsettle tech giants and talent",
-   "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor"
+   "Houthi advances in Yemen drive displacement, deepen humanitarian crisis",
+   "How renewed fighting in Tigray could spread across the Horn of Africa",
+   "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+   "'Pope fever' takes hold as Pope Leo visits France",
+   "EU finally clinching trade deals with Southeast Asian states",
+   "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi"
   ],
   "Livemint": [
-   "Sensex, Nifty 50 prediction today: Stock market outlook for Thursday, 24 Sept - GIFT Nifty, Nikkei, Taiwan signals",
-   "Raja Venkatraman recommends three stocks for 24 September",
-   "Shipping Stocks Eclipse Chips in Asia as Freight Rates Jump",
-   "US stocks fall as 10-year Treasury yield hits highest since 2007",
-   "Gold Falls as Traders Weigh US-Iran Talk Progress, Fedspeak",
-   "Dollar jumps to near two-month high on Fed outlook, inflation concern"
+   "Surging US Yields Push Spreads With Asia Toward Extremes",
+   "Rate-sensitive stocks to watch after the Fed hike",
+   "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch",
+   "Raja Venkatraman recommends two stocks for 25 September",
+   "Stock recommendations for 25 September from MarketSmith India",
+   "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets"
   ],
   "The Hindu Biz": [
-   "LG, Samsung face India tariff evasion investigation over OLED TV parts",
-   "Samvriddhi Inclusive Growth Network gets RBI in-principle nod to operate as an Online Payment Aggregator",
-   "Quality control and India’s manufacturing growth",
-   "India to study potential of new markets for tea exports",
-   "Trading smart: On the India-New Zealand FTA",
-   "Limits of the casting vote at Tata Sons"
+   "12 years of ‘Make in India’ in 12 metrics — Low and patchy impact on growth, employment & global share",
+   "Tiruppur’s garment exports cross ₹46,000 crore in 2025-26",
+   "Legal opinion ‘backs’ Chandrasekaran’s reappointment as Tata Sons chairman",
+   "IRDAI moots changes to distribution, payout norms",
+   "Ahead of festivals, Centre cuts import duty on edible oils",
+   "West Asia crisis not over, potential to escalate further: Oil Minister Hardeep Puri"
   ],
   "Inc42": [
-   "[Update] Ola Electric To Seek Board Nod For Proposed Rights Issue",
-   "FSSAI Penalises Amazon, Flipkart, Instamart Over Regulatory Non-Compliance",
-   "RPS Ventures Offloads Meesho Stake Worth About ₹900 Cr",
-   "IPO-Bound Moneyview Nets ₹327.5 Cr From Anchor Investors",
-   "BYJU’S Settles Rights Issue Dispute With Aakash",
-   "Zelio E-Mobility To Raise ₹168 Cr Via Preferential Issue"
+   "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
+   "TPG Exits FirstCry With ₹202 Cr Bulk Deal",
+   "Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network",
+   "ESDS Q1: Profit Increases 14% YoY To ₹29.3 Cr, Revenue Up 7%",
+   "Accel, 360 ONE Offload BlueStone Shares Via ₹513 Cr Block Deals",
+   "IPO-Bound AceVector Nets ₹189 Cr From Anchor Investors"
   ],
   "TechCrunch": [
-   "Everything new coming to Meta’s AI agent Muse",
-   "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "Meta is trying VR glasses (again), this time with more IMAX",
-   "Meta introduces camera-free AI glasses",
-   "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-   "Anthropic says its biology lab has already found something big"
+   "Waymo is scaling fast. Here’s what the fleet data shows.",
+   "Nexterity wants to automate the hard, dangerous part of pipefitting",
+   "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+   "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+   "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+   "Oracle sends force majeure notice on its New Mexico Stargate data center"
   ],
   "Ars Technica": [
-   "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-   "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-   "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-   "Here's the Torcal, the first fully electric Bentley",
-   "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-   "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them"
+   "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+   "Donald Duck's uncle was partly based on Wernher von Braun",
+   "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+   "New York defies Trump admin, asks court to shut down Polymarket gambling",
+   "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+   "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer"
   ],
   "The Verge": [
-   "Meta is making a standalone Muse AI gadget",
-   "Meta Connect 2026: The 7 biggest announcements",
-   "Meta’s next VR device isn’t a headset — it’s glasses",
-   "Muse is coming to Meta smart glasses",
-   "Meta ditches the camera on its newest smart glasses",
-   "Meta is making Muse more powerful and will let you video chat with it, too"
+   "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+   "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+   "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+   "Microsoft puts Brad Smith in charge of communications",
+   "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+   "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal"
   ],
   "MIT Tech Review": [
+   "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+   "AI is dominating the conversation at Climate Week",
    "A congressional representative just proposed killing America’s border tower program",
    "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
    "The AI Hype Index: AI loves cheating",
-   "Smart glasses are already causing havoc in India",
-   "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "The Download: why AI’s latest breakthroughs and fears may be more hype than reality"
+   "Smart glasses are already causing havoc in India"
   ],
   "Hacker News best": [
-   "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-   "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "Italian parliament votes for return to nuclear energy",
-   "Gemini 3.8 text-to-speech",
-   "Fixing the Portobello Police Station Clock",
-   "GPT-6 Astra has gained the ability to drive a car"
+   "F-Droid 2.0",
+   "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+   "Two-tier encryption in the UK",
+   "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+   "Ideas on modernizing the open-source desktop",
+   "OpenAI agent hacked Australian government website, PM says"
   ],
   "Simon Willison": [
+   "commit-rewriter 0.2",
+   "datasette 1.0a41",
    "Gemini 3.8 TTS Playground",
    "Shadow roots, explained with live examples",
    "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-   "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-   "llm 0.36",
-   "Quoting @therealcornpop"
+   "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war"
   ],
   "Latent Space": [
+   "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+   "Foundries vs Navigators: Lowering the Cost of Science",
+   "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
    "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
    "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-   "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
-   "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-   "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-   "[AINews] Here are 6 Clones of Jev in 2 days"
+   "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science"
   ],
   "Interconnects": [
    "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
@@ -213,20 +213,20 @@
    "Did Google’s AI agents really build an operating system for $916?"
   ],
   "Stratechery": [
+   "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
    "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
    "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
    "Frontier Overhangs",
    "2026.38: Doomforce",
-   "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-   "Salesforce AI Force, Agents as UI, The Race to Headless"
+   "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People"
   ],
   "Noahpinion": [
+   "No, you are not on Indigenous land",
    "The problem(s) with utilitarianism",
    "How we can beat China",
    "Roundup #88: Is it time to panic yet?",
    "The anti-American Right",
-   "Two missing pieces in the AI safety discussion",
-   "Get the Middle East out of my politics!"
+   "Two missing pieces in the AI safety discussion"
   ],
   "Net Interest": [
    "Brookfield of Dreams",
@@ -245,12 +245,12 @@
    "The new world order, explained"
   ],
   "Huberman Lab": [
+   "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
    "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
    "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
    "The Art of True Happiness | Dr. Arthur Brooks",
    "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
-   "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
-   "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
+   "How Mitochondria Control Your Metabolism | Dr. Jared Rutter"
   ],
   "ChinaTalk": [
    "Xi Descends on DC",
@@ -261,147 +261,150 @@
    "ModelTalk: Pacing the Frontier"
   ],
   "ScienceDaily": [
-   "One of America’s largest reservoirs just hit a record low",
-   "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-   "The LHC just ruled out another hiding place for quantum black holes",
-   "Stem cells reverse stroke damage and restore movement in mice",
-   "This new concrete is stronger and pulls CO2 from the air",
-   "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater"
+   "ADHD and autism diagnoses have surged. A massive study may help explain why",
+   "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
+   "Scientists find two tiny new snails with shells that close like doors",
+   "Distant time crystals can somehow fall into the same rhythm",
+   "Scientists thought they knew how this 70-year-old leukemia drug worked",
+   "More REM sleep linked to lower risk of 83 diseases"
   ],
   "Nature": [
-   "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
-   "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
-   "Bank accounts reveal the fingerprints of abusive financial control",
-   "Competition heats up in the regenerative-medicine ranks",
-   "Huge hoard of metal bars hints at vast Iron Age trade",
-   "The gene-regulatory evolution of the human skeleton"
+   "Bumblebees don’t mind a little plastic in their honeypots",
+   "Youthful fans of YouTube sports videos stick to the sofa",
+   "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+   "AI system helps lab devices ‘talk’ with each other — streamlining research",
+   "AI agent hacks government website for first time: why this breach matters",
+   "AlphaFold 'goes viral': database adds protein complexes of common viruses"
   ]
  },
  "youtube_latest": {
-  "Veritasium": "How Do You Crack a Code With 100 Sextillion Combinations?",
   "Fireship": "The most expensive 33 hours in WordPress history..."
  },
  "hn_top": [
   {
-   "t": "Meta VR Glasses",
-   "s": 194,
-   "c": 0.77
+   "t": "F-Droid 2.0",
+   "s": 944,
+   "c": 0.28
   },
   {
-   "t": "Linux support is coming to Snapdragon X2 Series",
-   "s": 133,
-   "c": 0.47
-  },
-  {
-   "t": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "s": 489,
-   "c": 1.08
-  },
-  {
-   "t": "VSCode's SSH Agent Is Bananas (2025)",
-   "s": 121,
-   "c": 0.71
-  },
-  {
-   "t": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-   "s": 50,
+   "t": "Show HN: Make cursed fonts like Times New Bastard",
+   "s": 486,
    "c": 0.14
   },
   {
-   "t": "The \"Windows XP Box\" (2003)",
-   "s": 41,
+   "t": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+   "s": 198,
+   "c": 0.41
+  },
+  {
+   "t": "Why is the liver so weirdly regenerative?",
+   "s": 258,
+   "c": 0.61
+  },
+  {
+   "t": "Fearless SIMD v1.0",
+   "s": 183,
    "c": 0.17
   },
   {
-   "t": "Mercury 2.5 LLM hits 770 tokens per second",
-   "s": 45,
-   "c": 0.47
+   "t": "2DWillNeverDie",
+   "s": 112,
+   "c": 0.07
   },
   {
-   "t": "FLAWED's Flaws and What This Means for Industry Research",
-   "s": 5,
-   "c": 0.0
+   "t": "Rails World 2026 Opening Keynote [video]",
+   "s": 233,
+   "c": 1.09
   },
   {
-   "t": "Fixing the Portobello Police Station Clock",
-   "s": 379,
-   "c": 0.23
+   "t": "Toyota is taking the Corolla electric",
+   "s": 226,
+   "c": 1.62
   },
   {
-   "t": "We just shipped support for the ugliest part of HTTP: Vary",
-   "s": 68,
+   "t": "My weird new hobby: Wandering around Tokyo on Google Maps",
+   "s": 226,
+   "c": 0.41
+  },
+  {
+   "t": "Writing Parquet files using Haskell",
+   "s": 16,
+   "c": 0.06
+  },
+  {
+   "t": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+   "s": 71,
    "c": 0.13
   },
   {
-   "t": "LensVLM: Compressing long context as images, expanding only relevant pages",
-   "s": 56,
-   "c": 0.11
+   "t": "Google’s Project Suncatcher to put ML infrastructure in space",
+   "s": 108,
+   "c": 1.93
   },
   {
-   "t": "The mystery animal on an ancient god's head",
-   "s": 52,
-   "c": 0.31
+   "t": "Show HN: Koi.rest – watch some fish and regain your balance",
+   "s": 128,
+   "c": 0.23
   },
   {
-   "t": "Italian parliament votes for return to nuclear energy",
-   "s": 584,
-   "c": 0.65
+   "t": "California is chasing wealth that has feet",
+   "s": 139,
+   "c": 2.82
   },
   {
-   "t": "A brief history of Windows scroll bar shortcuts",
-   "s": 110,
-   "c": 0.44
-  },
-  {
-   "t": "Show HN: An open-source manufacturing ERP/MES/QMS",
-   "s": 4,
-   "c": 0.0
+   "t": "Two-tier encryption in the UK",
+   "s": 381,
+   "c": 0.98
   }
  ],
  "github_top": [
   {
    "n": "NandhaKishorM/laya",
-   "s": 20566
+   "s": 23106
   },
   {
    "n": "browser-use/jev-ultrafast",
-   "s": 19108
+   "s": 19851
   },
   {
    "n": "eternity4719/HowToLiveBetter",
-   "s": 13063
-  },
-  {
-   "n": "tamaratran/fast-jev-compaction",
-   "s": 6585
-  },
-  {
-   "n": "zai-org/ZCode",
-   "s": 6541
+   "s": 14238
   },
   {
    "n": "jaredpalmer/kev",
-   "s": 6042
+   "s": 6762
+  },
+  {
+   "n": "tamaratran/fast-jev-compaction",
+   "s": 6733
+  },
+  {
+   "n": "zai-org/ZCode",
+   "s": 6716
   },
   {
    "n": "mizorewww/laya-mlx",
-   "s": 5968
+   "s": 6226
   },
   {
    "n": "jev-chat/jev-chat-jarvis",
-   "s": 5275
+   "s": 6106
   },
   {
    "n": "robbietilton/Compositor",
-   "s": 5223
+   "s": 5404
   },
   {
    "n": "TheoLeeCJ/SemIf-OpenJev",
-   "s": 4104
+   "s": 4242
   }
  ],
  "quotes": {},
  "errors": [
+  {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
   {
    "source": "youtube:Two Minute Papers",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
@@ -412,7 +415,7 @@
   },
   {
    "source": "youtube:CNN",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
+   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
   },
   {
    "source": "rss:AP Top",
