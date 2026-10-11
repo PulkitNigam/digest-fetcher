@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-10-10T02:41:46.155361Z",
+ "generated_utc": "2026-10-11T02:08:40.962432Z",
  "counts": {
-  "youtube": 2,
+  "youtube": 0,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
@@ -45,12 +45,12 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-   "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-   "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-   "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-   "Life-threatening Hurricane Isaias makes landfall in Florida",
-   "JD Vance casts doubt on firing squad execution and says he will not watch it"
+   "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+   "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+   "Four dead and thousands without power after Hurricane Isaias lashes US"
   ],
   "BBC Business": [
    "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -61,20 +61,20 @@
    "I've been with my boyfriend for two years and don't know his salary"
   ],
   "BBC Technology": [
+   "King warns malicious online actors are evolving tactics",
+   "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "How drones are hunting fires hidden beneath the Cairngorms",
    "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
    "Anthropic bans users from being 'cruel' to its AI systems",
-   "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-   "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "'Careless use of AI is the real threat - not the ghost stories'",
-   "Why are more roofs not made of solar tiles?"
+   "Fired OpenAI researchers say they were let go for 'prioritising safety'"
   ],
   "Al Jazeera": [
-   "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-   "Two Renoir paintings recovered after France museum heist, mayor says",
-   "Dual quakes devastate southern Panama",
-   "Israeli drone attack wounds six in Lebanon near Syria border",
-   "Intercommunal clashes kill 71 people in South Sudan",
-   "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal"
+   "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+   "Man dies after entering tiger enclosure at England wildlife park",
+   "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+   "Twelve killed, more than 300 injured in Riyadh airport attack",
+   "Ebola spreads in eastern DRC as Kenya confirms imported case",
+   "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis"
   ],
   "The Guardian": [
    "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -82,87 +82,87 @@
    "Isaias strengthens to become first Atlantic hurricane of 2026 season",
    "Egyptian journalists plan weekend protest over detention of six colleagues",
    "Scientists discover 180,000 giant tortoises on one Seychelles island",
-   "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico"
+   "Candidate named Hitler Mussolini elected mayor in Peru"
   ],
   "NPR": [
-   "Kalshi taps former FBI agent to fight against money laundering",
-   "Fired OpenAI employees question the company's commitment to safety",
-   "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-   "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
-   "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
-   "Did Russia play by the rules in reporting lab worker's death?"
+   "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+   "Christa Pike discharged from the hospital and back in prison",
+   "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+   "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+   "The Kennedy Center names new artistic director, amid concerns",
+   "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama"
   ],
   "SCMP China": [
-   "Why a Communist Party boss had a coffee shop date with Chinese content creators",
-   "Modi and Xi can’t bridge the India-China divide by themselves",
-   "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
-   "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
-   "What are the concerns and priorities behind the new language used to define China-US ties?",
-   "Port of LA, key US point for China imports, has best-ever quarter despite trade uncertainty"
+   "Hangzhou is doubling down on tech – minus the viral hype",
+   "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
+   "Are Chinese military aircraft already using a new joint air facility in Laos?",
+   "China’s Zhejiang province calls to limit tech giants’ power over online traffic",
+   "Cracks in security? Qing dynasty ceramics damaged in British Museum display",
+   "Taiwanese leader welcomes talks between Washington and Beijing ‘to reduce risk of war’"
   ],
   "Nikkei Asia": [
-   "On Lombok island, a volcano climb worth every step",
-   "Japan's Nakatsugawa aims to attract more visitors to 'Samurai Road'",
-   "Cambodian rice farmers help to conserve threatened cranes",
-   "Japan food tax cut gets cabinet approval with key questions unanswered",
-   "Tropicana: Stephen Schwarzman (10)",
-   "Honda to sell Thai-built Mitsubishi pickup under own brand in Southeast Asia"
+   "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
+   "First 'Naruto' anime series in 9 years announced at New York Comic Con",
+   "Internecine strife -- and a bad ending: Stephen Schwarzman (11)",
+   "French defense contractor Thales to open Japan maintenance base",
+   "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
+   "Classrooms should ban digital textbooks and AI"
   ],
   "Deutsche Welle": [
+   "Money, networks and bias: Why women struggle to win seats in US politics",
+   "Is China seeking to restrict Taiwan's cultural presence?",
+   "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
    "Schools crisis in France: Investment fails to inspire confidence",
    "Eritrean troops in Ethiopia raise fears of a regional war",
-   "Macron and Steinmeier struggle to revive Franco-German ties",
-   "US imposes sanctions aiming to 'dismantle' International Criminal Court",
-   "Is China seeking to restrict Taiwan's cultural presence?",
-   "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows"
+   "Macron and Steinmeier struggle to revive Franco-German ties"
   ],
   "Livemint": [
-   "Is HAL stock priced for perfection? What to expect over the next 5 years",
-   "CME feeder cattle hit 3-month peak after corn price plunge",
-   "TSX posts biggest gain in five weeks as rate hike bets recede",
-   "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
-   "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
-   "Gold hits one-week high, heads for weekly gain on bargain-hunting"
+   "Top 5 stocks to buy under  ₹100: NTPC Green, Jayaswal Neco, Sagility, SBFC, South Indian Bank by Sumeet Bagadia",
+   "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
+   "Week Ahead: US inflation data, major bank earnings to drive Wall Street",
+   "This Tata Group stock falls 13% in 3 months, but Motilal Oswal sees 21% upside on 'resilient growth' - Do you own?",
+   "Larsen &amp; Toubro shares: 114% return in 5 yrs, Motilal Oswal sees 19% more upside stock | Target price",
+   "HCL Tech Q2 results 2026 preview, expectations: Will IT giant deliver strong growth? Profit, revenue, dividend history"
   ],
   "The Hindu Biz": [
-   "U.S. lifts sanctions on sale of Russian diesel in global markets",
-   "Elon Musk ups ante in Starlink row, sarcastically calls Ambani ‘Prime Minister’, alleges monopoly",
-   "Delivery completed: On the GST Council meet, reforms",
-   "Ownership issues cloud TVS’ Venu Srinivasan, family",
-   "Coal supplies to power plants rise 36% from September lows; rail loading hits 465 rakes a day",
-   "TCS builds higher bench, increases subcontracting as it prepares for demand"
+   "SEBI to issue guidelines on CAS in a week: Chairman Pandey",
+   "India-U.S. trade pact to be finalised keeping changed circumstances in mind: Piyush Goyal",
+   "DPA positions Kandla as green fuels, shipping hub",
+   "As oil prices increase, RBI opens special window for PSU oil firms to meet their daily dollar needs",
+   "India initiates anti-dumping probe on Pen-G, salts from China",
+   "Gurugram tops residential launches at ₹1.38 lakh cr in 2025; NCR sees 450% post-Covid appreciation"
   ],
   "Inc42": [
-   "Peak XV Sells Awfis Shares Via ₹30 Cr Bulk Deal",
-   "OTPless Ropes In Ex-BharatPe Exec Geetanshu Singla As New CTO",
-   "Govt Orders Suspension Of Internet Services in New Delhi Amid Protests",
-   "Bewakoof’s FY26 Net Loss Jumps Nearly 20% To ₹87.4 Cr; Revenue Crosses ₹200 Cr Mark",
-   "Payments Vs Lending: The Tale Of Paytm’s Two Engines",
-   "JSW MG Motors India Announces Winners Of MG Developer Program 2026"
+   "New-Age Tech Stocks Gain This Week, MobiKwik Surges 25% And PhysicsWallah 20%",
+   "EV Bets Drive India’s Cleantech Funding Surge In Q3",
+   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
+   "OpenAI, Anthropic Prepare For Backlash Over Potential AI Catastrophe: Report",
+   "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week"
   ],
   "TechCrunch": [
-   "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-   "Long live the mechanical keyboard",
-   "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "Batteries are now cheaper than natural gas turbines used at many data centers",
-   "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers"
+   "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "Petra Power looks to modernize energy for data centers and defense vehicles",
+   "Cloudflare acquires Deno to improve its Workers programming model",
+   "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+   "Here are the top AI agents that can live in your text messages"
   ],
   "Ars Technica": [
+   "One with the world? A new look at brains transformed by psychedelics.",
    "Neanderthal wooden tools from Spain found preserved in stone",
    "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
    "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
    "NASA issues long-awaited call to industry for private space stations",
-   "What's been driving Hawaii's lava fountains?",
-   "AI coding agents generate more code, but not more software"
+   "What's been driving Hawaii's lava fountains?"
   ],
   "The Verge": [
-   "Decade-old RAM is making a comeback",
-   "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-   "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-   "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-   "Nikon microscopic video competition winner disqualified for using generative AI"
+   "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "Ledger wallet tampering suspected after reports of crypto thefts",
+   "K-pop star Sunmi loves Notion and ear cleaning videos",
+   "Anthropic is cutting off its internal evaluations from the internet",
+   "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?"
   ],
   "MIT Tech Review": [
    "The Download: AI’s refusal problem and weight-loss drug side effects",
@@ -173,28 +173,28 @@
    "The Download: AI roadblocks for humanoids and portable rubber dams"
   ],
   "Hacker News best": [
-   "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-   "No Man Is an Island",
-   "Typesafe AI raises $870M at $7.5B",
-   "Triple-A Minesweeper",
-   "Python 3.15",
-   "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
+   "Bitwarden Dual License Model",
+   "I would like the value of my home to rise, while my property taxes fall",
+   "Lobbying is corruption",
+   "Apple/macOS removed from official Unix registry",
+   "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "`123456' password used in Danish CPR data breach"
   ],
   "Simon Willison": [
+   "Dwarf Fortress uses version control now",
+   "Python 3.15.0 added to actions/python-versions",
    "Quoting The New York Times",
    "Deno is joining Cloudflare",
    "Quoting Matthew Green",
-   "A new feature for my blog, built using my voice",
-   "ttok 1.0",
-   "ttok 0.4"
+   "A new feature for my blog, built using my voice"
   ],
   "Latent Space": [
+   "[Subscriber Exclusive] NYC Subscriber Meetups!",
+   "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+   "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
    "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
    "[AINews] not much happened today",
-   "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-   "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-   "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-   "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics"
+   "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk"
   ],
   "Interconnects": [
    "I expect rapid progress but not towards general superintelligence",
@@ -229,12 +229,12 @@
    "Stop spending money on smaller classes"
   ],
   "Net Interest": [
+   "When Saturday Comes",
    "The Art of Doing Financial Engineering",
    "Agents Revolt",
    "Brookfield of Dreams",
    "The Five Deals That Made Apollo",
-   "Hot European Summer",
-   "Untangling Guggenheim"
+   "Hot European Summer"
   ],
   "Money & Macro": [
    "Who will pay for a 100 million Boomer pensions?",
@@ -264,9 +264,9 @@
    "NASA astronauts splash down after 100 million miles in space",
    "October’s night sky is full of cosmic tricks and treats",
    "NASA is searching for hidden caves to build its first Moon base",
-   "Scientists accidentally discover a genetic code that breaks the rules of life",
-   "Scientists find hidden materials that could improve batteries and solar fuels",
-   "This “golden tree” coral was too strange for any known family"
+   "Scientists may have found a shortcut to fusion energy",
+   "MIT astronomers catch a star in a feast that could last billions of years",
+   "Scientists accidentally discover a genetic code that breaks the rules of life"
   ],
   "Nature": [
    "Breaking down nerve-cell scaffold relieves chronic pain in mice",
@@ -277,138 +277,143 @@
    "An experiment to glimpse the future Amazon — in pictures"
   ]
  },
- "youtube_latest": {
-  "Veritasium": "What is edge dislocation?",
-  "Fireship": "A $6.3 billion open-weight model just got embarrassed by the French..."
- },
+ "youtube_latest": {},
  "hn_top": [
   {
-   "t": "REA Reverse – Engineer Anything",
-   "s": 106,
-   "c": 0.19
+   "t": "WallHop – 12ft.io is gone, so I built a replacement",
+   "s": 81,
+   "c": 0.56
   },
   {
-   "t": "Cloudflare acquires Deno",
-   "s": 1085,
-   "c": 0.52
+   "t": "Build your own decision model",
+   "s": 117,
+   "c": 0.22
   },
   {
-   "t": "Triple-A Minesweeper",
-   "s": 693,
-   "c": 0.19
+   "t": "2D Vehicles",
+   "s": 363,
+   "c": 0.23
   },
   {
-   "t": "Our $445M Series D",
-   "s": 603,
-   "c": 0.45
+   "t": "A city-building game in which the city would prefer you didn't",
+   "s": 179,
+   "c": 0.38
   },
   {
-   "t": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-   "s": 222,
-   "c": 0.13
+   "t": "Generative AI scandal has come to one of Nikon's competitions",
+   "s": 15,
+   "c": 0.0
   },
   {
-   "t": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-   "s": 66,
+   "t": "PSPi 6 – Raspberry Pi in a PSP",
+   "s": 10,
+   "c": 0.1
+  },
+  {
+   "t": "The Lightbulb Computer",
+   "s": 260,
+   "c": 0.17
+  },
+  {
+   "t": "Nix wrote half of my debugger",
+   "s": 135,
+   "c": 0.17
+  },
+  {
+   "t": "Knuth reward check",
+   "s": 149,
    "c": 0.36
   },
   {
-   "t": "Sorry, I'm in a meeting",
-   "s": 786,
-   "c": 0.31
+   "t": "Five months treating bugs like patients and coding agents like a medical team",
+   "s": 65,
+   "c": 0.43
   },
   {
-   "t": "Typesafe AI raises $870M at $7.5B",
-   "s": 283,
-   "c": 0.76
+   "t": "Why DuckDB 2.0 is faster",
+   "s": 147,
+   "c": 0.34
   },
   {
-   "t": "Can you use autoregressive diffusion to generate market data?",
-   "s": 18,
-   "c": 0.06
+   "t": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "s": 255,
+   "c": 0.48
   },
   {
-   "t": "Compiling Rust to readable C with Eurydice",
-   "s": 27,
+   "t": "Veda: The First Agentic Hobby Operating System",
+   "s": 14,
    "c": 0.07
   },
   {
-   "t": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-   "s": 443,
-   "c": 0.55
+   "t": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "s": 161,
+   "c": 0.24
   },
   {
-   "t": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-   "s": 109,
-   "c": 0.5
-  },
-  {
-   "t": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
-   "s": 31,
-   "c": 0.06
-  },
-  {
-   "t": "Show HN: Proton Drive for Linux",
-   "s": 38,
-   "c": 0.37
-  },
-  {
-   "t": "Anthropic AI model submits false tip on unsolved Philly murder",
-   "s": 80,
-   "c": 0.76
+   "t": "REA Reverse – Engineer Anything",
+   "s": 716,
+   "c": 0.43
   }
  ],
  "github_top": [
   {
    "n": "storytold/photocraft",
-   "s": 35872
+   "s": 42389
   },
   {
    "n": "Niko1221/Strata",
-   "s": 19644
+   "s": 20742
   },
   {
    "n": "openai/math",
-   "s": 13140
-  },
-  {
-   "n": "shihabal3amri/DiPlay",
-   "s": 8364
+   "s": 13698
   },
   {
    "n": "storytold/lightcraft",
-   "s": 7819
+   "s": 9080
   },
   {
-   "n": "zai-org/ZCode",
-   "s": 7605
-  },
-  {
-   "n": "yetone/magpie",
-   "s": 7533
-  },
-  {
-   "n": "jev-chat/jev-chat-jarvis",
-   "s": 7526
+   "n": "shihabal3amri/DiPlay",
+   "s": 8967
   },
   {
    "n": "storytold/filmcraft",
-   "s": 7213
+   "s": 8729
+  },
+  {
+   "n": "yetone/magpie",
+   "s": 8615
+  },
+  {
+   "n": "storytold/pdfcraft",
+   "s": 8033
+  },
+  {
+   "n": "jev-chat/jev-chat-jarvis",
+   "s": 7557
   },
   {
    "n": "KKKKhazix/AIHOT",
-   "s": 6931
+   "s": 7079
   }
  ],
  "quotes": {},
  "errors": [
   {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
    "source": "youtube:Two Minute Papers",
-   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
   },
   {
    "source": "youtube:Andrej Karpathy",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
+  },
+  {
+   "source": "youtube:Fireship",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
   },
   {
    "source": "youtube:CNN",
@@ -420,7 +425,7 @@
   },
   {
    "source": "rss:The Print",
-   "error": "unparseable feed: <unknown>:18:10: mismatched tag"
+   "error": "unparseable feed: <unknown>:2:0: syntax error"
   },
   {
    "source": "rss:Indian Express",
