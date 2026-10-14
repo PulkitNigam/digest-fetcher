@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-10-13T03:49:08.689013Z",
+ "generated_utc": "2026-10-14T02:08:03.433652Z",
  "counts": {
-  "youtube": 1,
+  "youtube": 0,
   "rss": 29,
   "reddit": 0,
   "hackernews": 25,
@@ -9,7 +9,7 @@
   "quotes": 0
  },
  "fx": {
-  "INR": 95.78
+  "INR": 95.28
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -45,36 +45,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-   "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-   "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-   "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "Breaking Bad actor RJ Mitte dies aged 34",
-   "South Africa's deputy police chief resigns after being charged with sexual offences"
+   "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "MI5 chief warns of threats to UK from Russia, Iran and AI",
+   "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+   "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder"
   ],
   "BBC Business": [
-   "UK growth upgraded but energy prices and rates to bite in 2027",
-   "I earn £120,000 a year making social media videos go viral",
-   "Heating oil customers face tough winter despite shake-up promise",
-   "Bumble shares soar after report dating firm in $1bn takeover talks",
-   "Publicly owned rail is popular. But is it making the trains run on time?",
-   "Healey faces £35bn Budget challenge to meet spending pledges, says think tank"
+   "Royal Mail losing 400 postal workers a week, says union",
+   "Is it OK for jobseekers or employers to use AI?",
+   "Three things we've learnt about the UK economy from the IMF",
+   "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+   "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "How long will humans be needed for translation?"
   ],
   "BBC Technology": [
-   "Bumble shares soar after report dating firm in $1bn takeover talks",
+   "How long will humans be needed for translation?",
+   "Is it OK for jobseekers or employers to use AI?",
+   "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+   "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
    "AI minister warns 'likely' UK's cyber defences will be breached",
-   "AI is less regulated than milk, says Microsoft president",
-   "King warns malicious online actors are evolving tactics",
-   "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "How drones are hunting fires hidden beneath the Cairngorms"
+   "AI is less regulated than milk, says Microsoft president"
   ],
   "Al Jazeera": [
-   "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-   "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-   "Cyberattack on French supermarkets causes fires, millions in losses",
-   "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
-   "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
-   "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted"
+   "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+   "Jamaica accepts first flight of third-country deportations from US",
+   "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+   "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+   "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+   "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank"
   ],
   "The Guardian": [
    "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -82,119 +82,119 @@
    "Isaias strengthens to become first Atlantic hurricane of 2026 season",
    "Egyptian journalists plan weekend protest over detention of six colleagues",
    "Scientists discover 180,000 giant tortoises on one Seychelles island",
-   "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels"
+   "Intense waves and floods batter California waterfront homes and boardwalks"
   ],
   "NPR": [
-   "New White House press secretary a \"devoted fan\" of Trump and MAGA",
-   "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
-   "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-   "India's opposition parties march to top court as protests over voter lists escalate",
-   "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-   "U.S. restrictions on Chinese drones are hurting cash-strapped police departments"
+   "Pope Leo has lung cancer, the Vatican announces after surgery",
+   "What an economics Nobel Prize winner knows about pricing",
+   "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+   "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+   "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
+   "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR"
   ],
   "SCMP China": [
-   "China keeps extending the Shenzhen Apec deadline. Why are US execs so unenthused?",
-   "From laser shields to iPhone detectors: inside China’s booming secrecy industry",
-   "Why China is likely to be cautious about recent Trump-Putin diesel deal",
-   "China’s top diplomat to visit Azerbaijan, Croatia, Montenegro and Bulgaria to boost ties",
-   "US turns to low-cost Blackbeard hypersonic missiles to overwhelm Chinese defences",
-   "Taiwan aims to raise pilot retirement age to 58 as new F-16V jets arrive"
+   "2 Taiwanese executives arrested over mainland components in military drones",
+   "Public comments flood US government websites over proposed H-1B, OPT fee hikes",
+   "Trump’s ‘golden age’ push hands top science honours to big tech. Will it work?",
+   "Trump press secretary Katie Zacharia says she passed bar exam in China, raising eyebrows",
+   "Peru governor touts Chinese interest in deep-water port pitched as Chancay alternative",
+   "Is this the best time for US strategists to push for abandoning ambiguity on Taiwan?"
   ],
   "Nikkei Asia": [
-   "Is Singapore now a key link in AI supply chain?",
-   "Palau says flood of drugs brought by Chinese risks destabilization",
-   "Indonesia's tax drive upsets ecommerce sellers, big businesses",
-   "Pakistan's Aurangzeb looks to Asian bonds to diversify funding",
-   "India, ASEAN growth revised up in IMF's latest world outlook",
-   "NTT to build first data center for Anthropic in Japan"
+   "When it comes to France's public finances, the problem is politics",
+   "Central banks navigate inflation uncertainty amid supply shocks",
+   "Singapore Q3 GDP grows 5.4% on sustained AI-driven demand",
+   "The founding: Stephen Schwarzman (13)",
+   "Mitsui Fudosan eyes Japan's first next-gen geothermal power site",
+   "SB Energy does SoftBank's spadework for Son's AI drive"
   ],
   "Deutsche Welle": [
-   "UK: Iran 'highly likely' to be behind RAF Fairford incident",
-   "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
-   "Fact check: Viral videos falsely linked to Riyadh airport attacks",
-   "Starlink India launch: Why Elon Musk is still waiting",
-   "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
-   "Cyprus closer than ever to joining Schengen but political hurdles relating to the Green Line and British Sovereign Base Areas remain"
+   "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+   "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
+   "Saudi Arabia's military struggle against Houthi attacks",
+   "How will emergency rule in Pakistan's northwest affect Afghan ties?",
+   "DR Congo: Kabila’s move towards M23 raises questions over peace",
+   "India: Can 'cockroaches' threaten Modi's political grip?"
   ],
   "Livemint": [
-   "Chip Selloff Triggers 7% Korea Rout After CEO’s ‘Casino’ Warning",
-   "US Dollar holds near 18-month high amid rising geopolitical risks | What does it mean for Sensex, Nifty 50?",
-   "Four stocks that saw a sharp rise in DII holding in September quarter",
-   "Top stocks to watch today: Hero Motors, HCL Tech, Power Grid, IHCL shares in focus on Tuesday, 13 Oct | Full list",
-   "Dollar holds near 18-month high as geopolitical risks rise",
-   "Asian stocks dive as focus on earnings, geopolitics"
+   "Top stocks to watch today: BHEL, Adani Enterprises, Bharat Electronics shares in focus on Wednesday, 14 Oct | Full list",
+   "Stock market outlook today, 14 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "Raja Venkatraman recommends three stocks for 14 October",
+   "Stock recommendations for 14 October from MarketSmith India",
+   "Stockbrokers brace for slower revenue growth amid weaker trading activity",
+   "Market volatility puts lump-sum investing in focus as SIP growth slows"
   ],
   "The Hindu Biz": [
-   "Why does India need a trained workforce for elderly care?",
-   "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Marketing",
-   "PC market witnessed a massive contraction in Q3 of 2026: Gartner",
-   "RBL Bank’s Q2 net profit jumps 170% YoY",
-   "HCLTech posts 21% YoY jump in Q2 net profit",
-   "GE to double India sourcing to $400 mn by 2030; GE-CFM engines set to power 9 in 10 aircraft"
+   "Warner Music bets high on regional talent, technology, diversified revenue streams in India: Jay Mehta",
+   "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+   "NTPC eyes green hydrogen exports, targets Asian and European markets",
+   "LIC launches three new plans",
+   "Vantrock unveils warehousing and industrial parks plan; targets ₹4,200-crore GDV on completion",
+   "Adani defers plan to shift foreign airlines from Mumbai to Navi Mumbai"
   ],
   "Inc42": [
-   "Mesa School Bags ₹110 Cr To Launch New On-Campus Courses",
-   "Qualcomm Sells Shadowfax Shares Worth ₹157 Cr In Bulk Deal",
-   "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
-   "Nazara Top Deck Shuffle: Founder Mittersain Steps Down As MD; Caratlane’s Sacheti Takes Executive Role",
-   "Whizzo To Raise $26 Mn From Aavishkaar Capital, Bertelsmann",
-   "[Update] Alpha Wave Ventures Sells Lenskart Shares Worth ₹1,705 Cr"
+   "[Update] Blume, Speciale Invest & 11 Other AIFs Selected For Deploying ₹7,131 Cr Under RDI Fund",
+   "Freshworks To Acquire Torii To Expand AI Spend Governance Offerings",
+   "[Update] Adani Enterprises, Jabil Sign MoU To Set Up AI-Focused Joint Venture",
+   "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
+   "Build, Buy, Or Rent? How Indian CTOs Are Rethinking The AI Stack",
+   "Urban Company Eyes Fresh Fundraise A Year After IPO As InstaHelp Losses Mount"
   ],
   "TechCrunch": [
-   "Meta releases its first frontier model, Muse Wonder",
-   "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "Honeyjar offers AI tools to improve PR and comms at every company",
-   "Microsoft president says UK is best placed to drive AI regulation",
-   "This AI startup says it can generate permit-ready blueprints in minutes",
-   "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch"
+   "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+   "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+   "Cerebras CEO pushes back on AI doomsday warnings",
+   "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution"
   ],
   "Ars Technica": [
-   "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-   "Epic Games reportedly pivoting to \"AI first\" game development model",
-   "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-   "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-   "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-   "Russia was not ready for the data center war it started with Ukraine"
+   "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+   "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+   "Topgolf saved over $11.3 million after leaving VMware",
+   "Trump commercial railing against his enemies kept airing after court blocked it",
+   "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "Skydance’s Discovery+ prices increase by up to 20 percent"
   ],
   "The Verge": [
-   "The Social Reckoning is flopping at the box office",
-   "Meta has some Wonder Full new AI models",
-   "Elon Musk has donated over $276 million to Republican midterm efforts",
-   "The Yandex outage probably didn’t blitz Russian bots",
-   "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-   "Android is the best and worst thing about Googlebooks"
+   "Apple’s HomeView ad is confusing to everyone except parents",
+   "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "It looks like Apple Music is getting a new icon",
+   "Shopify opens its catalog up to more AI agents",
+   "Xbox is officially embracing the chaos of AI-powered game ports",
+   "The Nothing Headphone A are half off for the first time"
   ],
   "MIT Tech Review": [
+   "The Download: open model trade-offs and geothermal power’s promise",
+   "Open models have real benefits. Do they outweigh the risks?",
+   "AI labs are buying data from dead startups to train their models",
    "The Download: moon city problems and drone traffic controllers",
-   "Mars may be a hellhole, but the moon is not far behind",
-   "The ecologist revealing the invisible networks that revive rainforests",
-   "The Download: AI’s refusal problem and weight-loss drug side effects",
-   "We’re putting too much faith in AI’s ability to say no",
-   "Job titles of the future: Delivery drone air traffic controller"
+   "What it would take to build a city on the moon",
+   "The ecologist revealing the invisible networks that revive rainforests"
   ],
   "Hacker News best": [
-   "Codex CLI installs a persistent, self-updating background daemon by default",
-   "AI coding agents generate more code, but not more software",
-   "Muse Wonder",
-   "A Modern Web App in C",
-   "GLM-Legal",
-   "Why aren't AI companies being charged for hacking?"
+   "OpenAI engineer arrested in bugging of executive conference room",
+   "Gemini 4 Argon",
+   "Redesigning source control at Anthropic",
+   "Thunderbird for iOS",
+   "New Apple TV 4K",
+   "Apple HomeView"
   ],
   "Simon Willison": [
-   "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-   "web-edit 0.1a0",
-   "datasette-ports 0.4",
-   "Dwarf Fortress uses version control now",
-   "Python 3.15.0 added to actions/python-versions",
-   "Quoting The New York Times"
+   "Redesigning source control at Anthropic",
+   "llm-gemini 0.35",
+   "Quoting Geoffrey Huntley",
+   "web-edit 0.1a1",
+   "llm-meta-ai 0.2",
+   "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
   ],
   "Latent Space": [
+   "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+   "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
    "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
    "[Subscriber Exclusive] NYC Subscriber Meetups!",
    "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-   "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-   "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-   "[AINews] not much happened today"
+   "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch"
   ],
   "Interconnects": [
    "I expect rapid progress but not towards general superintelligence",
@@ -213,20 +213,20 @@
    "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in"
   ],
   "Stratechery": [
+   "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
    "Personal Day",
    "2026.41: It’s Not You, It’s Me",
    "An Interview with Katie Harbath About Disrupting Politics at Facebook",
    "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
-   "Game Decompilation, Is This Legal?, A Well-Trodden Path",
-   "Apple and a Hacker’s Future"
+   "Game Decompilation, Is This Legal?, A Well-Trodden Path"
   ],
   "Noahpinion": [
+   "A Nobel for New Keynesian macro, at last!",
    "Why Donald Trump won in 2024",
    "Maybe the Rapture is already here",
    "There is no “Indian Question”",
    "What the AI boom is doing for Americans",
-   "The second Trump presidency is a world-historic failure",
-   "Roundup #89: It isn’t X, it’s Y"
+   "The second Trump presidency is a world-historic failure"
   ],
   "Net Interest": [
    "When Saturday Comes",
@@ -253,150 +253,148 @@
    "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin"
   ],
   "ChinaTalk": [
+   "WarTalk: AutoWarCom and Project Meridian",
    "10 Takeaways from Q3",
    "Kevin Roose on the AGI Believers: Oppenheimer with Equity",
    "The Spice Trader vs. the Tariffs",
    "China, the FCC, and the Logic of Transceivers",
-   "Data is the Hard Part",
-   "China’s AI Safety Money Problem"
+   "Data is the Hard Part"
   ],
   "ScienceDaily": [
-   "Scientists discover vanilla’s hidden healing potential",
-   "Scientists make stunning discovery that could help explain why life exists",
-   "NASA astronauts splash down after 100 million miles in space",
-   "Just 10 minutes of daily exercise could unlock deeper sleep",
-   "Scientists discover why a 100-year-old mushroom disease won't go away",
-   "The hidden math of Alzheimer's could point to new treatments"
+   "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+   "Scientists uncover a hidden map of the brain with 539 distinct regions",
+   "Scientists just gave the powerhouses of our cells a high-tech upgrade",
+   "This tiny jurassic predator helped pave the way for the human brain",
+   "Physicists discover “astonishing” property of light that defies expectations",
+   "Scientists uncover the 2.3-billion-year-old secret that helped keep Earth habitable"
   ],
   "Nature": [
-   "Award-winning microscopy image disqualified over AI use",
-   "Author Correction: Timing and trajectory of <i>BCR::ABL1</i>-driven chronic myeloid leukaemia",
-   "Keep medical doctors in academia — without them, health-care research will suffer",
-   "Economics Nobel awarded for work on stabilizing economies in crisis",
-   "Beyond the solvent fog: watching molecules dance in the crowd",
-   "What does a PhD pay? Data reveal huge gaps across Europe"
+   "Preserve research data for tomorrow’s AI-enabled integrity checks",
+   "Atomic-scale spin sensing of a 2D d-wave altermagnet <i>via</i> helical tunneling",
+   "Decentralized AI needs more evidence on energy use",
+   "Selective, Catalytic Oxidation of Polyethylene Surfaces",
+   "Lead-tainted teeth reveal medieval mines’ unequal toll",
+   "When microbes degrade plastic, where does it go?"
   ]
  },
- "youtube_latest": {
-  "Two Minute Papers": "DeepSeek Solved AI’s Memory Problem"
- },
+ "youtube_latest": {},
  "hn_top": [
   {
-   "t": "The baffling intelligence of a single cell (2024)",
-   "s": 115,
-   "c": 0.03
+   "t": "Gemini 4 Argon",
+   "s": 1024,
+   "c": 0.75
   },
   {
-   "t": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
-   "s": 21,
-   "c": 0.19
+   "t": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+   "s": 283,
+   "c": 0.31
   },
   {
-   "t": "GLM-Legal",
-   "s": 473,
+   "t": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "s": 453,
+   "c": 0.74
+  },
+  {
+   "t": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "s": 55,
    "c": 0.56
   },
   {
-   "t": "A Modern Web App in C",
-   "s": 434,
+   "t": "Redesigning source control at Anthropic",
+   "s": 559,
+   "c": 0.95
+  },
+  {
+   "t": "Apple HomeView",
+   "s": 668,
+   "c": 1.17
+  },
+  {
+   "t": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+   "s": 52,
+   "c": 0.08
+  },
+  {
+   "t": "Thunderbird for iOS",
+   "s": 345,
+   "c": 0.44
+  },
+  {
+   "t": "11 year old unsoundness bugs found in Rust borrow checker",
+   "s": 686,
+   "c": 0.55
+  },
+  {
+   "t": "Firefox Enterprise",
+   "s": 652,
    "c": 0.41
   },
   {
-   "t": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "s": 103,
-   "c": 0.43
+   "t": "Recreational Programming",
+   "s": 65,
+   "c": 0.31
   },
   {
-   "t": "Who is vfmaddrnd231pd?",
-   "s": 134,
-   "c": 0.11
+   "t": "AlphaNIST",
+   "s": 42,
+   "c": 0.31
   },
   {
-   "t": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-   "s": 59,
-   "c": 0.71
+   "t": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "s": 258,
+   "c": 0.57
   },
   {
-   "t": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-   "s": 497,
-   "c": 1.39
+   "t": "The United Kingdom generates less electricity per person than in the 1970s",
+   "s": 210,
+   "c": 1.43
   },
   {
-   "t": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-   "s": 61,
-   "c": 0.41
-  },
-  {
-   "t": "Auto Research: Integer multiplication below n log n",
-   "s": 30,
-   "c": 0.2
-  },
-  {
-   "t": "Making big downloads resumable in Firefox",
-   "s": 119,
-   "c": 0.36
-  },
-  {
-   "t": "AI Models Can Provably Hide Arbitrary Capabilities",
-   "s": 14,
-   "c": 0.07
-  },
-  {
-   "t": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-   "s": 290,
-   "c": 0.27
-  },
-  {
-   "t": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-   "s": 120,
-   "c": 0.66
-  },
-  {
-   "t": "Phreak.ing – Internet Phone Switch",
-   "s": 92,
-   "c": 0.29
+   "t": "We turned EmbeddingGemma 2 into a speech-to-text model",
+   "s": 399,
+   "c": 0.22
   }
  ],
  "github_top": [
   {
    "n": "storytold/photocraft",
-   "s": 54102
+   "s": 58122
   },
   {
    "n": "Niko1221/Strata",
-   "s": 22863
+   "s": 23773
   },
   {
    "n": "openai/math",
-   "s": 14472
+   "s": 14688
   },
   {
    "n": "Ebony-Vinyl/dsh-our-free-model",
-   "s": 12270
-  },
-  {
-   "n": "storytold/filmcraft",
-   "s": 11646
+   "s": 14277
   },
   {
    "n": "storytold/pdfcraft",
-   "s": 11560
+   "s": 12821
+  },
+  {
+   "n": "storytold/filmcraft",
+   "s": 12596
   },
   {
    "n": "storytold/lightcraft",
-   "s": 11324
-  },
-  {
-   "n": "yetone/magpie",
-   "s": 10608
-  },
-  {
-   "n": "shihabal3amri/DiPlay",
-   "s": 10027
+   "s": 12030
   },
   {
    "n": "storytold/wordcraft",
-   "s": 9426
+   "s": 11197
+  },
+  {
+   "n": "shihabal3amri/DiPlay",
+   "s": 10318
+  },
+  {
+   "n": "storytold/vectorcraft",
+   "s": 8514
   }
  ],
  "quotes": {},
@@ -404,6 +402,10 @@
   {
    "source": "youtube:Veritasium",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "source": "youtube:Two Minute Papers",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
   },
   {
    "source": "youtube:Andrej Karpathy",
