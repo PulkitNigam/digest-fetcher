@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-10-18T01:29:20.772793Z",
+ "generated_utc": "2026-10-19T01:36:54.215511Z",
  "counts": {
-  "youtube": 4,
+  "youtube": 5,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
@@ -46,100 +46,100 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-   "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "European diplomats attacked by Israeli settlers in West Bank",
-   "Anti-government protesters battle with police in Albania",
-   "At least 17 dead in crush at Hindu festival event in India",
-   "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat"
+   "Macron calls for 'calm and order' after riots across France",
+   "'Very upsetting': Residents in shock after historic French town hall set alight",
+   "Major fire at Canada military base leaves four dead, dozens injured",
+   "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "Inside Chicago's battle against the synthetic drugs flooding the US"
   ],
   "BBC Business": [
-   "Banks expect to be hit with higher taxes in Budget",
-   "Watch: Did Tesla really just unveil a flying car?",
-   "I find it quite demoralising in store - why I do all my shopping online",
-   "Ship attack reports near Hormuz reach record high as oil exports slow",
-   "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-   "Living with a stink? Technology might help"
+   "Microsoft pulls out of UK's largest AI data centre",
+   "Home sellers cut asking prices on 3,000 properties a day",
+   "People playing loud music on buses could face £100 fine",
+   "Don't fall for this - how to protect yourself from AI scams",
+   "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "There's a crackdown on sports piracy - but is it already out of control?"
   ],
   "BBC Technology": [
+   "Don't fall for this - how to protect yourself from AI scams",
    "No further action against government adviser's wife over Palestine Action post, police say",
    "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
    "Russian man linked to deadly London hospitals hack arrested",
    "Snapchat and Instagram grooming becoming 'easier'",
-   "Porn showing choking or incest to be banned from early November, government says",
-   "Living with a stink? Technology might help"
+   "Porn showing choking or incest to be banned from early November, government says"
   ],
   "Al Jazeera": [
-   "Israeli settlers attack European diplomats in the occupied West Bank",
-   "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
-   "US ambassador urges Israel to prosecute attackers of American journalist",
-   "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-   "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-   "Cost of living protests hit Belgium, Italy, Portugal and France"
+   "Kenya confirms eighth Ebola case amid widening regional outbreak",
+   "Kinship and surveillance: The return of Somali piracy",
+   "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+   "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+   "Protesters disrupt Ben-Gvir event forcing him off stage",
+   "Venezuela opposition renews support for Maria Corina Machado as leader"
   ],
   "The Guardian": [
+   "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+   "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
    "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
    "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
    "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-   "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-   "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-   "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​"
+   "Four people killed in ‘violent, fast-moving’ fire at Canadian military base"
   ],
   "NPR": [
-   "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
-   "Scuffles and fires break out as protesters rally across France, joining students",
-   "Pope Leo XIV leaves hospital days after lung cancer surgery",
-   "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-   "Perspective: Midterm money madness",
-   "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate"
+   "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+   "Noah Adams, longtime host of NPR's All Things Considered, has died",
+   "Pope Leo says he will gradually resume duties after cancer surgery",
+   "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+   "If you have the scratch, they have the scares",
+   "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters"
   ],
   "SCMP China": [
-   "How land power could help US forces counter China in the Indo-Pacific",
-   "Beyond EVs and perception, how China is gaining ground in Central Asia",
-   "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
-   "China’s embassy issues fresh Thailand travel alert over kidnappings, job scams",
-   "Coming up roses? How Trump planted a new seed for Chinese gift diplomacy",
-   "Corrupt officials have nowhere to hide, China’s anti-graft watchdog warns"
+   "China urged to copy Pentagon’s hi-tech warfare project without US conflicts of interest",
+   "Katie Zacharia and Mao Ning – a study in contrasts in US and China media strategies",
+   "How a hospital ship helps buoy China’s strategic mission in Africa",
+   "Qian Jiang, former Johns Hopkins’ eye institute expert, joins hospital in China",
+   "China slams Japan’s Takaichi over Yasukuni ritual offering, warns of ‘remilitarisation’",
+   "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence"
   ],
   "Nikkei Asia": [
-   "AI and US-China rivalry put universities to the test: Vanderbilt head",
-   "On the Ganges, the river sets the itinerary",
-   "Australian home prices tumble as tax rules, rate hikes bite",
-   "The Entrepreneurial Spirit: Stephen Schwarzman (17)",
-   "US and China must ensure AI dialogue is more than just hot air",
-   "Japan to prohibit untraced gold exports, clamping down on tax evasion"
+   "Taiwan, Philippines kindle maritime cooperation in face of Chinese pressure",
+   "Oasis may seek extraordinary general meeting to revamp Nidec board",
+   "Flooding tests Ho Chi Minh City's growth ambitions",
+   "Edgcomb: Stephen Schwarzman (18)",
+   "Japan's regional banks log record growth in property lending",
+   "Japan's investors gear up for 23-hour US trading"
   ],
   "Deutsche Welle": [
+   "France: Young voters blase about Glucksmann's Socialists",
+   "How reliant is Ukraine on the US-controlled Starlink internet service?",
+   "Populist Czech PM Babis goes empty-handed in Senate elections",
    "Ilhan Omar: The US Democrat targeted by Donald Trump",
    "China's influence in the gaming industry is growing",
-   "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-   "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-   "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-   "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump"
+   "Russia wants blackout in Ukraine as winter comes — Zelenskyy"
   ],
   "Livemint": [
-   "Top 3 stocks to buy under  ₹100: IRFC, Motherson Sumi, Lloyds Engineering Works by Sumeet Bagadia | Target price, SL",
-   "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
-   "Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus",
-   "Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus",
-   "Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List",
-   "Cupid’s Aditya Halwasiya bets big on PC Jeweller after 70% rally in 6 months - Who is he? Check PCJ stock returns, RoE"
+   "Jio Platforms IPO GMP today: Reliance-backed  ₹30,213 cr issue - Listing gains expectations for Oct 28 NSE, BSE debut",
+   "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "Raja Venkatraman recommends three stocks for 19 October",
+   "Veteran SIP investors not deterred by stagnant market: Kotak Mahindra's's Harsha Upadhyaya",
+   "For Nestle India, is the best in the past?",
+   "Frail Indonesian markets reel after MSCI shock warning"
   ],
   "The Hindu Biz": [
    "Robert E. Hall and Michael Woodford | Putting people in economics",
-   "Air India sets up multi-disciplinary panel to identify cost-saving opportunities",
-   "Export levy on petrol hiked, diesel lowered",
-   "Why the GCC-EU summit was recently postponed | Explained",
-   "Rupee rises 20 paise to 94.79 against U.S. dollar in early trade",
-   "IGL launches AI-powered pilot project for hydrotesting verification"
+   "Indian refiners’ fuel exports to West surge 43% amid Russian crude imports",
+   "Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2",
+   "Finances for disabled",
+   "What if a cheque bounces?",
+   "Your claim may be cashless, but not costless"
   ],
   "Inc42": [
+   "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
+   "Will The Jio Platforms IPO Live Up To Its Billing?",
+   "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
+   "Indian Startup IPO Tracker 2026",
    "Burma Burma Parent’s FY26 Loss Surges 31X YoY To ₹15 Cr",
-   "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
-   "Nazara, Groww Gain Among New-Age Tech Stocks This Week, AceVector Falls 18%",
-   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
-   "Cleartrip’s FY26 Loss Widens 28% YoY To ₹805 Cr, Revenue Up 21%",
-   "Flipkart’s Logistics Arm Ekart Cuts FY26 Loss By 98% To ₹26 Cr"
+   "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal"
   ],
   "MediaNama": [
    "Flipkart Group cuts FY26 loss to Rs 8,468 crore, revenue nears Rs 1.5 lakh crore",
@@ -150,28 +150,28 @@
    "MediaNama This Week: Top 10 Stories (10 October – 16 October 2026)"
   ],
   "TechCrunch": [
-   "Meta removes language that raised scraping and AI training concerns",
-   "TikTok permanently bans ‘Musk’ documentary advertising account",
-   "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "Replit makes OpenAI its default over Anthropic, CEO says",
-   "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-   "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept"
+   "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+   "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+   "Disney agrees to hire the majority of Character.AI’s workforce",
+   "TechCrunch Mobility: Rivian’s next act",
+   "Meta removes language that raised scraping and AI training concerns"
   ],
   "Ars Technica": [
+   "Anthropic gives outside AI watchdog “employee-like” access",
    "Science says your boss should talk less in meetings",
    "Why BioWare's Neverwinter Nights still has thousands of active players",
    "OpenAI models hacked a crypto wallet and breached more websites",
    "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-   "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-   "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality"
+   "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\""
   ],
   "The Verge": [
-   "TikTok bans Musk documentary account",
-   "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-   "Elon Musk settles lawsuits over $1 million voter giveaway",
-   "Meta removes language that may have allowed it to scrape news sites",
-   "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-   "Jad Abumrad loves a butterfly knife and a good springy pillow"
+   "A Savannah police officer gave her Flock login to her ICE agent husband",
+   "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+   "A woman was arrested in Philly for blocking a delivery robot",
+   "Video game ownership bill introduced in Congress",
+   "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+   "J Mascis has nothing better to do"
   ],
   "MIT Tech Review": [
    "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -182,20 +182,20 @@
    "Kids are outsmarting social media bans. That’s not a problem we need to solve."
   ],
   "Hacker News best": [
-   "OpenCode Hacked: User credentials leaked",
-   "Gold is now the top U.S. export",
-   "Pele – Mermaid diagrams as themeable SVG",
-   "Solar surpasses nuclear power globally for first time",
-   "Making chicken transparent using Dorito dust",
-   "MapQuest will now show you where Flock cameras are in your neighborhood"
+   "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "Namecheap just seized and disabled all my domains",
+   "Someone behind the software",
+   "macOS 15.8.2 Breaks OpenGL",
+   "RepRapMicron",
+   "Open MicroManipulator – A sub-micrometer 3D motion control plattform"
   ],
   "Simon Willison": [
+   "llm-tools-datasette 0.1.1",
+   "llm-echo 0.5",
+   "Inline rendering with document​.currentScript",
+   "web-edit 0.1a2",
    "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-   "Chirp Pong",
-   "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-   "LaTeX renderer",
-   "Tree Appreciator",
-   "AI is mass decompiling games. That's both awesome and scary."
+   "Chirp Pong"
   ],
   "Latent Space": [
    "[AINews] High Taste Testers Ep. 1",
@@ -230,12 +230,12 @@
    "An Interview with Katie Harbath About Disrupting Politics at Facebook"
   ],
   "Noahpinion": [
+   "Why are we ruled by barbarians?",
    "AI vs. the railroads",
    "A Nobel for New Keynesian macro, at last!",
    "Why Donald Trump won in 2024",
    "Maybe the Rapture is already here",
-   "There is no “Indian Question”",
-   "What the AI boom is doing for Americans"
+   "There is no “Indian Question”"
   ],
   "Net Interest": [
    "Me and My Agents",
@@ -270,12 +270,12 @@
    "Kevin Roose on the AGI Believers: Oppenheimer with Equity"
   ],
   "ScienceDaily": [
-   "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-   "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
-   "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-   "SpaceX just delivered some very strange cargo to the International Space Station",
-   "This bird flies thousands of miles, but its wings have a catch",
-   "Brain cells meant to protect us may be fueling cognitive decline"
+   "Physicists create a bizarre new quantum state called a fractional fermi sea",
+   "Magic mushroom ingredient takes the fight out of aggressive fish",
+   "Scientists who discovered a third form of magnetism win major physics prize",
+   "Scientists discover a natural compound that could protect the brain from too much salt",
+   "Eating blueberries every day may have a surprising effect on your mood",
+   "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse"
   ],
   "Nature": [
    "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
@@ -289,134 +289,131 @@
  "youtube_latest": {
   "Veritasium": "When you lose weight where does it go?",
   "Two Minute Papers": "OpenAI’s New AI Is Doing Things We Barely Understand",
+  "Andrej Karpathy": "How I use LLMs",
   "Fireship": "The runtime wars are over... and Node won",
-  "CNN": "Has the dystopian world arrived for factory workers?"
+  "CNN": "Macron vows accountability after protests in France turned violent"
  },
  "hn_top": [
   {
-   "t": "Bleached corals thrive within days when touching healthy neighbour",
-   "s": 315,
-   "c": 0.22
+   "t": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "s": 206,
+   "c": 0.63
   },
   {
-   "t": "Dam removals are bringing fish back across the northeastern United States",
-   "s": 188,
-   "c": 0.27
+   "t": "William Gibson and the trademarking of cyberspace",
+   "s": 58,
+   "c": 0.07
   },
   {
-   "t": "Furifont, a Japanese font that shows furigana",
-   "s": 263,
-   "c": 0.2
+   "t": "Someone behind the software",
+   "s": 313,
+   "c": 0.43
   },
   {
-   "t": "DeepSeek-v4.1-Flash-1017",
-   "s": 696,
-   "c": 0.84
-  },
-  {
-   "t": "Pele – Mermaid diagrams as themeable SVG",
-   "s": 229,
-   "c": 0.11
-  },
-  {
-   "t": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-   "s": 142,
-   "c": 0.16
-  },
-  {
-   "t": "Making chicken transparent using Dorito dust",
-   "s": 254,
+   "t": "Laptop Based on 6502 CPU",
+   "s": 27,
    "c": 0.26
   },
   {
-   "t": "Types of types: Haskell's Kind system",
-   "s": 46,
-   "c": 0.59
-  },
-  {
-   "t": "Gold is now the top U.S. export",
-   "s": 230,
-   "c": 0.51
-  },
-  {
-   "t": "Chrome and Edge are removing XSLT: what breaks and what does not",
-   "s": 84,
-   "c": 0.95
-  },
-  {
-   "t": "Source code of the Estonian online voting system",
-   "s": 165,
-   "c": 0.82
-  },
-  {
-   "t": "NY announces game ownership bill requiring ownership rather than licensing",
+   "t": "If you don't run your own LLM proxy, how do you know whats going on?",
    "s": 23,
-   "c": 0.3
+   "c": 0.52
   },
   {
-   "t": "Show HN: High-quality duck audio synthesizer",
-   "s": 84,
-   "c": 0.29
+   "t": "Free Pascal compiler now supports dynamic packages",
+   "s": 113,
+   "c": 0.19
   },
   {
-   "t": "You could have invented transformers from memory",
-   "s": 501,
-   "c": 0.23
+   "t": "RepRapMicron",
+   "s": 329,
+   "c": 0.16
   },
   {
-   "t": "Solar surpasses nuclear power globally for first time",
-   "s": 478,
-   "c": 0.64
+   "t": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "s": 40,
+   "c": 0.57
+  },
+  {
+   "t": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "s": 126,
+   "c": 0.6
+  },
+  {
+   "t": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+   "s": 163,
+   "c": 0.71
+  },
+  {
+   "t": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "s": 547,
+   "c": 0.47
+  },
+  {
+   "t": "PalmOS Lemmings",
+   "s": 89,
+   "c": 0.26
+  },
+  {
+   "t": "\"Traditional, but Puzzling\"",
+   "s": 19,
+   "c": 0.11
+  },
+  {
+   "t": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+   "s": 46,
+   "c": 0.2
+  },
+  {
+   "t": "16-bit fully functional DIY magnetic core memory",
+   "s": 36,
+   "c": 0.44
   }
  ],
  "github_top": [
   {
    "n": "storytold/photocraft",
-   "s": 66449
-  },
-  {
-   "n": "storytold/pdfcraft",
-   "s": 15507
+   "s": 67510
   },
   {
    "n": "wheresryan22/anatomy",
-   "s": 15138
+   "s": 16039
+  },
+  {
+   "n": "storytold/pdfcraft",
+   "s": 15913
   },
   {
    "n": "openai/math",
-   "s": 15107
+   "s": 15175
   },
   {
    "n": "storytold/filmcraft",
-   "s": 14577
+   "s": 14852
   },
   {
    "n": "storytold/wordcraft",
-   "s": 14064
+   "s": 14404
   },
   {
    "n": "storytold/lightcraft",
-   "s": 13481
+   "s": 13696
   },
   {
    "n": "storytold/vectorcraft",
-   "s": 9676
+   "s": 9847
   },
   {
    "n": "rehan-remade/universal-modder",
-   "s": 8245
+   "s": 8350
   },
   {
-   "n": "KKKKhazix/AIHOT",
-   "s": 7950
+   "n": "storytold/effectcraft",
+   "s": 7320
   }
  ],
  "quotes": {},
  "errors": [
-  {
-   "source": "youtube:Andrej Karpathy",
-   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
   {
    "source": "rss:AP Top",
    "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
