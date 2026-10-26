@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-10-25T01:33:50.561034Z",
+ "generated_utc": "2026-10-26T01:38:08.775583Z",
  "counts": {
-  "youtube": 3,
+  "youtube": 1,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
@@ -46,36 +46,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "Ukraine says Starlink connection 'now stable' after network limits",
-   "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-   "British woman dies after trying to rescue sons swept away at sea in the Bahamas"
+   "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "Deeply divided Israel braces for pivotal election",
+   "Venezuelan opposition leader María Machado returns after months in exile",
+   "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+   "Israel to close West Bank crossings on election day as crackdown escalates"
   ],
   "BBC Business": [
+   "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "Will a new code end 'rip-off parking charges'?",
    "Rosebank: Life on the oil field at the centre of a political storm",
-   "How does the UK state pension compare with other countries?",
-   "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "Are California voters about to impose 'world's first' tax on billionaires?",
    "The Indian workers filming their work to train AI"
   ],
   "BBC Technology": [
+   "Data centre debate heats up ahead of US midterms - here's what you need to know",
    "UK to invest £100m in 'world first' AI Biosecurity Lab",
    "What is PHP and why did it spark a global cyber-security scramble?",
    "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
    "The Indian workers filming their work to train AI",
-   "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-   "Race to update services' computer systems after cyber-security flaw found"
+   "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax"
   ],
   "Al Jazeera": [
-   "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
-   "Violence breaks out across Europe after another day of protests",
-   "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-   "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-   "Gunmen kill at least 10 people in eastern Nigeria, police say",
-   "How have Democrats’ policies shifted since the last major US election?"
+   "Netanyahu rival Eisenkot holds final rally before Israeli election",
+   "Serbia celebrates historic election win for student-backed movement",
+   "Lula holds off far right with victory in Brazil presidential election",
+   "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+   "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+   "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?"
   ],
   "The Guardian": [
    "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -83,63 +83,63 @@
    "Controversial US-backed vaccine trial in African newborns halted",
    "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
    "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-   "More than one million Lula supporters rally on eve of Brazilian election runoff"
+   "Brazil runoff live updates: Lula prepares to speak after historic victory over Flávio Bolsonaro"
   ],
   "NPR": [
-   "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-   "Trade tariffs cause whiplash at Port Milwaukee",
-   "How data centers became a bipartisan political issue in Wisconsin",
-   "Ukraine says Starlink is back to normal after disruptions",
-   "Perspective: The next James Bond",
-   "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40"
+   "Brazil's left-wing President Lula elected for fourth term",
+   "U.S. measles cases more than double what they were last year as outbreak spreads",
+   "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+   "Venezuela's opposition leader María Corina Machado returns after months in exile",
+   "Israelis have changed. Will they change their leadership?",
+   "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending"
   ],
   "SCMP China": [
-   "China’s next generation of leaders waiting in the wings for more senior roles",
-   "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
-   "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
-   "Small clashes erupt at Paris protests, as police remain on high alert",
-   "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
-   "North Korean leader Kim Jong-un pays unexpected visit to Chinese border city of Dandong"
+   "Why North Korean leader Kim Jong-un toured a Chinese bus factory in Dandong",
+   "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
+   "Eye on China: Japan reopens taboo debate over nuclear-powered submarines",
+   "War of words over Xinjiang erupts between Chinese and Turkish social media users",
+   "China’s Liaoning carrier and USS Theodore Roosevelt may be in Philippine Sea at same time",
+   "How China’s regional leadership changes offer clues to the future of the Communist Party"
   ],
   "Nikkei Asia": [
-   "Australia's red-tipped bananas are its first 'ecoganic' export",
-   "Sydney's new international airport opens to passengers",
-   "Footloose in Davao: Cracking open the Philippines' 'durian city'",
-   "Saudi-led coalition says it downed 2 missiles fired by Houthis",
-   "China urges US to halt proposed expansion of outbound investment curbs",
-   "Succession: Stephen Schwarzman (24)"
+   "Xi Jinping poised to tighten grip at discipline-focused fifth plenum",
+   "Singapore-linked data center projects face growing rejection in Indonesia",
+   "Japanese builder Takenaka to offer 'meister' credential for foreign staff",
+   "Culture: Stephen Schwarzman (25)",
+   "AI stock falls are sore spot for China's self-reliance strategy",
+   "From trust to growth: the next chapter in Japan-UK relations"
   ],
   "Deutsche Welle": [
-   "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-   "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-   "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-   "Afghan women could lose one of their last paths to a higher education",
-   "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-   "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny"
+   "Protein shakes for teenagers: Good or bad idea?",
+   "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+   "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+   "Prague honors Roma resistance fighters against Hitler",
+   "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+   "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war"
   ],
   "Livemint": [
-   "Top 3 stocks to buy under  ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss",
-   "Upcoming IPO: MK Sons Fine Jewels’  ₹275 cr opening next week – Company profile, key dates, share price band and more",
-   "High dividend, low price: 4 stocks under  ₹200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
-   "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
-   "Reliance Jio IPO listing on Oct 28: Will Mukesh Ambani's firm be in top 5 m-cap? RIL to hold top spot",
-   "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  ₹546 cr - What he did?"
+   "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues",
+   "Capital shifting from secondary market to  ₹5 trillion IPO pipeline: Madhu Lunawat",
+   "Infosys’s huge deal wins fail to give it an edge over peers",
+   "Stock recommendations for 26 October from MarketSmith India",
+   "Raja Venkatraman recommends two stocks for 26 October",
+   "Nifty slide brings 18 month old support back to the fore"
   ],
   "The Hindu Biz": [
-   "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-   "AU Small Finance Bank Q2 profit jumps 53% to 858 crore",
-   "Ultra Gas targeting to add 15 LNG retail stations by end of fiscal: CEO",
-   "IRDAI extends distribution reforms feedback timeline to Oct 31",
-   "IDFC First Bank Q2 PAT rises 197% to ₹1,045 crore on lower provisions",
-   "Ethanol tender sparks feedstock concerns as rice gains ground over maize"
+   "UPI and the cost of policy reversal",
+   "How India’s life insurance sector funds government expenditure",
+   "IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment",
+   "‘Excess’: Insured, but still responsible",
+   "Implication of residual investments on core portfolios",
+   "Swiping in dark: The hidden cost of plastic money"
   ],
   "Inc42": [
+   "Growth Vs Profitability: Swiggy’s Tug-Of-War",
+   "Flipkart’s Summer Of Discontent",
    "New-Age Tech Stocks Tumble This Week, Swiggy Leads Sell-Off With 24.5% Fall",
    "Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss",
    "Flipkart-Backed super.money’s FY26 Revenue Triples To ₹292 Cr",
-   "PHP2Shell: Who Is At Risk And How Can Businesses Stay Safe?",
-   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-   "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups"
+   "PHP2Shell: Who Is At Risk And How Can Businesses Stay Safe?"
   ],
   "MediaNama": [
    "PhonePe & Google Pay’s combined UPI app share fell to 77.8% in Sept 2026",
@@ -150,12 +150,12 @@
    "Delhi HC bars Benne Delhi from using ‘Benne’, Kannada for butter, until next hearing"
   ],
   "TechCrunch": [
-   "Starlink seems to be working normally again in Ukraine",
-   "Will AI expose the rickety infrastructure of the internet?",
-   "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "Instacart reportedly discussed selling itself with DoorDash and Uber",
-   "Block’s new voice model sounds eerily human",
-   "PHP-ocalypse: How two critical web bugs almost broke the internet"
+   "The best apps for tracking your reading and discovering new books",
+   "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "TechCrunch Mobility: Blue-green is the color of autonomy",
+   "The hottest AI wearables and gadgets you should know about"
   ],
   "Ars Technica": [
    "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -166,12 +166,12 @@
    "Inside the Pentagon, the pressure is on to find a home for a new spaceport"
   ],
   "The Verge": [
-   "Blue Planet III is keeping the rough edges in the age of AI",
-   "Pennsylvania will require labels on AI-generated ads",
-   "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-   "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-   "What to expect from Apple’s ‘Pro and tell’ event",
-   "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop"
+   "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+   "Scott Walker’s The Drift will get under your skin",
+   "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+   "Zen Browser is the Arc replacement I was looking for",
+   "This Switch 2 sequel accessory was a few millimeters away from being good",
+   "Now you can watch Instagram Reels on your Apple TV"
   ],
   "MIT Tech Review": [
    "The Download: testing six tech promises and biotech’s blind spots",
@@ -182,12 +182,12 @@
    "Making the case for context-aware AI"
   ],
   "Hacker News best": [
-   "Show HN: Steal My Bitcoin",
-   "No signs of AI payoff outside the tech sector",
-   "The Goose Programming Language",
-   "Roku developer repositories moved from GitHub to GitLab",
-   "FreeDNS",
-   "Google illegally cut down 250K trees in Finland for data center"
+   "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "Dolly Parton's Imagination Library",
+   "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "fheroes2: A recreation of Heroes of Might and Magic II game engine"
   ],
   "Simon Willison": [
    "battledrones v14: Compass Rose, a four player map",
@@ -206,12 +206,12 @@
    "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months"
   ],
   "Interconnects": [
+   "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
    "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
    "Meta shakes up the frontiers, open and closed",
    "I expect rapid progress but not towards general superintelligence",
    "The Cyber Risk Discourse is Broken",
-   "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-   "The current balance of power in open models"
+   "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI"
   ],
   "AI Snake Oil": [
    "New paper: Emerging trends in AI agent evaluation",
@@ -230,12 +230,12 @@
    "Muse Spark Open, Meta + Apple, Thin and Thick"
   ],
   "Noahpinion": [
+   "The internet breaks",
    "France and the limits of liberalism",
    "“You Can See Everything” and the nature of liars",
    "Can a Million AI Agents Create Superintelligence?",
    "Why are we ruled by barbarians?",
-   "AI vs. the railroads",
-   "A Nobel for New Keynesian macro, at last!"
+   "AI vs. the railroads"
   ],
   "Net Interest": [
    "Capital Wars",
@@ -262,156 +262,158 @@
    "Bringing Extinct Species Back to Life | Dr. Beth Shapiro"
   ],
   "ChinaTalk": [
+   "Riding Solo in Santiago",
    "Where is China’s Groq?",
    "Take Ten-Thousand: Egocentric Data Collection for Humanoid Robots",
    "MOFCOM's New Rules and the Future of Chinese AI",
    "The Lithography Lever",
-   "Drone Dominance",
-   "The Case for DUV Controls"
+   "Drone Dominance"
   ],
   "ScienceDaily": [
-   "A hidden bias in human language challenges 70 years of science",
-   "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-   "Could lowering high blood pressure be as simple as stimulating your ear?",
-   "Scientists propose a way to detect dangerous “mirror life” before it exists",
-   "Astronomers uncover a mysterious magnetic web above the Sun",
-   "These tiny snakes roll four times faster than they slither"
+   "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+   "This mysterious mushroom makes people see hundreds of tiny humans",
+   "Three giant black holes discovered in a galaxy from the dawn of time",
+   "New evidence suggests spinosaurus spent most of its life underwater",
+   "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+   "A hidden bias in human language challenges 70 years of science"
   ],
   "Nature": [
+   "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
    "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
    "Elusive snow leopards and evasive particles: Books in brief",
    "Sleep declines in rural communities after electricity arrives",
    "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
-   "First person infected with rare Shamonda virus: what we know",
-   "Elizabeth Holmes film enthralls — but her legacy haunts science"
+   "First person infected with rare Shamonda virus: what we know"
   ]
  },
  "youtube_latest": {
-  "Veritasium": "No device could prove our theory of gravity wrong... until now",
-  "Two Minute Papers": "Gemini 4 Argon Is Not What I Expected",
-  "CNN": "Trump casts early in-person ballot"
+  "Veritasium": "No device could prove Einstein wrong... until now"
  },
  "hn_top": [
   {
-   "t": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-   "s": 137,
-   "c": 0.82
+   "t": "Dolly Parton's Imagination Library",
+   "s": 379,
+   "c": 0.18
   },
   {
-   "t": "We should be more ambitious with the software we build",
-   "s": 152,
-   "c": 0.7
+   "t": "F-Zero X on Nintendo 3DS",
+   "s": 39,
+   "c": 0.59
   },
   {
-   "t": "Roku developer repositories moved from GitHub to GitLab",
-   "s": 260,
-   "c": 0.66
+   "t": "Overgrown, when plants invade your abandoned tabs",
+   "s": 129,
+   "c": 0.29
   },
   {
-   "t": "The Goose Programming Language",
-   "s": 237,
-   "c": 0.67
+   "t": "Attention Is Not What You Need",
+   "s": 16,
+   "c": 0.19
   },
   {
-   "t": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-   "s": 113,
-   "c": 0.68
+   "t": "Why I Am a Programmer",
+   "s": 132,
+   "c": 0.35
   },
   {
-   "t": "Why Gopher in 2026?",
-   "s": 19,
-   "c": 0.37
+   "t": "What goes into making an animated film?",
+   "s": 85,
+   "c": 0.39
   },
   {
-   "t": "Show HN: Steal My Bitcoin",
-   "s": 399,
-   "c": 0.6
-  },
-  {
-   "t": "Small Programs and Languages",
-   "s": 35,
-   "c": 0.03
-  },
-  {
-   "t": "SpeedCrunch 1.1",
+   "t": "The State of Context Engineering",
    "s": 73,
-   "c": 0.14
+   "c": 0.29
   },
   {
-   "t": "I Built a Stereo Vision Board for Hardware Hackers",
-   "s": 29,
+   "t": "Lula wins election after final votes tallied",
+   "s": 133,
+   "c": 0.56
+  },
+  {
+   "t": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "s": 429,
+   "c": 0.48
+  },
+  {
+   "t": "Making the Buddha Head from Merv Whole Again",
+   "s": 21,
    "c": 0.0
   },
   {
-   "t": "Reactive Optimizers: rewrite the optimizer's source code during training",
-   "s": 5,
-   "c": 0.0
+   "t": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "s": 140,
+   "c": 1.17
   },
   {
-   "t": "The Importance of Limitations for Creativity and Learning",
-   "s": 26,
-   "c": 0.23
+   "t": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "s": 385,
+   "c": 0.49
   },
   {
-   "t": "FreeDNS",
-   "s": 248,
+   "t": "Where the Romans Fought (interactive map)",
+   "s": 47,
+   "c": 0.3
+  },
+  {
+   "t": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "s": 382,
    "c": 0.25
   },
   {
-   "t": "I don't understand quantum physics (2018)",
-   "s": 282,
-   "c": 0.76
-  },
-  {
-   "t": "Social dynamics of toxic metal industry in medieval Europe",
-   "s": 9,
-   "c": 0.0
+   "t": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "s": 241,
+   "c": 0.52
   }
  ],
  "github_top": [
   {
    "n": "Gathin23/cleanyourtv",
-   "s": 31871
+   "s": 35311
   },
   {
    "n": "deepseek-ai/DeepInfer",
-   "s": 21864
+   "s": 22424
   },
   {
    "n": "wheresryan22/anatomy",
-   "s": 20172
+   "s": 20615
   },
   {
    "n": "google-research/harness2",
-   "s": 19134
+   "s": 19638
   },
   {
    "n": "storytold/wordcraft",
-   "s": 15903
+   "s": 16056
   },
   {
    "n": "openai/math",
-   "s": 15486
+   "s": 15510
   },
   {
    "n": "tangency-labs/solidcraft",
-   "s": 10104
+   "s": 10489
+  },
+  {
+   "n": "Zagitta/gpu-unlock",
+   "s": 6853
   },
   {
    "n": "storytold/cadcraft",
-   "s": 6691
+   "s": 6803
   },
   {
    "n": "storytold/gridcraft",
-   "s": 6432
-  },
-  {
-   "n": "ARahim3/DigUp",
-   "s": 5716
+   "s": 6518
   }
  ],
  "quotes": {},
  "errors": [
+  {
+   "source": "youtube:Two Minute Papers",
+   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+  },
   {
    "source": "youtube:Andrej Karpathy",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
@@ -419,6 +421,10 @@
   {
    "source": "youtube:Fireship",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
+  },
+  {
+   "source": "youtube:CNN",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
   },
   {
    "source": "rss:AP Top",
