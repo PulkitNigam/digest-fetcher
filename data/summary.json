@@ -1,15 +1,15 @@
 {
- "generated_utc": "2026-11-02T02:42:50.538075Z",
+ "generated_utc": "2026-11-03T04:00:01.355863Z",
  "counts": {
-  "youtube": 0,
+  "youtube": 1,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
-  "github": 20,
+  "github": 0,
   "quotes": 0
  },
  "fx": {
-  "INR": 94.95
+  "INR": 94.91
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -46,36 +46,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-   "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-   "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "Israeli strikes in Gaza kill eight including child, hospitals say",
-   "France launches attempted murder investigation after petrol bomb thrown at police",
-   "University of Cambridge scientist among those who died in Spanish train crash"
+   "US strikes Iran ahead of midterm elections",
+   "Supreme Court rejects Trump's request to stop California counting disputed votes",
+   "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+   "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+   "Shop freezers in seven European countries hit by cyber-attack"
   ],
   "BBC Business": [
-   "Binance users withdraw $3.6bn after record crypto hack",
-   "Don't get caught out by new Buy Now Pay Later rules",
-   "Thousands of jobs at Virgin Media O2 to be cut",
-   "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-   "US tech stocks see sharp falls as AI spending nears $1tn",
-   "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack"
+   "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "Shop freezers in seven European countries hit by cyber-attack",
+   "North Korea denies being behind record $6.3bn Binance hack",
+   "Apple unsure when more foldable iPhones will be available after selling out",
+   "Ryanair says it may freeze workers' pay and raise airfares",
+   "Poundland's former owner offers to invest as minister prepares to meet board"
   ],
   "BBC Technology": [
-   "Binance users withdraw $3.6bn after record crypto hack",
+   "North Korea denies being behind record $6.3bn Binance hack",
+   "Apple unsure when more foldable iPhones will be available after selling out",
+   "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+   "Binance users withdraw $3.6bn after largest-ever crypto hack",
    "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-   "US tech stocks see sharp falls as AI spending nears $1tn",
-   "Google value plunges by $500bn as its own AI search hits ad sales",
-   "Who could be behind the Binance hack and what we know so far"
+   "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack"
   ],
   "Al Jazeera": [
-   "Ukraine blames Russia after air alert app sends out false warnings",
-   "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
-   "Trump invites Michigan Democrat Stevens to join the Republican Party",
-   "Nine die in ‘cataclysmic’ Florida business jet crash",
-   "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-   "Bollywood star greets fans in bulletproof glass after bomb threat"
+   "US urges Venezuela to follow phased plan for democratic transition",
+   "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+   "Thousands displaced as homes are bulldozed in India’s Assam state",
+   "US lawmakers ask Trump administration to stop deportation of Afghans",
+   "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+   "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool"
   ],
   "The Guardian": [
    "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -83,127 +83,127 @@
    "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
    "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
    "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-   "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda"
+   "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists"
   ],
   "NPR": [
-   "Do you know signs of a stroke? BE FAST are the words to remember",
-   "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-   "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-   "How to think about the midterms — and the political moment the country is in",
-   "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-   "The midterms will test the nation's political direction and confidence"
+   "AI chatbots are becoming political advisers. Their answers can mislead voters",
+   "Is America really that polarized? The answer might be a surprise",
+   "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+   "The Supreme Court rejects a DOJ push to separate California ballots",
+   "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+   "Two economists studied California's billionaire tax. They reached wildly different conclusions"
   ],
   "SCMP China": [
-   "Apec China summit: from traffic curbs to tree planting, Shenzhen’s plans enter final phase",
-   "Will losing US midterms see Trump double down or signal beginning of the end?",
-   "Joshua Cooper Ramo on whether the US can handle the stress test of China’s rise",
-   "China’s fifth plenum: Communist Party pledges to reach deeper into tech, digital platforms",
-   "Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say",
-   "China’s fifth plenum: Xi says strict party rules have positive impact, don’t stifle growth"
+   "‘Speak last’: China’s fifth plenum moves to rein in regional leaders",
+   "China’s Communist Party plenum targets passive ‘nice’ guys in anti-corruption push",
+   "OpenAI executive urges caution in China-US AI talks, warns of distillation threats",
+   "US midterm elections 2026: all you need to know",
+   "Will ‘strategic stability’ with China go out the window if Trump loses the midterms?",
+   "US midterm elections: Trump ends campaign, calls Democrats ‘most dangerous ever’"
   ],
   "Nikkei Asia": [
-   "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
-   "Oriental Kopi founder wants to put Malaysia on the menu",
-   "Indonesian political maneuvers hinder market reforms amid downgrade threats",
-   "Chinese Communist Party taps big data surveillance to combat corruption",
-   "Japan is attracting startups. But can it keep them?",
-   "Mitsubishi Heavy gears up to boost US gas turbine production"
+   "Malaysia transport minister still plans to quit, says megaprojects safe",
+   "Apple's new CEO delivers first earnings as sales hit record",
+   "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
+   "Ethics drive Wardah to pinnacle of Southeast Asia's beauty brands",
+   "Cyber insurance inquiries surge at Japan's nonlife insurers",
+   "Singapore's Insignia Ventures backs rural Japan for Davos-inspired academy"
   ],
   "Deutsche Welle": [
-   "Russia's giant new radar in Kaliningrad raises alarm in NATO",
-   "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
-   "Biological weapons: The weaponization of disease",
-   "Donald Trump loses allies after elections in Serbia and Brazil",
-   "FBI says North Korea behind $6 billion Binance crypto theft",
-   "Serbia after Vucic: The winners are losing patience"
+   "Supreme Court rejects Trump bid to block 20,000 California ballots",
+   "US to drop South Africa, Rwanda from duty-free trade initiative",
+   "What might Trump have planned for Iran following the midterm election?",
+   "Germany's chancellor called for Korean unity. Does Seoul want that?",
+   "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+   "How Iliana Yotova won the presidential election in Bulgaria"
   ],
   "Livemint": [
-   "Sensex options volumes soar to record highs as oil boils",
-   "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list",
-   "China Reportedly Discusses Ways to Support Stocks With Banks",
-   "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "Trump suggested he may challenge the election outcome. How stocks would react",
-   "Varun Beverages’ Q3 volume surge can’t mask margin pain"
+   "SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",
+   "Indian shares set to extend advance on softer oil, steady earnings",
+   "Coal India dividend 2026: Record date tomorrow | Know dividend payout amount, yield, history, stock returns",
+   "Five debt-free stocks trading at premium valuations: are they worth the price?",
+   "US midterm elections 2026: What do upcoming elections in the US mean for Sensex, Nifty 50? Experts weigh in",
+   "Top stocks to watch today: SBI, NSE, ITC, Sun Pharma, IDBI Bank shares in focus on Tuesday, 3 Nov | Full list"
   ],
   "The Hindu Biz": [
-   "VBJ to look at going public in 3 to 4 years",
-   "Coal India’s production increases 19% as mining recovers after monsoon slump",
-   "GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost",
-   "FPIs pull out ₹34,843 crore from Indian equities in October, but turn net buyers end of the month",
-   "Domestic PV dispatches cross five-lakh units mark in October on strong festive demand",
-   "Commercial LPG prices hiked ₹10/cylinder; ATF hiked ₹1.37/litre"
+   "Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes",
+   "Chandra’s reappointment has sullied Tata Sons’ image: Darius Khambata",
+   "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
+   "Dr. Reddy’s secures U.S. FDA tentative nod for HIV drug lenacapavir",
+   "Capex push to continue, but fiscal prudence non-negotiable: FM",
+   "Birla Estates eyes top-three spot, targets 10-fold jump in office rentals"
   ],
   "Inc42": [
-   "India’s Deeptech Dilemma, Weekly Funding Rundown & More",
-   "Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy",
-   "Indian Startup IPO Tracker 2026",
-   "Meesho’s Next Monetisation Engines",
-   "Netflix Flips Its India Script",
-   "Here’s Why Doctors Are Betting On Docterz’s Hospital Management Software"
+   "MobiKwik’s Q2 Snapshot, Pixxel Clears The Air & More",
+   "PowerUp Money Raises $10 Mn To Expand Wealth Management Services",
+   "Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global",
+   "Fireside Ventures’ Cofounder & Partner Vinay Singh To Step Down",
+   "ideaForge Returns To Profitability In Q2, Reports Net Profit Of ₹6.5 Cr",
+   "Pernia’s Pop-Up Shop Narrows Q2 Loss By 13% To ₹68.3 Cr, Revenue Up 31%"
   ],
   "MediaNama": [
-   "Special newsletter: Unanswered questions, October edition",
-   "AU Small Finance Bank probes ‘potential data leak’ as hackers claim breach on dark web",
-   "Google to put more ads in AI Mode as AI search slows revenue growth",
-   "Shadowfax clocks Rs 1,538 cr revenue in Q2, profit rises 5x",
-   "TRAI September 2026 data: India adds 6.47M broadband connections to reach 1.108B",
-   "Event Announcement: Technical Issues with SIM Binding, Online, November 13, 2026 #NAMA"
+   "MeitY reverses Section 69A blocking order, unblocks Gamban after Inter-ministerial hearing",
+   "UPI QR codes increased nearly 9% in Sept 2026: RBI data",
+   "Why is the IT ministry’s blocking desk confirming takedowns under a different provision?",
+   "Technical UPI declines rise to 0.24% among top 20 banks in September",
+   "MobiKwik swings to Rs 12 cr profit in Q2, revenue up 9%",
+   "Hostinger briefly takes down Journalist Paranjoy Guha Thakurta’s personal website over an old NewsClick article"
   ],
   "TechCrunch": [
-   "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "TechCrunch Mobility: A new, bigger AV boom is here",
-   "Binance resumes withdrawals following $6.3 billion breach",
-   "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-   "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like"
+   "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+   "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve"
   ],
   "Ars Technica": [
-   "Seabirds racing home over the ocean can get jet-lagged",
-   "The FDA wants to pull its approval of a drug. It’s not so easy.",
-   "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-   "Flesh-eating screwworms spread to third state and are attacking pets",
-   "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-   "Supersonic airliner in doubt as company shifts to powering AI data centers"
+   "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+   "Why large dogs age faster than small ones, and other October research highlights",
+   "Third person dies of bird flu since virus started jumping to livestock",
+   "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+   "Most of our measures of a key cognitive process don't agree",
+   "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights"
   ],
   "The Verge": [
-   "NASA hopes the commercial space industry can help save Hubble",
-   "Flock keeps ignoring requests to cancel its contracts",
-   "Apple’s HomeView could add security camera features",
-   "A fully playable version of Portal prequel F-Stop leaked",
-   "North Korea linked to massive Binance crypto heist",
-   "HomePod Mini 2 first look: Three things I love and one disappointment"
+   "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+   "Apple set an iPhone sales record even without a new standard iPhone",
+   "Meta will end Quest 2 OS updates in 2027",
+   "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+   "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+   "The Apple Watch Ultra 4 is $100 off, matching its best price to date"
   ],
   "MIT Tech Review": [
+   "Raising the quality of insights in agentic analytics",
+   "Stop counting tokens, start counting what ships",
+   "The Download: the agentic web arrives and the drive for safer roads",
+   "The agentic web is here",
    "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-   "Eating disorders are on the rise. GLP-1s could make things worse.",
-   "The Download: AI agent tracking and climate feedback loops",
-   "We urgently need to monitor AI agents’ actions in real time",
-   "Our climate models have a big, dangerous blind spot",
-   "Creating AI value with enterprise context"
+   "Eating disorders are on the rise. GLP-1s could make things worse."
   ],
   "Hacker News best": [
-   "U.S. workers took home their smallest share of capital since at least 1947",
-   "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "Mathematics has changed. Let's act like it",
-   "Patrick Stewart taught us what good men do with power",
-   "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-   "Police chief unplugs cameras after Flock ignores contract cancellation"
+   "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "BYD sold more EVs last month than the US did all quarter",
+   "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "Astra can read and write weights to improve Qwen",
+   "Show HN: Subvocal – Talk to your computer without making noise",
+   "Anthropic's internal AI use, at retail prices, now exceeds its employee pay"
   ],
   "Simon Willison": [
+   "llm 0.37",
+   "The U.S. Census Bureau and “Super Intelligence”",
    "If in doubt, delete the uv.lock file",
    "Quoting Kyle Kingsbury",
    "How We Took Over ChatGPT Accounts",
-   "datasette-llm 0.1a9",
-   "dbreunig/nesformer",
-   "API credits benefit for eligible ChatGPT subscriptions"
+   "datasette-llm 0.1a9"
   ],
   "Latent Space": [
+   "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+   "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
    "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
    "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
    "[AINews] Building AIE CODE: The top Coding Agent Conference",
-   "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-   "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-   "Why Agents Love Supabase"
+   "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning"
   ],
   "Interconnects": [
    "Was I wrong about open models & cyber risks?",
@@ -222,20 +222,20 @@
    "AI agents can't yet do open-ended AI research"
   ],
   "Stratechery": [
+   "Google Earnings, Facebook Déjà Vu, The Agent Play",
    "2026.44: At Long Last…",
    "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
    "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
    "Meta Earnings, Muse and the Frontier, Musebook",
-   "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-   "The End of the Internet"
+   "Anthropic S-1, The Cost of Compute, Who Is Paying?"
   ],
   "Noahpinion": [
+   "Anthropic’s moat is Claude",
    "Farewell, my Captain",
    "A golden age of science is coming",
    "Roundup #90: In which Noah joins a Japanese VC firm",
    "The internet breaks",
-   "France and the limits of liberalism",
-   "“You Can See Everything” and the nature of liars"
+   "France and the limits of liberalism"
   ],
   "Net Interest": [
    "Follow the Money",
@@ -254,158 +254,119 @@
    "The new world order, explained"
   ],
   "Huberman Lab": [
+   "Access the Sublime & Live Your Best Life | Robert Greene",
    "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
    "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
    "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
    "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
-   "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
-   "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+   "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall"
   ],
   "ChinaTalk": [
+   "WarTalk: Kofman on Why Russia's Doing Badly",
    "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
    "Is Half of China’s AI Making Slop?",
    "Xi vs Trump on Corruption",
    "The Manhattan Project, Take Two",
-   "Roasting China’s AI Industry",
-   "China's 10,000 Gaming Talents"
+   "Roasting China’s AI Industry"
   ],
   "ScienceDaily": [
+   "NASA reveals a haunting skull hidden in Antarctica’s ice",
+   "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+   "NASA's Hubble and Webb discover ancient worlds that remember their past",
    "Scientists say a forgotten particle may explain why the universe exists",
-   "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-   "Ancient ape fossil in Egypt could rewrite the story of human origins",
-   "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-   "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-   "Scientists discover the hidden “muscles” trees use to straighten themselves"
+   "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+   "Common pesticide linked to 2.5 times the risk of Parkinson’s disease"
   ],
   "Nature": [
+   "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
+   "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
    "Measles made a stealthy return as another virus took the spotlight",
-   "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
-   "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
-   "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-   "Somewhere over the transcontinental burrito tunnel",
-   "I built the UK government’s metascience unit — here’s what countries need to know"
+   "Earth’s resources sustain humanity — but they come at a high price",
+   "What tech entrepreneurs can teach scientists about failure",
+   "Iranian scientists in the United States face major upheaval"
   ]
  },
- "youtube_latest": {},
+ "youtube_latest": {
+  "Fireship": "Did the AI bubble just pop?"
+ },
  "hn_top": [
   {
-   "t": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-   "s": 976,
-   "c": 0.19
+   "t": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+   "s": 67,
+   "c": 0.04
   },
   {
-   "t": "AI Can Write More of the Code. We Still Have to Engineer the System",
-   "s": 19,
-   "c": 0.26
+   "t": "Astra can read and write weights to improve Qwen",
+   "s": 2134,
+   "c": 0.33
   },
   {
-   "t": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-   "s": 6,
-   "c": 0.0
+   "t": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+   "s": 82,
+   "c": 0.39
   },
   {
-   "t": "HackerTube: YouTube built from videos recommended by HN",
-   "s": 2319,
+   "t": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "s": 77,
+   "c": 0.27
+  },
+  {
+   "t": "Show HN: Subvocal – Talk to your computer without making noise",
+   "s": 594,
+   "c": 0.54
+  },
+  {
+   "t": "Scaling Git at OpenAI",
+   "s": 80,
+   "c": 0.33
+  },
+  {
+   "t": "US boy names that became girl names and vice versa",
+   "s": 321,
+   "c": 1.02
+  },
+  {
+   "t": "If you love a website, back it up",
+   "s": 442,
    "c": 0.23
   },
   {
-   "t": "Nibnib: Image compression with extreme decompression speed",
-   "s": 103,
-   "c": 0.17
-  },
-  {
-   "t": "Ask HN: Which TV do you recommend for privacy?",
-   "s": 160,
-   "c": 1.93
-  },
-  {
-   "t": "OccupySaaS",
-   "s": 68,
-   "c": 0.63
-  },
-  {
-   "t": "Postgres 19 is late, and it's AI's fault",
-   "s": 87,
-   "c": 0.74
-  },
-  {
-   "t": "Tips for more effective fuzz testing with AFL++",
-   "s": 81,
-   "c": 0.17
-  },
-  {
-   "t": "Keeping Up Appearances – The women taking over the funeral industry",
-   "s": 26,
-   "c": 0.19
-  },
-  {
-   "t": "A Chemical Hunger (2021)",
-   "s": 17,
-   "c": 0.12
-  },
-  {
-   "t": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-   "s": 50,
-   "c": 0.5
-  },
-  {
-   "t": "Copper – A minimal low-level programming language with OOP and generics",
+   "t": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
    "s": 133,
-   "c": 0.57
+   "c": 0.66
   },
   {
-   "t": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-   "s": 174,
-   "c": 0.24
+   "t": "Resisting Cognitive Surrender",
+   "s": 28,
+   "c": 0.11
   },
   {
-   "t": "Mathematics has changed. Let's act like it",
-   "s": 232,
-   "c": 1.1
+   "t": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+   "s": 226,
+   "c": 0.16
+  },
+  {
+   "t": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "s": 132,
+   "c": 0.31
+  },
+  {
+   "t": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "s": 126,
+   "c": 0.67
+  },
+  {
+   "t": "Ask HN: Who is hiring? (November 2026)",
+   "s": 186,
+   "c": 0.81
+  },
+  {
+   "t": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "s": 245,
+   "c": 0.73
   }
  ],
- "github_top": [
-  {
-   "n": "Gathin23/cleanyourtv",
-   "s": 49283
-  },
-  {
-   "n": "deepseek-ai/DeepInfer",
-   "s": 24840
-  },
-  {
-   "n": "Zagitta/gpu-unlock",
-   "s": 14175
-  },
-  {
-   "n": "seedds/nxnative",
-   "s": 11011
-  },
-  {
-   "n": "pengchujin/aerial-tv",
-   "s": 8707
-  },
-  {
-   "n": "deepseek-ai/dsh-superagent-prototype",
-   "s": 8353
-  },
-  {
-   "n": "ly05010419/MacNativeGames",
-   "s": 6784
-  },
-  {
-   "n": "HeyPuter/everything",
-   "s": 6319
-  },
-  {
-   "n": "unclebob/ub-mode",
-   "s": 6285
-  },
-  {
-   "n": "xiaoyang111222/cn-math-taxonomy",
-   "s": 5923
-  }
- ],
+ "github_top": [],
  "quotes": {},
  "errors": [
   {
@@ -418,11 +379,7 @@
   },
   {
    "source": "youtube:Andrej Karpathy",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
-  {
-   "source": "youtube:Fireship",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
+   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
   },
   {
    "source": "youtube:CNN",
@@ -434,7 +391,7 @@
   },
   {
    "source": "rss:The Print",
-   "error": "unparseable feed: <unknown>:2:0: syntax error"
+   "error": "HTTPSConnectionPool(host='theprint.in', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "rss:Indian Express",
@@ -519,6 +476,10 @@
   {
    "source": "reddit:ValueInvesting",
    "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ValueInvesting/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "github",
+   "error": "403 Client Error: rate limit exceeded for url: https://api.github.com/search/repositories?q=created%3A%3E2026-10-13+stars%3A%3E300&sort=stars&order=desc&per_page=20"
   },
   {
    "source": "quotes",
