@@ -1,0 +1,2772 @@
+{
+ "generated_utc": "2026-11-07T03:10:01.659254Z",
+ "youtube": {
+  "Fireship": [
+   {
+    "title": "The one thing holding theoretical CS together just broke... kinda",
+    "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+    "published": "2026-11-06T16:42:38+00:00"
+   },
+   {
+    "title": "The worst week in cybersecurity history... so far",
+    "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+    "published": "2026-11-03T19:47:10+00:00"
+   },
+   {
+    "title": "Did the AI bubble just pop?",
+    "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+    "published": "2026-10-28T13:31:29+00:00"
+   },
+   {
+    "title": "China just dropped a new frontier model... and nobody can explain how",
+    "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+    "published": "2026-10-26T18:55:29+00:00"
+   },
+   {
+    "title": "The most vulnerable week in internet history...",
+    "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+    "published": "2026-10-23T18:19:58+00:00"
+   }
+  ]
+ },
+ "rss": {
+  "BBC World": {
+   "updated": "Sat, 07 Nov 2026 03:09:56 GMT",
+   "items": [
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:06:25 GMT"
+    },
+    {
+     "title": "Four midterms takeaways for 2028 White House race",
+     "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 16:12:22 GMT"
+    },
+    {
+     "title": "Two dead after bus crashes in France, officials say",
+     "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+     "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 15:33:52 GMT"
+    },
+    {
+     "title": "New wave of bomb threats hit European airlines",
+     "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+     "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 15:25:35 GMT"
+    },
+    {
+     "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+     "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 14:46:03 GMT"
+    },
+    {
+     "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+     "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 17:44:02 GMT"
+    },
+    {
+     "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+     "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+     "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 15:30:42 GMT"
+    },
+    {
+     "title": "Russian extremist group denies sending hoax bomb threats",
+     "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 12:51:38 GMT"
+    },
+    {
+     "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+     "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+     "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 00:02:57 GMT"
+    },
+    {
+     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+     "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 16:51:01 GMT"
+    },
+    {
+     "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+     "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+     "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 14:57:08 GMT"
+    },
+    {
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:49:50 GMT"
+    }
+   ]
+  },
+  "BBC Business": {
+   "updated": "Sat, 07 Nov 2026 03:09:58 GMT",
+   "items": [
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:06:25 GMT"
+    },
+    {
+     "title": "Why the US midterms sparked an AI stock selloff",
+     "summary": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+     "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 18:32:16 GMT"
+    },
+    {
+     "title": "How does it affect me if share prices fall?",
+     "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+     "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 09:21:50 GMT"
+    },
+    {
+     "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+     "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 17:19:38 GMT"
+    },
+    {
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:49:50 GMT"
+    },
+    {
+     "title": "The engine parts that 'fight the laws of the universe'",
+     "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+     "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 00:06:06 GMT"
+    },
+    {
+     "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+     "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+     "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 15:25:43 GMT"
+    },
+    {
+     "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+     "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+     "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 00:02:52 GMT"
+    },
+    {
+     "title": "Interest rates hiked to 4% in first increase in over three years",
+     "summary": "Most analysts expected the increase from 3.75% to 4%.",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 05 Nov 2026 17:09:55 GMT"
+    },
+    {
+     "title": "Faisal Islam: How high will interest rates go?",
+     "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 05 Nov 2026 13:17:10 GMT"
+    },
+    {
+     "title": "Three ways the interest rate rise could affect you",
+     "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+     "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 05 Nov 2026 13:08:30 GMT"
+    },
+    {
+     "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+     "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+     "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 05 Nov 2026 15:27:09 GMT"
+    }
+   ]
+  },
+  "BBC Technology": {
+   "updated": "Sat, 07 Nov 2026 03:09:57 GMT",
+   "items": [
+    {
+     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+     "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:49:50 GMT"
+    },
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 21:06:25 GMT"
+    },
+    {
+     "title": "Why the US midterms sparked an AI stock selloff",
+     "summary": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+     "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 18:32:16 GMT"
+    },
+    {
+     "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 13:25:50 GMT"
+    },
+    {
+     "title": "The engine parts that 'fight the laws of the universe'",
+     "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+     "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 00:06:06 GMT"
+    },
+    {
+     "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+     "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+     "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 21:41:15 GMT"
+    },
+    {
+     "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+     "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 16:26:15 GMT"
+    },
+    {
+     "title": "Graduates are managing AI - but are they learning much else?",
+     "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+     "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 00:04:35 GMT"
+    },
+    {
+     "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+     "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 16:19:29 GMT"
+    },
+    {
+     "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+     "summary": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
+     "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 13:07:00 GMT"
+    },
+    {
+     "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+     "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 11:10:37 GMT"
+    },
+    {
+     "title": "North Korea denies being behind record $6.3bn Binance hack",
+     "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 08:33:20 GMT"
+    }
+   ]
+  },
+  "Al Jazeera": {
+   "updated": "Sat, 07 Nov 2026 02:08:19 +0000",
+   "items": [
+    {
+     "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+     "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 01:55:03 +0000"
+    },
+    {
+     "title": "EU prosecutor office investigates fatal train crash in Spain",
+     "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 01:33:39 +0000"
+    },
+    {
+     "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+     "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 00:55:51 +0000"
+    },
+    {
+     "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+     "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 00:31:41 +0000"
+    },
+    {
+     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+     "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 00:21:49 +0000"
+    },
+    {
+     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+     "summary": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+     "published": "Sat, 07 Nov 2026 00:00:00 +0000"
+    },
+    {
+     "title": "New Zealanders head to polls on final day of voting",
+     "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+     "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 23:48:01 +0000"
+    },
+    {
+     "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+     "summary": "TikTok&#039;s algorithm &#039;leading users down rabbit holes they cannot easily escape from&#039;, European Commission says.",
+     "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 23:33:28 +0000"
+    },
+    {
+     "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+     "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+     "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 23:07:22 +0000"
+    },
+    {
+     "title": "US urges China to honour Busan trade deal commitments",
+     "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China&#039;s fulfilment of commitments.",
+     "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 23:00:37 +0000"
+    },
+    {
+     "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+     "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 21:37:30 +0000"
+    },
+    {
+     "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+     "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.",
+     "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+     "published": "Fri, 06 Nov 2026 21:22:57 +0000"
+    }
+   ]
+  },
+  "The Guardian": {
+   "updated": "2026-11-07T03:00:42Z",
+   "items": [
+    {
+     "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+     "summary": "<p>Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families</p><p>The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.</p><p>The sentence, comprising 100 years for murder by starvation and 10",
+     "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+     "published": "Fri, 06 Nov 2026 15:08:43 GMT"
+    },
+    {
+     "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+     "summary": "<p>Former liberation movement’s share of national vote almost 14 percentage points below 2021 result</p><p>The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted.</p><p>Wednesday’s fragmented vote marks another stage",
+     "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+     "published": "Fri, 06 Nov 2026 12:48:37 GMT"
+    },
+    {
+     "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+     "summary": "<p>Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit</p><p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p><p>“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government",
+     "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+     "published": "Wed, 04 Nov 2026 18:18:37 GMT"
+    },
+    {
+     "title": "ANC faces anger over poor services as South Africans vote in local elections",
+     "summary": "<p>Party expected to get less than a third of the vote amid frustration over water outages and power cuts</p><p>The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.</p><p>The former liberation movement, which Nelson Mandela led to po",
+     "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+     "published": "Wed, 04 Nov 2026 14:50:47 GMT"
+    },
+    {
+     "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+     "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.</p><p>In late S",
+     "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+     "published": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "summary": "<p>Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank</p><p>Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts.</p><p>Santi",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "published": "Sat, 07 Nov 2026 01:55:11 GMT"
+    },
+    {
+     "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+     "summary": "<p>The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago</p><p>Chilean film-maker Sebastián Lelio has died at the age of 52.</p><p>He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder.</p> <a href=\"https://www.theguardian.com/film/2026/nov/06/sebast",
+     "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+     "published": "Fri, 06 Nov 2026 19:23:24 GMT"
+    },
+    {
+     "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+     "summary": "<p>Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud</p><p>Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US.</p><p>Bolsonaro <a href=\"https://www.theguardia",
+     "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+     "published": "Fri, 06 Nov 2026 13:03:38 GMT"
+    },
+    {
+     "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+     "summary": "<p>Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado</p><p>Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in recent days. Temperatures approached 23C (73F) in New York and Boston, about 7-10C above what is expected in early November. The un",
+     "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+     "published": "Fri, 06 Nov 2026 09:54:12 GMT"
+    },
+    {
+     "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+     "summary": "<p>Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse</p><p>Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.</p><p>At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an o",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "published": "Fri, 06 Nov 2026 06:16:22 GMT"
+    },
+    {
+     "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+     "summary": "<p>Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come</p><p>European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier.</p><p>A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor senti",
+     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "published": "Fri, 06 Nov 2026 21:23:54 GMT"
+    },
+    {
+     "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+     "summary": "<p>Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect</p><p>The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child sexual abuse image allegations made against her father, Thomas Markle Sr.</p><p>The country’",
+     "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+     "published": "Thu, 05 Nov 2026 17:37:27 GMT"
+    }
+   ]
+  },
+  "NPR": {
+   "updated": "Fri, 06 Nov 2026 22:03:29 -0500",
+   "items": [
+    {
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+     "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "published": "Fri, 06 Nov 2026 15:42:51 -0500"
+    },
+    {
+     "title": "The incoming class of U.S. senators is full of historic firsts",
+     "summary": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates on Tuesday.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+     "published": "Fri, 06 Nov 2026 15:21:13 -0500"
+    },
+    {
+     "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+     "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+     "published": "Fri, 06 Nov 2026 15:09:58 -0500"
+    },
+    {
+     "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+     "summary": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+     "published": "Fri, 06 Nov 2026 14:50:14 -0500"
+    },
+    {
+     "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+     "summary": "The change comes after sweeping Republican losses in the midterm elections.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+     "published": "Fri, 06 Nov 2026 14:13:52 -0500"
+    },
+    {
+     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+     "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+     "published": "Fri, 06 Nov 2026 14:13:06 -0500"
+    },
+    {
+     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+     "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+     "published": "Fri, 06 Nov 2026 14:00:21 -0500"
+    },
+    {
+     "title": "Remembering 'Star Trek' actor Patrick Stewart",
+     "summary": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as <em>Star Trek's </em>Picard. Critic David Bianculli has a tribute, and we listen back to a 2020 interview.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+     "published": "Fri, 06 Nov 2026 12:36:39 -0500"
+    },
+    {
+     "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+     "summary": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+     "published": "Fri, 06 Nov 2026 10:21:31 -0500"
+    },
+    {
+     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+     "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+     "published": "Fri, 06 Nov 2026 09:53:46 -0500"
+    }
+   ]
+  },
+  "SCMP China": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+     "summary": "Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots.\nOn Thursday, Unesco released this year’s nominations for inclusion on its Representative List of the Intangible Cultural Heritage of Humanity.\nThe 59 nominations submitted for consideration for the UN cultural body’s list inc",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
+     "published": "Sat, 07 Nov 2026 01:00:12 +0000"
+    },
+    {
+     "title": "Ted Lieu seeks Congress leadership post, aiming to break another glass ceiling",
+     "summary": "California Democratic Congressman Ted Lieu is seeking to become the next chairman of the House Democratic Caucus, one of the top leadership jobs in the US Congress, and potentially making history again as the highest-ranking Asian-American on Capitol Hill.\nHe announced his caucus chair candidacy in a letter to fellow Democrats on Thursday. He’s currently the most high-profile Asian and Chinese-Ame",
+     "url": "https://www.scmp.com/news/us/us-elections/article/3373620/ted-lieu-seeks-congress-leadership-post-aiming-break-another-glass-ceiling",
+     "published": "Fri, 06 Nov 2026 23:01:56 +0000"
+    },
+    {
+     "title": "Will the US midterm ‘blue tsunami’ erode China’s faith in Xi and Trump’s relationship?",
+     "summary": "China may start looking for ways to make its deals with the United States less dependent on the personal relationship between presidents Xi Jinping and Donald Trump after the midterm elections left the US leader in a weaker position to deliver results, analysts have said.\nSome observers believe Beijing will start paying closer attention to what the White House can achieve without support in Congre",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373574/will-us-midterm-blue-tsunami-erode-chinas-faith-trump-and-xis-relationship",
+     "published": "Fri, 06 Nov 2026 22:00:09 +0000"
+    },
+    {
+     "title": "Can China champion the Global South without speaking for it?",
+     "summary": "Travelling through South America earlier this year, I was repeatedly reminded of China’s growing importance. At Ezeiza International Airport in Buenos Aires, I spotted the logo of the Industrial and Commercial Bank of China. ICBC acquired an 80 per cent stake in Standard Bank Argentina in 2012, establishing a significant presence.\nIn Buenos Aires, my friend Diego García, a publisher, offered a use",
+     "url": "https://www.scmp.com/opinion/china-opinion/article/3373154/can-china-champion-global-south-without-speaking-it",
+     "published": "Fri, 06 Nov 2026 21:30:08 +0000"
+    },
+    {
+     "title": "California’s first Asian lieutenant governor traces roots to esteemed family in China",
+     "summary": "Amid a national Democratic wave in the midterm elections, a California Democrat has made history as the first Asian-American elected to the state’s second-highest executive office, with roots tracing back to a prominent military and political clan in China.\nFiona Ma, 60, a Chinese-American and the state’s current treasurer, was elected lieutenant governor, marking a milestone for Asian-American re",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373619/californias-first-asian-lieutenant-governor-has-ties-esteemed-chinese-military-family",
+     "published": "Fri, 06 Nov 2026 21:02:10 +0000"
+    },
+    {
+     "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+     "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a video call with Chinese Vice-Premier He Lifeng on Friday, as both sides moved to finalise preparations for President Donald Trump’s planned meeting with Chinese leader Xi Jinping in Shenzhen later this month.\n“Secretary Bessent emphasised the importance of China fully and immediately implementing its commitments mad",
+     "url": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+     "published": "Fri, 06 Nov 2026 18:34:11 +0000"
+    },
+    {
+     "title": "US and EU’s China talks channel comes back to life after stalling since Trump’s return",
+     "summary": "The European Union and the United States plan to revive talks about China after a two-year hiatus, according to multiple people familiar with the planning.\nThe dialogue had stalled since Donald Trump’s return to the White House, but after being approached by Washington, talks are expected in the first week of December, despite the deterioration in transatlantic relations in the meantime.\nThe once-",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373614/us-and-eus-china-talks-channel-comes-back-life-after-stalling-trumps-return",
+     "published": "Fri, 06 Nov 2026 16:05:58 +0000"
+    },
+    {
+     "title": "Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales",
+     "summary": "The Democratic US Congress may push for faster arms sales to Taiwan following the party’s resounding midterm election victories, but there will be no fundamental shifts in broader US policy towards the island, according to analysts.\nAnd if the likely next House speaker, Hakeem Jeffries – a long-time supporter of Taiwan – “crosses the red line” on the issue, Beijing was expected to take strong coun",
+     "url": "https://www.scmp.com/news/china/politics/article/3373517/democratic-congress-guard-us-taiwan-policy-and-press-trump-arms-sales",
+     "published": "Fri, 06 Nov 2026 14:00:06 +0000"
+    },
+    {
+     "title": "Trump left with ‘no good options’ to end Iran war after crushing US midterms defeat",
+     "summary": "As Republican losses in the US midterm elections highlight how unpopular the war in Iran is, all eyes are on Washington’s next moves and whether the election results could set the stage for a quicker end to the conflict.\nHowever, experts remain sceptical, arguing that while the results will cripple the Trump administration and force it to rethink its strategy, they leave the broader US position un",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373596/trump-left-no-good-options-end-iran-war-following-crushing-us-midterms-defeat",
+     "published": "Fri, 06 Nov 2026 13:12:30 +0000"
+    },
+    {
+     "title": "A kill switch for epilepsy? China cuts seizures by 92.6% in first human chemogenetic trial",
+     "summary": "For people living with refractory epilepsy, the brain is like a city that can suffer a blackout any time lightning strikes.\nWithout warning, an abnormal neural discharge can sweep through the intracranial circuits, leaving behind convulsions, loss of consciousness and years of lingering panic.\nAround one-third of epilepsy patients worldwide are completely unresponsive to existing medications, whil",
+     "url": "https://www.scmp.com/news/china/science/article/3373500/kill-switch-epilepsy-china-cuts-seizures-926-first-human-chemogenetic-trial",
+     "published": "Fri, 06 Nov 2026 13:00:08 +0000"
+    },
+    {
+     "title": "Family Business Summit day 2 tackles US-China ties, Asean and geopolitical shifts",
+     "summary": "The Family Business Summit wrapped up on Friday with delegates weighing China-US relations, Southeast Asia’s growth trajectory and the Russian economy, against a backdrop of geopolitical flux shaped by Washington’s post-midterm political landscape and expected high-level diplomacy at this month’s Apec forum.\nThe South China Morning Post and Blue Pool Capital co-hosted the fourth edition of the sum",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3373593/family-business-summit-day-2-tackles-us-china-ties-asean-and-geopolitical-shifts",
+     "published": "Fri, 06 Nov 2026 12:36:21 +0000"
+    },
+    {
+     "title": "Midterm swing won’t change trajectory of US-China rivalry",
+     "summary": "American voters have spoken. In the midterm elections, Democrats won both the House and Senate in a sweeping rebuttal of US President Donald Trump’s erratic management of domestic and foreign affairs.\nDespite this, the trajectory of US-China geopolitical rivalry will remain unchanged for decades, with every chance of escalation.\nForeign Affairs re-examines “The Delusions of American Power” in its ",
+     "url": "https://www.scmp.com/opinion/china-opinion/article/3373304/midterm-swing-wont-change-trajectory-us-china-rivalry",
+     "published": "Fri, 06 Nov 2026 12:30:08 +0000"
+    }
+   ]
+  },
+  "Nikkei Asia": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
+     "summary": "",
+     "url": "https://asia.nikkei.com/business/finance/japan-s-unprotected-deposits-hit-890bn-as-inheritances-inflate-accounts",
+     "published": ""
+    },
+    {
+     "title": "Activist Au Kam-san jailed 12.5 years in 1st Macao national security case",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
+     "published": ""
+    },
+    {
+     "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-old-guard-fights-for-power-base-in-tight-taipei-mayoral-races",
+     "published": ""
+    },
+    {
+     "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
+     "summary": "",
+     "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
+     "published": ""
+    },
+    {
+     "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
+     "summary": "",
+     "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
+     "published": ""
+    },
+    {
+     "title": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/international-relations/japanese-companies-caught-in-crossfire-of-beijing-tokyo-rift",
+     "published": ""
+    },
+    {
+     "title": "Japan's new whisky breed chases export elixir",
+     "summary": "",
+     "url": "https://asia.nikkei.com/spotlight/big-in-asia/japan-s-new-whisky-breed-chases-export-elixir",
+     "published": ""
+    },
+    {
+     "title": "Japan convenience store chain Lawson details first India store in Mumbai",
+     "summary": "",
+     "url": "https://asia.nikkei.com/business/retail/japan-convenience-store-chain-lawson-details-first-india-store-in-mumbai",
+     "published": ""
+    },
+    {
+     "title": "Putin exploits Takaichi's diplomatic opening with Japan Tobacco grab",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/international-relations/putin-exploits-takaichi-s-diplomatic-opening-with-japan-tobacco-grab",
+     "published": ""
+    },
+    {
+     "title": "Japan's Takaichi pushes for tougher cybersecurity laws as attacks surge",
+     "summary": "",
+     "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-takaichi-pushes-for-tougher-cybersecurity-laws-as-attacks-surge",
+     "published": ""
+    },
+    {
+     "title": "Democrats' midterm gains hang over data centers, Japanese US investment",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-midterm-gains-hang-over-data-centers-japanese-us-investment",
+     "published": ""
+    },
+    {
+     "title": "China enacts law to hunt down corrupt officials who escape overseas",
+     "summary": "",
+     "url": "https://asia.nikkei.com/politics/china-enacts-law-to-hunt-down-corrupt-officials-who-escape-overseas",
+     "published": ""
+    }
+   ]
+  },
+  "Deutsche Welle": {
+   "updated": "2026-11-07T03:06:44Z",
+   "items": [
+    {
+     "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+     "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.",
+     "url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T20:23:00Z"
+    },
+    {
+     "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
+     "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area they should focus on.",
+     "url": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T19:16:00Z"
+    },
+    {
+     "title": "Protests and reforms: France's rising debt costs threaten stability",
+     "summary": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+     "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T14:37:00Z"
+    },
+    {
+     "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+     "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
+     "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T14:00:00Z"
+    },
+    {
+     "title": "Zambia's civil service overhaul raises questions",
+     "summary": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
+     "url": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T13:28:00Z"
+    },
+    {
+     "title": "For people in Iran, a constant threat of war and dearth of information",
+     "summary": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
+     "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T12:56:00Z"
+    },
+    {
+     "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
+     "summary": "Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.",
+     "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T12:19:00Z"
+    },
+    {
+     "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
+     "summary": "Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn't there a lasting solution to a predictable crisis?",
+     "url": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T12:05:00Z"
+    },
+    {
+     "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
+     "summary": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
+     "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-06T12:03:00Z"
+    },
+    {
+     "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+     "summary": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
+     "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-05T19:12:00Z"
+    },
+    {
+     "title": "Arrests and investigations as Serbia begins postelection cleanup",
+     "summary": "The landslide victory of the Student List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
+     "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-05T17:00:00Z"
+    },
+    {
+     "title": "Iran signals satisfaction, skepticism after US midterm vote",
+     "summary": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
+     "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf",
+     "published": "2026-11-05T15:04:00Z"
+    }
+   ]
+  },
+  "Livemint": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Three warship manufacturing stocks to watch in India",
+     "summary": "Considering stocks with a focus on warship manufacturing. Here are 3 such stocks with a solid track record in warship manufacturing.",
+     "url": "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
+     "published": "Sat, 07 Nov 2026 07:01:05 +0530"
+    },
+    {
+     "title": "Arini’s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
+     "summary": "Losses at Arini Capital Management’s main hedge fund deepened in the final days of October, taking declines to 32% for the year, according to a letter to investors seen by Bloomberg.",
+     "url": "https://www.livemint.com/market/arinis-hedge-fund-losses-grow-to-32-as-it-sells-some-positions-11794005315599.html",
+     "published": "Sat, 07 Nov 2026 04:18:35 +0530"
+    },
+    {
+     "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
+     "summary": "Gold fell after a hot US nonfarm payrolls print added fuel to speculations that the Federal Reserve will seek to raise interest rates to contain inflation.",
+     "url": "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
+     "published": "Sat, 07 Nov 2026 03:03:15 +0530"
+    },
+    {
+     "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
+     "summary": "Quick Mart Plc saw demand for shares in its initial public offering exceed the number available by almost 23% as Kenya’s second-biggest supermarket chain concluded the nation’s second IPO of the year.",
+     "url": "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
+     "published": "Sat, 07 Nov 2026 01:09:24 +0530"
+    },
+    {
+     "title": "Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks",
+     "summary": "Gold and silver prices fell on Friday as stronger-than-expected US jobs data lifted expectations of a Federal Reserve rate hike in December. Gold was down  ₹1,700 to  ₹1,42,930 per 10 grams, while silver slipped 1.26% to  ₹1,84,800 per kilogram.",
+     "url": "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html",
+     "published": "Fri, 06 Nov 2026 22:55:16 +0530"
+    },
+    {
+     "title": "Dhanteras special: Gold beats stocks or Nifty takes the lead? Gold vs Nifty 50 returns in Samvat 2082 compared",
+     "summary": "Indian equities endured volatility in Samvat 2082 amid geopolitical tensions, oil-price swings and inflation concerns. A late rally lifted the Nifty 50 more than 10% in seven sessions, but the index is still set to finish the year down about 3.24%.",
+     "url": "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
+     "published": "Fri, 06 Nov 2026 22:29:09 +0530"
+    },
+    {
+     "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
+     "summary": "Nvidia shares rebounded 7.3% Friday after plunging 9.3% in the previous session, as investors weighed political risks to data centre expansion. The stock remains 25% below its peak amid concerns about AI investment costs, regulation and whether massive spending will generate sufficient returns.",
+     "url": "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html",
+     "published": "Fri, 06 Nov 2026 21:37:30 +0530"
+    },
+    {
+     "title": "Hunting for next defence stock winners? Raymond, PTC, Axiscades, Rossell - Experts decode opportunity, share targets",
+     "summary": "Private-sector firms are expanding India’s indigenous aerospace and defence capabilities. Raymond, PTC Industries, Rossell Techsys and Axiscades have varied growth prospects, but analysts flag execution, valuation and order-visibility risks.",
+     "url": "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
+     "published": "Fri, 06 Nov 2026 21:19:53 +0530"
+    },
+    {
+     "title": "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&amp;M, ESFB Voltas; upside seen up to 54%",
+     "summary": "Equirus Prive has unveiled Diwali Picks 2026, a portfolio of 16 stocks across financial services, automobiles, manufacturing, infrastructure, energy and consumption.&amp;nbsp;",
+     "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
+     "published": "Fri, 06 Nov 2026 20:36:31 +0530"
+    },
+    {
+     "title": "Pulse of the Street: Dalal Street shines before Diwali. Can the rally last?",
+     "summary": "Indian stocks outperformed major global peers as cheaper oil and foreign buying lifted sentiment. Sustained inflows and earnings upgrades will determine whether the gains last.",
+     "url": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-shines-before-diwali-can-the-rally-last-11793965614339.html",
+     "published": "Fri, 06 Nov 2026 19:43:35 +0530"
+    },
+    {
+     "title": "Diwali stock picks: 4 large cap stocks to buy for Samvat 2083 - PL Capital bullish on BEL, Britannia to ICICI | Target",
+     "summary": "PL Capital named Bharat Electronics, Britannia Industries, ICICI Bank and Shriram Finance among its top large-cap picks for Samvat 2083.&amp;nbsp;",
+     "url": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-4-large-cap-stocks-to-buy-for-samvat-2083-pl-capital-bullish-on-bel-britannia-to-icici-target-11793974105149.html",
+     "published": "Fri, 06 Nov 2026 19:41:52 +0530"
+    },
+    {
+     "title": "Upcoming IPO: Coal India’s Mahanadi Coalfields gets Sebi nod for public issue; top things to know about PSU public offer",
+     "summary": "Mahanadi Coalfields filed its draft red herring prospectus (DRHP) with the Sebi in September. The proposed IPO will be entirely an offer for sale (OFS) by promoter",
+     "url": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-s-mahanadi-coalfields-gets-sebi-nod-for-public-issue-top-things-to-know-about-psu-public-offer-11793970259119.html",
+     "published": "Fri, 06 Nov 2026 19:31:04 +0530"
+    }
+   ]
+  },
+  "The Hindu Biz": {
+   "updated": "Sat, 7 Nov 2026 03:23:38 +0530",
+   "items": [
+    {
+     "title": "Amid price rise, Centre mandates rice, paddy stock declaration",
+     "summary": "To prevent hoarding, Union government allows five southern States to impose stock limits",
+     "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece",
+     "published": "Sat, 07 Nov 2026 00:53:37 +0530"
+    },
+    {
+     "title": "ONGC expects to acquire operatorship rights in Venezuelan oil projects in 3-6 months’ time",
+     "summary": "ONGC holds 40% interest in Venezuela’s San Cristobal oil project and 11% stake in Carabobo project.",
+     "url": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
+     "published": "Fri, 06 Nov 2026 23:58:54 +0530"
+    },
+    {
+     "title": "CBI books Future Retail, Kishore Biyani, others in ₹904 crore bank fraud case; searches conducted in Mumbai",
+     "summary": "SBI alleged that the company failed to utilise the sanctioned funds in accordance with the terms and conditions of the loan facilities",
+     "url": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
+     "published": "Fri, 06 Nov 2026 22:42:28 +0530"
+    },
+    {
+     "title": "Jindal SAW to set up 300,000-tonne seamless pipe plant in Abu Dhabi",
+     "summary": "The project will be the UAE’s first seamless pipe manufacturing facility using PQF technology and the second of its kind in the Middle East and North Africa (MENA) region.",
+     "url": "https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+     "published": "Fri, 06 Nov 2026 21:44:19 +0530"
+    },
+    {
+     "title": "TASE Global to receive ₹300 crore investment from ValueQuest’s Tristar Fund",
+     "summary": "The Chennai-based precision engineering company will use the investment to expand capacity, integrate U.S. operations and pursue larger OEM programmes",
+     "url": "https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+     "published": "Fri, 06 Nov 2026 21:40:03 +0530"
+    },
+    {
+     "title": "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+     "summary": "Democrats’ victories raise prospect of tighter scrutiny of data-centre projects as investors reassess AI spending; Indian equities buck global market weakness",
+     "url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+     "published": "Fri, 06 Nov 2026 21:35:13 +0530"
+    },
+    {
+     "title": "ADNOC inks 10-year LNG supply and purchase agreement with Gujarat Energy",
+     "summary": "This would be ADNOC’s fifth long-term LNG supply agreement with India.",
+     "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+     "published": "Fri, 06 Nov 2026 21:27:52 +0530"
+    },
+    {
+     "title": "India's forex reserves drop by $2.69 bn to $717 bn",
+     "summary": "Experts attribute this decline to the deployment of the Foreign Currency Non-Resident Bank (FCNR[B]) resources and also to currency defence put up by RBI through dollar sales",
+     "url": "https://www.thehindu.com/business/markets/indias-forex-reserves-drop-by-269-bn-to-717-bn/article71674389.ece",
+     "published": "Fri, 06 Nov 2026 19:26:09 +0530"
+    },
+    {
+     "title": "Sugar output jumps 9.65 lakh tonnes as 184 mills begin crushing",
+     "summary": "With opening stocks of 36 lakh tonnes carried over from the previous season, domestic sugar availability remains comfortable, ISMA said.",
+     "url": "https://www.thehindu.com/business/sugar-output-jumps-965-lakh-tonnes-as-184-mills-begin-crushing/article71674353.ece",
+     "published": "Fri, 06 Nov 2026 19:16:12 +0530"
+    },
+    {
+     "title": "SEBI proposes mandatory AML/CFT certification for principal officers of market intermediaries",
+     "summary": "The proposal is aimed at ensuring that principal officers possess adequate expertise to identify suspicious transactions, assess money-laundering risks and comply with reporting obligations under the AML/CFT framework",
+     "url": "https://www.thehindu.com/business/markets/sebi-proposes-mandatory-amlcft-certification-for-principal-officers-of-market-intermediaries/article71674309.ece",
+     "published": "Fri, 06 Nov 2026 19:15:02 +0530"
+    },
+    {
+     "title": "IT Ministry approves 12 more projects under ECMS scheme",
+     "summary": "The Electronics Component Manufacturing Scheme (ECMS) allows the government to approve turnover-linked incentives across the component industry.",
+     "url": "https://www.thehindu.com/business/Industry/it-ministry-approves-12-more-projects-under-ecms-scheme/article71673913.ece",
+     "published": "Fri, 06 Nov 2026 18:08:10 +0530"
+    },
+    {
+     "title": "Stock markets on fire; Sensex jumps 1,718 points, Nifty reclaims 25,000",
+     "summary": "In the past seven consecutive sessions, the Sensex has surged 7,781.99 points, or 10.62%, and the Nifty rallied 2,331.5 points, or 10.27%",
+     "url": "https://www.thehindu.com/business/markets/stock-markets-on-fire-sensex-jumps-1718-points-nifty-reclaims-25000/article71674151.ece",
+     "published": "Fri, 06 Nov 2026 18:01:15 +0530"
+    }
+   ]
+  },
+  "Inc42": {
+   "updated": "Fri, 06 Nov 2026 20:48:46 +0000",
+   "items": [
+    {
+     "title": "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
+     "summary": "<img alt=\"OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-16.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />IPO-bound hospitality chain PRISM, the parent entity of OYO, reported a consolidated profit after tax (PAT) ",
+     "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
+     "published": "Sat, 07 Nov 2026 01:30:12 +0000"
+    },
+    {
+     "title": "ED Searches CoinDCX & Delta Exchange Over Alleged Illegal Cross-Border Transfers",
+     "summary": "<img alt=\"ED Searches CoinDCX Over Alleged Illegal Cross-Border Transfers\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Crypto-story.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Enforcement Directorate (ED) conducted searches at three premises linked to crypto exchange",
+     "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/",
+     "published": "Fri, 06 Nov 2026 19:59:29 +0000"
+    },
+    {
+     "title": "Stockal’s US Trading Row: Missing Consent, A Chinese Microcap, And Unanswered Questions",
+     "summary": "<img alt=\"Stockal’s US Trading Row: Missing Consent, A Chinese Microcap, And Unanswered Questions\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-21.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Indian investors who held Apple, Amazon, Tesla, and NVIDIA, shares allege the",
+     "url": "https://inc42.com/features/stockals-us-trading-row-missing-consent-a-chinese-microcap-and-unanswered-questions/",
+     "published": "Fri, 06 Nov 2026 13:17:12 +0000"
+    },
+    {
+     "title": "MobiKwik To Begin NBFC Operations Within 6 Months Post RBI Clearance",
+     "summary": "<img alt=\"MobiKwik To Begin NBFC Operations Within 6 Months Post RBI Clearance\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Mobikwik-cto-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />MobiKwik’s wholly owned subsidiary, MobiKwik Financial Services Pvt Ltd (MFSPL), has r",
+     "url": "https://inc42.com/buzz/mobikwik-to-begin-nbfc-operations-within-6-months-post-rbi-clearance/",
+     "published": "Fri, 06 Nov 2026 11:56:09 +0000"
+    },
+    {
+     "title": "Brokers In October: Angel One Climbs To The Second Spot With 2.4 Lakh New User Additions",
+     "summary": "<img alt=\"Brokers In October: Angel One Climbs To The Second Spot With 2.4 Lakh New User Additions\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Brokerage-data-Oct-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Indian stockbrokers’ combined total active user base shrunk ",
+     "url": "https://inc42.com/buzz/brokers-in-october-angel-one-climbs-to-the-second-spot-with-2-4-lakh-new-user-additions/",
+     "published": "Fri, 06 Nov 2026 11:34:32 +0000"
+    },
+    {
+     "title": "AvenuesAI Q2 Net Profit Rises 6% YoY To ₹72 Cr, Revenue Up 47%",
+     "summary": "<img alt=\"AvenuesAI Q2 Net Profit Rises 6% YoY To ₹72 Cr, Revenue Up 47%\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/avenuesai-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />AvenuesAI (formerly Infibeam Avenues) reported a 6% growth in its net profit to ₹71.7 Cr in the q",
+     "url": "https://inc42.com/buzz/avenuesai-q2-net-profit-rises-6-yoy-to-%e2%82%b972-cr-revenue-up-47/",
+     "published": "Fri, 06 Nov 2026 11:09:42 +0000"
+    },
+    {
+     "title": "MakeMyTrip Acquires Majority Stake In Quick Ride To Enter Ride Pooling",
+     "summary": "<img alt=\"makemytrip acquires Quick ride\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/MakeMyTrip-Feature1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Nasdaq-listed traveltech major MakeMyTrip has expanded into the carpooling segment via the acquisition of a majority stak",
+     "url": "https://inc42.com/buzz/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling/",
+     "published": "Fri, 06 Nov 2026 10:50:39 +0000"
+    },
+    {
+     "title": "Delhi HC Upholds BharatPe’s Veto Rights In Unity SFB Shareholding Dispute",
+     "summary": "<img alt=\"Delhi HC bharatpe\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/bharatpe-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Adding another layer to the ongoing shareholder dispute at BharatPe-backed Unity Small Finance Bank (SFB), the Delhi High Court ",
+     "url": "https://inc42.com/buzz/delhi-hc-upholds-bharatpes-veto-rights-in-unity-sfb-shareholding-dispute/",
+     "published": "Fri, 06 Nov 2026 10:02:53 +0000"
+    },
+    {
+     "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />In March this year, on the sidelines of Razorpay’s annual flagship event FTX, CEO Harshil Mathur told Inc42 that what&#8230;",
+     "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+     "published": "Fri, 06 Nov 2026 08:17:42 +0000"
+    },
+    {
+     "title": "Mamaearth Parent Honasa’s Q2 Profit Jumps 87% YoY To ₹73 Cr",
+     "summary": "<img alt=\"Honasa Q2\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/honasa-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Mamaearth parent Honasa Consumer reported an 86.7% increase in its consolidated net profit to ₹73.2 Cr in the September quarter&#8230;",
+     "url": "https://inc42.com/buzz/mamaearth-parent-honasas-q2-profit-jumps-87-yoy-to-%e2%82%b973-cr/",
+     "published": "Fri, 06 Nov 2026 08:04:22 +0000"
+    },
+    {
+     "title": "X Says Delhi Police Takedown Notices Against IFF, SFLC Were Fake",
+     "summary": "<img alt=\"X Says Delhi Police Takedown Notices Against IFF, SFLC Were Fake\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/Geopolitics-Government-Policy-And-Startups-feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Social media platform X has told the Delhi High Court th",
+     "url": "https://inc42.com/buzz/x-says-delhi-police-takedown-notices-against-iff-sflc-were-fake/",
+     "published": "Fri, 06 Nov 2026 07:52:09 +0000"
+    },
+    {
+     "title": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
+     "summary": "<img alt=\"TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/12/TRAI-jio-featured-.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Telecom Regulatory Authority of India (TRAI) has recommended",
+     "url": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
+     "published": "Fri, 06 Nov 2026 07:37:20 +0000"
+    }
+   ]
+  },
+  "MediaNama": {
+   "updated": "Fri, 06 Nov 2026 15:07:23 +0000",
+   "items": [
+    {
+     "title": "PhysicsWallah clocks Rs 144 cr profit in Q2FY27, revenue up 18%",
+     "summary": "<p>PhysicsWallah reported a net profit of Rs 143.6 crore in Q2FY27 despite witnessing a loss of Rs 88.3 crore in Q1FY27 as its revenue grew 18% YoY while expenses went up by 11%. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-physicswallah-profit-q2fy27-revenue-up-18/\">PhysicsWallah clocks Rs 144 cr profit in Q2FY27, revenue up 18%</a> appeared first on <a href=\"https://www.median",
+     "url": "https://www.medianama.com/2026/11/223-physicswallah-profit-q2fy27-revenue-up-18/",
+     "published": "Fri, 06 Nov 2026 15:06:51 +0000"
+    },
+    {
+     "title": "RBI meets bankers amidst rising AI cyber-attacks, mandates security audits",
+     "summary": "<p>In the confidential advisory, RBI asked banks to maintain a full API client inventory, do security audits once a year, brief API clients every 3 months, put API transactions under fraud-risk framework etc. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-rbi-bankers-ai-cyber-attacks-security-audits/\">RBI meets bankers amidst rising AI cyber-attacks, mandates security audits</a> a",
+     "url": "https://www.medianama.com/2026/11/223-rbi-bankers-ai-cyber-attacks-security-audits/",
+     "published": "Fri, 06 Nov 2026 13:37:11 +0000"
+    },
+    {
+     "title": "TRAI recommends India-based network control, traffic monitoring for satellite providers",
+     "summary": "<p>In the new recommendation, TRAI has proposed a new authorisation category for satellite network providers which will allow them to supply network capacity directly to TSPs and recommends network control facilities to be located in India. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-trai-india-network-control-traffic-monitoring-satellite-providers/\">TRAI recommends India-based",
+     "url": "https://www.medianama.com/2026/11/223-trai-india-network-control-traffic-monitoring-satellite-providers/",
+     "published": "Fri, 06 Nov 2026 12:40:26 +0000"
+    },
+    {
+     "title": "Shiprocket swings to profit in Q2, revenue rises 35% to Rs 674 cr",
+     "summary": "<p>Shiprocket reported a net profit of Rs 0.6 crore in Q2 FY27, reversing a year-ago loss of Rs 20.3 crore, as revenue rose 35% to Rs 673.6 crore, driven by growth in core shipping and emerging businesses.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-shiprocket-profit-revenue/\">Shiprocket swings to profit in Q2, revenue rises 35% to Rs 674 cr</a> appeared first on <a href=\"https:",
+     "url": "https://www.medianama.com/2026/11/223-shiprocket-profit-revenue/",
+     "published": "Fri, 06 Nov 2026 11:49:20 +0000"
+    },
+    {
+     "title": "Lenskart Q2 profit rises 2x to Rs 232 cr, revenue up 36%",
+     "summary": "<p>Lenskart's net profit more than doubled to Rs 232.5 crore in Q2 FY27, while revenue rose 35.7% to Rs 2,845 crore, driven by higher eyewear sales, premiumisation and growth across international markets.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-lenskart-profit-rises-revenue/\">Lenskart Q2 profit rises 2x to Rs 232 cr, revenue up 36%</a> appeared first on <a href=\"https://www.",
+     "url": "https://www.medianama.com/2026/11/223-lenskart-profit-rises-revenue/",
+     "published": "Fri, 06 Nov 2026 09:22:32 +0000"
+    },
+    {
+     "title": "Exclusive: Gujarat Police flagged one URL every six minutes through Sahyog Portal, RTI reveals",
+     "summary": "<p>The Centre's Sahyog Portal does not maintain takedown records, but Gujarat Police has now disclosed its figures.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-gujarat-police-one-url-every-six-minutes-sahyog/\">Exclusive: Gujarat Police flagged one URL every six minutes through Sahyog Portal, RTI reveals</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>",
+     "url": "https://www.medianama.com/2026/11/223-gujarat-police-one-url-every-six-minutes-sahyog/",
+     "published": "Fri, 06 Nov 2026 09:17:28 +0000"
+    },
+    {
+     "title": "Lowdown: CERT-In’s AI Security Auditing Guidelines set out tiered framework, human oversight & incident reporting",
+     "summary": "<p>The 9 core audit domains outlined 'AI Security Audit Guidelines' not just covers AI systems developed, procured and deployed or operated in India, it also includes those processing Indian data or providing AI-enabled services to Indian users. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-lowdown-cert-in-ai-security-auditing-guidelines/\">Lowdown: CERT-In’s AI Security Auditing ",
+     "url": "https://www.medianama.com/2026/11/223-lowdown-cert-in-ai-security-auditing-guidelines/",
+     "published": "Fri, 06 Nov 2026 09:00:59 +0000"
+    },
+    {
+     "title": "Posting a photo publicly is not consent for its misuse, Karnataka HC says in WhatsApp video case",
+     "summary": "<p>India's data protection law excludes some publicly available personal data. This case highlights a potential gap in protection against the misuse of photographs.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-karnataka-high-court-instagram-photo-misuse/\">Posting a photo publicly is not consent for its misuse, Karnataka HC says in WhatsApp video case</a> appeared first on <a href",
+     "url": "https://www.medianama.com/2026/11/223-karnataka-high-court-instagram-photo-misuse/",
+     "published": "Fri, 06 Nov 2026 08:20:46 +0000"
+    },
+    {
+     "title": "Impostor sent fake Delhi Police takedown notices against IFF, SFLC.in, X tells Delhi HC",
+     "summary": "<p>X told the Delhi High Court that someone impersonating Delhi Police had sent takedown notices against IFF and SFLC.in.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/\">Impostor sent fake Delhi Police takedown notices against IFF, SFLC.in, X tells Delhi HC</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>",
+     "url": "https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/",
+     "published": "Fri, 06 Nov 2026 07:35:02 +0000"
+    },
+    {
+     "title": "Meta, Google and TikTok sue California over ban on personalised feeds and autoplay for under-16s",
+     "summary": "<p>Meta, Google and TikTok have sued California over a law banning personalised feeds and autoplay for users under 16, arguing that the restrictions violate free speech rights and Section 230 protections.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-meta-google-tiktok-sue-california-ban-under-16s/\">Meta, Google and TikTok sue California over ban on personalised feeds and autoplay",
+     "url": "https://www.medianama.com/2026/11/223-meta-google-tiktok-sue-california-ban-under-16s/",
+     "published": "Fri, 06 Nov 2026 07:09:44 +0000"
+    }
+   ]
+  },
+  "TechCrunch": {
+   "updated": "Sat, 07 Nov 2026 01:40:36 +0000",
+   "items": [
+    {
+     "title": "Crusoe sells troubled Wyoming data center project to Google",
+     "summary": "The deal highlights the challenges of developing massive AI data centers.",
+     "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+     "published": "Sat, 07 Nov 2026 01:40:28 +0000"
+    },
+    {
+     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "published": "Fri, 06 Nov 2026 22:53:46 +0000"
+    },
+    {
+     "title": "The Duo apps are coming, says Apple",
+     "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+     "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+     "published": "Fri, 06 Nov 2026 21:38:05 +0000"
+    },
+    {
+     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+     "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+     "published": "Fri, 06 Nov 2026 18:44:38 +0000"
+    },
+    {
+     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+     "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+     "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+     "published": "Fri, 06 Nov 2026 18:44:20 +0000"
+    },
+    {
+     "title": "After the midterms, is the AI industry in for a rough two years?",
+     "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+     "published": "Fri, 06 Nov 2026 17:23:52 +0000"
+    },
+    {
+     "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+     "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+     "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+     "published": "Fri, 06 Nov 2026 16:50:01 +0000"
+    },
+    {
+     "title": "Fox completes its $22B acquisition of Roku",
+     "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+     "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+     "published": "Fri, 06 Nov 2026 16:05:36 +0000"
+    },
+    {
+     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+     "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+     "published": "Fri, 06 Nov 2026 15:54:47 +0000"
+    },
+    {
+     "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+     "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+     "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+     "published": "Fri, 06 Nov 2026 14:10:00 +0000"
+    },
+    {
+     "title": "Underdog shows off a 32MB speech model in new demo",
+     "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+     "published": "Fri, 06 Nov 2026 13:02:16 +0000"
+    },
+    {
+     "title": "Physicl raises $10M to make the digital world real enough for robots",
+     "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+     "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+     "published": "Fri, 06 Nov 2026 13:00:00 +0000"
+    }
+   ]
+  },
+  "Ars Technica": {
+   "updated": "Sat, 07 Nov 2026 00:52:40 +0000",
+   "items": [
+    {
+     "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+     "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+     "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+     "published": "Fri, 06 Nov 2026 23:09:45 +0000"
+    },
+    {
+     "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+     "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+     "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+     "published": "Fri, 06 Nov 2026 22:41:37 +0000"
+    },
+    {
+     "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+     "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+     "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+     "published": "Fri, 06 Nov 2026 22:08:47 +0000"
+    },
+    {
+     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+     "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+     "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+     "published": "Fri, 06 Nov 2026 20:56:41 +0000"
+    },
+    {
+     "title": "Earth's churning mantle may have created the Great Unconformity",
+     "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+     "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+     "published": "Fri, 06 Nov 2026 20:24:20 +0000"
+    },
+    {
+     "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+     "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+     "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+     "published": "Fri, 06 Nov 2026 20:05:30 +0000"
+    },
+    {
+     "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+     "summary": "Developer: “I can’t be part of the Fox world.”",
+     "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+     "published": "Fri, 06 Nov 2026 19:50:18 +0000"
+    },
+    {
+     "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+     "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+     "published": "Fri, 06 Nov 2026 19:12:28 +0000"
+    },
+    {
+     "title": "The folks behind John Wick are back with Karōshi trailer",
+     "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+     "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+     "published": "Fri, 06 Nov 2026 18:30:19 +0000"
+    },
+    {
+     "title": "You know the launch market is tough when satellite companies start building rockets",
+     "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+     "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+     "published": "Fri, 06 Nov 2026 18:20:47 +0000"
+    },
+    {
+     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+     "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+     "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+     "published": "Fri, 06 Nov 2026 17:43:02 +0000"
+    },
+    {
+     "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+     "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+     "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+     "published": "Fri, 06 Nov 2026 17:06:32 +0000"
+    }
+   ]
+  },
+  "The Verge": {
+   "updated": "2026-11-06T23:46:18+00:00",
+   "items": [
+    {
+     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+     "published": "2026-11-06T18:46:18-05:00"
+    },
+    {
+     "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+     "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+     "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+     "published": "2026-11-06T18:00:44-05:00"
+    },
+    {
+     "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+     "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
+     "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+     "published": "2026-11-06T17:45:43-05:00"
+    },
+    {
+     "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+     "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 [&#8230;]",
+     "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+     "published": "2026-11-06T16:50:32-05:00"
+    },
+    {
+     "title": "All the latest updates on AI data centers",
+     "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+     "published": "2026-11-06T15:02:22-05:00"
+    },
+    {
+     "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+     "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars [&#8230;]",
+     "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+     "published": "2026-11-06T14:47:02-05:00"
+    },
+    {
+     "title": "Lame-duck Congress might actually do something: speed up energy projects",
+     "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding [&#8230;]",
+     "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+     "published": "2026-11-06T13:42:30-05:00"
+    },
+    {
+     "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+     "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
+     "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+     "published": "2026-11-06T13:10:10-05:00"
+    },
+    {
+     "title": "Amazon is now making a Melania Trump TV series",
+     "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days [&#8230;]",
+     "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+     "published": "2026-11-06T12:56:58-05:00"
+    },
+    {
+     "title": "Just about anyone can rent access to White House IP addresses",
+     "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White [&#8230;]",
+     "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+     "published": "2026-11-06T12:40:06-05:00"
+    }
+   ]
+  },
+  "MIT Tech Review": {
+   "updated": "Fri, 06 Nov 2026 12:47:41 +0000",
+   "items": [
+    {
+     "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+     "published": "Fri, 06 Nov 2026 13:10:00 +0000"
+    },
+    {
+     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+     "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+     "published": "Fri, 06 Nov 2026 10:00:00 +0000"
+    },
+    {
+     "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+     "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+    },
+    {
+     "title": "A new bill could change how the US builds energy infrastructure",
+     "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+     "published": "Thu, 05 Nov 2026 10:00:00 +0000"
+    },
+    {
+     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+     "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+     "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+    },
+    {
+     "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+     "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+     "published": "Wed, 04 Nov 2026 18:21:40 +0000"
+    },
+    {
+     "title": "What’s next for US energy policy after the midterm elections?",
+     "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.&#160;&#160;&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+     "published": "Wed, 04 Nov 2026 17:08:00 +0000"
+    },
+    {
+     "title": "The Download: blended meat, restored sight, and the agentic web",
+     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+     "published": "Wed, 04 Nov 2026 13:10:00 +0000"
+    },
+    {
+     "title": "Securing the agentic enterprise with data lineage",
+     "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+     "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+    },
+    {
+     "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;",
+     "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+     "published": "Tue, 03 Nov 2026 13:10:00 +0000"
+    }
+   ]
+  },
+  "Hacker News best": {
+   "updated": "Sat, 07 Nov 2026 02:59:55 +0000",
+   "items": [
+    {
+     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+     "summary": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 360</p>\n<p># Comments: 81</p>",
+     "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+     "published": "Fri, 06 Nov 2026 19:48:51 +0000"
+    },
+    {
+     "title": "Deus Ex",
+     "summary": "<p>Article URL: <a href=\"https://www.filfre.net/2026/11/deus-ex/\">https://www.filfre.net/2026/11/deus-ex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393758\">https://news.ycombinator.com/item?id=50393758</a></p>\n<p>Points: 343</p>\n<p># Comments: 178</p>",
+     "url": "https://www.filfre.net/2026/11/deus-ex/",
+     "published": "Fri, 06 Nov 2026 15:44:36 +0000"
+    },
+    {
+     "title": "RIP Cybertruck",
+     "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\">https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393154\">https://news.ycombinator.com/item?id=50393154</a></p>\n<p>Points: 301</p>\n<p># Comments: 4</p>",
+     "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+     "published": "Fri, 06 Nov 2026 15:01:38 +0000"
+    },
+    {
+     "title": "Gemini Omni 1.2 Flash",
+     "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 302</p>\n<p># Comments: 220",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "published": "Fri, 06 Nov 2026 13:35:27 +0000"
+    },
+    {
+     "title": "Tesla to wind down Cybertruck production",
+     "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\">https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p>\n<p>Points: 873</p>\n<p>#",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "published": "Fri, 06 Nov 2026 12:13:51 +0000"
+    },
+    {
+     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+     "summary": "<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p>\n<p>Points: 622</p>\n<p># Comments: 408</p>",
+     "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+     "published": "Fri, 06 Nov 2026 09:27:12 +0000"
+    },
+    {
+     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+     "summary": "<p>Article URL: <a href=\"https://github.com/ppmpreetham/BUI\">https://github.com/ppmpreetham/BUI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389333\">https://news.ycombinator.com/item?id=50389333</a></p>\n<p>Points: 687</p>\n<p># Comments: 278</p>",
+     "url": "https://github.com/ppmpreetham/BUI",
+     "published": "Fri, 06 Nov 2026 07:40:35 +0000"
+    },
+    {
+     "title": "Britain to make salary disclosure in job ads mandatory",
+     "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\">https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389222\">https://news.ycombinator.com/item?id=50389222</a></p>\n<p>Points: 565</p>\n<p>#",
+     "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+     "published": "Fri, 06 Nov 2026 07:22:04 +0000"
+    },
+    {
+     "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+     "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https://news.ycombinator.com/item?id=50388122</a></p>\n<p>Points: 302</p>\n<p># Comments: 103</p>",
+     "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+     "published": "Fri, 06 Nov 2026 04:17:49 +0000"
+    },
+    {
+     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+     "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\">https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388001\">https://news.ycombinator.com/item?id=50388001</a></p>\n<p>Poin",
+     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+     "published": "Fri, 06 Nov 2026 04:00:28 +0000"
+    },
+    {
+     "title": "Pwn.college",
+     "summary": "<p>Article URL: <a href=\"https://pwn.college/\">https://pwn.college/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387796\">https://news.ycombinator.com/item?id=50387796</a></p>\n<p>Points: 307</p>\n<p># Comments: 53</p>",
+     "url": "https://pwn.college/",
+     "published": "Fri, 06 Nov 2026 03:27:14 +0000"
+    },
+    {
+     "title": "Inkling 2 Small",
+     "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p>\n<p>Points: 283</p>\n<p># Comments: 90</p>",
+     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+     "published": "Fri, 06 Nov 2026 00:00:24 +0000"
+    }
+   ]
+  },
+  "Simon Willison": {
+   "updated": "2026-11-06T17:13:12+00:00",
+   "items": [
+    {
+     "title": "Quoting Nilay Patel",
+     "summary": "<blockquote cite=\"https://www.youtube.com/watch?v=-U4thshDTL8&amp;t=422s\"><p>The products aren't good enough to sell people on the costs.</p>\n<p>You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history.</p>\n<p>It's not worth it. It just isn't worth it to anyone. And agents aren't real an",
+     "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+     "published": "2026-11-06T17:13:12+00:00"
+    },
+    {
+     "title": "Quoting Paul Ford",
+     "summary": "<blockquote cite=\"https://ftrain.com/aboard-the-web-is-more-than-enough\"><p>The web browser is very, very, very powerful software for applications, <em>and the cost of accessing that power is going down seemingly every day</em>.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">Paul Ford</a>, The Web Is More Than Enough</p>\n\n    <p>Tags: <a hr",
+     "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+     "published": "2026-11-05T17:34:03+00:00"
+    },
+    {
+     "title": "datasette-llm 0.1a10",
+     "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a10\">datasette-llm 0.1a10</a></p>\n        <p>Fixes a <a href=\"https://github.com/datasette/datasette-llm/pull/11\">bug</a> that affected my <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site, where the set of available LLM models was not correctly restricted to just those in the conf",
+     "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+     "published": "2026-11-04T15:26:02+00:00"
+    },
+    {
+     "title": "datasette-apps 0.3a0",
+     "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p>\n        <p>Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.</p>\n<p>These can be created by hand, but it's easier to create them using LLMs via <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. This release impro",
+     "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+     "published": "2026-11-04T00:29:36+00:00"
+    },
+    {
+     "title": "datasette-agent 0.5a0",
+     "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.5a0\">datasette-agent 0.5a0</a></p>\n        <p>This is a significant release of <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. The most notable new feature is called the <strong>panel</strong> - it lets the agent chat open and then sit next to pages from Datasette, for example a table or qu",
+     "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+     "published": "2026-11-03T23:13:45+00:00"
+    },
+    {
+     "title": "llm 0.37.1",
+     "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.1\">llm 0.37.1</a></p>\n        <p>A bugfix release for <a href=\"https://llm.datasette.io/\">LLM</a>, with contributions from <a href=\"https://github.com/remote-controlled-man\">Steven Huang</a>, <a href=\"https://github.com/tao-hpu\">Tao An</a>, <a href=\"https://github.com/ar-jan\">Arjan Mossel</a>, and <a href=\"https:",
+     "url": "https://simonwillison.net/2026/Nov/3/llm/",
+     "published": "2026-11-03T21:41:42+00:00"
+    },
+    {
+     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "summary": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both i",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+     "published": "2026-11-03T16:29:48+00:00"
+    },
+    {
+     "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+     "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p>\nGenius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the",
+     "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+     "published": "2026-11-03T05:32:25+00:00"
+    },
+    {
+     "title": "October sponsors-only newsletter",
+     "summary": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-10-october.md\">access it here</a>. This month:</p>\n<ul>\n<li>The October inflection point for vibe game development</li>\n<li>The vulnerability apocalypse",
+     "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+     "published": "2026-11-03T05:28:59+00:00"
+    },
+    {
+     "title": "llm 0.37",
+     "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p>\n        <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p>\n<p>I added <code>gpt-6.1-sol</code> and <code>gpt-6.1-terra</code>, plus a new <a href=\"https://llm.datasette.io/en/stable/o",
+     "url": "https://simonwillison.net/2026/Nov/2/llm/",
+     "published": "2026-11-02T23:49:30+00:00"
+    },
+    {
+     "title": "The U.S. Census Bureau and “Super Intelligence”",
+     "summary": "<p>I was reminded today of <a href=\"https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/\">AI Adoption Rate Trending Down for Large Companies</a>, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart <a href=\"http",
+     "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+     "published": "2026-11-02T13:31:26+00:00"
+    },
+    {
+     "title": "If in doubt, delete the uv.lock file",
+     "summary": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p>\n<p><strong>If in doubt, delete the uv.lock file</strong></p>\n<p>Most of my projects are libraries which don't include a <code>uv.lock</code> file, since it's rude for a library dependency to lock versions for anything else that uses it.</p>\n<p>Runnin",
+     "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+     "published": "2026-11-01T23:24:22+00:00"
+    }
+   ]
+  },
+  "Latent Space": {
+   "updated": "Sat, 07 Nov 2026 03:04:53 GMT",
+   "items": [
+    {
+     "title": "[AINews] Anthropic IPO: Whither Now?",
+     "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+     "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+     "published": "Sat, 07 Nov 2026 03:04:53 GMT"
+    },
+    {
+     "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+     "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+     "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+     "published": "Fri, 06 Nov 2026 15:10:53 GMT"
+    },
+    {
+     "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+     "summary": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+     "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+     "published": "Fri, 06 Nov 2026 10:35:21 GMT"
+    },
+    {
+     "title": "[AINews] It's Swapping Season",
+     "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
+     "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+     "published": "Thu, 05 Nov 2026 06:24:09 GMT"
+    },
+    {
+     "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+     "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+     "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+     "published": "Wed, 04 Nov 2026 19:17:30 GMT"
+    },
+    {
+     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+     "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+     "published": "Tue, 03 Nov 2026 05:35:00 GMT"
+    },
+    {
+     "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+     "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+     "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+     "published": "Mon, 02 Nov 2026 23:01:02 GMT"
+    },
+    {
+     "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+     "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+     "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+     "published": "Mon, 02 Nov 2026 22:54:03 GMT"
+    },
+    {
+     "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+     "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+     "url": "https://latent.space/p/arca/",
+     "published": "Sat, 31 Oct 2026 16:05:00 GMT"
+    },
+    {
+     "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+     "summary": "It turns out you cannot have your cake AND eat it",
+     "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+     "published": "Sat, 31 Oct 2026 05:00:48 GMT"
+    },
+    {
+     "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+     "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+     "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+     "published": "Fri, 30 Oct 2026 08:24:29 GMT"
+    },
+    {
+     "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+     "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+     "url": "https://latent.space/p/elorian/",
+     "published": "Thu, 29 Oct 2026 16:00:00 GMT"
+    }
+   ]
+  },
+  "Interconnects": {
+   "updated": "Sat, 07 Nov 2026 02:14:21 GMT",
+   "items": [
+    {
+     "title": "How big is the open model economy today?",
+     "summary": "Our first open model economy research note for paid subscribers.",
+     "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+     "published": "Wed, 04 Nov 2026 16:35:44 GMT"
+    },
+    {
+     "title": "Was I wrong about open models & cyber risks?",
+     "summary": "Last week coined the term &#8220;Black October&#8220; after an onslaught of critical vulnerability disclosures, including PHP2Shell and a long-standing GitLab bug, signified the moment when the cyber risks of AI models started to materialize.",
+     "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+     "published": "Fri, 30 Oct 2026 17:36:56 GMT"
+    },
+    {
+     "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+     "summary": "A sort of review of the benchmarking industry and what's missing.",
+     "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+     "published": "Wed, 28 Oct 2026 12:58:39 GMT"
+    },
+    {
+     "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+     "summary": "#20",
+     "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+     "published": "Sun, 25 Oct 2026 11:49:00 GMT"
+    },
+    {
+     "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+     "summary": "Western open models strike back",
+     "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+     "published": "Tue, 20 Oct 2026 17:04:21 GMT"
+    },
+    {
+     "title": "Meta shakes up the frontiers, open and closed",
+     "summary": "US open weights are back!",
+     "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+     "published": "Sat, 17 Oct 2026 14:06:54 GMT"
+    },
+    {
+     "title": "I expect rapid progress but not towards general superintelligence",
+     "summary": "I&#8217;ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn&#8217;t really know why I doubted it.",
+     "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+     "published": "Fri, 09 Oct 2026 21:33:47 GMT"
+    },
+    {
+     "title": "The Cyber Risk Discourse is Broken",
+     "summary": "Open-weights, ideology, and acknowledging trade-offs.",
+     "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+     "published": "Tue, 06 Oct 2026 14:22:41 GMT"
+    },
+    {
+     "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+     "summary": "Podcast #19",
+     "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+     "published": "Tue, 22 Sep 2026 13:37:45 GMT"
+    },
+    {
+     "title": "The current balance of power in open models",
+     "summary": "The expanded form of a testimony I prepared for Congress.",
+     "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+     "published": "Mon, 21 Sep 2026 11:56:56 GMT"
+    },
+    {
+     "title": "Why I still haven’t bought into true RSI",
+     "summary": "An &#8220;AI moderate&#8217;s&#8221; view on recent events and the trajectory of frontier models.",
+     "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+     "published": "Sat, 19 Sep 2026 15:42:20 GMT"
+    },
+    {
+     "title": "Open-Source AI & Open Models Reading List",
+     "summary": "How to get up to speed on open models and their implications.",
+     "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+     "published": "Fri, 11 Sep 2026 12:36:25 GMT"
+    }
+   ]
+  },
+  "AI Snake Oil": {
+   "updated": "Sat, 07 Nov 2026 02:12:40 GMT",
+   "items": [
+    {
+     "title": "New paper: Emerging trends in AI agent evaluation",
+     "summary": "Understanding the methods, questions, and ecosystem for evaluation",
+     "url": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+     "published": "Mon, 19 Oct 2026 20:11:55 GMT"
+    },
+    {
+     "title": "Steering AI Beyond Automation",
+     "summary": "A Research Agenda and Plan for Action",
+     "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+     "published": "Wed, 14 Oct 2026 19:56:44 GMT"
+    },
+    {
+     "title": "A big-tent or small-tent AI safety movement?",
+     "summary": "The unstated disagreement that underpins safety debates",
+     "url": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+     "published": "Thu, 01 Oct 2026 16:34:51 GMT"
+    },
+    {
+     "title": "AI existential risk probabilities are (still) too unreliable to inform policy",
+     "summary": "How speculation gets laundered through pseudo-quantification",
+     "url": "https://www.normaltech.ai/p/p-doom",
+     "published": "Mon, 28 Sep 2026 11:13:47 GMT"
+    },
+    {
+     "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+     "summary": "A middle ground between the cybersecurity and AI safety communities",
+     "url": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+     "published": "Mon, 14 Sep 2026 10:30:14 GMT"
+    },
+    {
+     "title": "AI agents can't yet do open-ended AI research",
+     "summary": "Early evidence from two case studies",
+     "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+     "published": "Wed, 05 Aug 2026 13:49:19 GMT"
+    },
+    {
+     "title": "What will be left for us to work on?",
+     "summary": "My keynote at ICML 2026",
+     "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+     "published": "Mon, 13 Jul 2026 18:47:06 GMT"
+    },
+    {
+     "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+     "summary": "Critics and boosters are both looking in the wrong place",
+     "url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+     "published": "Thu, 09 Jul 2026 22:29:33 GMT"
+    },
+    {
+     "title": "Why AI hasn’t replaced software engineers, and won’t",
+     "summary": "Coding agents as normal technology",
+     "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+     "published": "Thu, 11 Jun 2026 02:29:51 GMT"
+    },
+    {
+     "title": "Did Google’s AI agents really build an operating system for $916?",
+     "summary": "The importance of independent evaluation",
+     "url": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+     "published": "Fri, 22 May 2026 22:24:18 GMT"
+    },
+    {
+     "title": "Do AI Risks Require Extraordinary Government Intervention?",
+     "summary": "Let&#8217;s not skip the hard work of AI governance",
+     "url": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+     "published": "Thu, 21 May 2026 13:19:41 GMT"
+    },
+    {
+     "title": "Open-world evaluations for measuring frontier AI capabilities",
+     "summary": "Introducing CRUX, a new project for evaluating AI on long, messy tasks",
+     "url": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+     "published": "Thu, 16 Apr 2026 17:47:29 GMT"
+    }
+   ]
+  },
+  "Stratechery": {
+   "updated": "Fri, 06 Nov 2026 18:14:43 +0000",
+   "items": [
+    {
+     "title": "2026.45: Falling Leaves (and Stocks)",
+     "summary": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
+     "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
+     "published": "Fri, 06 Nov 2026 18:14:42 +0000"
+    },
+    {
+     "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+     "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+     "published": "Fri, 06 Nov 2026 11:00:00 +0000"
+    },
+    {
+     "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+     "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+     "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+     "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+    },
+    {
+     "title": "AI on the Ballot",
+     "summary": "Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?",
+     "url": "https://stratechery.com/2026/ai-on-the-ballot/",
+     "published": "Wed, 04 Nov 2026 11:00:00 +0000"
+    },
+    {
+     "title": "Apple Earnings, Memory Problems, The Hardware Company Regression",
+     "summary": "Apple's earnings suggest that the company's hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
+     "url": "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
+     "published": "Tue, 03 Nov 2026 11:00:00 +0000"
+    },
+    {
+     "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+     "summary": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
+     "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+     "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+    },
+    {
+     "title": "2026.44: At Long Last…",
+     "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+     "url": "https://stratechery.com/2026/at-long-last/",
+     "published": "Fri, 30 Oct 2026 17:00:00 +0000"
+    },
+    {
+     "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+     "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+     "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+     "published": "Fri, 30 Oct 2026 10:00:00 +0000"
+    },
+    {
+     "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+     "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+     "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+     "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+    },
+    {
+     "title": "Meta Earnings, Muse and the Frontier, Musebook",
+     "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+     "url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+     "published": "Wed, 28 Oct 2026 10:06:13 +0000"
+    }
+   ]
+  },
+  "Noahpinion": {
+   "updated": "Sat, 07 Nov 2026 02:51:32 GMT",
+   "items": [
+    {
+     "title": "For the Democrats, now comes the hard part",
+     "summary": "The Dems have to figure out what they stand for, and what they want to do.",
+     "url": "https://www.noahpinion.blog/p/for-the-democrats-now-comes-the-hard",
+     "published": "Fri, 06 Nov 2026 06:46:24 GMT"
+    },
+    {
+     "title": "Normal Americans punished MAGA",
+     "summary": "Normies exist, and there&#8217;s only so far you can push them before they get mad.",
+     "url": "https://www.noahpinion.blog/p/normal-americans-punished-maga",
+     "published": "Wed, 04 Nov 2026 10:33:58 GMT"
+    },
+    {
+     "title": "Anthropic’s moat is Claude",
+     "summary": "The bull case for Anthropic&#8217;s IPO.",
+     "url": "https://www.noahpinion.blog/p/anthropics-moat-is-claude",
+     "published": "Mon, 02 Nov 2026 11:03:51 GMT"
+    },
+    {
+     "title": "Farewell, my Captain",
+     "summary": "A TV character gave us a glimpse of what humanity might become.",
+     "url": "https://www.noahpinion.blog/p/farewell-my-captain",
+     "published": "Sat, 31 Oct 2026 01:39:39 GMT"
+    },
+    {
+     "title": "A golden age of science is coming",
+     "summary": "AI can do things humans researchers can&#8217;t, even in groups.",
+     "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming",
+     "published": "Thu, 29 Oct 2026 09:55:51 GMT"
+    },
+    {
+     "title": "Roundup #90: In which Noah joins a Japanese VC firm",
+     "summary": "The humanities; Data center crowd-out; Chinese local governments; AI and capitalism; How Japan builds; Phones bad; Chinese manufacturing; Rent control",
+     "url": "https://www.noahpinion.blog/p/roundup-90-in-which-noah-joins-a",
+     "published": "Tue, 27 Oct 2026 07:17:34 GMT"
+    },
+    {
+     "title": "The internet breaks",
+     "summary": "What will be next to break?",
+     "url": "https://www.noahpinion.blog/p/the-internet-breaks",
+     "published": "Sun, 25 Oct 2026 07:19:36 GMT"
+    },
+    {
+     "title": "France and the limits of liberalism",
+     "summary": "Immigration, the welfare state, and Keynesian economics are all showing signs of strain.",
+     "url": "https://www.noahpinion.blog/p/france-and-the-limits-of-liberalism",
+     "published": "Thu, 22 Oct 2026 08:04:41 GMT"
+    },
+    {
+     "title": "“You Can See Everything” and the nature of liars",
+     "summary": "A movie review, plus some thoughts on dishonesty, belief, and human communication.",
+     "url": "https://www.noahpinion.blog/p/you-can-see-everything-and-the-nature",
+     "published": "Wed, 21 Oct 2026 08:45:19 GMT"
+    },
+    {
+     "title": "Can a Million AI Agents Create Superintelligence?",
+     "summary": "Ramez Naam gives a skeptic&#8217;s take on agent swarms.",
+     "url": "https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
+     "published": "Mon, 19 Oct 2026 04:33:30 GMT"
+    },
+    {
+     "title": "Why are we ruled by barbarians?",
+     "summary": "America&#8217;s New Right believes that savagery is the key to victory.",
+     "url": "https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians",
+     "published": "Sun, 18 Oct 2026 06:34:00 GMT"
+    },
+    {
+     "title": "AI vs. the railroads",
+     "summary": "Are we in 1872?",
+     "url": "https://www.noahpinion.blog/p/ai-vs-the-railroads",
+     "published": "Thu, 15 Oct 2026 08:47:39 GMT"
+    }
+   ]
+  },
+  "Net Interest": {
+   "updated": "Sat, 07 Nov 2026 02:40:21 GMT",
+   "items": [
+    {
+     "title": "The Insatiable Demand for Alpha",
+     "summary": "Why a market shakedown could leave the biggest pod shops stronger",
+     "url": "https://www.netinterest.co/p/the-insatiable-demand-for-alpha",
+     "published": "Fri, 06 Nov 2026 17:59:24 GMT"
+    },
+    {
+     "title": "Follow the Money",
+     "summary": "What six years and 300+ posts of Net Interest say about where finance is heading",
+     "url": "https://www.netinterest.co/p/follow-the-money-ece",
+     "published": "Fri, 30 Oct 2026 17:48:55 GMT"
+    },
+    {
+     "title": "Capital Wars",
+     "summary": "CoreWeave and the Economics of a Data Center Build",
+     "url": "https://www.netinterest.co/p/capital-wars",
+     "published": "Fri, 23 Oct 2026 16:24:17 GMT"
+    },
+    {
+     "title": "Me and My Agents",
+     "summary": "Unleashing AI Agents on Bank Earnings",
+     "url": "https://www.netinterest.co/p/me-and-my-agents",
+     "published": "Fri, 16 Oct 2026 16:39:55 GMT"
+    },
+    {
+     "title": "When Saturday Comes",
+     "summary": "Football as an Asset Class",
+     "url": "https://www.netinterest.co/p/when-saturday-comes",
+     "published": "Sat, 10 Oct 2026 12:42:20 GMT"
+    },
+    {
+     "title": "The Art of Doing Financial Engineering",
+     "summary": "AI Financing at the Frontier",
+     "url": "https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
+     "published": "Sat, 03 Oct 2026 11:57:49 GMT"
+    },
+    {
+     "title": "Agents Revolt",
+     "summary": "What happens to finance when customers start paying attention",
+     "url": "https://www.netinterest.co/p/the-agents-revolt",
+     "published": "Fri, 25 Sep 2026 17:33:27 GMT"
+    },
+    {
+     "title": "Brookfield of Dreams",
+     "summary": "Inside Brookfield&#8217;s Plan to Double Again",
+     "url": "https://www.netinterest.co/p/brookfield-of-dreams",
+     "published": "Sat, 19 Sep 2026 15:05:47 GMT"
+    },
+    {
+     "title": "The Five Deals That Made Apollo",
+     "summary": "From distressed debt to a trillion-dollar machine",
+     "url": "https://www.netinterest.co/p/the-five-deals-that-made-apollo",
+     "published": "Fri, 11 Sep 2026 15:25:40 GMT"
+    },
+    {
+     "title": "Hot European Summer",
+     "summary": "Europe is outperforming &#8211; but Europeans aren&#8217;t participating",
+     "url": "https://www.netinterest.co/p/hot-european-summer",
+     "published": "Fri, 04 Sep 2026 16:33:06 GMT"
+    },
+    {
+     "title": "Untangling Guggenheim",
+     "summary": "How Private Credit Built Its Own Universe",
+     "url": "https://www.netinterest.co/p/untangling-guggenheim",
+     "published": "Fri, 28 Aug 2026 15:05:53 GMT"
+    },
+    {
+     "title": "Great Scott",
+     "summary": "Challenges Facing the Bond Trader in Chief",
+     "url": "https://www.netinterest.co/p/great-scott",
+     "published": "Fri, 21 Aug 2026 17:35:18 GMT"
+    }
+   ]
+  },
+  "Money & Macro": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Who will pay for a 100 million Boomer pensions?",
+     "summary": "When baby boomers started working, about 5 of them had to work to provide for every pensioner. Today, this number has gone down to around three workers per pensioner in OECD countries. And this will only get worse based in the OECD projections, thirty years from now there will be...",
+     "url": "https://www.moneymacro.rocks/2026-04-21-pensions/",
+     "published": "Tue, 21 Apr 2026 00:00:00 +0200"
+    },
+    {
+     "title": "Why inequality may not be as bad as we thought",
+     "summary": "From politicians to Youtubers, from the pope to Nobel Prize–winning economists, voices across the spectrum agree on one thing: inequality is rising, AND it’s VERY VERY dangerous. But, what if the EVIDENCE to back up those statements is actually far weaker than we previously thought? That would be strange right?...",
+     "url": "https://www.moneymacro.rocks/2026-04-02-inequality/",
+     "published": "Thu, 02 Apr 2026 00:00:00 +0200"
+    },
+    {
+     "title": "How bad will the Hormuz energy crisis get?",
+     "summary": "This is the Persian Gulf, where roughly 20% of the world’s oil and 20% of the world’s natural gas comes from. Iraq, Kuwait, Bahrain, Qatar, Saudi and the UAE, almost all of their oil and gas has to pass through THIS narrow strait. The strait of Hormuz, which is currently...",
+     "url": "https://www.moneymacro.rocks/2026-03-27-Hormuz-energy/",
+     "published": "Fri, 27 Mar 2026 00:00:00 +0200"
+    },
+    {
+     "title": "What happens if the Dollar falls?",
+     "summary": "History tells us that no currency remains at the top forever. First, it was the Dutch Guilder, then the British Pound, and now, the world is asking if the U.S. Dollar is next. A SO-CALLED SELL AMERICA TRADE the American currency by the way slipped to its lowest level against...",
+     "url": "https://www.moneymacro.rocks/2026-03-19-dollar/",
+     "published": "Thu, 19 Mar 2026 00:00:00 +0200"
+    },
+    {
+     "title": "Are immigrants actually making Europe much less safe",
+     "summary": "According to the American government, Europe faces the real and stark prospect of civilizational erasure. The main reason… American leaders like JD Vance are quite clear: “””The greatest threat in Europe is that the leaders of the West decided they should send millions and millions of unvetted foreign migrants into...",
+     "url": "https://www.moneymacro.rocks/2026-02-23-migration/",
+     "published": "Mon, 23 Feb 2026 00:00:00 +0200"
+    },
+    {
+     "title": "The new world order, explained",
+     "summary": "The president of the United States recently shared this photoshopped image on social media, showing NATO leaders a map where the US has taken control of Venezuela, but more shockingly, territory from loyal NATO allies that helped the US fight several wars in the past decades: Denmark and Canada. To...",
+     "url": "https://www.moneymacro.rocks/2026-02-05-world-order/",
+     "published": "Thu, 05 Feb 2026 00:00:00 +0200"
+    },
+    {
+     "title": "Why pop culture is so boring now (according to economic science)",
+     "summary": "Ok, it’s official. 2025 was the year creativity ‘seemingly’ died. The best selling movies -like Zootopia 2, Jurasic World, and Mission Impossible 8- were all sequels, OR they were remasters like Lilo &amp; Stich and How to train your dragon. Similarly, the best selling video games: -Battlefield 6, Borderlands 4,...",
+     "url": "https://www.moneymacro.rocks/2026-01-20-pop-culture/",
+     "published": "Tue, 20 Jan 2026 00:00:00 +0200"
+    },
+    {
+     "title": "The 5 megatrends that will dominate 2026",
+     "summary": "2025 was dominated by Trump and his tariffs. And, 2026.. well that will be the year that China will DOMINATE the global economy, more and more governments will hit a debt limit, the A.I. bubble will NOT pop and China will blockade Taiwan. Hey, I’m Joeri, I have a PhD...",
+     "url": "https://www.moneymacro.rocks/2025-12-20-predictions/",
+     "published": "Sat, 20 Dec 2025 00:00:00 +0200"
+    },
+    {
+     "title": "How scientists radically reduced violence in America (no gun ban)",
+     "summary": "America has a massive gun violence problem. Compared to other wealthy countries, the US murder rate is extremely high, and behind most of those deaths is the pull of a trigger. The obvious solution is to ban guns. But, yeah, this is unlikely to happen. Luckily , I have some...",
+     "url": "https://www.moneymacro.rocks/2025-12-15-guns/",
+     "published": "Mon, 15 Dec 2025 00:00:00 +0200"
+    },
+    {
+     "title": "How the West could break the Chinese mineral monopoly",
+     "summary": "China has weaponized it critical minerals monopoly on which the entire Western industrial base depends. According to European Council of Foreign relations expert dr. Tobias Gherke, this dependency is even worse than Europe’s 2021 dependence on Russian gas, which led to a massive energy crisis in 2022. So, if China...",
+     "url": "https://www.moneymacro.rocks/2025-12-08-mineral-monopoly/",
+     "published": "Mon, 08 Dec 2025 00:00:00 +0200"
+    },
+    {
+     "title": "Why you cannot find a job right now",
+     "summary": "Someone tell me, someone tell me and explain to me what is going on what’s going on with the job market recently! Okay.. okay, I’ll do it. As you’ve just seen, to a lot of, especially young people, it feels like it’s really difficult to get a job right now....",
+     "url": "https://www.moneymacro.rocks/2025-12-02-job-crisis/",
+     "published": "Tue, 02 Dec 2025 00:00:00 +0200"
+    },
+    {
+     "title": "Why humanity will shrink far faster than you think",
+     "summary": "The UN predicts that we will reach peak humanity by 2083. But now, more and more economists like University of Pennsylvania professor Jesús Fernández-Villaverde are saying that this UN prediction is ,actually, far too optimistic. Instead, he argues that 2055 will be the year of peak humanity in size, and...",
+     "url": "https://www.moneymacro.rocks/2025-11-30-fertility/",
+     "published": "Sun, 30 Nov 2025 00:00:00 +0200"
+    }
+   ]
+  },
+  "Huberman Lab": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+     "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Susanna Søberg, PhD, a metabolic scientist who trained at the University of Copenhagen and an expert in the effects of cold and heat exposure on human health. Dr. Søberg explains how brief, deliberate cold exposure improves insulin sensitivity, promotes metabolic health and physiological resilience. We also discuss the cold shock response an",
+     "url": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
+     "published": "Thu, 05 Nov 2026 09:00:00 -0000"
+    },
+    {
+     "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+     "summary": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life is lived and experienced to the fullest.\n\nRead the episode show notes at hubermanlab.com.\n\nThank you ",
+     "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+     "published": "Mon, 02 Nov 2026 09:00:00 -0000"
+    },
+    {
+     "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+     "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Noam Sobel, PhD, a Professor of Neurobiology at the Weizmann Institute of Science and an expert on the human sense of smell. We discuss how the brain processes odors and how smell shapes our lives more than we realize, influencing everything from who we become friends with to how we experience emotions, hormones and aggression. Dr. Sobel als",
+     "url": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+     "published": "Thu, 29 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+     "summary": "Ross Edgley is a British ultra-endurance athlete and author known for completing extraordinary athletic feats by tapping into diverse sources of motivation and resilience. We discuss the psychological and biological forces that allow people to persevere through extreme challenges. Then we cover how to dynamically update your sense of purpose, emotions, philosophy, and personal narratives to expand",
+     "url": "https://www.hubermanlab.com/episode/unlocking-persistent-motivation-and-extreme-resilience-ross-edgley",
+     "published": "Mon, 26 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+     "summary": "In this Huberman Lab Essentials episode, I explain how to develop a rational supplementation protocol tailored to your specific needs, nutrition and budget. I discuss foundational supplements and single-ingredient supplements for sleep, hormone support and cognitive enhancement and focus, including how to test individual ingredients, choose appropriate dosages and cycle certain compounds. I also e",
+     "url": "https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance",
+     "published": "Thu, 22 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+     "summary": "Dr. Jared Diamond, PhD, is a Pulitzer Prize-winning author, physiologist, evolutionary biologist and Professor at UCLA. We discuss the surprising and often chance events that shaped human history and leadership in politics, religion, business and athletics. As one of the most influential public-facing scholars of the last 100 years, Dr. Diamond also shares his advice on how to pursue a career and ",
+     "url": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+     "published": "Mon, 19 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+     "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software ",
+     "url": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall",
+     "published": "Thu, 15 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+     "summary": "Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger an",
+     "url": "https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski",
+     "published": "Mon, 12 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+     "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build res",
+     "url": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
+     "published": "Thu, 08 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+     "summary": "Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We als",
+     "url": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
+     "published": "Mon, 05 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "Essentials: Tools to Improve Your Focus & Concentration",
+     "summary": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus whe",
+     "url": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
+     "published": "Thu, 01 Oct 2026 08:00:00 -0000"
+    },
+    {
+     "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+     "summary": "Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experien",
+     "url": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
+     "published": "Mon, 28 Sep 2026 08:00:00 -0000"
+    }
+   ]
+  },
+  "ChinaTalk": {
+   "updated": "Sat, 07 Nov 2026 02:51:54 GMT",
+   "items": [
+    {
+     "title": "The New Senators on China",
+     "summary": "Fresh faces in the Villa!",
+     "url": "https://www.chinatalk.media/p/the-new-senators-on-china",
+     "published": "Thu, 05 Nov 2026 12:36:53 GMT"
+    },
+    {
+     "title": "WarTalk: Kofman on Why Russia's Doing Badly",
+     "summary": "Ukraine and Russia have rebuilt their armies around drones, deception, and long-range strike.",
+     "url": "https://www.chinatalk.media/p/wartalk-kofman-on-starlink-what-ukraine",
+     "published": "Mon, 02 Nov 2026 16:32:01 GMT"
+    },
+    {
+     "title": "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
+     "summary": "Richard Gray is an analyst who works for a foreign policy think tank in Washington, D.C.",
+     "url": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+     "published": "Sun, 01 Nov 2026 13:33:33 GMT"
+    },
+    {
+     "title": "Is Half of China’s AI Making Slop?",
+     "summary": "The 55% token myth, and China&#8217;s guilty pleasure",
+     "url": "https://www.chinatalk.media/p/is-half-of-chinas-ai-making-slop",
+     "published": "Fri, 30 Oct 2026 10:04:01 GMT"
+    },
+    {
+     "title": "Xi vs Trump on Corruption",
+     "summary": "The Shame Gap",
+     "url": "https://www.chinatalk.media/p/make-corruption-cringe-again",
+     "published": "Fri, 30 Oct 2026 10:03:59 GMT"
+    },
+    {
+     "title": "The Manhattan Project, Take Two",
+     "summary": "Barnett Koven on American innovation and Super Intelligence",
+     "url": "https://www.chinatalk.media/p/the-manhattan-project-take-two",
+     "published": "Thu, 29 Oct 2026 16:00:01 GMT"
+    },
+    {
+     "title": "Roasting China’s AI Industry",
+     "summary": "&#8220;AI is full of scammers, narcissists, and people whose activities are incomprehensible &#8212; and somehow they get funding.&#8220;",
+     "url": "https://www.chinatalk.media/p/how-to-make-fun-of-chinese-ai",
+     "published": "Thu, 29 Oct 2026 10:03:53 GMT"
+    },
+    {
+     "title": "China's 10,000 Gaming Talents",
+     "summary": "Essay Contest Winner!",
+     "url": "https://www.chinatalk.media/p/ready-player-wan-10000-talents-of",
+     "published": "Mon, 26 Oct 2026 10:03:44 GMT"
+    },
+    {
+     "title": "Riding Solo in Santiago",
+     "summary": "Aqib&#8217;s Notes on Chile (Santiago, Concepci&#243;n, Antofagasta, and Atacama)",
+     "url": "https://www.chinatalk.media/p/riding-solo-in-santiago",
+     "published": "Sun, 25 Oct 2026 10:20:34 GMT"
+    },
+    {
+     "title": "Where is China’s Groq?",
+     "summary": "The U.S. is Making HBM-Free Chips. Why Isn&#8217;t China?",
+     "url": "https://www.chinatalk.media/p/where-is-chinas-groq",
+     "published": "Fri, 23 Oct 2026 10:56:32 GMT"
+    },
+    {
+     "title": "Take Ten-Thousand: Egocentric Data Collection for Humanoid Robots",
+     "summary": "why selling robot data is tough business; and ChinaTalk at CoRL!",
+     "url": "https://www.chinatalk.media/p/take-ten-thousand-egocentric-data",
+     "published": "Thu, 22 Oct 2026 10:02:03 GMT"
+    },
+    {
+     "title": "MOFCOM's New Rules and the Future of Chinese AI",
+     "summary": "a big deal",
+     "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+     "published": "Wed, 21 Oct 2026 13:43:39 GMT"
+    }
+   ]
+  },
+  "ScienceDaily": {
+   "updated": "Fri, 06 Nov 2026 06:28:26 EST",
+   "items": [
+    {
+     "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+     "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+     "published": "Fri, 06 Nov 2026 03:21:08 EST"
+    },
+    {
+     "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+     "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+     "published": "Fri, 06 Nov 2026 02:12:55 EST"
+    },
+    {
+     "title": "Scientists just found dinosaur blood that survived 115 million years",
+     "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+     "published": "Fri, 06 Nov 2026 06:28:01 EST"
+    },
+    {
+     "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+     "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's sym",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+     "published": "Thu, 05 Nov 2026 20:11:19 EST"
+    },
+    {
+     "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+     "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+     "published": "Wed, 04 Nov 2026 05:43:44 EST"
+    },
+    {
+     "title": "NASA is racing against time to save the Hubble Space Telescope",
+     "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innov",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+     "published": "Wed, 04 Nov 2026 06:22:33 EST"
+    },
+    {
+     "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+     "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+     "published": "Wed, 04 Nov 2026 07:23:36 EST"
+    },
+    {
+     "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+     "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise ob",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+     "published": "Wed, 04 Nov 2026 01:57:06 EST"
+    },
+    {
+     "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+     "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+     "published": "Thu, 05 Nov 2026 09:04:07 EST"
+    },
+    {
+     "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+     "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reported damage for more than a decade, the insects responsible remained unidentified until researchers used DNA analysis to uncover the culprit.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+     "published": "Fri, 06 Nov 2026 04:33:36 EST"
+    },
+    {
+     "title": "Permanent daylight saving time has a dark side, scientists warn",
+     "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers found that fatal crashes involving school-aged pedestrians were roughly twice as likely during dark mornings as after sunrise.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+     "published": "Wed, 04 Nov 2026 07:50:48 EST"
+    },
+    {
+     "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+     "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+     "published": "Tue, 03 Nov 2026 04:46:21 EST"
+    }
+   ]
+  },
+  "Nature": {
+   "updated": "",
+   "items": [
+    {
+     "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03595-x\">doi:10.1038/d41586-026-03595-x</a></p>Andrew Robinson reviews five of the best science picks.",
+     "url": "https://www.nature.com/articles/d41586-026-03595-x",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03630-x\">doi:10.1038/d41586-026-03630-x</a></p>An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
+     "url": "https://www.nature.com/articles/d41586-026-03630-x",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03632-9\">doi:10.1038/d41586-026-03632-9</a></p>Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.",
+     "url": "https://www.nature.com/articles/d41586-026-03632-9",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03442-z\">doi:10.1038/d41586-026-03442-z</a></p>A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.",
+     "url": "https://www.nature.com/articles/d41586-026-03442-z",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11233-9\">doi:10.1038/s41586-026-11233-9</a></p>In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+     "url": "https://www.nature.com/articles/s41586-026-11233-9",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03587-x\">doi:10.1038/d41586-026-03587-x</a></p>A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace’s operations.",
+     "url": "https://www.nature.com/articles/d41586-026-03587-x",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03622-x\">doi:10.1038/d41586-026-03622-x</a></p>Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.",
+     "url": "https://www.nature.com/articles/d41586-026-03622-x",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "ESC (DC)<sup>2</sup>",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03450-z\">doi:10.1038/d41586-026-03450-z</a></p>Security issues.",
+     "url": "https://www.nature.com/articles/d41586-026-03450-z",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "The palaeo cave art that hid in plain sight for 26,000 years",
+     "summary": "<p>Nature, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03585-z\">doi:10.1038/d41586-026-03585-z</a></p>Hundreds of engravings were spotted in a widely visited cave — some include signs of animation.",
+     "url": "https://www.nature.com/articles/d41586-026-03585-z",
+     "published": "2026-11-06"
+    },
+    {
+     "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+     "summary": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11336-3\">doi:10.1038/s41586-026-11336-3</a></p>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+     "url": "https://www.nature.com/articles/s41586-026-11336-3",
+     "published": "2026-11-05"
+    },
+    {
+     "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+     "summary": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11351-4\">doi:10.1038/s41586-026-11351-4</a></p>Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+     "url": "https://www.nature.com/articles/s41586-026-11351-4",
+     "published": "2026-11-05"
+    },
+    {
+     "title": "The surprising reason women in academia do more parenting than men",
+     "summary": "<p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03568-0\">doi:10.1038/d41586-026-03568-0</a></p>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+     "url": "https://www.nature.com/articles/d41586-026-03568-0",
+     "published": "2026-11-05"
+    }
+   ]
+  }
+ },
+ "reddit": {},
+ "hackernews": [
+  {
+   "title": "Libghostty 1.0",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "score": 272,
+   "comments": 45,
+   "hn_url": "https://news.ycombinator.com/item?id=50399933",
+   "controversy": 0.17
+  },
+  {
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "score": 361,
+   "comments": 82,
+   "hn_url": "https://news.ycombinator.com/item?id=50397429",
+   "controversy": 0.23
+  },
+  {
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "url": "https://josef.cn/blog/unitree",
+   "score": 38,
+   "comments": 23,
+   "hn_url": "https://news.ycombinator.com/item?id=50400597",
+   "controversy": 0.61
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "score": 876,
+   "comments": 1738,
+   "hn_url": "https://news.ycombinator.com/item?id=50391456",
+   "controversy": 1.98
+  },
+  {
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+   "score": 34,
+   "comments": 2,
+   "hn_url": "https://news.ycombinator.com/item?id=50360810",
+   "controversy": 0.06
+  },
+  {
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "score": 182,
+   "comments": 82,
+   "hn_url": "https://news.ycombinator.com/item?id=50397219",
+   "controversy": 0.45
+  },
+  {
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "score": 290,
+   "comments": 230,
+   "hn_url": "https://news.ycombinator.com/item?id=50388001",
+   "controversy": 0.79
+  },
+  {
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "score": 36,
+   "comments": 9,
+   "hn_url": "https://news.ycombinator.com/item?id=50399991",
+   "controversy": 0.25
+  },
+  {
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+   "score": 49,
+   "comments": 2,
+   "hn_url": "https://news.ycombinator.com/item?id=50354097",
+   "controversy": 0.04
+  },
+  {
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "score": 218,
+   "comments": 166,
+   "hn_url": "https://news.ycombinator.com/item?id=50397994",
+   "controversy": 0.76
+  },
+  {
+   "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+   "url": "https://github.com/andrewboldi/tmux-restore",
+   "score": 7,
+   "comments": 2,
+   "hn_url": "https://news.ycombinator.com/item?id=50355009",
+   "controversy": 0.29
+  },
+  {
+   "title": "First steps in bare-metal programming using UEFI",
+   "url": "https://kevinboone.me/efitest_index.html",
+   "score": 197,
+   "comments": 36,
+   "hn_url": "https://news.ycombinator.com/item?id=50394855",
+   "controversy": 0.18
+  },
+  {
+   "title": "Panthera: Ampere's CPU Performance Model",
+   "url": "https://github.com/AmpereComputing/panthera",
+   "score": 10,
+   "comments": 0,
+   "hn_url": "https://news.ycombinator.com/item?id=50356722",
+   "controversy": 0.0
+  },
+  {
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+   "score": 141,
+   "comments": 62,
+   "hn_url": "https://news.ycombinator.com/item?id=50399657",
+   "controversy": 0.44
+  },
+  {
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "score": 99,
+   "comments": 45,
+   "hn_url": "https://news.ycombinator.com/item?id=50397017",
+   "controversy": 0.45
+  },
+  {
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "score": 45,
+   "comments": 8,
+   "hn_url": "https://news.ycombinator.com/item?id=50397711",
+   "controversy": 0.18
+  },
+  {
+   "title": "Devvm.dev: One VM for every project",
+   "url": "https://devvm.dev/",
+   "score": 124,
+   "comments": 53,
+   "hn_url": "https://news.ycombinator.com/item?id=50395450",
+   "controversy": 0.43
+  },
+  {
+   "title": "GitHub's new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "score": 79,
+   "comments": 13,
+   "hn_url": "https://news.ycombinator.com/item?id=50397099",
+   "controversy": 0.16
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "score": 302,
+   "comments": 220,
+   "hn_url": "https://news.ycombinator.com/item?id=50392118",
+   "controversy": 0.73
+  },
+  {
+   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+   "url": "https://github.com/piercefreeman/waymark",
+   "score": 46,
+   "comments": 15,
+   "hn_url": "https://news.ycombinator.com/item?id=50379221",
+   "controversy": 0.33
+  },
+  {
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "score": 82,
+   "comments": 35,
+   "hn_url": "https://news.ycombinator.com/item?id=50399569",
+   "controversy": 0.43
+  },
+  {
+   "title": "Replit rebuilt its sandbox engine with microVMs",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "score": 71,
+   "comments": 19,
+   "hn_url": "https://news.ycombinator.com/item?id=50396834",
+   "controversy": 0.27
+  },
+  {
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "url": "https://arxiv.org/abs/2610.21375",
+   "score": 92,
+   "comments": 8,
+   "hn_url": "https://news.ycombinator.com/item?id=50395919",
+   "controversy": 0.09
+  },
+  {
+   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+   "url": "https://up.codes/careers?utm_source=HN",
+   "score": 1,
+   "comments": 0,
+   "hn_url": "https://news.ycombinator.com/item?id=50395043",
+   "controversy": 0.0
+  },
+  {
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "score": 249,
+   "comments": 500,
+   "hn_url": "https://news.ycombinator.com/item?id=50394906",
+   "controversy": 2.01
+  }
+ ],
+ "github": [
+  {
+   "name": "deepseek-ai/dsh-superagent-prototype",
+   "desc": "Towards a More Autonomous Agent System",
+   "stars": 20314,
+   "created": "2026-10-31T09:32:46Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+  },
+  {
+   "name": "storytold/craft-anything",
+   "desc": "Craft Anything: understand how any software works, and craft your own.",
+   "stars": 18350,
+   "created": "2026-10-31T14:50:00Z",
+   "lang": "Rust",
+   "url": "https://github.com/storytold/craft-anything"
+  },
+  {
+   "name": "Zagitta/gpu-unlock",
+   "desc": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+   "stars": 17635,
+   "created": "2026-10-18T01:28:31Z",
+   "lang": "C",
+   "url": "https://github.com/Zagitta/gpu-unlock"
+  },
+  {
+   "name": "ccch1mneyyy/dsh-Go",
+   "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "stars": 13050,
+   "created": "2026-10-25T08:09:52Z",
+   "lang": "Dart",
+   "url": "https://github.com/ccch1mneyyy/dsh-Go"
+  },
+  {
+   "name": "heydamir/unslop",
+   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "stars": 10793,
+   "created": "2026-10-29T15:41:21Z",
+   "lang": "JavaScript",
+   "url": "https://github.com/heydamir/unslop"
+  },
+  {
+   "name": "pengchujin/aerial-tv",
+   "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "stars": 10392,
+   "created": "2026-10-20T09:13:06Z",
+   "lang": "Kotlin",
+   "url": "https://github.com/pengchujin/aerial-tv"
+  },
+  {
+   "name": "l0ng-ai/openidea",
+   "desc": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+   "stars": 7479,
+   "created": "2026-10-21T12:23:14Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/l0ng-ai/openidea"
+  },
+  {
+   "name": "wangzan101/Mika",
+   "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   "stars": 7419,
+   "created": "2026-10-29T14:34:07Z",
+   "lang": "Kotlin",
+   "url": "https://github.com/wangzan101/Mika"
+  },
+  {
+   "name": "unclebob/ub-mode",
+   "desc": null,
+   "stars": 7214,
+   "created": "2026-10-25T16:04:09Z",
+   "lang": null,
+   "url": "https://github.com/unclebob/ub-mode"
+  },
+  {
+   "name": "xiaoyang111222/cn-math-taxonomy",
+   "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+   "stars": 6916,
+   "created": "2026-10-18T09:04:43Z",
+   "lang": "Python",
+   "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+  },
+  {
+   "name": "rddmwmddr/android-ad-cleaner",
+   "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+   "stars": 6759,
+   "created": "2026-10-24T05:35:47Z",
+   "lang": "Python",
+   "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+  },
+  {
+   "name": "anhao/ai-pose-gallery-zh",
+   "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+   "stars": 6274,
+   "created": "2026-10-27T12:24:37Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/anhao/ai-pose-gallery-zh"
+  },
+  {
+   "name": "simbasjungles/free-my-tv",
+   "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+   "stars": 5982,
+   "created": "2026-10-19T19:29:01Z",
+   "lang": "Java",
+   "url": "https://github.com/simbasjungles/free-my-tv"
+  },
+  {
+   "name": "Jakeschincariol/day-trader-skill",
+   "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+   "stars": 5794,
+   "created": "2026-10-20T14:17:54Z",
+   "lang": "Python",
+   "url": "https://github.com/Jakeschincariol/day-trader-skill"
+  },
+  {
+   "name": "patch-gg/pixelfx",
+   "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+   "stars": 5622,
+   "created": "2026-10-30T06:43:25Z",
+   "lang": "JavaScript",
+   "url": "https://github.com/patch-gg/pixelfx"
+  },
+  {
+   "name": "valentderah/totk-pc-recomp",
+   "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+   "stars": 5436,
+   "created": "2026-10-29T12:32:46Z",
+   "lang": "C",
+   "url": "https://github.com/valentderah/totk-pc-recomp"
+  },
+  {
+   "name": "Djihads80/Eglantine",
+   "desc": "VERY experimental Nintendo Switch 2 emulator",
+   "stars": 4924,
+   "created": "2026-10-29T00:25:18Z",
+   "lang": "C++",
+   "url": "https://github.com/Djihads80/Eglantine"
+  },
+  {
+   "name": "JustAResearcher/gpu-unlock-ada",
+   "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+   "stars": 4815,
+   "created": "2026-10-23T21:00:53Z",
+   "lang": "C",
+   "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
+  },
+  {
+   "name": "interplains/Zero-Breach-Toolkit",
+   "desc": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
+   "stars": 4521,
+   "created": "2026-10-25T14:41:34Z",
+   "lang": "Python",
+   "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+  },
+  {
+   "name": "designfuchen/word-atlas",
+   "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+   "stars": 4328,
+   "created": "2026-10-25T08:27:22Z",
+   "lang": "TypeScript",
+   "url": "https://github.com/designfuchen/word-atlas"
+  }
+ ],
+ "quotes": {},
+ "fx": {
+  "amount": 1.0,
+  "base": "USD",
+  "date": "2026-11-06",
+  "rates": {
+   "INR": 93.92
+  }
+ },
+ "errors": [
+  {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "source": "youtube:Two Minute Papers",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+  },
+  {
+   "source": "youtube:Andrej Karpathy",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
+  },
+  {
+   "source": "youtube:CNN",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
+  },
+  {
+   "source": "rss:AP Top",
+   "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
+  },
+  {
+   "source": "rss:The Print",
+   "error": "unparseable feed: <unknown>:2:0: syntax error"
+  },
+  {
+   "source": "rss:Indian Express",
+   "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/business/feed/"
+  },
+  {
+   "source": "rss:Business Standard",
+   "error": "403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss"
+  },
+  {
+   "source": "rss:Entrackr",
+   "error": "404 Client Error: Not Found for url: https://entrackr.com/feed/"
+  },
+  {
+   "source": "rss:Moneycontrol",
+   "error": "403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/business.xml"
+  },
+  {
+   "source": "rss:Import AI",
+   "error": "403 Client Error: Forbidden for url: https://importai.substack.com/feed"
+  },
+  {
+   "source": "rss:Chartbook",
+   "error": "403 Client Error: Forbidden for url: https://adamtooze.substack.com/feed"
+  },
+  {
+   "source": "reddit:LocalLLaMA",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/LocalLLaMA/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:MachineLearning",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/MachineLearning/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:AI_Agents",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/AI_Agents/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:IndiaInvestments",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/IndiaInvestments/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:india",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/india/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:IndianStreetBets",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/IndianStreetBets/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:investing",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/investing/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:geopolitics",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/geopolitics/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:credibledefense",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/credibledefense/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:ExperiencedDevs",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ExperiencedDevs/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:AskHistorians",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/AskHistorians/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:hyderabad",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/hyderabad/new.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:indore",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/indore/new.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:developersIndia",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/developersIndia/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "reddit:ValueInvesting",
+   "error": "403 Client Error: Blocked for url: https://old.reddit.com/r/ValueInvesting/top.json?t=day&limit=10 (datacenter-IP block likely; fix=OAuth script app)"
+  },
+  {
+   "source": "quotes",
+   "error": "ALPHAVANTAGE_KEY not set — skipped"
+  }
+ ]
+}
