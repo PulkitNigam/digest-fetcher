@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-11-09T02:56:23.270600Z",
+ "generated_utc": "2026-11-10T04:45:58.598207Z",
  "counts": {
-  "youtube": 0,
+  "youtube": 3,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
@@ -9,7 +9,7 @@
   "quotes": 0
  },
  "fx": {
-  "INR": 93.92
+  "INR": 93.93
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -46,36 +46,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "Seven dead and more than 100 injured after trains collide in Egypt",
-   "Homes and temples glow across India to mark Diwali",
-   "Iran executes three men for 'armed unrest' after January protests",
-   "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-   "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years"
+   "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "Trump says more US attacks on Iran 'highly unlikely'",
+   "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "France accuses Iran of supermarket fridge hacking"
   ],
   "BBC Business": [
-   "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "Doing these things now will help you save money at Christmas",
-   "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-   "He spent $50,000 on Labubus but now the craze is dying",
-   "AI stocks climb after trillions wiped from market values"
+   "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "Civil servant who secretly held five jobs found guilty of fraud",
+   "How a civil servant got away with juggling five jobs for so long",
+   "Poundland unable to buy new stock as fears over collapse grow"
   ],
   "BBC Technology": [
-   "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "Can the Zelda remake capture the magic of the original?",
-   "Elon Musk appears to signal the end of the road for Cybertruck",
-   "AI stocks climb after trillions wiped from market values",
-   "Why the US midterms sparked an AI stock selloff",
-   "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe"
+   "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "Qantas to outsource 850 local jobs with most roles moving to India",
+   "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+   "Government 'looking seriously' at banning under-16s from Vinted and eBay"
   ],
   "Al Jazeera": [
-   "Moldova launches new power line to Romania to cut reliance on Russia",
-   "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-   "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-   "India’s night lights up for Diwali",
-   "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-   "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearization’"
+   "Anger as ICE agents make arrest in New Jersey grocery store",
+   "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "Newly-elected Democrats react to Hegseth impeachment bid",
+   "Harare demolitions leave families homeless after years of building",
+   "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+   "Cameroon sets date for twice-delayed legislative and local elections"
   ],
   "The Guardian": [
    "Collision of two trains in Egypt kills at least seven",
@@ -83,127 +83,127 @@
    "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
    "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
    "British healthcare worker with Ebola evacuated from DR Congo to UK",
-   "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
+   "Deadly floods hit Iraq as thunderstorms sweep across region"
   ],
   "NPR": [
-   "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-   "NASA is looking for astronauts to live and work on the Moon",
-   "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-   "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-   "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-   "Russell Brand to learn sentence after being found guilty of rape and sexual assault"
+   "California voters defeat billionaire tax proposal that divided Democrats",
+   "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "Supreme Court says border wall construction can continue in west Texas",
+   "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+   "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+   "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault"
   ],
   "SCMP China": [
-   "China’s comfortable brain-reading device achieves 94% mind-typing accuracy in day-long use",
-   "Will China’s slow and steady moon landing plan be a safer bet than the US’?",
-   "The US must stop blaming China for problems at home: former envoy Cui Tiankai",
-   "China orders statistics bureau to fight fake data with modern technology",
-   "Is China getting faster at integrating new nuclear missiles into its forces?",
-   "China eyes gig workers and influencers as delegates for Communist Party congress"
+   "Trump recounts pilots’ ‘very strange’ UFO stories but says he remains sceptical",
+   "China uses military drones, heavy-lift and C909 planes in huge forest fire drill",
+   "Nvidia scandal may test fragile US-China truce, experts say",
+   "Trump backs Nvidia’s Huang over spy allegations, says Xi may raise case",
+   "US Congress ramps up pressure on Nvidia’s Jensen Huang over alleged China spy links",
+   "Escaping Russia’s web: Central Asia is caught between Chinese networks and US tech curbs"
   ],
   "Nikkei Asia": [
-   "Nvidia probes CEO Jensen Huang's affair amid China security concerns",
-   "Taiwan chipmaker CEO warns memory price rises are unsustainable",
-   "Philippine GDP grows 2.1% in Q3, dragged by high inflation",
-   "Japan FX intervention data underscores challenge of reversing weak yen",
-   "Binance hack clouds Singapore crypto push for tokenized stocks",
-   "European far right distances itself from Trump after midterm rout"
+   "Democrats' midterm victory puts future of House China committee in doubt",
+   "WuXi AppTec shares jump following Pentagon list removal",
+   "Australia plans new regulator for artificial intelligence after OpenAI hack",
+   "Nikkei's Global Management Dialogue to explore AI's new paths to growth",
+   "China exports stay resilient as trade surplus tops $1tn",
+   "How Japan is charting its own path to Mars"
   ],
   "Deutsche Welle": [
-   "South Africa elections: ANC marks its worst-ever performance",
-   "Ebola: Why is there still no vaccine?",
-   "Israeli president tasks Gadi Eisenkot with forming government",
-   "Armenia's selective prosecution: A threat to EU relations?",
-   "Should AI companies pay for the journalism they use?",
-   "Son of Iran's shah receives 'Freedom Prize' in Frankfurt"
+   "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+   "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+   "India’s demonetization: 10 years on, promises remain unfulfilled",
+   "Fake news in Africa: In an age of disinformation, who decides what's true?",
+   "Strait of Hormuz still a source of leverage for Iran",
+   "EU aims to pick new ECB chief by year-end"
   ],
   "Livemint": [
-   "South Korea shares rise on chip rebound after AI-led selloff",
-   "Taiwan Stocks Jump as Authorities Move to Stem Market Rout",
-   "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
-   "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "ROI-Tin hit by AI stock rout despite physical market tightness: Andy Home",
-   "Exide beats Amara in Q2, but returns from lithium-ion investments will decide the winner"
+   "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
+   "US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs  with potential upside of up to 60% for Indian investors",
+   "HUL dividend 2026: Tomorrow is the last day to buy | Check payout amount, record date, history, yield and returns",
+   "Four stocks with high dividend payout ratios to watch",
+   "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
+   "Stock recommendations for 11 November from MarketSmith India"
   ],
   "The Hindu Biz": [
-   "Oil falls as Donald Trump says new Iran attacks ‘unlikely’",
-   "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
-   "Stock markets end marginally lower in special Muhurat trading, snapping seven-day rally",
-   "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
-   "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
-   "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?"
+   "Nvidia plunges but tech shares rebound, oil prices slump",
+   "L&T bags ₹1,000 - ₹2,500 crore order from Noida Metro Rail Corporation for Aqua Line extension",
+   "Meta sets India pricing for Muse AI agent ahead of launch",
+   "BDR Pharma to acquire stake in Acme’s oral solid formulations business",
+   "RBI extends Abhyudaya Bank supersession by another year",
+   "Banking stocks rally 1.5% as PSU lenders lead; broader markets pause after six-day bull run"
   ],
   "Inc42": [
+   "Decoding BlackBuck’s Core Trucking Model And Its New Engines",
    "Profits Are Just Half The Story This Earnings Season",
    "Pronto’s Second Shift",
    "New-Age Tech Stocks Extend Rally, CarTrade Leads With 23.3% Gain",
    "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
-   "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
-   "ED Searches CoinDCX & Delta Exchange Over Alleged Illegal Cross-Border Transfers"
+   "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1"
   ],
   "MediaNama": [
-   "MediaNama Redesign: Advanced Search, Issues, Companies, Regulators",
-   "PhysicsWallah clocks Rs 144 cr profit in Q2FY27, revenue up 18%",
-   "RBI meets bankers amidst rising AI cyber-attacks, mandates security audits",
-   "TRAI recommends India-based network control, traffic monitoring for satellite providers",
-   "Shiprocket swings to profit in Q2, revenue rises 35% to Rs 674 cr",
-   "Lenskart Q2 profit rises 2x to Rs 232 cr, revenue up 36%"
+   "RBI’s September card data shows a divide between credit card spending and debit card cash withdrawals",
+   "Q2 FY27: Jubilant FoodWorks uses machine learning to calibrate Domino’s price hikes",
+   "Meta launches tool on Muse to create custom interactive experiences",
+   "What RBI data reveals about active prepaid wallets and monthly transactions",
+   "Update: Kerala HC allows NoCap to operate Facebook page again after state denies seeking block",
+   "Amitabh Bachchan secures permanent injunction from Delhi HC in personality rights case"
   ],
   "TechCrunch": [
-   "Apps to distract you from the endless cycle of doomscrolling",
-   "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-   "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-   "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-   "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’"
+   "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+   "Anthropic reportedly plans to move forward with IPO plans",
+   "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+   "Hotel giant Wyndham exposed customer data after app security lapse",
+   "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "The race is on to sue Nvidia"
   ],
   "Ars Technica": [
-   "Physicists listened to electrical noise to crack a superconductor mystery",
-   "The Bantu expansion changed Africa. Scientists are still tracing how.",
-   "British soldier ignored order to pull his SIM card, then got blackmailed",
-   "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-   "Ships loiter near subsea cables amid Iran's warnings to Trump",
-   "Re-releases of Wing Commander, Ultima titles hit Steam and GOG"
+   "DCU shake-up: James Gunn and Peter Safran out post-merger",
+   "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+   "A Sam Altman parody offers an amusing lesson in memory management",
+   "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+   "Pentagon mulls placing fleet of military satellites around the Moon",
+   "Claude Code is accidentally exposing secrets all over GitHub"
   ],
   "The Verge": [
-   "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-   "Epic Games Launcher is coming to SteamOS",
-   "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "Apple is racing to make Siri more agentic",
-   "Elvis and Eminem rights holders are suing Suno"
+   "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "What could China get from Jensen Huang?",
+   "Here’s what Trump said he knew about Jensen Huang",
+   "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+   "The global pledge to use AI for climate good is a cruel joke"
   ],
   "MIT Tech Review": [
-   "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-   "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "The Download: Texas’s fragile AI boom and energy policy shifts",
-   "A new bill could change how the US builds energy infrastructure",
-   "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "Roundtables: Inside the Quest for Cognitive Immortality"
+   "The backlash about data centers might really just be about electricity",
+   "Nancy Pelosi’s replacement is ready to regulate AI",
+   "The Download: empty AI climate claims, and an Nvidia investigation",
+   "Innovating with AI in the special chemicals industry",
+   "The climate case for AI has not been made",
+   "The Download: a humanoid cleans house and Samsung builds for the AI boom"
   ],
   "Hacker News best": [
-   "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-   "Nvidia CEO Jensen Huang's letter to staff about affair",
-   "Nvidia Board of Directors Is Investigating Jensen Huang",
-   "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-   "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "Goldman Sachs is pulling Claude Code from its bankers and traders"
+   "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "USPS now offers official ZIP Code boundary polygons",
+   "Claude Fable 5.2 and Mythos 5.2",
+   "E-means: Outperforming k-means in one-tenth the epochs",
+   "Too many men suffering in silence, national health report finds (Canada)",
+   "Google Gemini routes personal Drive files and emails to human annotators"
   ],
   "Simon Willison": [
+   "llm-anthropic 0.31",
+   "Locating the source of a mysterious beep with Claude",
+   "The Web Is More Than Enough, by Paul Ford",
+   "Hide your slop PR descriptions behind <details><summary>",
    "parse_number() as a SQLite extension: C vs Rust",
-   "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-   "Quoting Nilay Patel",
-   "Quoting Paul Ford",
-   "datasette-llm 0.1a10",
-   "datasette-apps 0.3a0"
+   "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
   ],
   "Latent Space": [
+   "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
    "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
    "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
    "[AINews] Anthropic IPO: Whither Now?",
    "Controlling Biology - Fabian Theis, Helmholtz Munich",
-   "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-   "[AINews] It's Swapping Season"
+   "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark"
   ],
   "Interconnects": [
    "How big is the open model economy today?",
@@ -222,20 +222,20 @@
    "AI agents can't yet do open-ended AI research"
   ],
   "Stratechery": [
+   "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
    "2026.45: Falling Leaves (and Stocks)",
    "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
    "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
    "AI on the Ballot",
-   "Apple Earnings, Memory Problems, The Hardware Company Regression",
-   "Google Earnings, Facebook Déjà Vu, The Agent Play"
+   "Apple Earnings, Memory Problems, The Hardware Company Regression"
   ],
   "Noahpinion": [
+   "Noah Smith and Azeem Azhar discuss the AI boom",
+   "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
    "Why I’m becoming a China bear",
    "For the Democrats, now comes the hard part",
    "Normal Americans punished MAGA",
-   "Anthropic’s moat is Claude",
-   "Farewell, my Captain",
-   "A golden age of science is coming"
+   "Anthropic’s moat is Claude"
   ],
   "Net Interest": [
    "The Insatiable Demand for Alpha",
@@ -254,175 +254,167 @@
    "The new world order, explained"
   ],
   "Huberman Lab": [
+   "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
    "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
    "Access the Sublime & Live Your Best Life | Robert Greene",
    "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
    "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
-   "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
-   "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond"
+   "Essentials: Developing a Rational Approach to Supplementation for Health & Performance"
   ],
   "ChinaTalk": [
+   "WarTalk: Lame Duck War, Pete on Notice, Team Yankee",
    "Why the Cyberpocalypse Might Hit China Harder",
    "The New Senators on China",
    "WarTalk: Kofman on Why Russia's Doing Badly",
    "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
-   "Is Half of China’s AI Making Slop?",
-   "Xi vs Trump on Corruption"
+   "Is Half of China’s AI Making Slop?"
   ],
   "ScienceDaily": [
-   "A hidden limit of space and time could unlock electronics 100,000 times faster",
-   "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-   "A nuclear blast could save Earth from an asteroid, but there's a catch",
-   "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-   "Mysterious gas leaks suggest Mars may still be volcanically alive",
-   "Stronger flu shot linked to nearly 55% lower Alzheimer's risk"
+   "Alzheimer’s may have early warning signs outside the brain",
+   "Scientists finally discover why we learn to love bitter coffee",
+   "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+   "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+   "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+   "A hidden limit of space and time could unlock electronics 100,000 times faster"
   ],
   "Nature": [
-   "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-   "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-   "Briefing Chat: Meet the snakes that cartwheel away from trouble",
-   "Preprint platform offers to pay researchers to review papers, but questions remain",
-   "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
-   "These AI agents design your perfect robot-powered lab — and run it for you"
+   "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+   "The super El Niño is more than a climate shock – it’s a health one, too",
+   "How to make failure your friend and teacher in science",
+   "Carlo Rovelli says fundamental physics is overrated",
+   "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+   "Author Correction: Histone H3 trimethylation at lysine 36 guides m<sup>6</sup>A RNA modification co-transcriptionally"
   ]
  },
- "youtube_latest": {},
+ "youtube_latest": {
+  "Veritasium": "Why do deserts get cold at night?",
+  "Andrej Karpathy": "How I use LLMs",
+  "Fireship": "OpenAI spent $1.2 million hacking Linux... and it was a bargain"
+ },
  "hn_top": [
   {
-   "t": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-   "s": 246,
-   "c": 0.29
+   "t": "Claude Fable 5.2 and Mythos 5.2",
+   "s": 334,
+   "c": 2.03
   },
   {
-   "t": "Unlocking any car from X brand in most of the world",
-   "s": 97,
-   "c": 0.33
+   "t": "USPS now offers official ZIP Code boundary polygons",
+   "s": 548,
+   "c": 0.5
   },
   {
-   "t": "Chimera Vocal Synth",
-   "s": 110,
-   "c": 0.15
+   "t": "E-means: Outperforming k-means in one-tenth the epochs",
+   "s": 314,
+   "c": 0.09
   },
   {
-   "t": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "s": 211,
-   "c": 0.3
+   "t": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "s": 491,
+   "c": 0.56
   },
   {
-   "t": "Declarative Dragging",
-   "s": 377,
-   "c": 0.12
+   "t": "Foldable Flight: The Best Paper Airplanes",
+   "s": 902,
+   "c": 0.16
   },
   {
-   "t": "Ask HN: What are you working on? (November 2026)",
-   "s": 148,
-   "c": 3.47
+   "t": "Horible public key tricks",
+   "s": 73,
+   "c": 0.41
   },
   {
-   "t": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-   "s": 270,
-   "c": 0.73
+   "t": "Locating the source of a mysterious beep",
+   "s": 56,
+   "c": 0.54
   },
   {
-   "t": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-   "s": 81,
-   "c": 0.77
+   "t": "How Many People Work from Home?",
+   "s": 14,
+   "c": 0.5
   },
   {
-   "t": "The Web Is More Than Enough, by Paul Ford",
-   "s": 88,
-   "c": 0.55
-  },
-  {
-   "t": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "s": 631,
-   "c": 0.58
-  },
-  {
-   "t": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "s": 374,
+   "t": "Exact – a new cross platform UI framework",
+   "s": 84,
    "c": 0.43
   },
   {
-   "t": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-   "s": 31,
-   "c": 0.1
+   "t": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "s": 48,
+   "c": 0.35
   },
   {
-   "t": "Writing as a thinking tool",
-   "s": 289,
-   "c": 0.29
+   "t": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+   "s": 292,
+   "c": 0.65
   },
   {
-   "t": "Taco: The Tensor Algebra Compiler",
-   "s": 6,
-   "c": 0.0
+   "t": "The first 300-millimeter power silicon carbide (SiC) wafer",
+   "s": 119,
+   "c": 0.55
   },
   {
-   "t": "The History of Djgpp (1998)",
-   "s": 50,
-   "c": 0.32
+   "t": "A primer on GPUs and kernel optimization",
+   "s": 114,
+   "c": 0.11
+  },
+  {
+   "t": "The Race to Build a \"Find My\" for AI Chips",
+   "s": 21,
+   "c": 0.24
+  },
+  {
+   "t": "Fable 5.2 one-shotted my nephew's dream game",
+   "s": 256,
+   "c": 0.68
   }
  ],
  "github_top": [
   {
    "n": "storytold/craft-anything",
-   "s": 22894
+   "s": 24879
   },
   {
    "n": "deepseek-ai/dsh-superagent-prototype",
-   "s": 21268
+   "s": 21845
   },
   {
    "n": "ccch1mneyyy/dsh-Go",
-   "s": 16263
+   "s": 17815
   },
   {
    "n": "heydamir/unslop",
-   "s": 12055
-  },
-  {
-   "n": "pengchujin/aerial-tv",
-   "s": 10765
+   "s": 12857
   },
   {
    "n": "l0ng-ai/openidea",
-   "s": 7889
+   "s": 8228
   },
   {
    "n": "wangzan101/Mika",
-   "s": 7762
-  },
-  {
-   "n": "unclebob/ub-mode",
-   "s": 7365
-  },
-  {
-   "n": "rddmwmddr/android-ad-cleaner",
-   "s": 7123
+   "s": 7937
   },
   {
    "n": "zortos293/Lichii",
-   "s": 6928
+   "s": 7740
+  },
+  {
+   "n": "unclebob/ub-mode",
+   "s": 7476
+  },
+  {
+   "n": "rddmwmddr/android-ad-cleaner",
+   "s": 7288
+  },
+  {
+   "n": "Minireel/HGhub",
+   "s": 6831
   }
  ],
  "quotes": {},
  "errors": [
   {
-   "source": "youtube:Veritasium",
-   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
-  },
-  {
    "source": "youtube:Two Minute Papers",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
-  },
-  {
-   "source": "youtube:Andrej Karpathy",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
-  {
-   "source": "youtube:Fireship",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
+   "error": "500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
   },
   {
    "source": "youtube:CNN",
