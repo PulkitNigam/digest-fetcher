@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-11-14T03:31:11.337034Z",
+ "generated_utc": "2026-11-15T03:01:29.816210Z",
  "counts": {
-  "youtube": 1,
+  "youtube": 0,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
@@ -46,36 +46,36 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-   "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "Watch: How a server outage took down Microsoft Teams and Outlook",
-   "Setback for SpaceX Starship rocket's double-catch test",
-   "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine"
+   "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "Italy fines Meta €805m over accessing users' photos",
+   "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+   "Philippines wins first Eurovision Song Contest Asia",
+   "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'"
   ],
   "BBC Business": [
-   "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+   "Beauty advent calendars can cost hundreds - but are they value for money?",
+   "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "Microsoft says services fully restored after day-long global outage",
    "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "How a sex scandal at Nvidia is putting pressure on the White House",
    "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-   "Heat pumps: How much heat does your home really need?"
+   "The rise of 'housefishing' - when does using AI go from enhancing to misleading?"
   ],
   "BBC Technology": [
+   "Italy fines Meta €805m over accessing users' photos",
+   "Microsoft says services fully restored after day-long global outage",
    "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "How the Jensen Huang scandal created a headache for business-friendly Singapore",
    "Microsoft outage 'stark reminder' of how much we rely on tech",
-   "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-   "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "Why is Microsoft's outage lasting so long and will emails be lost?"
+   "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal"
   ],
   "Al Jazeera": [
-   "Measles-associated deaths reach 10 in US after two more deaths reported",
-   "Tanker collision leaves riverboat passengers clinging to railings",
-   "Former FAA official says ‘nobody really knows what is going on’",
-   "UK police open sex offence probe into comedian and author David Walliams",
-   "Microsoft services begin recovering after global outage",
-   "Afghanistan’s new road to China ends at a closed border"
+   "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+   "Netanyahu sends plea to Eisenkot for unity government",
+   "Thailand’s elderly kept in cages",
+   "SpaceX’s Starship nails a smooth return with historic catch",
+   "Israeli air strike kills senior Hamas commander in Gaza",
+   "Hundreds of men march in Switzerland to protest violence against women"
   ],
   "The Guardian": [
    "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
@@ -83,63 +83,63 @@
    "Collision of two trains in Egypt kills at least seven",
    "How African philosophies inspired a new approach to staging film festivals in Manchester",
    "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-   "Storm Charles causes floods and flight cancellations across southern Europe"
+   "Choking fires, deadly heat and devastating floods: 2026 in extreme weather"
   ],
   "NPR": [
-   "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-   "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-   "What we know about the FAA nationwide ground stop",
-   "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-   "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-   "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate"
+   "FAA ground stop disrupts college football",
+   "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+   "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+   "US has lost measles elimination status, global health authorities say",
+   "SpaceX successfully catches Starship and makes history",
+   "Bomb found near ethanol plant in central Illinois forces evacuations"
   ],
   "SCMP China": [
-   "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
-   "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
-   "White House confirms US-China-Russia trilateral on Apec sidelines",
-   "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
-   "Midterm losses could give Trump a quest to emerge from Apec summit as a winner",
-   "US flight departures resume after FAA lifts nationwide ground stop"
+   "Chinese social media firms under fire as fake history spreads online",
+   "Amid the Xi-Trump clamour, can Apec revive the business of cooperation?",
+   "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
+   "As Apec looms, China’s Shenzhen wraps up preparations for its toughest stress test ever",
+   "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks",
+   "Wearing briefs boosts erectile dysfunction risk, 26,000-man study in China finds"
   ],
   "Nikkei Asia": [
-   "Osaka landmark to be centerpiece of area's redevelopment",
-   "China sees Nvidia chief Huang's swift downfall as political hit",
-   "Did we really see a black hole? Australian team says 'yes'",
-   "No grass, no problem: Playing sand golf in the Australian outback",
-   "South Koreans show their love for once-taboo Japan pop culture",
-   "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026"
+   "ASEAN leaders kick off Manila summits as friction persists on Myanmar, haze",
+   "China's century-old 'porcelain capital' eyes global luxury",
+   "Subaru retools boxer engine for fuel economy, with eye on hybrids",
+   "Footloose in Vientiane: A capital in no great hurry",
+   "Japan to require online authorization for some transit passengers",
+   "Digital Realty Trust to spend $10bn more on Japan data centers: CEO"
   ],
   "Deutsche Welle": [
-   "SpaceX launches Starship rocket, fails to recover booster",
-   "Tanker collides with cruise ship on Mississippi in New Orleans",
-   "The dangers of revising Europe's security architecture",
-   "Why does El Salvador's Bukele have troops in Haiti?",
-   "Iran targeted US radar system in Bahrain",
-   "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit"
+   "Nigeria's upcoming election marred by rising AI disinformation",
+   "Fact check: 'Iranian' content farms reach millions",
+   "COP31: Protesters, UN urge swift climate deal",
+   "Ukraine: Zelenskyy says security deal could go to referendum",
+   "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
+   "Microsoft says all services working again"
   ],
   "Livemint": [
-   "Top 3 stocks to buy: Bharti Airtel, Bajaj Finance, Nestle by Sumeet Bagadia | Targets, stop-loss, market prediction",
-   "Three fast-growing water infra stocks",
-   "Wall St slides as Nvidia uncertainty drags tech shares lower",
-   "Rate-hike bets keep gold on track for worst week in four months",
-   "Oil prices set for second straight weekly decline on growing signs of supply surplus",
-   "Gold Edges Up, Still On Track for Worst Weekly Slump Since June"
+   "How to ensure that AI disruption doesn’t leave workers behind",
+   "Best stocks to buy under  ₹100: Lloyds Engineering, Niva Bupa, Vedanta Power by Sumeet Bagadia | Targets, stop-loss",
+   "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+   "Beyond Coal India, ONGC: 10 lesser-known dividend stocks with up to 19.6% yield - Premco, GOCL, Accelya to D-Link | List",
+   "Small-cap stock rallies 70% in a year: Motilal Oswal sees another 47% upside | Should you buy? Check target price",
+   "Dividend king PSU stock: Down 23% in 6 months! Nuvama sees 42% upside; target price, rationale"
   ],
   "The Hindu Biz": [
-   "Microsoft Outage LIVE: Microsoft apologises as global service outage eases",
-   "Microsoft outage hits businesses worldwide; India feels impact",
-   "Microsoft Outage updates: No ETA yet on full recovery, company says",
-   "Tata feud: Venu Srinivasan, Vijay Singh hit back at Khambata, accuse him of ignoring governance failures",
-   "Mittal says India must hold satellite ‘kill switch’, warns against dependence on single provider",
-   "Stock markets snap three-day rally on rate hike fears; Sensex drops 318 points"
+   "Anthropic’s valuation can’t secure its moat",
+   "Mahanadi Coalfields files RHP for proposed IPO worth nearly ₹9,500 crore",
+   "TRAI crackdown on spam: Over 1.24 lakh mobile connections barred or disconnected in July-September",
+   "Apparel exports surge 20% in October on currency depreciation, but volume growth remains subdued",
+   "LPG distributors seek higher commissions, flexibility on new connections amid PNG push",
+   "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target"
   ],
   "Inc42": [
-   "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-   "Sachin Tendulkar Backs Waste Management Startup Recykal",
-   "[Update] Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
-   "Zelio E-Mobility’s Net Profit Zooms 2.6X YoY To ₹31 Cr In H1",
-   "Microsoft’s Outlook Outage Drags On: Indian Enterprises Are Feeling The Heat",
-   "Zetwerk’s Q2 Loss Jumps 43% YoY To ₹88 Cr, Revenue Up 18%"
+   "DroneAcharya Profits Tank 65% YoY To ₹67 Lakh In H1",
+   "Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?",
+   "DPDP Act Implementation: MeitY Opens Consent Manager Registration Portal",
+   "Anup Gupta To Exit Nexus Venture Partners After 16 Years",
+   "Ajinkya Rahane Picks Up Stake In D2C Cookware Brand Ember",
+   "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More"
   ],
   "MediaNama": [
    "MediaNama This Week: Top 10 Stories (7 November – 13 November 2026)",
@@ -150,28 +150,28 @@
    "NHRC urges govt to probe Meta’s funding of UNICEF amid CSAM investigation"
   ],
   "TechCrunch": [
-   "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-   "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-   "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-   "AI agent startup LangChain hits $3B valuation",
-   "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!"
+   "Where was Nvidia’s security team?",
+   "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+   "Got an iPhone Duo? These 9 settings make it easier to use",
+   "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "The AI graveyard: a running list of projects and startups that didn’t make it"
   ],
   "Ars Technica": [
+   "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+   "James Webb telescope finds ice older than the star it orbits",
+   "Winemakers are learning that conservation can be good for business",
    "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
    "FAA has lifted its third-ever nationwide ground stop",
-   "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-   "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "In elephants, the resilience of communities has its limits",
-   "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
+   "Millions of Americans are not taking their GLP-1 drugs as prescribed"
   ],
   "The Verge": [
-   "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-   "Amazon has a plan to index the world’s online shopping data",
-   "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-   "Here’s how you can save on your GTA VI preorder ahead of launch",
-   "You can adjust the position of the trackball on Keychron’s new wireless mouse"
+   "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+   "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+   "Work to replace old copper wire led to the FAA’s ground stop",
+   "Here are our favorite deals from REI’s giant Holiday Sale",
+   "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+   "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print"
   ],
   "MIT Tech Review": [
    "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -182,36 +182,36 @@
    "What to know about this year’s UN climate talks"
   ],
   "Hacker News best": [
-   "FAA issues national ground stop",
-   "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "LibreOffice actually works 365 days a year",
-   "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-   "AI is destroying the trust between writers and readers",
-   "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
+   "SpaceX catches the Starship to end Flight 15",
+   "Lovable apps expose passport details and more than 200K private messages",
+   "Italy fines Meta $887M over Android users' data access",
+   "KDE: The documentary [video]",
+   "Tech companies are trying to shift the concept of privacy again",
+   "Monkey Island: all 13 versions side by side"
   ],
   "Simon Willison": [
+   "datasette-llm 0.1a11",
+   "datasette-vega 0.7",
    "datasette-cluster-map 0.19",
    "datasette-leaflet 0.3",
    "llm-gemini 0.37",
-   "Gemini Decisions API",
-   "aws-emulator",
-   "Browse tools.simonwillison.net by tag"
+   "Gemini Decisions API"
   ],
   "Latent Space": [
+   "[AINews] The No AI Slop Manifesto",
    "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
    "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
    "[AINews] D-Day (Decision Models Day)",
    "The Jev Revolution: What Engineers Are Already Building with System One Models",
-   "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-   "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex"
+   "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate"
   ],
   "Interconnects": [
+   "Open-source AI without Jensen",
    "How big is the open model economy today?",
    "Was I wrong about open models & cyber risks?",
    "Artificial Analysis v5 and the benchmarker's dilemma",
    "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-   "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "Meta shakes up the frontiers, open and closed"
+   "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China"
   ],
   "AI Snake Oil": [
    "The missing quadrant in responses to AI",
@@ -230,12 +230,12 @@
    "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness"
   ],
   "Noahpinion": [
+   "I’m feeling more optimistic about American politics",
    "Brad and Noah discuss the reindustrialization of America",
    "India is quietly doing great",
    "Noah Smith and Azeem Azhar discuss the AI boom",
    "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
-   "Why I’m becoming a China bear",
-   "For the Democrats, now comes the hard part"
+   "Why I’m becoming a China bear"
   ],
   "Net Interest": [
    "A Banker’s Guide to Anthropic",
@@ -270,12 +270,12 @@
    "The New Senators on China"
   ],
   "ScienceDaily": [
+   "Scientists find a simple daily routine linked to less pain and depression",
+   "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+   "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+   "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
    "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-   "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-   "Superheated magma could fuel towering lava fountains",
-   "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-   "The Sun unleashed a monster storm. Earth may have made it worse",
-   "Dark energy may have flipped from negative to positive 9.5 billion years ago"
+   "A new treasure map reveals where Earth's lost prehistoric life may be hiding"
   ],
   "Nature": [
    "Number of international students arriving in US plunges — worrying scientists",
@@ -286,130 +286,132 @@
    "Found: a protein that drives ageing without unleashing inflammation"
   ]
  },
- "youtube_latest": {
-  "Veritasium": "Making Gunpowder From Scratch"
- },
+ "youtube_latest": {},
  "hn_top": [
   {
-   "t": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
-   "s": 42,
-   "c": 0.1
+   "t": "SpaceX catches the Starship to end Flight 15",
+   "s": 804,
+   "c": 0.68
   },
   {
-   "t": "Ggml v1.0.0",
-   "s": 21,
+   "t": "Lovable apps expose passport details and more than 200K private messages",
+   "s": 679,
+   "c": 0.42
+  },
+  {
+   "t": "How did Woz write the Apple 1 BASIC before building the computer?",
+   "s": 120,
+   "c": 0.33
+  },
+  {
+   "t": "A family tree of software job titles",
+   "s": 225,
+   "c": 0.49
+  },
+  {
+   "t": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "s": 240,
+   "c": 0.55
+  },
+  {
+   "t": "KDE: The documentary [video]",
+   "s": 397,
+   "c": 0.22
+  },
+  {
+   "t": "PyPI's redesigned project pages with clearer security signals are now live",
+   "s": 214,
+   "c": 0.44
+  },
+  {
+   "t": "500 Lines or Less A 3D Modeller",
+   "s": 16,
+   "c": 0.0
+  },
+  {
+   "t": "Why get an expensive Pi when I have an old phone?",
+   "s": 519,
+   "c": 0.55
+  },
+  {
+   "t": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+   "s": 33,
+   "c": 0.12
+  },
+  {
+   "t": "Oxford Molecular Motors",
+   "s": 22,
+   "c": 0.09
+  },
+  {
+   "t": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "s": 186,
    "c": 0.05
   },
   {
-   "t": "FAA lifted National Ground Stop at 0119Z",
-   "s": 189,
-   "c": 0.97
+   "t": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+   "s": 112,
+   "c": 0.53
   },
   {
-   "t": "FAA issues national ground stop",
-   "s": 1382,
-   "c": 0.62
-  },
-  {
-   "t": "Terminal borders that don't cost a cell",
-   "s": 111,
-   "c": 0.52
-  },
-  {
-   "t": "What Happened to 3Com?",
-   "s": 70,
-   "c": 0.51
-  },
-  {
-   "t": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-   "s": 226,
+   "t": "Advancing science and engineering with Antigravity's /teamwork",
+   "s": 171,
    "c": 0.23
   },
   {
-   "t": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "s": 692,
-   "c": 0.29
-  },
-  {
-   "t": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-   "s": 131,
-   "c": 0.31
-  },
-  {
-   "t": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-   "s": 191,
-   "c": 0.41
-  },
-  {
-   "t": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-   "s": 55,
-   "c": 0.69
-  },
-  {
-   "t": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-   "s": 55,
-   "c": 0.18
-  },
-  {
-   "t": "Found: A protein that drives ageing without unleashing inflammation",
-   "s": 143,
-   "c": 0.16
-  },
-  {
-   "t": "After 600 experiments, here's what I discovered about JEPA world models",
-   "s": 220,
-   "c": 0.16
-  },
-  {
-   "t": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-   "s": 464,
-   "c": 0.68
+   "t": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+   "s": 7,
+   "c": 0.0
   }
  ],
  "github_top": [
   {
    "n": "storytold/craft-anything",
-   "s": 31551
+   "s": 32858
   },
   {
    "n": "deepseek-ai/dsh-superagent-prototype",
-   "s": 23033
-  },
-  {
-   "n": "ccch1mneyyy/dsh-Go",
-   "s": 21912
+   "s": 23158
   },
   {
    "n": "heydamir/unslop",
-   "s": 15715
+   "s": 16063
   },
   {
    "n": "anefzaoui/misterdownloadmanager",
-   "s": 9010
+   "s": 9637
   },
   {
    "n": "zortos293/Lichii",
-   "s": 9006
+   "s": 9213
   },
   {
    "n": "Minireel/HGhub",
-   "s": 8823
-  },
-  {
-   "n": "wangzan101/Mika",
-   "s": 8533
+   "s": 8852
   },
   {
    "n": "janestreet/agent_skills",
-   "s": 8319
+   "s": 8657
   },
   {
    "n": "JuneYaooo/rea-video",
-   "s": 8039
+   "s": 8644
+  },
+  {
+   "n": "wangzan101/Mika",
+   "s": 8629
+  },
+  {
+   "n": "huamidev/GestaltX",
+   "s": 7589
   }
  ],
  "quotes": {},
  "errors": [
+  {
+   "source": "youtube:Veritasium",
+   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+  },
   {
    "source": "youtube:Two Minute Papers",
    "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
