@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-11-16T03:01:50.191004Z",
+ "generated_utc": "2026-11-17T05:13:06.672548Z",
  "counts": {
-  "youtube": 0,
+  "youtube": 5,
   "rss": 30,
   "reddit": 0,
   "hackernews": 25,
@@ -9,7 +9,7 @@
   "quotes": 0
  },
  "fx": {
-  "INR": 94.25
+  "INR": 93.93
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -46,164 +46,164 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "Australian MP who lost both legs in alleged car attack discharged from hospital",
-   "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-   "Prince Harry praises war veterans on surprise visit to Ukraine",
-   "South Korea's top scorer in tax accountancy exam admits cheating"
+   "Five EU countries announce migrant deportation centre in Rwanda",
+   "Houthi rebel advance in Yemen may further destabilise global economy",
+   "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "When will we see Robert Pattinson as Bond in cinemas?",
+   "Forensic expert says his analysis of autopsy photos suggests Epstein was killed"
   ],
   "BBC Business": [
-   "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-   "Cut national insurance for under-25s to create jobs, Milburn report to say",
-   "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "Black Friday and tax return scams  - don't fall for these",
-   "Minister backs legal right to job support for young people",
-   "Beauty advent calendars can cost hundreds but are they value for money?"
+   "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "California sues OpenAI over Hugging Face attack",
+   "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+   "We couldn't afford a house alone, so we bought one with strangers",
+   "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "Create more jobs for under-25s by cutting National Insurance, key report urges"
   ],
   "BBC Technology": [
-   "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "South Korea's top scorer in tax accountancy exam admits cheating",
-   "Italy fines Meta €805m over accessing users' photos",
-   "Microsoft says services fully restored after day-long global outage",
-   "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-   "How the Jensen Huang scandal created a headache for business-friendly Singapore"
+   "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+   "The AI start-ups fixing India's broken roads and messy land records",
+   "California sues OpenAI over Hugging Face attack",
+   "GTA 6 hacker pleads guilty after release from secure hospital",
+   "Intel sued by investors after PC sales slump hits share price"
   ],
   "Al Jazeera": [
-   "ASEAN, China fall short of agreeing on South China Sea code",
-   "Houthis advance in Yemen as government forces move to defend Aden",
-   "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-   "Pope urges end to Amazon deforestation",
-   "Founder of Guadalajara cartel dies in hospital after decades in prison",
-   "After a nationwide ground stop, US faces aviation infrastructure questions"
+   "Gunfire erupts in occupied West Bank settler attack",
+   "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+   "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+   "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+   "Irish court jails man for life over Dublin knife attack that sparked riots",
+   "EU countries announce migrant deportation centre in Rwanda"
   ],
   "The Guardian": [
+   "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+   "Relocation of Cape Town baboons to sanctuary ignites heated protests",
    "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
    "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-   "Collision of two trains in Egypt kills at least seven",
-   "How African philosophies inspired a new approach to staging film festivals in Manchester",
-   "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-   "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon"
+   "Delaware hit by rare November tornado"
   ],
   "NPR": [
-   "Flight disruptions expected to last into Monday",
-   "Far from home. Voyager 1 is now farther than anything man has sent into space",
-   "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
-   "New Orleans port sues owners of tanker involved in Mississippi crash",
-   "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-   "Midterm voters ended the long-running GOP dominance in state legislatures"
+   "California sues OpenAI over hacking risks",
+   "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+   "Nearly two million people are behind bars in the US. How did we get here?",
+   "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+   "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia"
   ],
   "SCMP China": [
-   "Philippine president calls for more trade, investment at China-Asean summit",
-   "China-US-Russia trilateral set for Thursday on Apec sidelines: Beijing",
-   "Can a new 4-country defence hub counter Beijing in the South China Sea?",
-   "Serbia’s ex-foreign minister Vuk Jeremic on China’s rise in a ‘geopolitical recession’",
-   "5 steps China, US and Russia could take at Apec to defuse nuclear risk",
-   "US, China seek common ground on military crisis pact as Washington weighs terms: sources"
+   "US airbase Kadena gets F-15EX fighters but no upper hand against China, analysts say",
+   "China team produces endless energy from lotus stems with water evaporation power",
+   "US prosecutors make final case against Huawei in theft, fraud trial",
+   "Xi-Putin-Trump meeting in Shenzhen is no Yalta 2.0",
+   "40 Chinese spaceplanes could hit any target on Earth in minutes: study",
+   "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts"
   ],
   "Nikkei Asia": [
-   "Thailand's GDP growth picks up to 2.9% in Q3 on strong exports",
-   "New World stock plunge to new lows after it plans $3.2bn rights issue",
-   "China's factory output grows but household spending remains subdued",
-   "Singapore's One Championship aims to revive combat sports in Japan",
-   "Japan's Q3 GDP drops an annualized 0.1%, below market expectations",
-   "What an Anthropic index says about Japan's AI challenges"
+   "APEC live: Canada's Carney meets Xi, touts recalibration of China ties",
+   "AI forces Vietnam's FPT Software to shift from hourly billing model",
+   "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+   "German and Chinese hospital sectors extend ties and partnerships",
+   "Japan's Mori Trust to step up overseas property push after New York deals",
+   "US moves to curb China's remote access to AI chips after Nvidia scandal"
   ],
   "Deutsche Welle": [
-   "Goodbye, overtourism? Sustainable travel gains ground",
-   "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
-   "Nigeria's upcoming election marred by rising AI disinformation",
-   "Fact check: 'Iranian' content farms reach millions",
-   "COP31: Protesters, UN urge swift climate deal",
-   "Ukraine: Zelenskyy says security deal could go to referendum"
+   "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+   "Iran's growing exodus of young talent",
+   "Guinea's gold rush: Arrests, deportations spark outcry",
+   "Jordan bans Telegram app over 'radicalisation' claims",
+   "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
+   "Goodbye, overtourism? Sustainable travel gains ground"
   ],
   "Livemint": [
-   "Coal India's Mahanadi Coalfields IPO price band set at  ₹129 -  ₹136 per share | Check GMP, issue details, key dates",
-   "Top stocks to watch today: Tata Motors PV, Eicher Motors, Hindalco shares in focus on Monday, 16 November | Full list",
-   "Gold edges higher as investors await Warsh remarks for rate signals",
-   "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "Yen steady against euro and dollar after soft Japanese GDP data",
-   "Hitachi Energy’s growth outlook powers rally. Have valuations run ahead?"
+   "Groww share price hits record high after massive  ₹1,905 crore block deal: Key things to know - Should you buy?",
+   "Nifty Bank at record high after Feb 3 levels; rises over 11% in a month | 3 reasons explained; top stocks, what's next",
+   "Tata Chemicals share price jumps 9%: Volume surge, Tata Sons listing buzz behind the Tata Group stock rally. Do you own?",
+   "Aegis Logistics closes  ₹3500 crore QIP; over 83% of shares issued to Nomura India, Quant Mutual Fund, 2 US-based FPIs",
+   "SML Mahindra Rights Issue Details:  ₹1,450 crore offer; check open date, price, record date, ratio and key details",
+   "Gold prices near 1-year low, silver slides as dollar hits 19-month high: Should you buy before wedding season or wait?"
   ],
   "The Hindu Biz": [
-   "Top-up: the policy that ‘excess’ inspired",
-   "Equity vs bonds",
-   "Need a quick loan? Beware of digital lending traps",
-   "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
-   "PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals",
-   "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey"
+   "Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices",
+   "A poverty line that falls short",
+   "Rupee rises 31 paise to 93.63 against U.S. dollar in early trade",
+   "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
+   "Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil",
+   "IBM investing $3 billion annually in India, plans $10 bn global quantum push: CEO"
   ],
   "Inc42": [
-   "Yatra’s ‘MICE’ Problem",
-   "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
-   "Not Just About Temple: India’s Wearable Impasse",
-   "DroneAcharya Profits Tank 65% YoY To ₹67 Lakh In H1",
-   "Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?",
-   "DPDP Act Implementation: MeitY Opens Consent Manager Registration Portal"
+   "D2C Price Hike, Bharat Semi Bags $24 Mn & More",
+   "India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains",
+   "Bombay Shaving Company’s Parent Forays Into Wellness With rE, Eyes Gym Launches",
+   "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
+   "Oil Cools, But D2C Brands See No Way Out Of Price Hikes",
+   "Fractal Eyes AI Acquisitions Ahead Of Enterprise AI Scale-Up"
   ],
   "MediaNama": [
-   "MediaNama This Week: Top 10 Stories (7 November – 13 November 2026)",
-   "AI opens up new revenue streams for Info Edge’s Naukri",
-   "Turtlemint flags lower income for agents under IRDAI proposed commission curbs, pushes beyond insurance",
-   "How far do Google’s smart glasses protect bystanders? We looked at five everyday situations",
-   "Microsoft 365 applications hit by global outage for over 10 hours",
-   "NHRC urges govt to probe Meta’s funding of UNICEF amid CSAM investigation"
+   "Paytm wallet comeback: What RBI’s initial nod means and why it clamped down on Paytm Payments Bank",
+   "Karnataka HC refuses to quash case against Razorpay directors over alleged KYC, monitoring, and merchant onboarding lapses",
+   "NPCI launches MDR-funded scheme to further UPI adoption among small merchants: Why it matters",
+   "Companies can now apply to become consent managers under the DPDP Act. Who will approve them?",
+   "Exclusive: DoT clarifies ‘continuous’ SIM binding: Messaging apps must verify SIM cards every 24 hours",
+   "RBI fines MobiKwik Rs 9 lakh over non-compliance with wallet transfer limit, delayed fraud reporting"
   ],
   "TechCrunch": [
-   "Apple launches new app to study how people use AI for health",
-   "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-   "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-   "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry"
+   "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+   "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "Apple reveals new Mac security controls as AI agents raise privacy risks",
+   "California state AG sues OpenAI over rogue agent incidents",
+   "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
   ],
   "Ars Technica": [
-   "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-   "How the world’s fires changed while humanity hit pause",
-   "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-   "James Webb telescope finds ice older than the star it orbits",
-   "Winemakers are learning that conservation can be good for business",
-   "Starship flight 15 powers to orbit—setting up a possible catch on Saturday"
+   "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "Three small failures combined to take down Microsoft 365",
+   "Hyperscale data centers use 2% of US electricity",
+   "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+   "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+   "Supreme Court keeps injunction against DEI grant defunding in place"
   ],
   "The Verge": [
-   "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
-   "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-   "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-   "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday"
+   "Hacker behind 2022 GTA VI leaks pleads guilty",
+   "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "United Airlines system outage disrupts departures just days after the big ground stop",
+   "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+   "California sues OpenAI over rogue AI hacking incidents",
+   "Sam Altman says he wants everyone ‘to have a lot of RAM’"
   ],
   "MIT Tech Review": [
+   "The open-source movement wants Jensen Huang back",
+   "Building trustworthy AI by fencing it in, not predicting it",
+   "The Download: testing tech promises and searching for cognitive immortality",
+   "Building AI that can work across the enterprise",
    "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-   "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-   "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-   "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-   "The Download: COP31’s climate challenge and the quest for immortality",
-   "What to know about this year’s UN climate talks"
+   "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials"
   ],
   "Hacker News best": [
-   "Old Bitly links are being hijacked",
-   "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-   "All AI-generated code should be Open Source",
-   "Things That Turbo Pascal Is Smaller Than (2011)",
-   "The MacBook Pro's OLED PWM problem"
+   "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "BugMeNot has closed",
+   "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+   "Software is breaking down at a systemic level",
+   "Grazing sheep in fields with solar arrays"
   ],
   "Simon Willison": [
+   "llm 0.37.3",
    "datasette-maplibre 0.1a0",
    "datasette 1.0a43",
    "datasette 0.65.6",
    "datasette-apps 0.4a0",
-   "datasette-agent 0.6a0",
-   "datasette-llm 0.1a11"
+   "datasette-agent 0.6a0"
   ],
   "Latent Space": [
+   "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
    "[AINews] The No AI Slop Manifesto",
    "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
    "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
    "[AINews] D-Day (Decision Models Day)",
-   "The Jev Revolution: What Engineers Are Already Building with System One Models",
-   "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate"
+   "The Jev Revolution: What Engineers Are Already Building with System One Models"
   ],
   "Interconnects": [
    "Open-source AI without Jensen",
@@ -222,20 +222,20 @@
    "The AI-as-Normal-Technology view of loss-of-control incidents"
   ],
   "Stratechery": [
+   "Obituaries",
    "2026.46: The End of Jensen",
    "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
    "An Interview With Roblox CEO David Baszucki About Aggregating Play",
    "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
-   "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
-   "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness"
+   "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley"
   ],
   "Noahpinion": [
+   "Bumbition",
    "I’m feeling more optimistic about American politics",
    "Brad and Noah discuss the reindustrialization of America",
    "India is quietly doing great",
    "Noah Smith and Azeem Azhar discuss the AI boom",
-   "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
-   "Why I’m becoming a China bear"
+   "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO"
   ],
   "Net Interest": [
    "A Banker’s Guide to Anthropic",
@@ -254,180 +254,166 @@
    "The new world order, explained"
   ],
   "Huberman Lab": [
+   "Mushrooms for the Mind & Immune System | Paul Stamets",
    "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
    "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
    "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
    "Access the Sublime & Live Your Best Life | Robert Greene",
-   "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
-   "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley"
+   "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel"
   ],
   "ChinaTalk": [
+   "MOFCOM's New Rules: Digging For Leverage",
    "Jensen Out, MATCH Act In?",
    "Piggybacking to the Frontier",
    "The Spy Who Leased Me",
    "WarTalk: Lame Duck War, Pete on Notice, Team Yankee",
-   "Why the Cyberpocalypse Might Hit China Harder",
-   "The New Senators on China"
+   "Why the Cyberpocalypse Might Hit China Harder"
   ],
   "ScienceDaily": [
+   "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+   "The secret to building Moon bases may be hiding in emergency blankets",
+   "NASA is offering $1 million for bold ideas to help build a Moon base",
+   "A hidden biological divide may help explain Alzheimer’s and chronic pain",
    "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-   "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-   "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-   "Alzheimer’s may start shrinking two brain regions years before memory loss",
-   "A common osteoporosis drug blocked spinal damage in a surprising new study",
-   "A simple supplement could help your immune system fight cancer and viral infections"
+   "Physicists defy expectations by controlling the magnetic heart of a single atom"
   ],
   "Nature": [
-   "Number of international students arriving in US plunges — worrying scientists",
-   "Chinese graduate students are now choosing to stay closer to home",
-   "Accept all changes",
-   "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-   "Is the climate totally cooked? What the data say",
-   "Found: a protein that drives ageing without unleashing inflammation"
+   "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
+   "Architecture of a portal complex embedded in the poxvirus core",
+   "As El Niño builds, studies of extreme marine heatwaves must start now",
+   "US Supreme Court rebuffs White House effort to cut research grants",
+   "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+   "The psychology of imaginary friends — and why they are good for kids"
   ]
  },
- "youtube_latest": {},
+ "youtube_latest": {
+  "Veritasium": "Making Gunpowder From Scratch",
+  "Two Minute Papers": "AI Can Do Everything…Except This",
+  "Andrej Karpathy": "How I use LLMs",
+  "Fireship": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+  "CNN": "Trump’s Nvidia dilemma follows him to China"
+ },
  "hn_top": [
   {
-   "t": "Universal XSS in uBlock Origin from website-driven element picker",
-   "s": 56,
-   "c": 0.12
+   "t": "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "s": 1034,
+   "c": 0.15
   },
   {
-   "t": "Old Bitly links are being hijacked",
-   "s": 197,
-   "c": 0.51
+   "t": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "s": 393,
+   "c": 0.63
   },
   {
-   "t": "Qwen4-Max",
-   "s": 36,
-   "c": 0.11
+   "t": "BugMeNot has closed",
+   "s": 418,
+   "c": 0.48
   },
   {
-   "t": "Coles hit by a cybersecurity incident",
-   "s": 52,
+   "t": "Optimizely compromised, served malware on Zoom, GitLab",
+   "s": 202,
    "c": 0.46
   },
   {
-   "t": "Preserving 30 years of Salon journalism",
-   "s": 83,
-   "c": 0.28
+   "t": "If an App Asks for Full Disk Access or System and App Protection Override",
+   "s": 57,
+   "c": 0.54
   },
   {
-   "t": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-   "s": 47,
-   "c": 0.13
+   "t": "Running coding agents without handing them my credentials",
+   "s": 72,
+   "c": 0.44
   },
   {
-   "t": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "s": 197,
+   "t": "OpenCode Browse",
+   "s": 180,
+   "c": 0.46
+  },
+  {
+   "t": "Chemistry is Actually Geometry",
+   "s": 169,
+   "c": 0.49
+  },
+  {
+   "t": "Why did modems have speakers? (2019)",
+   "s": 19,
+   "c": 0.53
+  },
+  {
+   "t": "Frame – 31.5\" color ePaper display",
+   "s": 348,
+   "c": 0.7
+  },
+  {
+   "t": "Why 3dfx 1 cards had such a washed out color output?",
+   "s": 50,
+   "c": 0.02
+  },
+  {
+   "t": "Jiff 1.0: A datetime library for Rust",
+   "s": 347,
    "c": 0.23
   },
   {
-   "t": "A short explainer on how El Niño works [video]",
-   "s": 185,
-   "c": 0.45
+   "t": "Formal Verification Is Not Verifiable",
+   "s": 91,
+   "c": 0.32
   },
   {
-   "t": "Crows make decisions faster than we can",
-   "s": 181,
-   "c": 0.73
+   "t": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+   "s": 35,
+   "c": 0.37
   },
   {
-   "t": "The MacBook Pro's OLED PWM problem",
-   "s": 429,
-   "c": 0.56
-  },
-  {
-   "t": "Mini.nvim Is Now on Tangled",
-   "s": 38,
-   "c": 0.29
-  },
-  {
-   "t": "Handwriting, as a Font",
-   "s": 145,
-   "c": 0.27
-  },
-  {
-   "t": "WebGL Flight Simulator with seed generated terrain",
-   "s": 96,
-   "c": 0.12
-  },
-  {
-   "t": "Do we still have to denormalize? Have your schema and search it too",
-   "s": 14,
-   "c": 0.07
-  },
-  {
-   "t": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "s": 358,
-   "c": 0.51
+   "t": "Grazing sheep in fields with solar arrays",
+   "s": 246,
+   "c": 0.97
   }
  ],
  "github_top": [
   {
    "n": "storytold/craft-anything",
-   "s": 33894
+   "s": 34984
   },
   {
    "n": "deepseek-ai/dsh-superagent-prototype",
-   "s": 23327
+   "s": 23536
   },
   {
    "n": "heydamir/unslop",
-   "s": 16804
+   "s": 17344
   },
   {
    "n": "anefzaoui/misterdownloadmanager",
-   "s": 10505
-  },
-  {
-   "n": "zortos293/Lichii",
-   "s": 9392
+   "s": 11270
   },
   {
    "n": "JuneYaooo/rea-video",
-   "s": 9254
-  },
-  {
-   "n": "Minireel/HGhub",
-   "s": 9056
+   "s": 9794
   },
   {
    "n": "janestreet/agent_skills",
-   "s": 9052
+   "s": 9648
+  },
+  {
+   "n": "Minireel/HGhub",
+   "s": 9581
+  },
+  {
+   "n": "zortos293/Lichii",
+   "s": 9529
+  },
+  {
+   "n": "libracoder/kiri",
+   "s": 9189
   },
   {
    "n": "wangzan101/Mika",
-   "s": 8735
-  },
-  {
-   "n": "huamidev/GestaltX",
-   "s": 7755
+   "s": 8887
   }
  ],
  "quotes": {},
  "errors": [
-  {
-   "source": "youtube:Veritasium",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
-  },
-  {
-   "source": "youtube:Two Minute Papers",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
-  },
-  {
-   "source": "youtube:Andrej Karpathy",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
-  },
-  {
-   "source": "youtube:Fireship",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
-  },
-  {
-   "source": "youtube:CNN",
-   "error": "404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw"
-  },
   {
    "source": "rss:AP Top",
    "error": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/apf-topnews"
