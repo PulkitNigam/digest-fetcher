@@ -1,15 +1,15 @@
 {
- "generated_utc": "2026-11-26T05:24:41.128116Z",
+ "generated_utc": "2026-11-27T05:18:19.855253Z",
  "counts": {
   "youtube": 5,
-  "rss": 33,
+  "rss": 30,
   "reddit": 0,
   "hackernews": 25,
   "github": 20,
   "quotes": 0
  },
  "fx": {
-  "INR": 92.24
+  "INR": 92.45
  },
  "alive_rss": [
   "AI Snake Oil",
@@ -18,14 +18,11 @@
   "BBC Business",
   "BBC Technology",
   "BBC World",
-  "Chartbook",
   "ChinaTalk",
   "Deutsche Welle",
   "Hacker News best",
   "Huberman Lab",
-  "Import AI",
   "Inc42",
-  "Indian Express",
   "Interconnects",
   "Latent Space",
   "Livemint",
@@ -49,180 +46,164 @@
  "alive_reddit": [],
  "headlines": {
   "BBC World": [
-   "US announces new tariffs on host of countries including China",
-   "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-   "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-   "Has global jihadism failed, or is it simply changing shape?",
-   "Israeli judges recommend dropping most serious charges against Netanyahu",
-   "US stocks fall further as fears over AI intensify"
+   "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "Major Thanksgiving storm brings flooding, flight delays across US",
+   "Watch: Roofs torn off and streets under water as severe weather hits US",
+   "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+   "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats"
   ],
   "BBC Business": [
-   "UK government set to publish new treaties agreed with EU",
-   "Poundland collapses putting 11,000 jobs at risk",
-   "What's gone wrong at Poundland?",
-   "US announces new tariffs on host of countries including China",
-   "US approves SpaceX plan to send a million data satellites to space",
-   "US stocks fall further as fears over AI intensify"
+   "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "UK to pay 'participation' fee to deliver EU deals",
+   "Asia made a big AI bet on Nvidia. What happens now?",
+   "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "Millions of people to see average monthly mortgage payments rise by £100",
+   "Simon Jack: Is Poundland's US owner to blame for its collapse?"
   ],
   "BBC Technology": [
+   "Why is there a shortage of 'wizard' elevator mechanics?",
+   "Asia made a big AI bet on Nvidia. What happens now?",
+   "Musk's plan to send a million SpaceX data satellites into space approved",
    "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
    "EA adds AI-generated John Motson to FC 27 video game",
-   "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-   "US attorney general dodges questions about Nvidia investigation",
-   "Why tiny cars are taking off across Europe",
-   "Faisal Islam: Fears over the AI boom haven't gone away"
+   "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang"
   ],
   "Al Jazeera": [
-   "Six killed, including children, in plane crash off Mississippi coast",
-   "Brazil blasts ‘unacceptable’ new US tariff proposals",
-   "Racecourse office blown away in Brazil",
-   "Colombian president taunts arrested supermarket hostage-takers",
-   "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-   "FIFA turns to influencers to promote U17 World Cup"
+   "New Zealand’s Opportunity Party poised to become election kingmaker",
+   "Estonia closing land borders with Russia to keep out spies",
+   "Thanksgiving storms leave nearly a million without power across the US",
+   "At least 13 Niger soldiers killed in Sanam armed attack",
+   "Trump downplays Russia, China support for Iran during talks with US troops",
+   "Asian stock markets rise after earlier tech rout"
   ],
   "The Guardian": [
+   "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
    "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
    "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
    "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
    "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-   "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
    "All hostages rescued after Colombian security forces storm supermarket, police say"
   ],
   "NPR": [
-   "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-   "Group of Senate Democrats push to add freshman to leadership",
-   "How American Thanksgiving took root -- and evolved -- in Liberia",
-   "What to know before using AI agents for Black Friday shopping",
-   "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-   "Republican wants FBI and CIA answers before questioning Nvidia chief"
+   "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+   "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+   "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+   "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+   "'Memories of a Good Meal': How food made a difference during WWII",
+   "A dish with a story, Thanksgiving with culinary historian Michael Twitty"
   ],
   "SCMP China": [
-   "China’s anti-corruption campaign tracker",
-   "From AI models to football: how China plans to expand defence education by 2030",
-   "China sounds alarm on new and unseen tech risks, urges AI-driven security defence",
-   "US trading partners’ patience wears thin as Trump slaps on new tariffs",
-   "US federal court blocks new Trump birthright citizenship executive order",
-   "As US and China battle for AI dominance, small fry figure out what works"
+   "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+   "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
+   "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
+   "Is the US reviving Subic Bay in the Philippines as an ‘unbranded military base’?",
+   "Leading US brain scientist Doris Tsao joins Chinese university that has not been built",
+   "Roller-coaster fortnight for tech raises urgent questions about AI"
   ],
   "Nikkei Asia": [
-   "Wife of Japanese journalist held in Russia pleads for his release",
-   "Humanoid robots meet factory reality on Toyota's home turf",
-   "Pakistan-US economic ties to grow further, with exception of crypto",
-   "FSB flags leverage risks in sovereign bond markets amid public debt rise",
-   "Hong Kong fire survivors and families mark anniversary as questions linger",
-   "Bank of Korea hikes rate to 3.25% against backdrop of strong economy"
+   "Indonesia fund Danantara's debut report spurs doubts over sweeping mandate",
+   "In Focus: Hokkaido's Hakodate attracts tourists as local population shrinks",
+   "Bosch rises in India as tough regulations require more complex auto parts",
+   "New Zealand ruling coalition misses majority as election results announced",
+   "Humanoids beware! Japan prefers smarter factory machines",
+   "Cathay reinforces position in Asian hub fight as parent Swire cashes in"
   ],
   "Deutsche Welle": [
-   "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
-   "Nigeria's upcoming election marred by rising AI disinformation",
-   "Why Indian nationals are still ending up in Russia's war on Ukraine",
-   "In Afghanistan, no female doctor often means no treatment for women",
-   "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
-   "Ukraine's bid for NATO membership and more air defense remains controversial"
+   "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
+   "Saudi pop music is thriving — but for the right reasons?",
+   "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
+   "Is authoritarian Vietnam ready to phase out the death penalty?",
+   "Africa's opposition voices face growing pressure",
+   "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'"
   ],
   "Livemint": [
-   "1:1 bonus share by famous IT company with 25% returns in 6 months: Check last day to buy, record date and other details",
-   "Sweet surge! Why sugar stocks jumped up to 14% today? Balrampur Chini, Shree Renuka, Bajaj Hindusthan - Rally reason?",
-   "BSE shares jump 48% in 2026 so far: HDFC Securities upgrades to BUY, hikes target; sees 18% returns | Revised price",
-   "With 67% returns in 2026, MCX share price gains 3% today as gold and silver prices rise after crash | Buy, sell or hold?",
-   "Multibagger railway stock Jupiter Wagons shares jump 30% in 2 days after South Korean JV; game changer for Vande Bharat?",
-   "Gold, Silver rates today LIVE 26 November 2026: MCX gold near  ₹1.24 lakh per 10 gms, silver above  ₹1.48 lakh per kg"
+   "Gold price today 27 November 2026: MCX gold rate jumps but still 31% down from record high; is it the right time to buy?",
+   "Gold finance stocks rally! Manappuram, Muthoot Finance gain up to 4% as MCX gold prices recover - Which stock to buy?",
+   "MCX gold price impact on jewellery stocks: Why Titan, PC Jeweller, Kalyan Jewellers shares are shining up to 4% today?",
+   "Sensex, Nifty down today but ​Hindustan Zinc, Vedanta Aluminium to Vedanta Power are rising - Vedanta boost reason here",
+   "Indian shares set to open higher, eye fifth weekly gain as inflows boost momentum",
+   "Tata Power: Opportunity or value trap as ambitious growth plans meet execution risks?"
   ],
   "The Hindu Biz": [
-   "Stock markets climb in early trade on foreign fund inflows, buying in IT shares",
-   "Rupee falls 20 paise to 92.40 against U.S. dollar in early trade",
-   "IRDAI health panel forms 2 study groups to enhance transparency in claims",
+   "Stock markets decline in early trade after two-day rally",
+   "Rupee plunges 24 paise to 92.62 against U.S. dollar",
    "Jensen Huang needs a new playbook for his second innings at Nvidia",
-   "Airtel to invest ₹1,200 cr in 3 data centers in Assam",
-   "Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug"
-  ],
-  "Indian Express": [
-   "Worst month in over 15 years for FDI as net outflows jump to almost $5 billion",
-   "Toyota launches Hycross flex fuel hybrid at Rs 19.9 lakh; boosts localisation with made-in-India engine",
-   "From worst to best currency: Rupee closes in on 91 to dollar as RBI steps in, FPIs stage record return",
-   "Meta’s India content blocks surge 13,000%; police-led censorship on Google nearly triples",
-   "Noel Tata writes to Tata Sons again, seeks priority for his requests",
-   "Viyash Scientific is growing fast. Why is its stock falling?"
+   "NCLAT clears ₹480 crore in Jet Airways employees’ dues, sets two-week deadline",
+   "Supreme Court sets four-month deadline for FSSAI to finalise stricter food labelling norms",
+   "India attracts $31 billion in climate equity funding, but capital remains concentrated in power, transport"
   ],
   "Inc42": [
-   "Uber Appoints Former Zomato Food Delivery CEO Rakesh Ranjan As India President",
-   "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones",
-   "Flipkart CEO Ousted, PhonePe Revives IPO & More",
-   "Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure",
-   "IT Secy Defends Sarvam’s Token Factory Over Chinese LLM Debate",
-   "Delhi Police Arrests Four Suspects In Crypto Fraud Case"
+   "D2C’s Red Alert, The Hidden Cost Of Compute & More",
+   "Apple To Open Seventh India Store In Hyderabad’s Kukatpally",
+   "WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India",
+   "CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT",
+   "GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn",
+   "[Update] Jio Takes JioAstro Offline, Says It Was A ‘Demo Survey’"
   ],
   "MediaNama": [
-   "Meta officials met Congress amid its Youth wing’s campaign against online censorship",
-   "Why CERT-In’s AI security auditing guidelines are dead on arrival",
-   "Telangana HC orders takedown of ‘defamatory’ posts about ex-Andhra minister’s daughter",
-   "Kerala court orders FIR against ‘Officer on Duty’ makers, Netflix over doxxing claims",
-   "Flipkart CEO Kalyan Krishnamurthy to step down next month",
-   "Briefing Call Announcement: India After Net Neutrality Regulations, Friday, November 27, 2026 #NAMA"
+   "Final Call: India After Net Neutrality Regulations, November 27, #NAMA",
+   "Youth Congress moves Delhi HC, alleges Meta uses Rahul Gandhi’s name and photos to block posts",
+   "PayU turns EBITDA profitable in H1 FY27, as credit business gains ground",
+   "SEBI orders KRAs to centralise investor KYC details and delink closed accounts from data sharing",
+   "CERT-In flags high-severity vulnerability in eGov’s DIGIT platforms",
+   "Lowdown: How Australia’s new online safety law will change social media, AI chatbots and app stores"
   ],
   "TechCrunch": [
-   "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-   "FCC approves SpaceX plan to put AI data centers in space",
-   "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-   "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-   "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-   "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
+   "Nvidia hits pause on chip shipments to Southeast Asia",
+   "Is Alice Huang a spy or not?",
+   "X finally gets parental controls after 20 years",
+   "A month with the iPhone Duo has changed how I use my phone",
+   "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
   ],
   "Ars Technica": [
+   "Ford unveils the GT41 as it hopes to win Le Mans again",
+   "Draining peatlands is responsible for a few percent of our global warming",
+   "From minimalist to maximalist: Ars staffers show off their home offices",
    "European spacecraft finds chaotic scene after asteroid deflection experiment",
    "Google search alternative Kagi launches Gmail rival",
-   "Backblaze explains why it's sharing customer information with advertisers",
-   "The FCC has authorized SpaceX to deploy 1 million satellites",
-   "Ladybird browser's first downloadable alpha is surprisingly capable",
-   "Etsy clarifies AI terms after seller backlash"
+   "Backblaze explains why it's sharing customer information with advertisers"
   ],
   "The Verge": [
-   "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-   "Amazon loses its latest attempt to get out of handling more recall notices",
-   "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "The Verge’s 2026 holiday gift guide for travelers",
-   "WhatsApp’s new scheduled messages let you choose the right time to send",
-   "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa"
+   "Netflix’s coziest show has made a very quiet return",
+   "The Garmin Forerunner 265S is down to $300, its best price of the year",
+   "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+   "Android app developers will soon have to share their address publicly",
+   "The best Black Friday deals we’ve already found",
+   "Federal judge blocks the FCC from reviewing ABC’s licenses early"
   ],
   "MIT Tech Review": [
+   "The Download: Better bionic hands and AI’s natural-gas boom",
+   "The next generation of bionic hands is here—and they can feel",
    "How data centers are driving a US natural-gas boom",
    "The Download: AI swamping open records, and firefighting for permafrost",
    "AI is straining America’s open records systems",
-   "The Download: AI’s gas power boom and a consciousness reality check",
-   "Data centers are getting their own natural gas power plants",
-   "A legendary philosopher isn’t buying Anthropic’s consciousness argument"
+   "The Download: AI’s gas power boom and a consciousness reality check"
   ],
   "Hacker News best": [
-   "Jev is probably Qwen3.5-35B-A3B",
-   "Much shorter version of GRH Lean verification from Anthropic",
-   "The New York Times warns photographers not to update Photoshop over AI features",
-   "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-   "1Password Security Incident",
-   "A few questions for the guy who went snorkeling in a Home Depot retention pond"
+   "AI made self-hosting fun again",
+   "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "Tracking Diseases Cured by AI",
+   "AMD-specific fork of llama.cpp",
+   "Tell HN: Happy Thanksgiving"
   ],
   "Simon Willison": [
+   "Quoting Jack Despain Zhou",
+   "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+   "The New York Times warns photographers not to update Photoshop over AI features",
    "Quoting Scott Aaronson",
    "datasette-charts 0.3a0",
-   "Three LLM inflection points in twelve months",
-   "GPT 6.2 Astra Solves a Historical Mystery",
-   "datasette-charts 0.2a1",
-   "datasette-charts 0.2a0"
-  ],
-  "Import AI": [
-   "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-   "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-   "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-   "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-   "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-   "Import AI 477: In which I tell the IMF the Singularity has begun"
+   "Three LLM inflection points in twelve months"
   ],
   "Latent Space": [
+   "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
    "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
    "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
    "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
    "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
-   "[AINews] Riemann Hypothesis proved...twice independently",
-   "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification"
+   "[AINews] Riemann Hypothesis proved...twice independently"
   ],
   "Interconnects": [
    "Open-source AI without Jensen",
@@ -256,14 +237,6 @@
    "Roundup #91: Rocketing into the technofuture",
    "Bumbition"
   ],
-  "Chartbook": [
-   "Chartbook 485 Recursively accelerating accumulation: Speedball capitalism speeds up.",
-   "Top Links 1296 WSJ on Trump’s state capitalism. China’s household assets. Global heatwave and long-range drone strike.",
-   "Top Links 1295 Trump’s Nvidia intervention. Copper in chaos. Aron on political ennui. Revolutionary war on the Hudson.",
-   "Top Links 1294 Chip smuggling. GTAVI & the net. Imperial central banking & Christian Democrat forever.",
-   "Top Links 1293 The wealth of Anthropic. Stats-pocalypse. Why American POWs were the worst. And the aftermath of war.",
-   "Chartbook 484 Turning point? Is 2026 the moment when China’s electrotech revolution drives a downturn in global CO2 emissions?"
-  ],
   "Net Interest": [
    "Supply and Demand",
    "A Banker’s Guide to Anthropic",
@@ -281,12 +254,12 @@
    "The new world order, explained"
   ],
   "Huberman Lab": [
+   "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
    "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
    "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
    "Mushrooms for the Mind & Immune System | Paul Stamets",
    "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-   "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
-   "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg"
+   "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke"
   ],
   "ChinaTalk": [
    "The Remote Access Rule Buys Six Months of Compute Lead",
@@ -297,146 +270,146 @@
    "New Congress, New Rare Earths Policy?"
   ],
   "ScienceDaily": [
-   "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-   "A space telescope hunting for dark matter just discovered something unexpected",
-   "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-   "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-   "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-   "Earth's next ice age may have already begun. Global warming stopped it"
+   "Scientists identify two ages when children may be most vulnerable to screen time",
+   "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+   "This 345-million-year-old fossil had scientists fooled for decades",
+   "The surprising reason women seem better at multitasking than men",
+   "For decades, scientists may have misunderstood how brain cells work",
+   "Scientists discover mysterious lakes more than a mile beneath the Red Sea"
   ],
   "Nature": [
-   "The leading cities in the world for high-quality research in 2025",
-   "Dual proofs of legendary Riemann hypothesis stun mathematicians",
-   "An in situ redox-converted molecule for all-perovskite tandem solar cells",
-   "How Singapore has turned a nation into a smart-city testing ground",
-   "How arteries keep their shape in the face of overgrowth-inducing mutations",
-   "What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers"
+   "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C<sub>2</sub>H<sub>4</sub> signalling",
+   "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+   "Navigating grief in academia: ways to find balance",
+   "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+   "Orangutans face bleak future after Indonesia’s devastating wildfires",
+   "The leading cities in the world for high-quality research in 2025"
   ]
  },
  "youtube_latest": {
-  "Veritasium": "Scientists Said This Wave Was Impossible",
+  "Veritasium": "Can a roll of tape really make X-rays?",
   "Two Minute Papers": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
   "Andrej Karpathy": "How I use LLMs",
   "Fireship": "17 million lines of AI slop just cracked a 167-year-old math problem...",
-  "CNN": "WAPO: Hegseth, Others Floated Using Wartime Law to Reinstate Huang"
+  "CNN": "3 new House reps on Iran, Trump probes & what keeps them up"
  },
  "hn_top": [
   {
-   "t": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-   "s": 1183,
-   "c": 0.86
+   "t": "Hard Drive pricing has gotten bad",
+   "s": 192,
+   "c": 0.61
   },
   {
-   "t": "1Password Security Incident",
-   "s": 1286,
-   "c": 0.42
+   "t": "AI made self-hosting fun again",
+   "s": 459,
+   "c": 0.53
   },
   {
-   "t": "Much shorter version of GRH Lean verification from Anthropic",
-   "s": 364,
+   "t": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "s": 310,
+   "c": 0.23
+  },
+  {
+   "t": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "s": 324,
+   "c": 1.21
+  },
+  {
+   "t": "AMD-specific fork of llama.cpp",
+   "s": 312,
+   "c": 0.24
+  },
+  {
+   "t": "CTO of 'RansomwareHelp' indicted for wire fraud",
+   "s": 243,
+   "c": 0.43
+  },
+  {
+   "t": "\"What's Claude's Fursona?\" and Other Questions",
+   "s": 3,
+   "c": 0.0
+  },
+  {
+   "t": "Company Culture = Slack Emoji ÷ √Headcount",
+   "s": 203,
+   "c": 0.4
+  },
+  {
+   "t": "Intel One Mono font (2023)",
+   "s": 490,
    "c": 0.5
   },
   {
-   "t": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-   "s": 36,
-   "c": 0.08
+   "t": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+   "s": 70,
+   "c": 0.16
   },
   {
-   "t": "Tell HN: Lots of Ask HNs again",
-   "s": 175,
-   "c": 0.42
-  },
-  {
-   "t": "What VP ≠ VNP Means (In 3 Minutes)",
-   "s": 47,
+   "t": "An introduction to uncertainty in machine learning",
+   "s": 43,
    "c": 0.02
   },
   {
-   "t": "Collection of preserved UI style guides",
-   "s": 67,
-   "c": 0.07
+   "t": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "s": 85,
+   "c": 0.13
   },
   {
-   "t": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "s": 319,
-   "c": 0.28
+   "t": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "s": 295,
+   "c": 0.85
   },
   {
-   "t": "Slow Ubuntu security response times",
-   "s": 209,
-   "c": 0.47
+   "t": "Rvoip: VoIP stack in Rust",
+   "s": 109,
+   "c": 0.2
   },
   {
-   "t": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-   "s": 458,
-   "c": 0.25
-  },
-  {
-   "t": "Minipg: PostgreSQL as a Single Executable",
-   "s": 25,
-   "c": 0.12
-  },
-  {
-   "t": "How did pinwheel calculators work?",
-   "s": 47,
-   "c": 0.09
-  },
-  {
-   "t": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-   "s": 69,
-   "c": 0.59
-  },
-  {
-   "t": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-   "s": 73,
-   "c": 0.12
-  },
-  {
-   "t": "Bare Metal Qwen",
-   "s": 96,
-   "c": 0.22
+   "t": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+   "s": 92,
+   "c": 0.45
   }
  ],
  "github_top": [
   {
    "n": "Marvisak/VIctory",
-   "s": 12723
+   "s": 13473
   },
   {
    "n": "erkamyaman/rust-anything",
-   "s": 9685
+   "s": 10345
   },
   {
    "n": "huami1314/GestaltX",
-   "s": 8971
+   "s": 9026
   },
   {
    "n": "xcl-dev/xcl",
-   "s": 8362
+   "s": 8637
   },
   {
    "n": "ersinkoc/phonebox",
-   "s": 6597
+   "s": 7367
   },
   {
-   "n": "deepseek-ai/chat-demo",
-   "s": 5463
-  },
-  {
-   "n": "XinaTian/MROffice",
-   "s": 5004
+   "n": "4lwayz/portwatch-vi",
+   "s": 6000
   },
   {
    "n": "Hut-hzf/ung220z-tool",
-   "s": 4977
+   "s": 5641
+  },
+  {
+   "n": "deepseek-ai/chat-demo",
+   "s": 5491
   },
   {
    "n": "simplexai-labs/linger",
-   "s": 4723
+   "s": 4935
   },
   {
-   "n": "JenkinWoo/sheeridVerify",
-   "s": 4470
+   "n": "XinaTian/MROffice",
+   "s": 4678
   }
  ],
  "quotes": {},
@@ -450,6 +423,10 @@
    "error": "unparseable feed: <unknown>:2:0: syntax error"
   },
   {
+   "source": "rss:Indian Express",
+   "error": "403 Client Error: Forbidden for url: https://indianexpress.com/section/business/feed/"
+  },
+  {
    "source": "rss:Business Standard",
    "error": "403 Client Error: Forbidden for url: https://www.business-standard.com/rss/markets-106.rss"
   },
@@ -460,6 +437,14 @@
   {
    "source": "rss:Moneycontrol",
    "error": "403 Client Error: Forbidden for url: https://www.moneycontrol.com/rss/business.xml"
+  },
+  {
+   "source": "rss:Import AI",
+   "error": "403 Client Error: Forbidden for url: https://importai.substack.com/feed"
+  },
+  {
+   "source": "rss:Chartbook",
+   "error": "403 Client Error: Forbidden for url: https://adamtooze.substack.com/feed"
   },
   {
    "source": "reddit:LocalLLaMA",
